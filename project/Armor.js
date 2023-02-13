@@ -19,6 +19,22 @@ PLAYER_ARMOR = [{
     ]
 }]
 
+PLAYER_ARMOR = [{
+    name : "Miner helmet",
+    img : "miner_helmet",
+    dmgArmor : [
+        {
+            damage : "crushing",
+            type : "factor",
+            value : 25
+        },
+        {
+            damage : "crushing",
+            value : 5
+        }
+    ]
+}]
+
 
 Armor = function () {
     this.itemType = "armor"

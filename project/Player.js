@@ -6,6 +6,7 @@ PLAYER_DEFAULT_HAND_SIZE_Y = 40
 PLAYER_ANIMATION_DEFAULT = 0
 PLAYER_ANIMATION_MOVING = 1
 PLAYER_ANIMATION_ATTACK_DEFAULT = 2
+PLAYER_ANIMATION_DODGE = 3
 
 PLAYER_DEFAUTL_MOVECOST = 20
 
@@ -633,8 +634,16 @@ Player = function (x, y, size, color, team) {
                     missedAllShot = false
                     b.player.receive_attack(dmg)
                 }
-                else
+                else {
                     world.players.MessageSystem.addMessage({txt : this.name + " missed attack (" + chanceHit + "%)"})
+                    var animdodge = {
+                        type : "dodge",
+                        mode : PLAYER_ANIMATION_DODGE,
+                        duration : 1000,
+                        angle : Math.random() * 2 * Math.PI
+                    }
+                    b.player.animation.push(animdodge)
+                }
             }
         }
         var anim = {
@@ -653,6 +662,7 @@ Player = function (x, y, size, color, team) {
                 sound : this.weapon.projectil.sound && !missedAllShot ? this.weapon.projectil.sound : undefined
             }
         }
+
         this.animation.push(anim)
         if (this.weapon) {
             var wpSong = PLAYER_WEAPON_IMG.find(a => a.name == this.weapon.img)
@@ -718,9 +728,9 @@ Player = function (x, y, size, color, team) {
             var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
             world.Music.playSound("move")
             var dir = [this.animation[0].dir[0], this.animation[0].dir[1]]
-            var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-            x -= dir[0] * map.blocksize_x * progess
-            y -= dir[1] * map.blocksize_y * progess
+            var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+            x -= dir[0] * map.blocksize_x * progress
+            y -= dir[1] * map.blocksize_y * progress
             var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 32, Math.PI / 32, Math.cos(now / 100))
             canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
             var angle = getAngleFromTime(- Math.PI / 8, Math.PI / 8, Math.cos(now / 100)) + dirAngle
@@ -737,17 +747,38 @@ Player = function (x, y, size, color, team) {
             canvas.drawImageMirrorRotateCenter(this.handImg, x + handx2, y - handy2, 20, 20, map.scale, angle2 + Math.PI)
             
         }
+        else if (this.animation && this.animation[0] && this.animation[0].mode == PLAYER_ANIMATION_DODGE) {
+            var anim = this.animation[0]
+            var progress = 1 - (now - anim.startTime) / anim.duration
+            progress = progress < 0.5 ? 0 : (progress > 0.75) ? 1 - (progress - 0.5) * 2 : (progress - 0.5) * 2
+            var dodgex = progress * Math.cos(anim.angle) * 100 * map.scale * this.size
+            var dodgey = progress * Math.sin(anim.angle) * 100 * map.scale * this.size
+            var x = dodgex + Math.floor(pos_x + this.size * map.blocksize_x / 2)
+            var y = dodgey +Math.floor(pos_y + this.size * map.blocksize_y / 2)
+            var dirAngle = Math.atan2(this.dir[0], -this.dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 64, Math.PI / 64, Math.cos(now / 500))
+            canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
+            var varAngle = getAngleFromTime(-Math.PI / 64, Math.PI / 16, Math.cos(now / 300))
+            var handx = Math.floor(100 * map.scale * this.size * Math.cos(varAngle + dirAngle - Math.PI / 2))
+            var handy = Math.floor(100 * map.scale * this.size * Math.sin(varAngle + dirAngle - Math.PI / 2))
+            var hand2x = Math.floor(100 * map.scale * this.size * Math.cos(-varAngle + dirAngle + Math.PI / 2))
+            var hand2y = Math.floor(100 * map.scale * this.size * Math.sin(-varAngle + dirAngle + Math.PI / 2))
+            
+            canvas.drawImageRotate(this.handImg, x + handx, y + handy, map.scale, varAngle + dirAngle)
+            if (this.weapon)
+                canvas.drawImageRotateCenter(weaponImg.img, x + hand2x, y + hand2y, weaponImgcenter.x, weaponImgcenter.y, map.scale, -varAngle + dirAngle)
+            canvas.drawImageMirrorRotateCenter(this.handImg, x + hand2x, y + hand2y, 20, 20, -map.scale, +varAngle - dirAngle)
+        }
         else if (this.animation && this.animation[0] && this.animation[0].mode == PLAYER_ANIMATION_ATTACK_DEFAULT) {
             if (!this.weapon) {
                 pos = map.get_pixel_by_block(this.animation[0].from[0], this.animation[0].from[1])
                 var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
                 var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
                 var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
-                var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-                if (progess > 0.5)
-                    progess = 1 - progess
-                x += dir[0] * map.blocksize_x * progess
-                y += dir[1] * map.blocksize_y * progess
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
                 var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 6, Math.PI / 6, Math.cos(now / 100))
                 canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
                 var angle = getAngleFromTime(Math.PI / 4, Math.PI / 2, Math.cos(now / 100)) + dirAngle
@@ -764,12 +795,12 @@ Player = function (x, y, size, color, team) {
                 var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
                 var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
                 var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
-                var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-                if (progess > 0.5)
-                    progess = 1 - progess
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
 
-                x += dir[0] * map.blocksize_x * progess
-                y += dir[1] * map.blocksize_y * progess
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
                 var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 6, Math.PI / 6, Math.cos(now / 100))
                 canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
                 var angle = getAngleFromTime(Math.PI / 4, Math.PI / 2, Math.cos(now / 100)) + dirAngle
@@ -791,15 +822,15 @@ Player = function (x, y, size, color, team) {
                 var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
                 var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
                 
-                var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-                if (progess > 0.5)
-                    progess = 1 - progess
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
 
                 var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2
                 canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
                 var angle = Math.PI * 7 / 16 + dirAngle
                 var angle2 = Math.PI * 7 / 16 - dirAngle
-                var handx = Math.floor(100 * (1 - progess) * map.scale * this.size * Math.cos(angle - Math.PI / 2))
+                var handx = Math.floor(100 * (1 - progress) * map.scale * this.size * Math.cos(angle - Math.PI / 2))
                 var handy = Math.floor(100 * map.scale * this.size * Math.sin(angle - Math.PI / 2))
                 var handx2 = Math.floor(100 * map.scale * this.size * Math.cos(angle2 - Math.PI / 2))
                 var handy2 = Math.floor(100 * map.scale * this.size * Math.sin(angle2 - Math.PI / 2))
@@ -815,12 +846,12 @@ Player = function (x, y, size, color, team) {
                 var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
                 var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
                 var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
-                var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-                if (progess > 0.5)
-                    progess = 1 - progess
-                progess = progess / 3
-                x += dir[0] * map.blocksize_x * progess
-                y += dir[1] * map.blocksize_y * progess
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+                progress = progress / 3
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
                 var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 64, Math.PI / 64, Math.cos(now / 100))
                 canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
                 var angle = getAngleFromTime(0, Math.PI / 64, Math.cos(now / 100)) + dirAngle
@@ -841,12 +872,12 @@ Player = function (x, y, size, color, team) {
                 var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
                 var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
                 var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
-                var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-                if (progess > 0.5)
-                    progess = 1 - progess
-                progess = progess / 3
-                x += dir[0] * map.blocksize_x * progess
-                y += dir[1] * map.blocksize_y * progess
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+                progress = progress / 3
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
                 var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 4, Math.PI / 4, Math.cos((now - this.animation[0].startTime) / this.animation[0].duration * 1 * Math.PI))
                 canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
                 //var angle = getAngleFromTime(Math.PI / 4, Math.PI / 2, Math.cos(now / 100)) + dirAngle
@@ -942,8 +973,8 @@ Player = function (x, y, size, color, team) {
 
 
 
-PLAYER_FACE_IMG = ["face_0", "face_1", "face_2"]
-PLAYER_BODY_IMG = ["body_0", "body_1", "body_2"]
+PLAYER_FACE_IMG = ["face_0", "face_1", "face_2", "face_3", "face_4"]
+PLAYER_BODY_IMG = ["body_0", "body_1", "body_2", "body_3", "body_4"]
 
 PROJECTIL_IMG = ["wood_arrow"]
 

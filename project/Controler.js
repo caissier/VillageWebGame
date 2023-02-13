@@ -88,20 +88,20 @@ ControlManager = function() {
                 world.Screen.openFullscreen()
             else
                 world.Screen.closeFullscreen(document)
-            world.Music.playSound("click")
+            world.Music.playSound("click", undefined, true)
         }
         for (var z in this.keyUp) {
             if (!GameUigetInput && z.startsWith("Digit") || z.startsWith("Numpad"))
                 z = z.replace("Digit", "").replace("Numpad", "")
             if (world.GameUI && !GameUigetInput && world.GameUI.getKeyInput(z)) {
-                world.Music.playSound("click")
+                world.Music.playSound("click", undefined, true)
                 GameUigetInput = true
                 if (world.GameUI)
                     world.GameUI.needRedraw = true;
                 break
             }
             if (world.villageUI && world.villageUI.getKeyInput(z)) {
-                world.Music.playSound("click")
+                world.Music.playSound("click", undefined, true)
                 GameUigetInput = true
                 if (world.villageUI)
                     world.villageUI.needRedraw = true
@@ -116,13 +116,13 @@ ControlManager = function() {
         //check mouse click
         if (this.inputclick) {
             if (!GameUigetInput && world.GameUI && world.GameUI.getMouseInput(this.inputclick)) {
-                world.Music.playSound("click")
+                world.Music.playSound("click", undefined, true)
                 GameUigetInput = true
                 if (world.GameUI)
                     world.GameUI.needRedraw = true;
             }
             if (!GameUigetInput && world.villageUI && world.villageUI.getMouseInput(this.inputclick)) {
-                world.Music.playSound("click")
+                world.Music.playSound("click", undefined, true)
                 GameUigetInput = true
                 if (world.villageUI)
                     world.villageUI.needRedraw = true;

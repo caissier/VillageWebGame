@@ -316,7 +316,7 @@ GameUI = function (canvas) {
         this.UIturn.addHorizontalElem([{
             type : "button",
             mouseLight : "ff",
-            callback : () => {this.UIeventExpanded = !this.UIeventExpanded},
+            callback : () => {this.UIturnExpanded = !this.UIturnExpanded},
             callback_data : GAME_UI_FONT,
             txt : "Turns",
             txt_color : "#000000",

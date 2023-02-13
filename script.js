@@ -11,10 +11,10 @@ SoundManager = function () {
         this.sounds[name] = sound
     }
 
-    this.playSound = (name, loop) => {
+    this.playSound = (name, loop, Norestart) => {
         if (!this.sounds[name])
             this.LoadSound(name)
-        if (!this.sounds[name].paused)
+        if (!Norestart && !this.sounds[name].paused)
             this.sounds[name].currentTime = 0;
         if (loop)
             this.sounds[name].loop = true
@@ -1305,6 +1305,7 @@ PLAYER_DEFAULT_HAND_SIZE_Y = 40
 PLAYER_ANIMATION_DEFAULT = 0
 PLAYER_ANIMATION_MOVING = 1
 PLAYER_ANIMATION_ATTACK_DEFAULT = 2
+PLAYER_ANIMATION_DODGE = 3
 
 PLAYER_DEFAUTL_MOVECOST = 20
 
@@ -1932,8 +1933,16 @@ Player = function (x, y, size, color, team) {
                     missedAllShot = false
                     b.player.receive_attack(dmg)
                 }
-                else
+                else {
                     world.players.MessageSystem.addMessage({txt : this.name + " missed attack (" + chanceHit + "%)"})
+                    var animdodge = {
+                        type : "dodge",
+                        mode : PLAYER_ANIMATION_DODGE,
+                        duration : 1000,
+                        angle : Math.random() * 2 * Math.PI
+                    }
+                    b.player.animation.push(animdodge)
+                }
             }
         }
         var anim = {
@@ -1952,6 +1961,7 @@ Player = function (x, y, size, color, team) {
                 sound : this.weapon.projectil.sound && !missedAllShot ? this.weapon.projectil.sound : undefined
             }
         }
+
         this.animation.push(anim)
         if (this.weapon) {
             var wpSong = PLAYER_WEAPON_IMG.find(a => a.name == this.weapon.img)
@@ -2017,9 +2027,9 @@ Player = function (x, y, size, color, team) {
             var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
             world.Music.playSound("move")
             var dir = [this.animation[0].dir[0], this.animation[0].dir[1]]
-            var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-            x -= dir[0] * map.blocksize_x * progess
-            y -= dir[1] * map.blocksize_y * progess
+            var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+            x -= dir[0] * map.blocksize_x * progress
+            y -= dir[1] * map.blocksize_y * progress
             var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 32, Math.PI / 32, Math.cos(now / 100))
             canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
             var angle = getAngleFromTime(- Math.PI / 8, Math.PI / 8, Math.cos(now / 100)) + dirAngle
@@ -2036,17 +2046,38 @@ Player = function (x, y, size, color, team) {
             canvas.drawImageMirrorRotateCenter(this.handImg, x + handx2, y - handy2, 20, 20, map.scale, angle2 + Math.PI)
             
         }
+        else if (this.animation && this.animation[0] && this.animation[0].mode == PLAYER_ANIMATION_DODGE) {
+            var anim = this.animation[0]
+            var progress = 1 - (now - anim.startTime) / anim.duration
+            progress = progress < 0.5 ? 0 : (progress > 0.75) ? 1 - (progress - 0.5) * 2 : (progress - 0.5) * 2
+            var dodgex = progress * Math.cos(anim.angle) * 100 * map.scale * this.size
+            var dodgey = progress * Math.sin(anim.angle) * 100 * map.scale * this.size
+            var x = dodgex + Math.floor(pos_x + this.size * map.blocksize_x / 2)
+            var y = dodgey +Math.floor(pos_y + this.size * map.blocksize_y / 2)
+            var dirAngle = Math.atan2(this.dir[0], -this.dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 64, Math.PI / 64, Math.cos(now / 500))
+            canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
+            var varAngle = getAngleFromTime(-Math.PI / 64, Math.PI / 16, Math.cos(now / 300))
+            var handx = Math.floor(100 * map.scale * this.size * Math.cos(varAngle + dirAngle - Math.PI / 2))
+            var handy = Math.floor(100 * map.scale * this.size * Math.sin(varAngle + dirAngle - Math.PI / 2))
+            var hand2x = Math.floor(100 * map.scale * this.size * Math.cos(-varAngle + dirAngle + Math.PI / 2))
+            var hand2y = Math.floor(100 * map.scale * this.size * Math.sin(-varAngle + dirAngle + Math.PI / 2))
+            
+            canvas.drawImageRotate(this.handImg, x + handx, y + handy, map.scale, varAngle + dirAngle)
+            if (this.weapon)
+                canvas.drawImageRotateCenter(weaponImg.img, x + hand2x, y + hand2y, weaponImgcenter.x, weaponImgcenter.y, map.scale, -varAngle + dirAngle)
+            canvas.drawImageMirrorRotateCenter(this.handImg, x + hand2x, y + hand2y, 20, 20, -map.scale, +varAngle - dirAngle)
+        }
         else if (this.animation && this.animation[0] && this.animation[0].mode == PLAYER_ANIMATION_ATTACK_DEFAULT) {
             if (!this.weapon) {
                 pos = map.get_pixel_by_block(this.animation[0].from[0], this.animation[0].from[1])
                 var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
                 var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
                 var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
-                var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-                if (progess > 0.5)
-                    progess = 1 - progess
-                x += dir[0] * map.blocksize_x * progess
-                y += dir[1] * map.blocksize_y * progess
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
                 var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 6, Math.PI / 6, Math.cos(now / 100))
                 canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
                 var angle = getAngleFromTime(Math.PI / 4, Math.PI / 2, Math.cos(now / 100)) + dirAngle
@@ -2063,12 +2094,12 @@ Player = function (x, y, size, color, team) {
                 var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
                 var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
                 var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
-                var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-                if (progess > 0.5)
-                    progess = 1 - progess
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
 
-                x += dir[0] * map.blocksize_x * progess
-                y += dir[1] * map.blocksize_y * progess
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
                 var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 6, Math.PI / 6, Math.cos(now / 100))
                 canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
                 var angle = getAngleFromTime(Math.PI / 4, Math.PI / 2, Math.cos(now / 100)) + dirAngle
@@ -2090,15 +2121,15 @@ Player = function (x, y, size, color, team) {
                 var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
                 var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
                 
-                var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-                if (progess > 0.5)
-                    progess = 1 - progess
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
 
                 var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2
                 canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
                 var angle = Math.PI * 7 / 16 + dirAngle
                 var angle2 = Math.PI * 7 / 16 - dirAngle
-                var handx = Math.floor(100 * (1 - progess) * map.scale * this.size * Math.cos(angle - Math.PI / 2))
+                var handx = Math.floor(100 * (1 - progress) * map.scale * this.size * Math.cos(angle - Math.PI / 2))
                 var handy = Math.floor(100 * map.scale * this.size * Math.sin(angle - Math.PI / 2))
                 var handx2 = Math.floor(100 * map.scale * this.size * Math.cos(angle2 - Math.PI / 2))
                 var handy2 = Math.floor(100 * map.scale * this.size * Math.sin(angle2 - Math.PI / 2))
@@ -2114,12 +2145,12 @@ Player = function (x, y, size, color, team) {
                 var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
                 var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
                 var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
-                var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-                if (progess > 0.5)
-                    progess = 1 - progess
-                progess = progess / 3
-                x += dir[0] * map.blocksize_x * progess
-                y += dir[1] * map.blocksize_y * progess
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+                progress = progress / 3
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
                 var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 64, Math.PI / 64, Math.cos(now / 100))
                 canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
                 var angle = getAngleFromTime(0, Math.PI / 64, Math.cos(now / 100)) + dirAngle
@@ -2140,12 +2171,12 @@ Player = function (x, y, size, color, team) {
                 var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
                 var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
                 var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
-                var progess = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
-                if (progess > 0.5)
-                    progess = 1 - progess
-                progess = progess / 3
-                x += dir[0] * map.blocksize_x * progess
-                y += dir[1] * map.blocksize_y * progess
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+                progress = progress / 3
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
                 var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 4, Math.PI / 4, Math.cos((now - this.animation[0].startTime) / this.animation[0].duration * 1 * Math.PI))
                 canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
                 //var angle = getAngleFromTime(Math.PI / 4, Math.PI / 2, Math.cos(now / 100)) + dirAngle
@@ -2241,8 +2272,8 @@ Player = function (x, y, size, color, team) {
 
 
 
-PLAYER_FACE_IMG = ["face_0", "face_1", "face_2"]
-PLAYER_BODY_IMG = ["body_0", "body_1", "body_2"]
+PLAYER_FACE_IMG = ["face_0", "face_1", "face_2", "face_3", "face_4"]
+PLAYER_BODY_IMG = ["body_0", "body_1", "body_2", "body_3", "body_4"]
 
 PROJECTIL_IMG = ["wood_arrow"]
 
@@ -2959,7 +2990,7 @@ GameUI = function (canvas) {
         this.UIturn.addHorizontalElem([{
             type : "button",
             mouseLight : "ff",
-            callback : () => {this.UIeventExpanded = !this.UIeventExpanded},
+            callback : () => {this.UIturnExpanded = !this.UIturnExpanded},
             callback_data : GAME_UI_FONT,
             txt : "Turns",
             txt_color : "#000000",
@@ -3245,20 +3276,20 @@ ControlManager = function() {
                 world.Screen.openFullscreen()
             else
                 world.Screen.closeFullscreen(document)
-            world.Music.playSound("click")
+            world.Music.playSound("click", undefined, true)
         }
         for (var z in this.keyUp) {
             if (!GameUigetInput && z.startsWith("Digit") || z.startsWith("Numpad"))
                 z = z.replace("Digit", "").replace("Numpad", "")
             if (world.GameUI && !GameUigetInput && world.GameUI.getKeyInput(z)) {
-                world.Music.playSound("click")
+                world.Music.playSound("click", undefined, true)
                 GameUigetInput = true
                 if (world.GameUI)
                     world.GameUI.needRedraw = true;
                 break
             }
             if (world.villageUI && world.villageUI.getKeyInput(z)) {
-                world.Music.playSound("click")
+                world.Music.playSound("click", undefined, true)
                 GameUigetInput = true
                 if (world.villageUI)
                     world.villageUI.needRedraw = true
@@ -3273,13 +3304,13 @@ ControlManager = function() {
         //check mouse click
         if (this.inputclick) {
             if (!GameUigetInput && world.GameUI && world.GameUI.getMouseInput(this.inputclick)) {
-                world.Music.playSound("click")
+                world.Music.playSound("click", undefined, true)
                 GameUigetInput = true
                 if (world.GameUI)
                     world.GameUI.needRedraw = true;
             }
             if (!GameUigetInput && world.villageUI && world.villageUI.getMouseInput(this.inputclick)) {
-                world.Music.playSound("click")
+                world.Music.playSound("click", undefined, true)
                 GameUigetInput = true
                 if (world.villageUI)
                     world.villageUI.needRedraw = true;
@@ -3621,6 +3652,22 @@ PLAYER_ARMOR = [{
     ]
 }]
 
+PLAYER_ARMOR = [{
+    name : "Miner helmet",
+    img : "miner_helmet",
+    dmgArmor : [
+        {
+            damage : "crushing",
+            type : "factor",
+            value : 25
+        },
+        {
+            damage : "crushing",
+            value : 5
+        }
+    ]
+}]
+
 
 Armor = function () {
     this.itemType = "armor"
@@ -3799,6 +3846,7 @@ PlayerVillage = function (input) {
         if (rand < chanceLvLup) {
             this.lvlup++
             world.village.MessageSystem.addMessage({txt : this.name + " can lvl up ++"})
+            world.Music.playSound("lvlup")
             return true
         }
         return false
@@ -3970,6 +4018,7 @@ Batiment = function (input) {
                 return console.log("dont have resources")
         }
         console.log("success check next uppgrade")
+        world.Music.playSound("hammer_nails")
         return true
     }
 
@@ -4027,6 +4076,14 @@ CRAFT_LIST = [
         resources : {wood : 50, stone : 5},
         APcost : 10,
         description : "hit the target behind"
+    },
+    {
+        name : "Miner helmet",
+        type : "armor",
+        bat : "workshop",
+        resources : {stone : 100, coal : 25},
+        APcost : 12,
+        description : "light your way in the mine, and protect against rock falling"
     },
     {
         name : "Small Woodbow",
@@ -4208,7 +4265,7 @@ Village = function (input) {
         }
         for (var i = 0; i < 5; i++) {
             if (i == 0)
-                this.generateBasicPlayer({weapon : "Small Woodbow", armor : "Wood Armor"})
+                this.generateBasicPlayer({weapon : "Small Woodbow", armor : "Miner helmet"})
             else
                 this.generateBasicPlayer({})
         }
@@ -4362,6 +4419,72 @@ Village = function (input) {
         this.bats.push(b)   
     }
 
+
+    this.addMine = (input) => {
+        recolteMine = function (input) {
+            if (!input || !input.player || input.cost == undefined || input.cost > input.player.villageActionPoint)
+                return
+            var txt = input.player.name + " is mining resource for " + input.cost + " AP"
+            world.village.MessageSystem.addMessage({type : "job", txt : txt})
+            input.player.villageActionPoint -= input.cost
+            
+            var stone = 5 + Math.floor(Math.random() * 10)
+            var coal = Math.floor(Math.random() * 100) > 15 ? 0 : Math.floor(Math.random() * 10)
+            var res = {stone : stone}
+            if (coal)
+                res.coal = coal
+            world.village.addResource({resources : res})
+            world.Music.playSound('mine')
+        }
+        var b = new Batiment({
+            name : input.name,
+            player_size : 3,
+            callback_actionPlayer : [{
+                callback : recolteMine,
+                buto_txt : "mine",
+                description : "Mine the ground get resources",
+                cost : 4
+            }],
+            description : "A big hole in the ground",
+            blocking_end_turn : true,
+            imgIcon : "Mine",
+            build_progression : input.costAP,
+        })
+        this.bats.push(b)
+    }
+
+    this.addSawmill = () => {
+        function craftPlank(input) {
+            if (!input || !input.player || input.cost == undefined || input.cost > input.player.villageActionPoint)
+                return
+            if (!world.village.checkHaveResources({resources : {wood : 10}})) {
+                world.village.MessageSystem.addMessage({type : "job", txt : "you need more wood for make a plank"})
+                return
+            }
+            world.Music.playSound("sawmill_song")
+            var txt = input.player.name + " crafted a wood plank for 10 wood for" + input.cost + " AP"
+            world.village.MessageSystem.addMessage({type : "job", txt : txt})
+            input.player.villageActionPoint -= input.cost
+            world.village.removeResource({resources : {wood : 10}})
+            world.village.addResource({resources : {woodplank : 1,}})
+        }
+
+        var b = new Batiment({
+            name : "Sawmill",
+            player_size : 2,
+            callback_actionPlayer : [{
+                callback : craftPlank,
+                buto_txt : "craft woodplank",
+                description : "transform wood into woodplank",
+                cost : 5
+            }],
+            description : "A big circular saw for cut the wood",
+            blocking_end_turn : true,
+            imgIcon : "sawmill"
+        })
+        this.bats.push(b)
+    }
+
     this.addForest = () => {
         function recoltForestResouce(input) {
             if (!input || !input.player || input.cost == undefined || input.cost > input.player.villageActionPoint)
@@ -4423,6 +4546,20 @@ Village = function (input) {
                 resources : {wood : 100, stone : 30},
                 callback : this.addBowWorkshop,
                 input : {name: "fletching station", costAP : 20}
+            },
+            {
+                name : "Mine",
+                img : "Mine",
+                resources : {wood : 20, stone : 5},
+                callback : this.addMine,
+                input : {name: "Mine", costAP : 10}
+            },
+            {
+                name : "Sawmill",
+                img : "sawmill",
+                resources : {wood : 20, stone : 5},
+                callback : this.addSawmill,
+                input : {name: "Sawmill", costAP : 10}
             }
         ]
     }
@@ -4534,8 +4671,10 @@ Village = function (input) {
                     this.MessageSystem.addMessage({txt : "Your population eat food, Miam"})
                     this.removeResource({resources : {food : foodconsumed}})
                     this.foodconsumedLastTurn = foodconsumed
-                    for (var z in this.players)
+                    for (var z in this.players) {
                         this.players[z].tryLvLup();
+                        this.players[z].age++
+                    }
                 }
                 break
         }
@@ -4616,7 +4755,7 @@ VillageUI = function (canvas) {
     this.mouseWasOnMouseLightLastDraw = true
 
     this.tabs = ['Next Turn', 'building', 'craft', 'resource', 'Items', 'Player']
-    this.activeTabId = 1
+    this.activeTabId = 0
 
     this.playerSelected = undefined
     this.playerInfoMenu = undefined
@@ -4954,7 +5093,7 @@ VillageUI = function (canvas) {
                             this.UI.addTextZone("" + b.players_inside.length + " / " + b.player_size + " place", 20, 9999, '#000000', VILLAGE_UI_FONT)
                         pageVertiElm++
                     }
-                    if (this.playerSelected && !b.players_inside.find(a => a == this.playerSelected))
+                    if (this.playerSelected && !b.players_inside.find(a => a == this.playerSelected) && b.players_inside.length < b.player_size)
                         buildingUI.push({
                             type : "button",
                             mouseLight : "88",
@@ -5333,7 +5472,7 @@ VillageUI = function (canvas) {
             txt : p.name,
             callback : (p) => {this.playerSelected = this.playerSelected == p ? undefined : p},
             callback_data : p,
-            txt_color : this.playerSelected == p ? "#ffffff" : "#000000",
+            txt_color : p.lvlup ? "#00ff00" : this.playerSelected == p ? "#ffffff" : "#000000",
             max_letters : 9999,
             letter_size : size,
             txt_font : VILLAGE_UI_FONT_PLAYERNAME,
@@ -5366,7 +5505,21 @@ VillageUI = function (canvas) {
         this.UIplayers = new MyUI(this.canvas, 0, 0, 10, this.scale, this.background, this.stroke, this.marge)
         //this.UIplayers.addTextZone("Players", 40, 9999, '#000000', VILLAGE_UI_FONT_PHASE)
         this.UIplayers.addButton("Players", 40, '#000000', "#00000000", "#00000000", () => {this.showUIplayers = !(this.showUIplayers)}, undefined, VILLAGE_UI_FONT_PHASE)
-        this.UIplayers.addHorizontalElem(this.GetPageSelector(this.playersPageOffset))
+        var firstline = this.GetPageSelector(this.playersPageOffset)
+        if (this.playerSelected && this.tabs[this.activeTabId] != 'Player' && (village.phase == PHASE_PLACEPLAYER || village.phase == PHASE_ACTIONPLAYER))
+            firstline.push({
+                type : "button",
+                mouseLight : "88",
+                callback : this.GoToTabName,
+                callback_data : {tab : 'Player'},
+                txt : "Show",
+                txt_color : "#000000",
+                max_letters : 9999,
+                letter_size : 30,
+                txt_font : VILLAGE_UI_FONT_PLAYERNAME,
+                fillColor : "#ffffff"
+            })
+        this.UIplayers.addHorizontalElem(firstline)
         var pageVertiElm = 0
         if (this.showUIplayers) {
             if (!this.playerInfoMenu) {
@@ -5413,7 +5566,7 @@ VillageUI = function (canvas) {
                     var elm = []
 
                     if (village.phase == PHASE_PLACEPLAYER && this.batSelected && this.tabs[this.activeTabId] == "building"
-                            && this.batSelected.player_size && !this.batSelected.players_inside.find(a => a == p) && !batp && !this.batBuildMenu)
+                            && this.batSelected.player_size && !this.batSelected.players_inside.find(a => a == p) && !batp && !this.batBuildMenu && this.batSelected.players_inside.length < this.batSelected.player_size)
                         elm.push({
                             type : "button",
                             mouseLight : "88",
@@ -5476,7 +5629,12 @@ VillageUI = function (canvas) {
         txt += world.village.getDateText()
         if (village.foodconsumedLastTurn)
             txt += "\nYour village consumed " + village.foodconsumedLastTurn + " food last week"
-        this.UI.addTextZone(txt, 40, 9999, '#000000', VILLAGE_UI_FONT)
+        for (var z in village.players) {
+            var p = village.players
+            if (p.lvlup)
+                txt += "\n" + p.name + " can lvl up"
+        }
+        this.UI.addTextZone(txt, 30, 9999, '#000000', VILLAGE_UI_FONT)
         this.UI.addHorizontalElem([this.GetNextTurnButton(false, false, "Start Turn")])
     }
 
@@ -5514,6 +5672,12 @@ VillageUI = function (canvas) {
         switch (village.phase) {
             case PHASE_PLACEPLAYER :
                 this.UI.addTextZone(world.village.getDateText(), 20, 9999, '#000000', VILLAGE_UI_FONT)
+                var txt = "  During Phase 1, you can"
+                txt += "\n-equip items"
+                txt += "\n-affect players to a building"
+                txt += "\n-start the construction of new building"
+                txt += "\n\nbefore start Phase 2, you must affect at least 1 player to 'Defend Village'"
+                this.UI.addTextZone(txt, 20, 9999, '#000000', VILLAGE_UI_FONT)
                 var endTurnButon = [
                     this.GetNextTurnButton(true, this.warningEndTurnMessage.length, "Start Phase 2")
                 ]
@@ -5553,7 +5717,12 @@ VillageUI = function (canvas) {
                 break
             case PHASE_ACTIONPLAYER :
                 this.UI.addTextZone(world.village.getDateText(), 20, 9999, '#000000', VILLAGE_UI_FONT)
-
+                var txt = "  During Phase 2, players can spend Action Point for work in their affected building"
+                txt += "\n-recolt resource in the forest"
+                txt += "\n-progress on the construction of new buildings"
+                txt += "\n-craft weapons and armors"
+                txt += "\n\nDuring this Phase, you can NOT change equipment or players affected building"
+                this.UI.addTextZone(txt, 20, 9999, '#000000', VILLAGE_UI_FONT)
 
                 //end turn
                 var endTurnButon = [
@@ -5711,7 +5880,7 @@ VillageUI = function (canvas) {
             letter_size : 20,
             txt_font : VILLAGE_UI_FONT
         })
-        var txt2 = " Action Point (Village) " + p.villageActionPoint + "/" + p.villageActionPoint
+        var txt2 = " Action Point (Village) " + p.villageActionPoint + "/" + p.villageActionPointMax
         txt2 += "\nLvl : " + p.lvl
         txt2 += "\nSurvived " + p.age + " weeks"
         elm.push({
@@ -5929,13 +6098,22 @@ var IMG_TO_LOAD = [
     ["player_test3/village/resource", "food_icon"],
     ["player_test3/village/resource", "wood_icon"],
     ["player_test3/village/resource", "stone_icon"],
+    ["player_test3/village/resource", "coal_icon"],
+    ["player_test3/village/resource", "woodplank_icon"],
+
     ["player_test3/village/building", "forest_icon"],
     ["player_test3/village/building", "defend_village_icon"],
     ["player_test3/village/building", "workshop_icon"],
+    ["player_test3/village/building", "Houses"],
+    ["player_test3/village/building", "Mine"],
     ["player_test3/village/building", "bow_workshop_icon"],
+    ["player_test3/village/building", "sawmill"],
+
     ["player_test3/village/resource", "villageAP_icon"],
     ["player_test3/village/resource", "under_construction_icon"],
-    ["player_test3/village/building", "Houses"],
+
+    
+    
 ]
 
 World = function (Screen) {

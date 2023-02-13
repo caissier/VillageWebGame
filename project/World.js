@@ -2,13 +2,22 @@ var IMG_TO_LOAD = [
     ["player_test3/village/resource", "food_icon"],
     ["player_test3/village/resource", "wood_icon"],
     ["player_test3/village/resource", "stone_icon"],
+    ["player_test3/village/resource", "coal_icon"],
+    ["player_test3/village/resource", "woodplank_icon"],
+
     ["player_test3/village/building", "forest_icon"],
     ["player_test3/village/building", "defend_village_icon"],
     ["player_test3/village/building", "workshop_icon"],
+    ["player_test3/village/building", "Houses"],
+    ["player_test3/village/building", "Mine"],
     ["player_test3/village/building", "bow_workshop_icon"],
+    ["player_test3/village/building", "sawmill"],
+
     ["player_test3/village/resource", "villageAP_icon"],
     ["player_test3/village/resource", "under_construction_icon"],
-    ["player_test3/village/building", "Houses"],
+
+    
+    
 ]
 
 World = function (Screen) {

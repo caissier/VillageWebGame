@@ -109,6 +109,7 @@ PlayerVillage = function (input) {
         if (rand < chanceLvLup) {
             this.lvlup++
             world.village.MessageSystem.addMessage({txt : this.name + " can lvl up ++"})
+            world.Music.playSound("lvlup")
             return true
         }
         return false
@@ -280,6 +281,7 @@ Batiment = function (input) {
                 return console.log("dont have resources")
         }
         console.log("success check next uppgrade")
+        world.Music.playSound("hammer_nails")
         return true
     }
 
@@ -337,6 +339,14 @@ CRAFT_LIST = [
         resources : {wood : 50, stone : 5},
         APcost : 10,
         description : "hit the target behind"
+    },
+    {
+        name : "Miner helmet",
+        type : "armor",
+        bat : "workshop",
+        resources : {stone : 100, coal : 25},
+        APcost : 12,
+        description : "light your way in the mine, and protect against rock falling"
     },
     {
         name : "Small Woodbow",
@@ -518,7 +528,7 @@ Village = function (input) {
         }
         for (var i = 0; i < 5; i++) {
             if (i == 0)
-                this.generateBasicPlayer({weapon : "Small Woodbow", armor : "Wood Armor"})
+                this.generateBasicPlayer({weapon : "Small Woodbow", armor : "Miner helmet"})
             else
                 this.generateBasicPlayer({})
         }
@@ -672,6 +682,72 @@ Village = function (input) {
         this.bats.push(b)   
     }
 
+
+    this.addMine = (input) => {
+        recolteMine = function (input) {
+            if (!input || !input.player || input.cost == undefined || input.cost > input.player.villageActionPoint)
+                return
+            var txt = input.player.name + " is mining resource for " + input.cost + " AP"
+            world.village.MessageSystem.addMessage({type : "job", txt : txt})
+            input.player.villageActionPoint -= input.cost
+            
+            var stone = 5 + Math.floor(Math.random() * 10)
+            var coal = Math.floor(Math.random() * 100) > 15 ? 0 : Math.floor(Math.random() * 10)
+            var res = {stone : stone}
+            if (coal)
+                res.coal = coal
+            world.village.addResource({resources : res})
+            world.Music.playSound('mine')
+        }
+        var b = new Batiment({
+            name : input.name,
+            player_size : 3,
+            callback_actionPlayer : [{
+                callback : recolteMine,
+                buto_txt : "mine",
+                description : "Mine the ground get resources",
+                cost : 4
+            }],
+            description : "A big hole in the ground",
+            blocking_end_turn : true,
+            imgIcon : "Mine",
+            build_progression : input.costAP,
+        })
+        this.bats.push(b)
+    }
+
+    this.addSawmill = () => {
+        function craftPlank(input) {
+            if (!input || !input.player || input.cost == undefined || input.cost > input.player.villageActionPoint)
+                return
+            if (!world.village.checkHaveResources({resources : {wood : 10}})) {
+                world.village.MessageSystem.addMessage({type : "job", txt : "you need more wood for make a plank"})
+                return
+            }
+            world.Music.playSound("sawmill_song")
+            var txt = input.player.name + " crafted a wood plank for 10 wood for" + input.cost + " AP"
+            world.village.MessageSystem.addMessage({type : "job", txt : txt})
+            input.player.villageActionPoint -= input.cost
+            world.village.removeResource({resources : {wood : 10}})
+            world.village.addResource({resources : {woodplank : 1,}})
+        }
+
+        var b = new Batiment({
+            name : "Sawmill",
+            player_size : 2,
+            callback_actionPlayer : [{
+                callback : craftPlank,
+                buto_txt : "craft woodplank",
+                description : "transform wood into woodplank",
+                cost : 5
+            }],
+            description : "A big circular saw for cut the wood",
+            blocking_end_turn : true,
+            imgIcon : "sawmill"
+        })
+        this.bats.push(b)
+    }
+
     this.addForest = () => {
         function recoltForestResouce(input) {
             if (!input || !input.player || input.cost == undefined || input.cost > input.player.villageActionPoint)
@@ -733,6 +809,20 @@ Village = function (input) {
                 resources : {wood : 100, stone : 30},
                 callback : this.addBowWorkshop,
                 input : {name: "fletching station", costAP : 20}
+            },
+            {
+                name : "Mine",
+                img : "Mine",
+                resources : {wood : 20, stone : 5},
+                callback : this.addMine,
+                input : {name: "Mine", costAP : 10}
+            },
+            {
+                name : "Sawmill",
+                img : "sawmill",
+                resources : {wood : 20, stone : 5},
+                callback : this.addSawmill,
+                input : {name: "Sawmill", costAP : 10}
             }
         ]
     }
@@ -844,8 +934,10 @@ Village = function (input) {
                     this.MessageSystem.addMessage({txt : "Your population eat food, Miam"})
                     this.removeResource({resources : {food : foodconsumed}})
                     this.foodconsumedLastTurn = foodconsumed
-                    for (var z in this.players)
+                    for (var z in this.players) {
                         this.players[z].tryLvLup();
+                        this.players[z].age++
+                    }
                 }
                 break
         }

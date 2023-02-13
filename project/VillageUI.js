@@ -36,7 +36,7 @@ VillageUI = function (canvas) {
     this.mouseWasOnMouseLightLastDraw = true
 
     this.tabs = ['Next Turn', 'building', 'craft', 'resource', 'Items', 'Player']
-    this.activeTabId = 1
+    this.activeTabId = 0
 
     this.playerSelected = undefined
     this.playerInfoMenu = undefined
@@ -374,7 +374,7 @@ VillageUI = function (canvas) {
                             this.UI.addTextZone("" + b.players_inside.length + " / " + b.player_size + " place", 20, 9999, '#000000', VILLAGE_UI_FONT)
                         pageVertiElm++
                     }
-                    if (this.playerSelected && !b.players_inside.find(a => a == this.playerSelected))
+                    if (this.playerSelected && !b.players_inside.find(a => a == this.playerSelected) && b.players_inside.length < b.player_size)
                         buildingUI.push({
                             type : "button",
                             mouseLight : "88",
@@ -753,7 +753,7 @@ VillageUI = function (canvas) {
             txt : p.name,
             callback : (p) => {this.playerSelected = this.playerSelected == p ? undefined : p},
             callback_data : p,
-            txt_color : this.playerSelected == p ? "#ffffff" : "#000000",
+            txt_color : p.lvlup ? "#00ff00" : this.playerSelected == p ? "#ffffff" : "#000000",
             max_letters : 9999,
             letter_size : size,
             txt_font : VILLAGE_UI_FONT_PLAYERNAME,
@@ -786,7 +786,21 @@ VillageUI = function (canvas) {
         this.UIplayers = new MyUI(this.canvas, 0, 0, 10, this.scale, this.background, this.stroke, this.marge)
         //this.UIplayers.addTextZone("Players", 40, 9999, '#000000', VILLAGE_UI_FONT_PHASE)
         this.UIplayers.addButton("Players", 40, '#000000', "#00000000", "#00000000", () => {this.showUIplayers = !(this.showUIplayers)}, undefined, VILLAGE_UI_FONT_PHASE)
-        this.UIplayers.addHorizontalElem(this.GetPageSelector(this.playersPageOffset))
+        var firstline = this.GetPageSelector(this.playersPageOffset)
+        if (this.playerSelected && this.tabs[this.activeTabId] != 'Player' && (village.phase == PHASE_PLACEPLAYER || village.phase == PHASE_ACTIONPLAYER))
+            firstline.push({
+                type : "button",
+                mouseLight : "88",
+                callback : this.GoToTabName,
+                callback_data : {tab : 'Player'},
+                txt : "Show",
+                txt_color : "#000000",
+                max_letters : 9999,
+                letter_size : 30,
+                txt_font : VILLAGE_UI_FONT_PLAYERNAME,
+                fillColor : "#ffffff"
+            })
+        this.UIplayers.addHorizontalElem(firstline)
         var pageVertiElm = 0
         if (this.showUIplayers) {
             if (!this.playerInfoMenu) {
@@ -833,7 +847,7 @@ VillageUI = function (canvas) {
                     var elm = []
 
                     if (village.phase == PHASE_PLACEPLAYER && this.batSelected && this.tabs[this.activeTabId] == "building"
-                            && this.batSelected.player_size && !this.batSelected.players_inside.find(a => a == p) && !batp && !this.batBuildMenu)
+                            && this.batSelected.player_size && !this.batSelected.players_inside.find(a => a == p) && !batp && !this.batBuildMenu && this.batSelected.players_inside.length < this.batSelected.player_size)
                         elm.push({
                             type : "button",
                             mouseLight : "88",
@@ -896,7 +910,12 @@ VillageUI = function (canvas) {
         txt += world.village.getDateText()
         if (village.foodconsumedLastTurn)
             txt += "\nYour village consumed " + village.foodconsumedLastTurn + " food last week"
-        this.UI.addTextZone(txt, 40, 9999, '#000000', VILLAGE_UI_FONT)
+        for (var z in village.players) {
+            var p = village.players
+            if (p.lvlup)
+                txt += "\n" + p.name + " can lvl up"
+        }
+        this.UI.addTextZone(txt, 30, 9999, '#000000', VILLAGE_UI_FONT)
         this.UI.addHorizontalElem([this.GetNextTurnButton(false, false, "Start Turn")])
     }
 
@@ -934,6 +953,12 @@ VillageUI = function (canvas) {
         switch (village.phase) {
             case PHASE_PLACEPLAYER :
                 this.UI.addTextZone(world.village.getDateText(), 20, 9999, '#000000', VILLAGE_UI_FONT)
+                var txt = "  During Phase 1, you can"
+                txt += "\n-equip items"
+                txt += "\n-affect players to a building"
+                txt += "\n-start the construction of new building"
+                txt += "\n\nbefore start Phase 2, you must affect at least 1 player to 'Defend Village'"
+                this.UI.addTextZone(txt, 20, 9999, '#000000', VILLAGE_UI_FONT)
                 var endTurnButon = [
                     this.GetNextTurnButton(true, this.warningEndTurnMessage.length, "Start Phase 2")
                 ]
@@ -973,7 +998,12 @@ VillageUI = function (canvas) {
                 break
             case PHASE_ACTIONPLAYER :
                 this.UI.addTextZone(world.village.getDateText(), 20, 9999, '#000000', VILLAGE_UI_FONT)
-
+                var txt = "  During Phase 2, players can spend Action Point for work in their affected building"
+                txt += "\n-recolt resource in the forest"
+                txt += "\n-progress on the construction of new buildings"
+                txt += "\n-craft weapons and armors"
+                txt += "\n\nDuring this Phase, you can NOT change equipment or players affected building"
+                this.UI.addTextZone(txt, 20, 9999, '#000000', VILLAGE_UI_FONT)
 
                 //end turn
                 var endTurnButon = [
@@ -1131,7 +1161,7 @@ VillageUI = function (canvas) {
             letter_size : 20,
             txt_font : VILLAGE_UI_FONT
         })
-        var txt2 = " Action Point (Village) " + p.villageActionPoint + "/" + p.villageActionPoint
+        var txt2 = " Action Point (Village) " + p.villageActionPoint + "/" + p.villageActionPointMax
         txt2 += "\nLvl : " + p.lvl
         txt2 += "\nSurvived " + p.age + " weeks"
         elm.push({

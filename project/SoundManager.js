@@ -10,10 +10,10 @@ SoundManager = function () {
         this.sounds[name] = sound
     }
 
-    this.playSound = (name, loop) => {
+    this.playSound = (name, loop, Norestart) => {
         if (!this.sounds[name])
             this.LoadSound(name)
-        if (!this.sounds[name].paused)
+        if (!Norestart && !this.sounds[name].paused)
             this.sounds[name].currentTime = 0;
         if (loop)
             this.sounds[name].loop = true
