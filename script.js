@@ -1,1 +1,6503 @@
-function _0x5f46(_0x409dbf,_0x976a93){var _0x900c3f=_0x900c();return _0x5f46=function(_0x5f46e5,_0xd9c13f){_0x5f46e5=_0x5f46e5-0x178;var _0x53abef=_0x900c3f[_0x5f46e5];return _0x53abef;},_0x5f46(_0x409dbf,_0x976a93);}var _0xa7c9c4=_0x5f46;function _0x900c(){var _0x2a06e8=['getBlockAdjacent','img\x20','tryLvLup','Kevin\x20Wiggins','\x20week\x20','Mae\x20Gentry','A\x20big\x20circular\x20saw\x20for\x20cut\x20the\x20wood','\x27Cooper\x20Black\x27','clientY','Boden\x20Archer','get\x20resources','Alexia\x20Anderson','canvas','\x20\x20During\x20Phase\x202,\x20players\x20can\x20spend\x20Action\x20Point\x20for\x20work\x20in\x20their\x20affected\x20building','map','#666666','draw_villagePlayerUi','list','then','tree_root','click_buton_check','batsToBuild','#ff000055','craftPageOffset','colorText','Denver\x20Leal','#00000000','CheckMoveTo','CheckControlInput','toDataURL','Azrael\x20Ali','addDefendVillage','Phase\x201\x20:\x20Place\x20Players','input','\x20Action\x20Points\x20left','#dddddd','innerHeight','Zaid\x20Terry','#d2691e88','piercing','createRandomWeapon','mine','batSortModeId','\x20can\x20lvl\x20up','TryUpgrade','blocksize_x','add\x20to\x20building','redraw\x20village\x20UI','botElem','doubled\x20wood','\x27\x20have\x20started','stopSound','getZoneAtAbsRangeToPlayer','wall','big_tree_1','Items','invalid\x20player','Andres\x20Sampson','txt_color','GetMovePrice','weaponAnim','add\x20player','\x20is\x20building\x20\x27','unshift','imgs\x20:\x20','pos_y','attack_metal_slash','Okalm','\x27\x20(+','Rotate','addWeaponToVillageInventory','shaken_bush','#556b2f88','rotate\x20your\x20player\x20in\x20the\x20desired\x20direction','no\x20weapon\x20equiped','playerDefaultImgs','Jade\x20Butler','player\x20','Paxton\x20Pollard','fullscreenElement','batPageOffset','screenBx','moveTo','\x20for\x20','damage\x20after\x20armor\x20reduction\x20:\x20','msg','createRandomArmor','EventcloseFullscreen','LoadPlayerVillageImage','bonusPopulation','\x0a\x0aDuring\x20this\x20Phase,\x20you\x20can\x20NOT\x20change\x20equipment\x20or\x20players\x20affected\x20building','imgColored','Turn\x20','right','attack\x20with\x20:\x20','_icon','getDistToABlock','initMapBotElement','Stephanie\x20Bradley','getBlocksAtDistRangeFromPlayer','#ffffff88','anim','direction\x20:\x20','round','ArrowRight','absolute','createPlayerFromVillage','Mouse_Input','Force\x20End\x20Turn','upgrades_callback','putImageData','get_valid_action_in_affected_building','Tiana\x20Daniel','blocking_end_turn','cancel_menu','\x27Chiller\x27','unequipItem','damages','pUI_need_redraw','\x0a-start\x20the\x20construction\x20of\x20new\x20building','Small\x20Woodbow','UIturnExpanded','wheel','ERROR\x20:\x20CANVAS\x20WITH\x20THIS\x20NAME\x20ALREADY\x20EXIST','look','no\x20players','age','getBlocksAtRangeFromPlayer','set_drawing_map','canList','Next\x20Turn','life\x20','metal_axe','light\x20your\x20way\x20in\x20the\x20mine,\x20and\x20protect\x20against\x20rock\x20falling','equipArmor','spear_attack','marge','closeFullscreen','sawmill','\x20damage','button','get_pixel_by_block','\x0aSpeed\x20:\x20','GameUI','generateCapacity','#ef0bc322','position','posB','action\x20point\x20:\x20','TryCraftItem','nb_houses','#ffff66','CostMovingPlayer','UIturn','Vincent\x20Dougherty','Daisy\x20Robinson','lifeMax','Enter','1267xBbrTO','ready','abs','sawmill_song','highlight','playerstats','./img/mapFloor/','\x27Algerian\x27','Annalise\x20Carson','lenx','Emerie\x20Hickman','wood_arrow','#1e90ff','getBlockBehindTarget','\x20month\x20','Lilianna\x20Doyle','Wood\x20Armor','#000000ff','#0000ff','\x27Ravie\x27','addResource','slashing','unequipWeapon','Kade\x20House','showUI','Sergio\x20Welch','createProjectilAnimation','error\x20input\x20create\x20player','getZoneAdjacentToPlayer','Argoo','Strength','selector\x20:\x20','startsWith','find','get\x20block\x20adjacent','bot','textAlign','bodyPartImgReady','damage','Lia\x20Diaz','eventPageOffset','you\x20can\x20only\x20craft\x20during\x20Phase\x202','body_type','village','enemy)','concat','drawPlayer','\x20Action\x20Point\x20Max\x20(Battle)\x20','#555555','warningEndTurnMessage','body/','checkHaveResources','#f8f8ff88','\x0aSurvived\x20','miner_helmet','#ffffff','max_letter','Elsie\x20Reynolds','posBlocky','GetDrawBuildingElement','test\x20zone\x20','getTime','this\x20weapon\x20sucks,\x20only\x20noobs\x20use\x20it','metal_sword','unequip\x20weapon','bad\x20input\x20remove\x20resource','\x27Footlight\x20MT\x20Light\x27','highlightZone','draw_playerTab','saw_workshop','weed','factor','#17bdbc','strokeColor','better\x20than\x20nothing','createBatToBuildList','txt','#0000ff88','documentElement','mapImgsFloor','Aufait','txt_size','equip\x20weapon','Jamison\x20Pace','text_font','alt','smash','currentTime','test','\x20-\x20','stone_spear','Start\x20Battle','getNextUpgrade','addEventListener','Move\x20AP\x20cost\x20:\x20','add\x20some\x20blocks\x20','damageBase','Ruth\x20Stout','posBlockx','rock','initMapTopElement','Marvin\x20Herrera','Zachariah\x20Berg','reducing\x20','playAIturn','displayMessageEvent','costAP','KeyW','Anahi\x20Strickland','create_random_enemy_on_map','equip\x20armor','\x20left','turnFinished','handImg','Dakari\x20Poole','blockSelected','stat','cleanCanvas','Metal\x20Sword','drawProjectiles','nope,\x20not\x20this\x20way','UI_list','width','letter_per_line','gaugeSpeed','#006400','playerList','deltaY','#0000fb','\x20crafted\x20a\x20','can\x27t\x20create\x20getColorImage','lvl','Stone\x20Pickaxe','no\x20crafts\x20list','armor','Dennis\x20Parrish','image\x20incomplet','CheckMoveTo\x20:\x20player\x20here','sword','mozfullscreenchange','dont\x20have\x20resources','Zelda\x20Stevens','Defend\x20Village','pixel_starty','recolte\x20random\x20amount\x20of\x20food,\x20wood,\x20and\x20stone','4377232RbPdMB','random','sword_2h','Archer\x20Baxter','#663300','Population\x20max\x20+\x2010\x20(','createImgFromData','villageActionPointMax','fullScreen','Place\x20your\x20player\x20here\x20for\x20defend\x20the\x20village','439sOiKVw','getPlayerByBlock','attack\x20with\x20your\x20hands,\x2033\x20AP,\x20x1\x20Strench\x20crushing\x20damage','sea','\x20Action\x20Point\x20left','addGauge','pixel_endy','affectPlayerToBat','blocks','upgrades','cost','End\x20of\x20the\x20battle','createNewArmor','Dexterity','Move\x20your\x20player\x20up/right/down/left','1998TSlBRx','cos','face_type','craft','init_check_mouse_move','\x20action\x20points','weapon/projectil/','\x20lost\x20','allied)','drawFillRect','txt_font','wood_armor','res','\x20uppgraded\x20to\x20LvL\x20','build_progression','Ares\x20Long','go\x20to\x20craft\x20tab','No\x20player\x20selected','./img/mapTopElement/','playersPageOffset','Lara\x20Barnett','addHorizontalElem','check\x20dmg\x20:\x20','Playerturn','showUIplayers','buto_txt','stone_pickaxe','playerSelected','center_on_selected_player','\x20weeks','getChanceOfHit','the\x20place\x20for\x20craft\x20bow\x20and\x20arrow','draw_battlePhase','type','addWorkShop','generateRandomElement','DrawTabInfoPlayer','phase','can\x27t\x20display\x20weapon\x20:\x20','getBoundingClientRect','textBaseline','receive_attack','getLvlUpPerkList','Turns','draw_craft_menu','#005500','selecting_block',']\x20blocks\x20behind\x20the\x20target','UIeventExpanded','crossOrigin','start\x20construction','horizontal','#FFAD1C','getMessageSystem','len_y','success\x20check\x20next\x20uppgrade','centerOnBlock','\x0a-recolt\x20resource\x20in\x20the\x20forest','canvasPlayer','projectilSpeed','txts','\x20life\x20point','canvasPUI','splice','rotate','screenAy','\x20turn','ff0000','Houses','isDead','Players','start\x20message\x20system','ControlLeft','Jacob\x20Knapp','\x0a-equip\x20items','hand','log','callback_actionPlayer','\x20is\x20loaded','\x0a-craft\x20weapons\x20and\x20armors','stone_axe','size','workshop','error,\x20no\x20block','font','Greyson\x20Walker','KeyD','UIsystem','bow_workshop_icon','KeyA','floor','moving','getPixelPosition','Action\x20Point\x20:\x20','Queen\x20Watson','dmgArmor','hello\x20world','Khloe\x20Horn','failed\x20createImgData\x20image\x20Colored','generateMap','keyUp','unequip\x20armor','job','\x20-Action\x20Point\x20','buttonList','rangeMin','Ander\x20Wise','Kelvin\x20Fischer','Arial','\x20place','mouseInfoWindow','13701obfWzR','weapon/','UIevent','left\x20mouse\x20:\x0a','string','addImage','David\x20Grant','building','AlphaTransparencyByPixel','highlightBlock','\x27Snap\x20ITC\x27','calculatDamageFromAttack','New\x20PLayer\x20','capacityList','villageAP_icon','itemsPageOffset','Kashton\x20McCarty','\x20by\x20','Carson\x20Hunter','px\x20','drawImageRotate','addArmorToVillageInventory','fillColor','mouseLight','keyDown','generateBasicPlayer','colorStroke','year\x20','createNewWeapon','\x20AI\x20is\x20playing','src','ChangePosition','Peter\x20Tate','sound','GetBatBuildMenuSelector','complete','678aXuUyM','Forest\x20Exploitation','body_3','key_buton_check','repeat','get_valid_craft_list','draw_ItemsTab','getNextTurnList','GoToTabName','Numpad','the\x20construction\x20of\x20\x27','Askip','Sawmill','Stone\x20Axe','Lvl\x20up\x20+1','img','getVillageUItext','constructionSelected','scale','getContext','needUIRedraw','craftSelected','\x20x\x20','delete_player','bats','item','topleft_block','playerColor','lvlup','resource','loadImg','addTextZone','Screen','under_construction_icon','Digit','#ff880022','getBlocksAtRange','Vada\x20Conley','page','get_next_path','beginPath','description','data','loadPlayerDefaultImgs','Stephen\x20Bartlett','#000000','coal','\x0aTarget\x20between\x20[','playersSelected','addMessage','len_x','\x0a--\x20x','attack_bigaxe','Skye\x20Ramirez','build','drawTextTopLeft','Jordan\x20Barker','Gruu','GetMoveDir','House\x20lvl','\x20have\x20','initMapFloorImage','where-the-brave-may-live-forever','i\x20dont\x20have\x20this\x20image\x20\x20:\x20','UIplayers','getMouseInput','ArrowUp','you\x20lost\x20:','Saige\x20McBride','battle','blocksize_y','topElem','\x20\x20Info\x20\x20','\x0a-hit\x20the\x20selected\x20block',']\x20distance\x20around\x20the\x20target','test_start_battle','Attack','\x20/\x20','DANGER\x20:\x20No\x20player\x20is\x20affected\x20to\x20Defend\x20the\x20Village','createUI','\x0aYour\x20village\x20consumed\x20','Scarlett\x20Mays','body_1','colorFill','name','Keegan\x20Doyle','players_inside','New\x20Turn\x20started\x20:\x20','Key_Input','initImgs','hammer_nails','big_tree_0','Mine\x20the\x20ground\x20get\x20resources','./img/player_test3/village/villageUI_patern.png','\x0a-progress\x20on\x20the\x20construction\x20of\x20new\x20buildings','not\x20enoguht\x20resources','#ff0000','team','\x20incoming\x20damage','removeResource','getItemIcone','Cole\x20Clayton','info','Controler','addForest','projectilName','Krew\x20Pruitt','attack\x20animation\x20on\x20the\x20selected\x20block','mapImgsBot','hand/hand_0.png','block\x20','value','drawImage','Equiped\x20with\x20\x27','InfoWindowPos','equipItem','sounds','Giana\x20Hudson','changeMapView','#00ff00','style','craft\x20basic\x20stuff','nextTurn','fps','shift','measureText','TryBuildBat','background','Ila\x20Ellis','draw_Image','Treasure\x20Quintana','filter','needColor','batBuildMenu','getKeyInput','mousePos','wood_icon','projectil','get_block_by_pixel','Build\x20new\x20batiments\x20here','resize','function','Cillian\x20Ray','getBatFromPlayer','failed\x20createImgData\x20image','exitFullscreen','playSound','get_direction_from_pos','pixel_endx','pixel_width','Braden\x20Lucero','Alisson\x20Roberson','draw_building_tab','oncontextmenu','changed\x20','let\x20do\x20it','Zachary\x20Holloway','substring','duration','sqrt','code','week','\x27Bauhaus\x2093\x27','4195543USDMAT','webkitfullscreenchange','Capri\x20Glenn','Population\x20max\x20+\x205\x20(','#00aaaa','itemSelected','Speed\x20:\x20','Wren\x20Costa','returned\x20','drawPlayers','no\x20armor\x20equiped','populationMax','Setple','End_Turn','wood\x20Stick','activeTabId','player_test3/village/building','getZoneAdjacentToPlayerByDir','Stone\x20Spear','can\x27t\x20with\x20','clearRect','clientX','blockTargetingFunction','bat','drawImageMirrorRotateCenter','itemType','stones','setTransform','92QWsVHz','spear','4787442flRscV','mapUI','mode','batSortModeList','get_block_at_DistRange','#55aaaa','getArmorDescription','pop','./music/','inputclick','resources','getPlayerIcone','sin','\x20%\x20of\x20','Music','strokeStyle','drawUI','Exploit\x20resource\x20from\x20the\x20forest','\x0aLife\x20Max\x20:\x20','.mp3','generateBasicVillage','Attack\x20with\x20','batSelected','enemy\x20created\x20succesfully','player_size','#ff080888','Matthew\x20Beil','Phase\x201\x20started','pos_starty','createElement','mapFloor','lvl\x20up','#00D238','Azyla','\x20crafted\x20a\x20wood\x20plank\x20for\x2010\x20wood\x20for','Metal\x20Axe','selector','return','Menu','wrong\x20direction','stroke','sortButo','Nathan\x20Beltran','Life\x20Max\x20:\x20','letter_size','test\x20turn\x20finished\x20:\x20','arrow_projectil','getDateText','woodplank_icon','drawImageRotateCenter','\x20is\x20attacking\x20with\x20','sand','mouse_move_check','strokeRect','#000000aa','playerInfoMenu','#0320fb','ApplyListPerkUp','click','keyup','10YSasva','.png','createDatafromImage','atan2','gauge','removePlayerFromBat','#55ff00','rangeMax','addCanvas','draw_UI_EventMessage','MSFullscreenChange','lineTo','zone_target_area','attack','WEAPON\x20BONUS\x20/\x20','needRedraw','Kingston\x20Howell','can\x27t\x20delete\x20this\x20player','SelectingBlockAction','equipWeapon','player_test3/village/resource','mapTopElem','CheckMoveTo\x20:\x20invalid\x20Input','Kaydence\x20Xiong','from','Jakobe\x20Hardin','the-britons','small_woodBow','\x20food\x20last\x20week','Magnus\x20Yoder','MessageSystem','projectilAnimation','\x0a-reduce\x20','imgIcon','defend_village_icon','weapon','leny','layerLen','dodge','kill_player','KeyS','GetPageSelector','msExitFullscreen','under\x20construction\x20:\x20','Cade\x20Patton','fillStyle','pixel_height','Movement\x20cost\x20:\x20','4138870OZgVBu','Your\x20village\x20is\x20safe\x0aYou\x20can\x20start\x20next\x20turn','fullness','\x20is\x20mining\x20resource\x20for\x20','Shepherd\x20Park','ctx','getMoveCost','startTime','addMine','get_valid_player_for_craft','change\x20block\x20','move','back','life','decode','CheckMoveTo\x20:\x20invalid\x20block','addHouse','zone_selecting_input','PlayerInfodisplay','stats','chance\x20to\x20hit\x20:\x20%','lineMax','get_pixel_by_pos','weapon\x20:\x20','drawMessageSystemEvents','#888888','ActionPointMax','mousemove','\x20:\x20','webkitExitFullscreen','ArrowLeft','openFullscreen','#ff66ff','player','extand\x20the\x20Turns\x20window','lvl\x20','LoadSound','bonus','bodyPartImg','bush','elmList','tab','villageUI','GetColorImage','draw_map','botright_block','Bonnie\x20Bishop','pos_x','cut\x20wood\x20faster\x20in\x20forest','center','ActionPoint','block','ArrowDown','Stefan\x20Christian','can\x27t\x20load\x20','drawVillageUI','addButton','#5500ff','create\x20player\x20in\x20','drawLine','get_block_at_BlockRange','newGameInput','0px','createPlayer','armor\x20equiped\x20:\x20','\x20PA\x20left\x20for\x20finish\x20construction','a->Z','dir','keydown','CheckInfoWindow','getEquipedWeaponDescription','Emmalyn\x20Spence','mouseup','eventPage','pos_startx','DefaultImgsReady','Mine','windowInfo','onload','villageActionPoint','Algerian','push','you\x20don\x27t\x20have\x20enought\x20resource','Events','coal_icon','screenBy','Wilson\x20Gill','zoneTarget','#a01454','path','key_event','draw_newTurnPhase','use\x20your\x20action\x20point\x20for\x20construct\x20the\x20building','Your\x20population\x20eat\x20food,\x20Miam','addBowWorkshop','endFight','food_icon','i\x20am\x20in\x20','Space','Imgs','animation','Direction\x20:\x20','crushing','InfoWinfowPos','get_next_turn','getWeaponAttackDescription','unequipArmor','can\x27t\x20get\x20can\x20pos','players','height','play','angle','lastTime','draw_NextTurnTab','mapImgsTop','craft\x20woodplank','can\x27t\x20create\x20this\x20weapon','fletching\x20station','Player','Show','innerWidth','createPattern','createNewPlayer','getResourcesTextAndImg','I\x20will\x20play\x20in\x20','lvlupList','NumpadAdd','\x20AP','Malachi\x20Garza','resized','Miner\x20helmet','tabs','\x20dist\x20','ReturnBlockTargeted','drawGameUI','APcost','serif','end\x20of\x20the\x20combat','GetCanvasPos','movePCost','mouseWasOnMouseLightLastDraw','top','\x20if\x20%','posA','uppgrade','color','drawRect','callback','Meilani\x20Olson','key','#6495ed88','drawTextCenter','\x20don\x27t\x20have\x20enought\x20Action\x20Point','face_1','\x0a-hit\x20[','GetNextTurnButton','take_damage','Halo\x20Knapp','callback_data','\x0aTarget\x20adjacents\x20blocks','CreateBattleMapFromVillagePlayer_test','bottom','ammo','workshop_icon','End\x20Turn','fullscreenchange','\x20missed\x20attack\x20(','init','speed\x20','anonymous','Jadiel\x20McDonald','actionCost','zIndex','#0088ff','hand\x20hit','foodconsumedLastTurn','Phase\x202\x20started','length','page\x20up','page\x20down','cant\x20load\x20image\x20\x22','mapBlock','zone','Where\x20your\x20players\x20works','moveCost','sort','left','Itzel\x20Allison','rect','Jianna\x20Wood','\x20is\x20dead','speed','warning','no\x20one\x20can\x20craft\x20it','TryMoveTo','\x20is\x20attacking\x20(no\x20weapon)','Linda\x20Castillo','Start\x20Phase\x202','getImageData','readyState'];_0x900c=function(){return _0x2a06e8;};return _0x900c();}(function(_0x7054bf,_0x9a1820){var _0x54a131=_0x5f46,_0x3ec2a6=_0x7054bf();while(!![]){try{var _0x23618f=-parseInt(_0x54a131(0x21c))/0x1*(-parseInt(_0x54a131(0x2be))/0x2)+-parseInt(_0x54a131(0x29a))/0x3*(parseInt(_0x54a131(0x37d))/0x4)+parseInt(_0x54a131(0x3eb))/0x5+-parseInt(_0x54a131(0x22b))/0x6*(parseInt(_0x54a131(0x181))/0x7)+-parseInt(_0x54a131(0x212))/0x8+-parseInt(_0x54a131(0x37f))/0x9*(-parseInt(_0x54a131(0x3bb))/0xa)+-parseInt(_0x54a131(0x361))/0xb;if(_0x23618f===_0x9a1820)break;else _0x3ec2a6['push'](_0x3ec2a6['shift']());}catch(_0x2260f7){_0x3ec2a6['push'](_0x3ec2a6['shift']());}}}(_0x900c,0x653bc),SoundManager=function(){var _0x596256=_0x5f46;this['sounds']=[],this[_0x596256(0x2b8)]=_0x596256(0x387),this['LoadSound']=_0x445570=>{var _0xb27f9f=_0x596256;if(this[_0xb27f9f(0x332)][_0x445570]&&this[_0xb27f9f(0x332)][_0x445570][_0xb27f9f(0x4b2)])return;var _0x5df7cf=new Audio(this['src']+_0x445570+_0xb27f9f(0x392));this[_0xb27f9f(0x332)][_0x445570]=_0x5df7cf;},this['playSound']=(_0x385a30,_0xaaf240,_0x573c25)=>{var _0x5e0f81=_0x596256;if(!this['sounds'][_0x385a30])this[_0x5e0f81(0x40f)](_0x385a30);if(!_0x573c25&&!this[_0x5e0f81(0x332)][_0x385a30]['paused'])this[_0x5e0f81(0x332)][_0x385a30]['currentTime']=0x0;if(_0xaaf240)this[_0x5e0f81(0x332)][_0x385a30]['loop']=!![];this[_0x5e0f81(0x332)][_0x385a30][_0x5e0f81(0x459)]();},this[_0x596256(0x4e6)]=_0x2ff25d=>{var _0x1d44e4=_0x596256;this['sounds'][_0x2ff25d]&&(this[_0x1d44e4(0x332)][_0x2ff25d]['pause'](),this[_0x1d44e4(0x332)][_0x2ff25d][_0x1d44e4(0x1d8)]=0x0);};});function isInRect(_0x5c9fdb,_0x20504c,_0x3f9e6f){if(_0x5c9fdb===undefined||_0x20504c===undefined||_0x3f9e6f['ax']===undefined||_0x3f9e6f['ay']===undefined||_0x3f9e6f['bx']===undefined||_0x3f9e6f['by']===undefined)return![];if(_0x3f9e6f['ax']>_0x3f9e6f['bx']){var _0xd0003f=_0x3f9e6f['ax'];_0x3f9e6f['ax']=_0x3f9e6f['bx'],_0x3f9e6f['bx']=_0xd0003f;}if(_0x3f9e6f['ay']>_0x3f9e6f['by']){var _0xd0003f=_0x3f9e6f['ay'];_0x3f9e6f['ay']=_0x3f9e6f['by'],_0x3f9e6f['by']=_0xd0003f;}if(_0x5c9fdb>_0x3f9e6f['ax']&&_0x5c9fdb<_0x3f9e6f['bx']&&_0x20504c>_0x3f9e6f['ay']&&_0x20504c<_0x3f9e6f['by'])return!![];return![];}function testCB(_0x946dad){var _0x4ac9c7=_0x5f46;if(!_0x946dad)console[_0x4ac9c7(0x277)](_0x4ac9c7(0x27e));console['log'](_0x4ac9c7(0x3f5)+_0x946dad['x']+'\x20'+_0x946dad['y']),map_test[_0x4ac9c7(0x4a0)][_0x946dad['x']][_0x946dad['y']]=(map_test[_0x4ac9c7(0x4a0)][_0x946dad['x']][_0x946dad['y']]+0x1)%0x4,scale_changed=!![];}function getAngleFromTime(_0x49fe03,_0x5298c6,_0x485735){var _0x385ebe=_0x5298c6-_0x49fe03;return _0x49fe03+_0x385ebe/0x2+_0x485735*_0x385ebe/0x2;}function distBlock(_0x722b5e,_0x14aaac,_0x393ad0,_0x2b9f48){var _0x562f40=_0x5f46,_0x2f26cd=Math[_0x562f40(0x183)](_0x722b5e-_0x393ad0),_0x3886a7=Math[_0x562f40(0x183)](_0x14aaac-_0x2b9f48);if(_0x2f26cd>_0x3886a7)return _0x2f26cd;return _0x3886a7;}function dist(_0x46dfa0,_0x161e1b,_0x59402e,_0x313c2d){var _0x5ad139=_0x5f46,_0x29ac1=Math[_0x5ad139(0x35d)]((_0x46dfa0-_0x59402e)*(_0x46dfa0-_0x59402e)+(_0x161e1b-_0x313c2d)*(_0x161e1b-_0x313c2d));return _0x29ac1;}var obj={'callback':_0xa7c9c4(0x1d9)};World=function(){var _0x18c95f=_0xa7c9c4;this[_0x18c95f(0x1cd)]=_0x18c95f(0x28b),this['test']=()=>{var _0x2a7fd7=_0x18c95f;console[_0x2a7fd7(0x277)](this[_0x2a7fd7(0x1cd)]);};};var world=new World();world[obj[_0xa7c9c4(0x47e)]](),myImage=function(_0x3c0308,_0x34c44d){var _0x17cc0f=_0xa7c9c4;console[_0x17cc0f(0x277)]('creating\x20an\x20image\x20:\x20'+_0x34c44d),this[_0x17cc0f(0x2cd)]=new Image(),this[_0x17cc0f(0x182)]=![],this[_0x17cc0f(0x312)]=_0x3c0308,this[_0x17cc0f(0x2cd)][_0x17cc0f(0x25c)]=_0x17cc0f(0x494),this[_0x17cc0f(0x2cd)][_0x17cc0f(0x2b8)]=_0x34c44d,this[_0x17cc0f(0x2cd)][_0x17cc0f(0x1d6)]=_0x17cc0f(0x49f)+_0x34c44d+'\x22',this[_0x17cc0f(0x50e)]=undefined,this['colorColored']=undefined,this['img'][_0x17cc0f(0x3f9)]()[_0x17cc0f(0x4c5)](()=>{var _0x4794b7=_0x17cc0f;console[_0x4794b7(0x277)](_0x4794b7(0x4b4)+_0x3c0308+_0x4794b7(0x279)),this['ready']=!![],this[_0x4794b7(0x2a2)](0xff,0xff,0xff);if(world[_0x4794b7(0x415)])world[_0x4794b7(0x415)]['needRedraw']=!![];if(world[_0x4794b7(0x542)])world[_0x4794b7(0x542)]['needRedraw']=!![];})['catch'](_0x4a0212=>{var _0x463eff=_0x17cc0f;console['log'](_0x463eff(0x421)+this[_0x463eff(0x312)]),console[_0x463eff(0x277)](_0x4a0212);}),this[_0x17cc0f(0x3bd)]=()=>{var _0x5626c1=_0x17cc0f;if(!this[_0x5626c1(0x182)])return undefined;const _0x1f68d9=document[_0x5626c1(0x39c)](_0x5626c1(0x4bf));_0x1f68d9['width']=this[_0x5626c1(0x2cd)][_0x5626c1(0x1fb)],_0x1f68d9['height']=this[_0x5626c1(0x2cd)][_0x5626c1(0x458)];const _0x2afdcc=_0x1f68d9[_0x5626c1(0x2d1)]('2d');return _0x2afdcc[_0x5626c1(0x32e)](this[_0x5626c1(0x2cd)],0x0,0x0),_0x2afdcc[_0x5626c1(0x4b1)](0x0,0x0,this[_0x5626c1(0x2cd)][_0x5626c1(0x1fb)],this[_0x5626c1(0x2cd)][_0x5626c1(0x458)]);},this[_0x17cc0f(0x218)]=_0xbfc36e=>{var _0x5ee48c=_0x17cc0f;const _0x14b8f9=document[_0x5ee48c(0x39c)](_0x5ee48c(0x4bf));_0x14b8f9[_0x5ee48c(0x1fb)]=_0xbfc36e[_0x5ee48c(0x1fb)],_0x14b8f9['height']=_0xbfc36e['height'];const _0x901fae=_0x14b8f9['getContext']('2d');_0x901fae[_0x5ee48c(0x521)](_0xbfc36e,0x0,0x0),this[_0x5ee48c(0x2cd)]=new Image(),this['img'][_0x5ee48c(0x2b8)]=_0x14b8f9['toDataURL'](),this['img'][_0x5ee48c(0x1d6)]=_0x5ee48c(0x34e),this[_0x5ee48c(0x2cd)][_0x5ee48c(0x3f9)]()[_0x5ee48c(0x4c5)](()=>{var _0x51ed3e=_0x5ee48c;if(world[_0x51ed3e(0x415)])world[_0x51ed3e(0x415)][_0x51ed3e(0x3ca)]=!![];if(world[_0x51ed3e(0x542)])world[_0x51ed3e(0x542)][_0x51ed3e(0x3ca)]=!![];});},this[_0x17cc0f(0x416)]=(_0x556276,_0x9d8ba5,_0xf142d5,_0x102914,_0x410443,_0xfc1f5f)=>{var _0x56b36b=_0x17cc0f,_0x1e89f8=this[_0x56b36b(0x3bd)]();if(!_0x1e89f8)return console['log'](_0x56b36b(0x203));for(var _0xa81186=0x0;_0xa81186<_0x1e89f8[_0x56b36b(0x458)];_0xa81186++){for(var _0x437318=0x0;_0x437318<_0x1e89f8['width'];_0x437318++){var _0x44d6b3=_0x1e89f8[_0x56b36b(0x2e8)][_0xa81186*(_0x1e89f8['width']*0x4)+_0x437318*0x4],_0x43af06=_0x1e89f8[_0x56b36b(0x2e8)][_0xa81186*(_0x1e89f8['width']*0x4)+_0x437318*0x4+0x1],_0x1580c0=_0x1e89f8[_0x56b36b(0x2e8)][_0xa81186*(_0x1e89f8['width']*0x4)+_0x437318*0x4+0x2],_0x5e7cf0=_0x1e89f8[_0x56b36b(0x2e8)][_0xa81186*(_0x1e89f8[_0x56b36b(0x1fb)]*0x4)+_0x437318*0x4+0x3];_0x44d6b3==_0x556276&&_0x43af06==_0x9d8ba5&&_0x1580c0==_0xf142d5&&(_0x1e89f8[_0x56b36b(0x2e8)][_0xa81186*(_0x1e89f8[_0x56b36b(0x1fb)]*0x4)+_0x437318*0x4]=_0x102914,_0x1e89f8['data'][_0xa81186*(_0x1e89f8[_0x56b36b(0x1fb)]*0x4)+_0x437318*0x4+0x1]=_0x410443,_0x1e89f8[_0x56b36b(0x2e8)][_0xa81186*(_0x1e89f8[_0x56b36b(0x1fb)]*0x4)+_0x437318*0x4+0x2]=_0xfc1f5f);}}const _0x35eed0=document[_0x56b36b(0x39c)](_0x56b36b(0x4bf));_0x35eed0[_0x56b36b(0x1fb)]=_0x1e89f8['width'],_0x35eed0[_0x56b36b(0x458)]=_0x1e89f8[_0x56b36b(0x458)];const _0x404d28=_0x35eed0[_0x56b36b(0x2d1)]('2d');_0x404d28[_0x56b36b(0x521)](_0x1e89f8,0x0,0x0);var _0x193fc6=new Image();return _0x193fc6[_0x56b36b(0x2b8)]=_0x35eed0['toDataURL'](),_0x193fc6[_0x56b36b(0x1d6)]=_0x56b36b(0x28d),_0x193fc6;},this[_0x17cc0f(0x2a2)]=(_0x4c4c70,_0x3de080,_0x3187b4)=>{var _0x535cf0=_0x17cc0f,_0x3f7000=this['createDatafromImage']();if(!_0x3f7000)return undefined;for(var _0xfa3309=0x0;_0xfa3309<_0x3f7000['height'];_0xfa3309++){for(var _0x16d812=0x0;_0x16d812<_0x3f7000['width'];_0x16d812++){var _0xb03ba=_0x3f7000[_0x535cf0(0x2e8)][_0xfa3309*(_0x3f7000[_0x535cf0(0x1fb)]*0x4)+_0x16d812*0x4],_0x1cef5d=_0x3f7000[_0x535cf0(0x2e8)][_0xfa3309*(_0x3f7000[_0x535cf0(0x1fb)]*0x4)+_0x16d812*0x4+0x1],_0x207041=_0x3f7000[_0x535cf0(0x2e8)][_0xfa3309*(_0x3f7000[_0x535cf0(0x1fb)]*0x4)+_0x16d812*0x4+0x2],_0x1bf4ef=_0x3f7000[_0x535cf0(0x2e8)][_0xfa3309*(_0x3f7000['width']*0x4)+_0x16d812*0x4+0x3];_0xb03ba==_0x4c4c70&&_0x1cef5d==_0x3de080&&_0x207041==_0x3187b4&&(_0x3f7000[_0x535cf0(0x2e8)][_0xfa3309*(_0x3f7000['width']*0x4)+_0x16d812*0x4+0x3]=0x0);}}this[_0x535cf0(0x218)](_0x3f7000);};},createImgFromData=_0x1c8159=>{var _0x30b27f=_0xa7c9c4;const _0x319642=document['createElement']('canvas');_0x319642[_0x30b27f(0x1fb)]=_0x1c8159[_0x30b27f(0x1fb)],_0x319642['height']=_0x1c8159[_0x30b27f(0x458)];const _0x42f8c2=_0x319642[_0x30b27f(0x2d1)]('2d');_0x42f8c2[_0x30b27f(0x521)](_0x1c8159,0x0,0x0);var _0x315fdf=new Image();return _0x315fdf[_0x30b27f(0x2b8)]=_0x319642[_0x30b27f(0x4d0)](),_0x315fdf[_0x30b27f(0x1d6)]='failed\x20createImgData\x20image',_0x315fdf;},MyUI=function(_0x3800a7,_0x1640d0,_0x382894,_0x20daf8,_0x816d14,_0x136262,_0x1621e0,_0x411fc1){var _0xff30a9=_0xa7c9c4;MYUI_WINDOWINFO_MOUSETIME=0x190,MYUI_LETTER_SIZE=0x14,MYUI_FONT=_0xff30a9(0x1c3),this['x']=_0x1640d0,this['y']=_0x382894,this[_0xff30a9(0x4bf)]=_0x3800a7,this['marge']=_0x411fc1?_0x411fc1:0x5,this[_0xff30a9(0x18a)]=_0x20daf8+0x2*this['marge'],this[_0xff30a9(0x3df)]=this[_0xff30a9(0x53b)],this[_0xff30a9(0x413)]=[],this[_0xff30a9(0x2d0)]=_0x816d14,this[_0xff30a9(0x33d)]=_0x136262?_0x136262:undefined,this[_0xff30a9(0x3a7)]=_0x1621e0?_0x1621e0:undefined,this[_0xff30a9(0x293)]=[],this[_0xff30a9(0x330)]=![],this[_0xff30a9(0x2dd)]=(_0x58fb4e,_0x3c6693,_0x2b420d,_0x5723af,_0x56eea2)=>{var _0x2dc542=_0xff30a9;this['canvas'][_0x2dc542(0x3f0)]['font']=''+_0x3c6693+'px'+_0x56eea2;var _0x50079f=[];while(_0x58fb4e[_0x2dc542(0x49c)]>0x0){var _0x1c34cf=0x0;while(_0x58fb4e[_0x1c34cf]=='\x0a')_0x1c34cf++;while(_0x58fb4e[_0x1c34cf]!='\x0a'&&_0x1c34cf<_0x58fb4e[_0x2dc542(0x49c)]&&_0x1c34cf<_0x2b420d)_0x1c34cf++;if(_0x1c34cf==_0x2b420d){while(_0x58fb4e[_0x1c34cf]!='\x20'&&_0x1c34cf>0x0)_0x1c34cf--;}_0x1c34cf=_0x1c34cf>0x0?_0x1c34cf:_0x2b420d;var _0x25aad7=''+_0x58fb4e[_0x2dc542(0x35b)](0x0,_0x1c34cf);while(_0x58fb4e[_0x1c34cf+0x1]=='\x0a')_0x1c34cf++;_0x58fb4e=_0x58fb4e[_0x2dc542(0x35b)](_0x1c34cf),_0x50079f[_0x2dc542(0x43c)](_0x25aad7);var _0x51c1f9=this[_0x2dc542(0x4bf)][_0x2dc542(0x3f0)][_0x2dc542(0x33b)](_0x25aad7);if(this['lenx']<_0x51c1f9[_0x2dc542(0x1fb)]+0x2*this[_0x2dc542(0x53b)])this[_0x2dc542(0x18a)]=_0x51c1f9[_0x2dc542(0x1fb)]+0x2*this['marge'];this[_0x2dc542(0x3df)]+=_0x3c6693+this['marge'];}this['elmList'][_0x2dc542(0x43c)]({'type':'text','txts':_0x50079f,'letter_size':Math[_0x2dc542(0x285)](_0x3c6693),'txt_color':_0x5723af,'text_font':_0x56eea2});},this['addGauge']=(_0x1eaf7d,_0xe8fb21,_0x32c7e8,_0xa61aef,_0x1acb3f,_0x256a5f,_0x703e50,_0x2d93da,_0x339cb6)=>{var _0x38faa7=_0xff30a9;_0x339cb6=_0x339cb6?_0x339cb6:_0x38faa7(0x297),this[_0x38faa7(0x4bf)]['ctx'][_0x38faa7(0x27f)]=''+_0x1acb3f+_0x38faa7(0x2ad)+_0x339cb6;var _0x5e2761=this[_0x38faa7(0x4bf)][_0x38faa7(0x3f0)][_0x38faa7(0x33b)](_0x1eaf7d);if(_0x5e2761>_0x32c7e8+0x2*this[_0x38faa7(0x53b)])_0x32c7e8=_0x5e2761+0x2*this[_0x38faa7(0x53b)];if(this[_0x38faa7(0x18a)]<_0x32c7e8+0x2*this[_0x38faa7(0x53b)])this['lenx']=_0x32c7e8+0x2*this[_0x38faa7(0x53b)];if(_0xa61aef<_0x1acb3f+0x2*this[_0x38faa7(0x53b)])_0xa61aef=_0x1acb3f+0x2*this['marge'];this['elmList'][_0x38faa7(0x43c)]({'type':'gauge','txt':_0x1eaf7d,'fullness':_0xe8fb21,'lenx':_0x32c7e8,'leny':_0xa61aef,'letter_size':_0x1acb3f,'colorFill':_0x256a5f,'colorStroke':_0x703e50,'colorText':_0x2d93da,'text_font':_0x339cb6}),this['leny']+=_0xa61aef+this[_0x38faa7(0x53b)];},this[_0xff30a9(0x423)]=(_0x1514ab,_0x49c1d3,_0x5d2a51,_0x31d142,_0x26d6fd,_0x18e0db,_0x47a7b9,_0x36bc99,_0x16a04f,_0x48190b,_0x5748b8)=>{var _0x61d2b4=_0xff30a9;this[_0x61d2b4(0x4bf)]['ctx']['font']=''+_0x49c1d3+'px'+_0x36bc99,_0x1514ab=_0x16a04f?_0x16a04f+_0x61d2b4(0x1da)+_0x1514ab:_0x1514ab;var _0x15d937=this[_0x61d2b4(0x4bf)][_0x61d2b4(0x3f0)][_0x61d2b4(0x33b)](_0x1514ab);if(_0x15d937[_0x61d2b4(0x1fb)]+0x4*this[_0x61d2b4(0x53b)]>this['lenx'])this[_0x61d2b4(0x18a)]=_0x15d937['width']+0x4*this[_0x61d2b4(0x53b)];this['elmList'][_0x61d2b4(0x43c)]({'type':_0x61d2b4(0x53f),'txt_size':_0x15d937,'letter_size':_0x49c1d3,'text_color':_0x5d2a51,'fillColor':_0x31d142,'strokeColor':_0x26d6fd,'callback':_0x18e0db,'callback_data':_0x47a7b9,'text_font':_0x36bc99,'key_event':_0x16a04f,'txt':_0x1514ab,'windowInfo':_0x48190b,'mouseLight':_0x5748b8}),this[_0x61d2b4(0x3df)]+=Math[_0x61d2b4(0x285)](0x3*this[_0x61d2b4(0x53b)]+_0x49c1d3);},this[_0xff30a9(0x240)]=_0x6bde20=>{var _0x280e38=_0xff30a9,_0x4db499={'type':_0x280e38(0x25e),'list':[]},_0x5b9a6c=0x0,_0x197ebc=this['marge'];for(var _0x48af9b in _0x6bde20){var _0x44783b=_0x6bde20[_0x48af9b],_0x4db8aa=undefined;switch(_0x44783b['type']){case undefined:continue;case _0x280e38(0x1cd):if(!_0x44783b[_0x280e38(0x1cd)])continue;var _0x7dbb6a=_0x44783b['txt'],_0x4fb2eb=[],_0x25af48=0x0,_0x26ddb7=0x0,_0x8efda3=_0x44783b[_0x280e38(0x1fc)]?_0x44783b[_0x280e38(0x1fc)]:0x270f;this[_0x280e38(0x4bf)][_0x280e38(0x3f0)][_0x280e38(0x27f)]=''+_0x44783b['letter_size']+'px'+_0x44783b[_0x280e38(0x235)];while(_0x7dbb6a[_0x280e38(0x49c)]>0x0){var _0x4183a3=0x0;while(_0x7dbb6a[_0x4183a3]=='\x0a')_0x4183a3++;while(_0x7dbb6a[_0x4183a3]!='\x0a'&&_0x4183a3<_0x7dbb6a[_0x280e38(0x49c)]&&_0x4183a3<_0x8efda3)_0x4183a3++;if(_0x4183a3==_0x8efda3){while(_0x7dbb6a[_0x4183a3]!='\x20'&&_0x4183a3>0x0)_0x4183a3--;}_0x4183a3=_0x4183a3>0x0?_0x4183a3:_0x8efda3;var _0x198d30=''+_0x7dbb6a[_0x280e38(0x35b)](0x0,_0x4183a3);while(_0x7dbb6a[_0x4183a3+0x1]=='\x0a')_0x4183a3++;_0x7dbb6a=_0x7dbb6a['substring'](_0x4183a3),_0x4fb2eb[_0x280e38(0x43c)](_0x198d30);var _0x492d1d=this[_0x280e38(0x4bf)]['ctx']['measureText'](_0x198d30);if(_0x26ddb7<_0x492d1d[_0x280e38(0x1fb)]+0x2*this[_0x280e38(0x53b)])_0x26ddb7=_0x492d1d[_0x280e38(0x1fb)]+0x2*this['marge'];_0x25af48+=_0x44783b[_0x280e38(0x3ab)]+this[_0x280e38(0x53b)];}_0x5b9a6c=_0x25af48>_0x5b9a6c?_0x25af48:_0x5b9a6c,_0x4db8aa={'type':_0x280e38(0x1cd),'txts':_0x4fb2eb,'txt_color':_0x44783b[_0x280e38(0x4ed)]?_0x44783b['txt_color']:_0x280e38(0x2eb),'max_letters':_0x44783b['max_letter']?_0x44783b[_0x280e38(0x1b9)]:0x270f,'letter_size':_0x44783b[_0x280e38(0x3ab)]?_0x44783b[_0x280e38(0x3ab)]:0x14,'txt_font':_0x44783b[_0x280e38(0x235)]?_0x44783b[_0x280e38(0x235)]:_0x280e38(0x297),'txt_size':_0x26ddb7},_0x197ebc+=_0x26ddb7;break;case _0x280e38(0x2cd):if(!_0x44783b[_0x280e38(0x2cd)])continue;_0x4db8aa={'type':_0x280e38(0x2cd),'img':_0x44783b[_0x280e38(0x2cd)],'len_x':_0x44783b[_0x280e38(0x2f0)]?_0x44783b['len_x']:0x32,'len_y':_0x44783b[_0x280e38(0x261)]?_0x44783b[_0x280e38(0x261)]:0x32},_0x5b9a6c=_0x4db8aa['len_y']>_0x5b9a6c?_0x4db8aa[_0x280e38(0x261)]:_0x5b9a6c,_0x197ebc+=_0x4db8aa[_0x280e38(0x2f0)]+this['marge'];break;case _0x280e38(0x53f):if(!_0x44783b[_0x280e38(0x47e)]||!_0x44783b[_0x280e38(0x1cd)])continue;var _0x17ba2a=_0x44783b[_0x280e38(0x3ab)]?_0x44783b['letter_size']:0x14,_0x20605b=_0x44783b[_0x280e38(0x235)]?_0x44783b[_0x280e38(0x235)]:'Arial';this[_0x280e38(0x4bf)][_0x280e38(0x3f0)]['font']=''+_0x17ba2a+'px'+_0x20605b;var _0x7dbb6a=_0x44783b['key_event']?_0x44783b[_0x280e38(0x445)]+'\x20-\x20'+_0x44783b[_0x280e38(0x1cd)]:_0x44783b[_0x280e38(0x1cd)],_0x492d1d=this[_0x280e38(0x4bf)][_0x280e38(0x3f0)][_0x280e38(0x33b)](_0x7dbb6a);_0x4db8aa={'type':_0x280e38(0x53f),'txt_size':_0x492d1d['width'],'letter_size':_0x17ba2a,'txt_color':_0x44783b[_0x280e38(0x4ed)]?_0x44783b['txt_color']:'#000000','fillColor':_0x44783b[_0x280e38(0x2b0)]?_0x44783b[_0x280e38(0x2b0)]:'#ffffff','strokeColor':_0x44783b['strokeColor']?_0x44783b[_0x280e38(0x1ca)]:_0x280e38(0x2eb),'callback':_0x44783b[_0x280e38(0x47e)],'callback_data':_0x44783b['callback_data'],'txt_font':_0x20605b,'key_event':_0x44783b[_0x280e38(0x445)],'txt':_0x7dbb6a,'windowInfo':_0x44783b[_0x280e38(0x438)],'mouseLight':_0x44783b[_0x280e38(0x2b1)]},_0x5b9a6c=_0x4db8aa[_0x280e38(0x3ab)]+0x2*this[_0x280e38(0x53b)]>_0x5b9a6c?_0x4db8aa[_0x280e38(0x3ab)]+0x2*this[_0x280e38(0x53b)]:_0x5b9a6c,_0x197ebc+=_0x492d1d[_0x280e38(0x1fb)]+this['marge']*0x3;break;}_0x4db499[_0x280e38(0x4c4)][_0x280e38(0x43c)](_0x4db8aa);}if(this[_0x280e38(0x18a)]<_0x197ebc)this[_0x280e38(0x18a)]=_0x197ebc;_0x4db499[_0x280e38(0x261)]=_0x5b9a6c,this[_0x280e38(0x413)][_0x280e38(0x43c)](_0x4db499),this[_0x280e38(0x3df)]+=Math[_0x280e38(0x285)](this['marge']+_0x5b9a6c);},this[_0xff30a9(0x29f)]=(_0xb53773,_0x29b9bd,_0x33d4cb)=>{var _0x33585e=_0xff30a9;this[_0x33585e(0x413)]['push']({'type':_0x33585e(0x2cd),'img':_0xb53773,'lenx':_0x29b9bd,'leny':_0x33d4cb});if(this['lenx']<_0x29b9bd+0x2*this[_0x33585e(0x53b)])this['lenx']=_0x29b9bd+0x2*this[_0x33585e(0x53b)];this[_0x33585e(0x3df)]+=Math['floor'](this[_0x33585e(0x53b)]+_0x29b9bd);},this['drawUI']=()=>{var _0x4a37b7=_0xff30a9;this['background']&&(this[_0x4a37b7(0x4bf)][_0x4a37b7(0x3f0)][_0x4a37b7(0x3e8)]=this[_0x4a37b7(0x33d)],this[_0x4a37b7(0x4bf)][_0x4a37b7(0x234)](this['x'],this['y'],this['x']+this[_0x4a37b7(0x18a)],this['y']+this[_0x4a37b7(0x3df)]));this['stroke']&&(this['canvas'][_0x4a37b7(0x3f0)]['strokeStyle']=this[_0x4a37b7(0x3a7)],this[_0x4a37b7(0x4bf)][_0x4a37b7(0x47d)](this['x'],this['y'],this['x']+this[_0x4a37b7(0x18a)],this['y']+this[_0x4a37b7(0x3df)]));var _0xfd7832=this['y']+this['marge'];for(var _0x47a1d0 in this[_0x4a37b7(0x413)]){var _0x4566d3=this[_0x4a37b7(0x413)][_0x47a1d0];switch(_0x4566d3['type']){case'text':for(var _0x503c41 in _0x4566d3[_0x4a37b7(0x267)]){this['canvas'][_0x4a37b7(0x2f5)](_0x4566d3[_0x4a37b7(0x267)][_0x503c41],this['x']+this['marge'],_0xfd7832,this[_0x4a37b7(0x18a)],_0x4566d3[_0x4a37b7(0x3ab)],_0x4566d3[_0x4a37b7(0x4ed)],_0x4566d3['text_font']),_0xfd7832+=_0x4566d3['letter_size']+this[_0x4a37b7(0x53b)];}break;case'button':this['canvas'][_0x4a37b7(0x3f0)]['font']=''+_0x4566d3[_0x4a37b7(0x3ab)]+'px'+_0x4566d3['text_font'];var _0x1b3d5f=Math[_0x4a37b7(0x285)](this['x']+_0x4566d3['txt_size']['width']/0x2+0x2*this[_0x4a37b7(0x53b)]),_0x565543=Math[_0x4a37b7(0x285)](_0xfd7832+_0x4566d3['letter_size']/0x2+0x1*this['marge']),_0x188639={'ax':Math[_0x4a37b7(0x285)](_0x1b3d5f-_0x4566d3[_0x4a37b7(0x1d2)]['width']/0x2-this[_0x4a37b7(0x53b)]),'ay':Math[_0x4a37b7(0x285)](_0x565543-_0x4566d3[_0x4a37b7(0x3ab)]/0x2-this[_0x4a37b7(0x53b)]),'bx':Math[_0x4a37b7(0x285)](_0x1b3d5f+_0x4566d3[_0x4a37b7(0x1d2)][_0x4a37b7(0x1fb)]/0x2+this[_0x4a37b7(0x53b)]),'by':Math[_0x4a37b7(0x285)](_0x565543+_0x4566d3['letter_size']/0x2+this[_0x4a37b7(0x53b)])};this[_0x4a37b7(0x4bf)][_0x4a37b7(0x3f0)]['fillStyle']=_0x4566d3[_0x4a37b7(0x2b0)];if(_0x4566d3[_0x4a37b7(0x2b1)]&&isInRect(world['Controler']['mousePos']['x'],world[_0x4a37b7(0x325)][_0x4a37b7(0x345)]['y'],_0x188639))this['canvas']['ctx']['fillStyle']=_0x4566d3[_0x4a37b7(0x2b0)][_0x4a37b7(0x35b)](0x0,0x7)+_0x4566d3[_0x4a37b7(0x2b1)];this[_0x4a37b7(0x4bf)][_0x4a37b7(0x234)](_0x188639['ax'],_0x188639['ay'],_0x188639['bx'],_0x188639['by']),this['canvas'][_0x4a37b7(0x3f0)]['strokeStyle']=_0x4566d3[_0x4a37b7(0x1ca)],this['canvas'][_0x4a37b7(0x47d)](_0x188639['ax'],_0x188639['ay'],_0x188639['bx'],_0x188639['by']),this[_0x4a37b7(0x4bf)][_0x4a37b7(0x482)](_0x4566d3[_0x4a37b7(0x1cd)],_0x1b3d5f,_0x565543,0x270f,_0x4566d3[_0x4a37b7(0x3ab)],_0x4566d3['text_color'],_0x4566d3[_0x4a37b7(0x1d5)]),this[_0x4a37b7(0x293)][_0x4a37b7(0x43c)]({'rect':_0x188639,'callback':_0x4566d3['callback'],'callback_data':_0x4566d3['callback_data'],'key_event':_0x4566d3['key_event'],'windowInfo':_0x4566d3[_0x4a37b7(0x438)]}),_0xfd7832+=_0x4566d3['letter_size']+this[_0x4a37b7(0x53b)]*0x3;break;case _0x4a37b7(0x2cd):this['canvas']['draw_Image'](_0x4566d3[_0x4a37b7(0x2cd)],this['x']+this[_0x4a37b7(0x53b)],_0xfd7832+this[_0x4a37b7(0x53b)],_0x4566d3[_0x4a37b7(0x18a)],_0x4566d3[_0x4a37b7(0x3df)]),_0xfd7832+=_0x4566d3['leny']+this[_0x4a37b7(0x53b)];break;case _0x4a37b7(0x3bf):this[_0x4a37b7(0x4bf)]['ctx'][_0x4a37b7(0x3e8)]=_0x4566d3[_0x4a37b7(0x311)],this[_0x4a37b7(0x4bf)]['drawFillRect'](this['x']+this['marge'],_0xfd7832+this[_0x4a37b7(0x53b)],this['x']+_0x4566d3['lenx'],_0xfd7832+_0x4566d3['leny']),this[_0x4a37b7(0x4bf)]['ctx'][_0x4a37b7(0x3e8)]=_0x4566d3[_0x4a37b7(0x2b4)];if(_0x4566d3['fullness']>0x0)this[_0x4a37b7(0x4bf)][_0x4a37b7(0x234)](this['x']+this[_0x4a37b7(0x53b)]*0x2,_0xfd7832+this[_0x4a37b7(0x53b)]*0x2,Math[_0x4a37b7(0x285)](this['x']+_0x4566d3['lenx']*_0x4566d3[_0x4a37b7(0x3ed)]-this[_0x4a37b7(0x53b)]),_0xfd7832+_0x4566d3[_0x4a37b7(0x3df)]-this[_0x4a37b7(0x53b)]);this[_0x4a37b7(0x4bf)][_0x4a37b7(0x482)](_0x4566d3[_0x4a37b7(0x1cd)],this['x']+this[_0x4a37b7(0x53b)]+_0x4566d3['lenx']/0x2,_0xfd7832+this[_0x4a37b7(0x53b)]+_0x4566d3[_0x4a37b7(0x3df)]/0x2,_0x4566d3[_0x4a37b7(0x18a)],_0x4566d3['letter_size'],_0x4566d3[_0x4a37b7(0x4cb)],_0x4566d3[_0x4a37b7(0x1d5)]),_0xfd7832+=_0x4566d3[_0x4a37b7(0x3df)];break;case'horizontal':var _0x36a271=this['marge'];for(var _0x555f5b in _0x4566d3[_0x4a37b7(0x4c4)]){var _0x1888d1=_0x4566d3['list'][_0x555f5b];switch(_0x1888d1[_0x4a37b7(0x24c)]){case _0x4a37b7(0x1cd):var _0x274c86=_0xfd7832;for(var _0x47a1d0 in _0x1888d1[_0x4a37b7(0x267)]){this[_0x4a37b7(0x4bf)][_0x4a37b7(0x2f5)](_0x1888d1[_0x4a37b7(0x267)][_0x47a1d0],this['x']+_0x36a271,_0x274c86,_0x1888d1[_0x4a37b7(0x1d2)],_0x1888d1[_0x4a37b7(0x3ab)],_0x1888d1['txt_color'],_0x1888d1[_0x4a37b7(0x235)]),_0x274c86+=_0x1888d1['letter_size']+this[_0x4a37b7(0x53b)];}_0x36a271+=this[_0x4a37b7(0x53b)]+_0x1888d1[_0x4a37b7(0x1d2)];break;case _0x4a37b7(0x53f):this['canvas'][_0x4a37b7(0x3f0)]['font']=''+_0x1888d1[_0x4a37b7(0x3ab)]+'px'+_0x1888d1[_0x4a37b7(0x235)];var _0x1b3d5f=Math[_0x4a37b7(0x285)](this['x']+_0x36a271+_0x1888d1[_0x4a37b7(0x1d2)]/0x2+this[_0x4a37b7(0x53b)]/0x2),_0x565543=Math[_0x4a37b7(0x285)](_0xfd7832+_0x1888d1['letter_size']/0x2+this[_0x4a37b7(0x53b)]/0x2),_0x188639={'ax':Math[_0x4a37b7(0x285)](_0x1b3d5f-_0x1888d1[_0x4a37b7(0x1d2)]/0x2-this[_0x4a37b7(0x53b)]),'ay':Math[_0x4a37b7(0x285)](_0x565543-_0x1888d1[_0x4a37b7(0x3ab)]/0x2-this[_0x4a37b7(0x53b)]),'bx':Math['floor'](_0x1b3d5f+_0x1888d1[_0x4a37b7(0x1d2)]/0x2+this[_0x4a37b7(0x53b)]),'by':Math[_0x4a37b7(0x285)](_0x565543+_0x1888d1[_0x4a37b7(0x3ab)]/0x2+this[_0x4a37b7(0x53b)])};this['canvas'][_0x4a37b7(0x3f0)][_0x4a37b7(0x3e8)]=_0x1888d1[_0x4a37b7(0x2b0)];if(_0x1888d1[_0x4a37b7(0x2b1)]&&isInRect(world[_0x4a37b7(0x325)][_0x4a37b7(0x345)]['x'],world[_0x4a37b7(0x325)][_0x4a37b7(0x345)]['y'],_0x188639))this[_0x4a37b7(0x4bf)][_0x4a37b7(0x3f0)]['fillStyle']=_0x1888d1[_0x4a37b7(0x2b0)]['substring'](0x0,0x7)+_0x1888d1[_0x4a37b7(0x2b1)];this[_0x4a37b7(0x4bf)][_0x4a37b7(0x234)](_0x188639['ax'],_0x188639['ay'],_0x188639['bx'],_0x188639['by']),this[_0x4a37b7(0x4bf)][_0x4a37b7(0x3f0)][_0x4a37b7(0x38e)]=_0x1888d1[_0x4a37b7(0x1ca)],this[_0x4a37b7(0x4bf)]['drawRect'](_0x188639['ax'],_0x188639['ay'],_0x188639['bx'],_0x188639['by']),this[_0x4a37b7(0x4bf)]['drawTextCenter'](_0x1888d1[_0x4a37b7(0x1cd)],_0x1b3d5f,_0x565543,0x270f,_0x1888d1[_0x4a37b7(0x3ab)],_0x1888d1[_0x4a37b7(0x4ed)],_0x1888d1['txt_font']),this['buttonList'][_0x4a37b7(0x43c)]({'rect':_0x188639,'callback':_0x1888d1[_0x4a37b7(0x47e)],'callback_data':_0x1888d1[_0x4a37b7(0x489)],'key_event':_0x1888d1[_0x4a37b7(0x445)],'windowInfo':_0x1888d1[_0x4a37b7(0x438)],'mouseLight':!![]}),_0x36a271+=this[_0x4a37b7(0x53b)]*0x3+_0x1888d1[_0x4a37b7(0x1d2)];break;case _0x4a37b7(0x2cd):this[_0x4a37b7(0x4bf)][_0x4a37b7(0x33f)](_0x1888d1[_0x4a37b7(0x2cd)],this['x']+_0x36a271,_0xfd7832,_0x1888d1['len_x'],_0x1888d1[_0x4a37b7(0x261)]),_0x36a271+=_0x1888d1[_0x4a37b7(0x261)]+this[_0x4a37b7(0x53b)];break;}}_0xfd7832+=_0x4566d3[_0x4a37b7(0x261)]+this[_0x4a37b7(0x53b)];break;}}this[_0x4a37b7(0x430)]();},this['click_buton_check']=(_0x475c1e,_0x26c409)=>{var _0x1c9063=_0xff30a9;for(var _0x2e121e in this['buttonList']){var _0x12a950=this[_0x1c9063(0x293)][_0x2e121e];if(isInRect(_0x475c1e,_0x26c409,_0x12a950['rect']))return _0x12a950[_0x1c9063(0x47e)](_0x12a950['callback_data']),!![];}return![];},this[_0xff30a9(0x3b3)]=(_0xfce584,_0x3250c0)=>{var _0x4139c9=_0xff30a9;for(var _0x4c69f7 in this['buttonList']){var _0x2ed517=this[_0x4139c9(0x293)][_0x4c69f7];if(_0x2ed517[_0x4139c9(0x2b1)]&&isInRect(_0xfce584,_0x3250c0,_0x2ed517['rect']))return this[_0x4139c9(0x3ca)]=!![],!![];}return![];},this[_0xff30a9(0x2c1)]=_0x250ff7=>{var _0x1e1ad7=_0xff30a9;for(var _0x505b16 in this['buttonList']){var _0x1a2c9f=this['buttonList'][_0x505b16];if(_0x1a2c9f[_0x1e1ad7(0x445)]&&_0x1a2c9f[_0x1e1ad7(0x445)]==_0x250ff7)return _0x1a2c9f['callback'](_0x1a2c9f['callback_data']),!![];}return![];},this[_0xff30a9(0x430)]=_0x157f3c=>{var _0x37b035=_0xff30a9;if(!world[_0x37b035(0x325)])return![];var _0xc8027f=world[_0x37b035(0x325)][_0x37b035(0x345)];if(!_0xc8027f)return;if(new Date()[_0x37b035(0x1be)]()-_0xc8027f[_0x37b035(0x45b)]<MYUI_WINDOWINFO_MOUSETIME)return this['InfoWindowPos']&&(this[_0x37b035(0x330)]=![],this[_0x37b035(0x3ca)]=!![]),![];if(!this[_0x37b035(0x330)])this['InfoWindowPos']={'x':_0xc8027f['x'],'y':_0xc8027f['y']};else{if(!_0x157f3c&&_0xc8027f['x']==this[_0x37b035(0x330)]['x']&&_0xc8027f['y']==this['InfoWindowPos']['y'])return![];}for(var _0x2d11e7 in this[_0x37b035(0x293)]){var _0x4bd7ca=this['buttonList'][_0x2d11e7];if(_0x4bd7ca[_0x37b035(0x438)]&&isInRect(_0xc8027f['x'],_0xc8027f['y'],_0x4bd7ca[_0x37b035(0x4a7)])){var _0x5eae7c=new MyUI(this[_0x37b035(0x4bf)],_0xc8027f['x'],_0xc8027f['y'],0x32,0x1,this[_0x37b035(0x33d)],this[_0x37b035(0x3a7)],0x1);_0x5eae7c[_0x37b035(0x2dd)](_0x37b035(0x306),MYUI_LETTER_SIZE,0x270f,_0x37b035(0x2eb),MYUI_FONT);for(var _0xf8da3c in _0x4bd7ca[_0x37b035(0x438)]){var _0x183e88=_0x4bd7ca[_0x37b035(0x438)][_0xf8da3c];if(_0x183e88['callback'])_0x5eae7c[_0x37b035(0x2dd)](_0x183e88[_0x37b035(0x47e)](_0x183e88[_0x37b035(0x4d4)]),MYUI_LETTER_SIZE,0x270f,_0x37b035(0x2eb),MYUI_FONT);}return _0x5eae7c[_0x37b035(0x38f)](),!![];}}return![];};},UIManager=function(){var _0x2e57ec=_0xa7c9c4;this[_0x2e57ec(0x1fa)]=[],this[_0x2e57ec(0x30d)]=(_0xa9601b,_0x277a4a,_0x2f460d,_0x438b90,_0x357648,_0x407d81,_0xbfe1ab,_0x38af89)=>{var _0x4a52aa=_0x2e57ec,_0x34961f=new MyUI(_0xa9601b,_0x277a4a,_0x2f460d,_0x438b90,_0x357648,_0x407d81,_0xbfe1ab,_0x38af89);return this[_0x4a52aa(0x1fa)][_0x4a52aa(0x43c)](_0x34961f),_0x34961f;},this[_0x2e57ec(0x316)]=_0x5bfc37=>{var _0x594736=_0x2e57ec;for(var _0x2fe37a in this[_0x594736(0x1fa)]){var _0x3ddfde=this[_0x594736(0x1fa)][_0x2fe37a],_0x535428=_0x3ddfde[_0x594736(0x2c1)](_0x5bfc37);if(_0x535428)return!![];}return![];},this[_0x2e57ec(0x51e)]=(_0x4e7b3a,_0x506e37)=>{var _0x3b7ee2=_0x2e57ec;for(var _0x468983 in this[_0x3b7ee2(0x1fa)]){var _0x3564e4=this['UI_list'][_0x468983],_0x5180c4=_0x3564e4[_0x3b7ee2(0x4c7)](_0x4e7b3a,_0x506e37);if(_0x5180c4)return!![];}return![];};},MyCanvas=function(_0x18b8f2,_0x1fb4e0,_0x4aa371){var _0x63febe=_0xa7c9c4;this[_0x63febe(0x1fb)]=window['innerWidth'],this['height']=window[_0x63febe(0x4d7)],_0x4aa371&&(_0x4aa371['x']&&_0x4aa371['y']&&(this[_0x63febe(0x1fb)]=_0x4aa371['x'],this[_0x63febe(0x458)]=_0x4aa371['y'])),this[_0x63febe(0x4bf)]=document[_0x63febe(0x39c)](_0x63febe(0x4bf)),this['canvas'][_0x63febe(0x1fb)]=this[_0x63febe(0x1fb)],this[_0x63febe(0x4bf)][_0x63febe(0x458)]=this['height'],this['id']=_0x18b8f2,this[_0x63febe(0x4bf)]['id']=_0x18b8f2,this[_0x63febe(0x4bf)][_0x63febe(0x336)][_0x63febe(0x497)]=_0x1fb4e0,this['canvas'][_0x63febe(0x336)][_0x63febe(0x545)]=_0x63febe(0x51c),this[_0x63febe(0x4bf)][_0x63febe(0x336)][_0x63febe(0x478)]=_0x63febe(0x429),this[_0x63febe(0x4bf)]['style'][_0x63febe(0x4a5)]='0px',this[_0x63febe(0x3f0)]=this[_0x63febe(0x4bf)][_0x63febe(0x2d1)]('2d'),this[_0x63febe(0x21a)]=![],document['body']['appendChild'](this[_0x63febe(0x4bf)]),this[_0x63febe(0x475)]=()=>{var _0x2a1fca=_0x63febe,_0x2b3b75=this[_0x2a1fca(0x4bf)][_0x2a1fca(0x252)]();if(_0x2b3b75)this['screenAx']=Math[_0x2a1fca(0x285)](_0x2b3b75['x']),this['screenAy']=Math[_0x2a1fca(0x285)](_0x2b3b75['y']),this[_0x2a1fca(0x504)]=Math[_0x2a1fca(0x285)](_0x2b3b75[_0x2a1fca(0x510)]-_0x2b3b75['x']),this[_0x2a1fca(0x440)]=Math[_0x2a1fca(0x285)](_0x2b3b75[_0x2a1fca(0x48c)]-_0x2b3b75['y']);else console['log'](_0x2a1fca(0x456));},this[_0x63febe(0x475)](),this[_0x63febe(0x287)]=(_0x577f59,_0x39cce7)=>{var _0x34e836=_0x63febe;this[_0x34e836(0x475)]();if(_0x577f59<this['screenAx']||_0x39cce7<this[_0x34e836(0x26c)]||_0x577f59>this[_0x34e836(0x504)]||_0x39cce7>this[_0x34e836(0x440)])return undefined;var _0x5bfc98={'x':Math['floor'](_0x577f59-this['screenAx']),'y':Math[_0x34e836(0x285)](_0x39cce7-this['screenAy'])};return _0x5bfc98;},this[_0x63febe(0x1f6)]=()=>{var _0x487d45=_0x63febe;this[_0x487d45(0x3f0)][_0x487d45(0x375)](0x0,0x0,this[_0x487d45(0x4bf)][_0x487d45(0x1fb)],this[_0x487d45(0x4bf)][_0x487d45(0x458)]);},this[_0x63febe(0x234)]=(_0x1876bf,_0x1356c7,_0x54c466,_0x87fd6e)=>{this['ctx']['fillRect'](_0x1876bf,_0x1356c7,_0x54c466-_0x1876bf,_0x87fd6e-_0x1356c7);},this['drawRect']=(_0x2c7fc5,_0x1dce73,_0x40d195,_0x10c449)=>{var _0x42f42f=_0x63febe;this['ctx'][_0x42f42f(0x3b4)](_0x2c7fc5,_0x1dce73,_0x40d195-_0x2c7fc5,_0x10c449-_0x1dce73);},this[_0x63febe(0x426)]=(_0x4d2155,_0x63d472,_0x5e7287,_0x2efd9d)=>{var _0x5d9403=_0x63febe;this[_0x5d9403(0x3f0)][_0x5d9403(0x2e6)](),this[_0x5d9403(0x3f0)][_0x5d9403(0x505)](_0x4d2155,_0x63d472),this['ctx'][_0x5d9403(0x3c6)](_0x5e7287,_0x2efd9d),this['ctx'][_0x5d9403(0x3a7)]();},this[_0x63febe(0x33f)]=(_0x3cdbe5,_0x1ee267,_0x23f7c8,_0x143a16,_0x526d8f)=>{var _0x410f7a=_0x63febe;_0x1ee267=Math[_0x410f7a(0x51a)](_0x1ee267),_0x23f7c8=Math[_0x410f7a(0x51a)](_0x23f7c8),_0x143a16=Math['round'](_0x143a16),_0x526d8f=Math[_0x410f7a(0x51a)](_0x526d8f),ctx=this[_0x410f7a(0x3f0)],ctx[_0x410f7a(0x32e)](_0x3cdbe5,_0x1ee267,_0x23f7c8,_0x143a16,_0x526d8f);},this[_0x63febe(0x379)]=(_0x4697fc,_0x133200,_0x186201,_0xbd2fb9,_0x4e5a56,_0xfd4519,_0x2081a5)=>{var _0x314943=_0x63febe;_0x133200=Math[_0x314943(0x51a)](_0x133200),_0x186201=Math[_0x314943(0x51a)](_0x186201),ctx=this[_0x314943(0x3f0)],ctx[_0x314943(0x37c)](-_0xfd4519,0x0,0x0,_0xfd4519,_0x133200,_0x186201),ctx['rotate'](_0x2081a5),ctx[_0x314943(0x32e)](_0x4697fc,-_0xbd2fb9,-_0x4e5a56),ctx[_0x314943(0x37c)](0x1,0x0,0x0,0x1,0x0,0x0);},this[_0x63febe(0x3b0)]=(_0x1b8e4b,_0x46de8e,_0x2a5f3d,_0xd1d9bd,_0x40cd66,_0x5a9c90,_0x15f91c)=>{var _0x4f8ced=_0x63febe;_0x46de8e=Math[_0x4f8ced(0x51a)](_0x46de8e),_0x2a5f3d=Math[_0x4f8ced(0x51a)](_0x2a5f3d),ctx=this[_0x4f8ced(0x3f0)],ctx['setTransform'](_0x5a9c90,0x0,0x0,_0x5a9c90,_0x46de8e,_0x2a5f3d),ctx[_0x4f8ced(0x26b)](_0x15f91c),ctx[_0x4f8ced(0x32e)](_0x1b8e4b,-_0xd1d9bd,-_0x40cd66),ctx[_0x4f8ced(0x37c)](0x1,0x0,0x0,0x1,0x0,0x0);},this[_0x63febe(0x2ae)]=(_0x48d3c3,_0x189f1a,_0x197969,_0x105c4c,_0x1936f2)=>{var _0x4fb170=_0x63febe;_0x189f1a=Math[_0x4fb170(0x51a)](_0x189f1a),_0x197969=Math[_0x4fb170(0x51a)](_0x197969),ctx=this[_0x4fb170(0x3f0)],ctx[_0x4fb170(0x37c)](_0x105c4c,0x0,0x0,_0x105c4c,_0x189f1a,_0x197969),ctx[_0x4fb170(0x26b)](_0x1936f2),ctx[_0x4fb170(0x32e)](_0x48d3c3,-_0x48d3c3[_0x4fb170(0x1fb)]/0x2,-_0x48d3c3['height']/0x2),ctx[_0x4fb170(0x37c)](0x1,0x0,0x0,0x1,0x0,0x0);},this['drawTextTopLeft']=(_0x310ab5,_0x4637e6,_0x4f21a1,_0x35536a,_0x23bae6,_0x4b9b08,_0x18f4c4)=>{var _0x5a33e5=_0x63febe;this[_0x5a33e5(0x3f0)][_0x5a33e5(0x1a5)]=_0x5a33e5(0x4a5),this[_0x5a33e5(0x3f0)]['textBaseline']=_0x5a33e5(0x478),this[_0x5a33e5(0x3f0)][_0x5a33e5(0x3e8)]=_0x4b9b08;var _0x5913d9=''+_0x23bae6+'px';if(!_0x18f4c4)_0x18f4c4=_0x5a33e5(0x473);_0x5913d9=_0x5913d9+'\x20'+_0x18f4c4,this[_0x5a33e5(0x3f0)]['font']=_0x5913d9,this['ctx']['fillText'](_0x310ab5,_0x4637e6,_0x4f21a1,_0x35536a);},this['drawTextCenter']=(_0x1f2a2b,_0x542adf,_0x231242,_0x3555f0,_0x2065ed,_0x325c65,_0xf997bf)=>{var _0x302e71=_0x63febe;this[_0x302e71(0x3f0)]['textAlign']=_0x302e71(0x41c),this['ctx'][_0x302e71(0x253)]='middle',this[_0x302e71(0x3f0)][_0x302e71(0x3e8)]=_0x325c65;var _0x520886=''+_0x2065ed+'px';if(!_0xf997bf)_0xf997bf=_0x302e71(0x473);_0x520886=_0x520886+'\x20'+_0xf997bf,this['ctx'][_0x302e71(0x27f)]=_0x520886,this[_0x302e71(0x3f0)]['fillText'](_0x1f2a2b,_0x542adf,_0x231242,_0x3555f0);};},CanvasManager=function(){var _0x41876b=_0xa7c9c4;this['canList']=[],this[_0x41876b(0x3e0)]=0x0,window[_0x41876b(0x1de)](_0x41876b(0x34a),()=>{var _0x4e13a3=_0x41876b;for(var _0x52738a in this['canList']){var _0x2807b6=this[_0x4e13a3(0x534)][_0x52738a][_0x4e13a3(0x4bf)];_0x2807b6[_0x4e13a3(0x1fb)]=window[_0x4e13a3(0x463)],_0x2807b6['height']=window[_0x4e13a3(0x4d7)];}console['log'](_0x4e13a3(0x46c)),world[_0x4e13a3(0x3ca)]();}),document[_0x41876b(0x1de)](_0x41876b(0x490),this['EventcloseFullscreen'],![]),document[_0x41876b(0x1de)](_0x41876b(0x20c),this['EventcloseFullscreen'],![]),document[_0x41876b(0x1de)](_0x41876b(0x3c5),this[_0x41876b(0x50a)],![]),document['addEventListener'](_0x41876b(0x362),this[_0x41876b(0x50a)],![]),this[_0x41876b(0x50a)]=()=>{var _0x12204a=_0x41876b;this[_0x12204a(0x21a)]=![],this[_0x12204a(0x53c)]();},this[_0x41876b(0x3c3)]=(_0x33a556,_0x3094e7,_0x3e676)=>{var _0x85073c=_0x41876b;for(var _0x300c91 in this[_0x85073c(0x534)])if(this['canList'][_0x300c91]['id']==_0x33a556)return console['log'](_0x85073c(0x52e));var _0x3eacf3=new MyCanvas(_0x33a556,_0x3094e7,_0x3e676);this['canList'][_0x33a556]=_0x3eacf3;},this[_0x41876b(0x40a)]=()=>{var _0x920308=_0x41876b;this[_0x920308(0x21a)]=!![],document[_0x920308(0x1cf)]['requestFullscreen']();},this[_0x41876b(0x53c)]=()=>{var _0x576820=_0x41876b;if(this[_0x576820(0x21a)]&&document[_0x576820(0x502)]){if(document['exitFullscreen'])document[_0x576820(0x34f)]();else{if(document[_0x576820(0x408)])document[_0x576820(0x408)]();else document[_0x576820(0x3e5)]&&document['msExitFullscreen']();}}this[_0x576820(0x21a)]=![];};},BLOCK_DEFAULT_FLOOR=0x0,MAP_FLOORS=[_0xa7c9c4(0x1e4),_0xa7c9c4(0x3b2),_0xa7c9c4(0x21f),_0xa7c9c4(0x1c7)],MAP_BOT_ELEMENT=[{'name':_0xa7c9c4(0x412),'moveCost':1.5},{'name':_0xa7c9c4(0x37b),'moveCost':0x2},{'name':_0xa7c9c4(0x4c6),'moveCost':0x3}],MAP_TOP_ELEMENT=[{'name':_0xa7c9c4(0x319),'sizex':0x3,'sizey':0x3,'moveCost':![]},{'name':_0xa7c9c4(0x4e9),'sizex':0x3,'sizey':0x3,'moveCost':![]},{'name':'roof_0','sizex':0x1,'sizey':0x1},{'name':'wall','sizex':0x1,'sizey':0x1,'moveCost':![]}],Block=function(_0x3a62b0,_0x228e02){var _0x1e7644=_0xa7c9c4;this['x']=_0x3a62b0,this['y']=_0x228e02,this['botElem']=undefined,this[_0x1e7644(0x305)]=undefined,this[_0x1e7644(0x40c)]=undefined,this[_0x1e7644(0x3f1)]=()=>{var _0x4b97ca=_0x1e7644,_0x568195=0x1;if(this[_0x4b97ca(0x4e3)]){for(var _0x50cb33 in MAP_BOT_ELEMENT)var _0x2f6305=MAP_BOT_ELEMENT[_0x4b97ca(0x1a2)](_0xcb6266=>_0xcb6266[_0x4b97ca(0x312)]==this[_0x4b97ca(0x4e3)][_0x4b97ca(0x312)]);if(_0x2f6305[_0x4b97ca(0x4a3)]==![])return![];if(_0x2f6305[_0x4b97ca(0x4a3)])_0x568195*=_0x2f6305[_0x4b97ca(0x4a3)];}if(this[_0x4b97ca(0x305)]){var _0x2f6305=MAP_TOP_ELEMENT[_0x4b97ca(0x1a2)](_0x5d0843=>_0x5d0843[_0x4b97ca(0x312)]==this[_0x4b97ca(0x305)][_0x4b97ca(0x312)]);if(_0x2f6305['moveCost']==![])return![];if(_0x2f6305[_0x4b97ca(0x4a3)])_0x568195*=_0x2f6305[_0x4b97ca(0x4a3)];}return _0x568195;};},BattleMap=function(_0x5bec8b,_0x10b66e){var _0x163908=_0xa7c9c4;MAP_BLOCK_PIXELSIZE_DEFAULT=0xc8,this[_0x163908(0x1fb)]=_0x5bec8b,this[_0x163908(0x458)]=_0x10b66e,this[_0x163908(0x1e3)]=_0x5bec8b/0x2,this['posBlocky']=_0x10b66e/0x2,this[_0x163908(0x2d0)]=0x1,this[_0x163908(0x1d0)]=[],this[_0x163908(0x4a0)]=[],this[_0x163908(0x32a)]=[],this[_0x163908(0x45d)]=[],this[_0x163908(0x3ca)]=!![],this[_0x163908(0x263)]=_0x9fc2eb=>{var _0x27ff3b=_0x163908,_0x22fa61=0x1;if(_0x9fc2eb[_0x27ff3b(0x27c)])_0x22fa61=_0x9fc2eb[_0x27ff3b(0x27c)];this[_0x27ff3b(0x1e3)]=_0x9fc2eb['x']+_0x22fa61/0x2,this[_0x27ff3b(0x1bb)]=_0x9fc2eb['y']+_0x22fa61/0x2,this[_0x27ff3b(0x3ca)]=!![];},this[_0x163908(0x4e7)]=_0x2a4b1b=>{var _0x4689ef=_0x163908;if(!_0x2a4b1b||!_0x2a4b1b[_0x4689ef(0x294)]||!_0x2a4b1b[_0x4689ef(0x3c2)]||!_0x2a4b1b[_0x4689ef(0x40c)])return[];var _0x14cbde=[],_0x1fbf8a=_0x2a4b1b[_0x4689ef(0x40c)],_0x5a53cf=_0x2a4b1b[_0x4689ef(0x294)],_0x43ed8f=_0x2a4b1b['rangeMax'];for(var _0x47472e=_0x1fbf8a['x']-_0x43ed8f;_0x47472e<_0x1fbf8a['x']+_0x1fbf8a[_0x4689ef(0x27c)]+_0x43ed8f;_0x47472e++)for(var _0x285d68=_0x1fbf8a['y']-_0x43ed8f;_0x285d68<_0x1fbf8a['y']+_0x1fbf8a['size']+_0x43ed8f;_0x285d68++)if(_0x47472e<=_0x1fbf8a['x']-_0x5a53cf||_0x47472e>=_0x1fbf8a['x']+_0x1fbf8a[_0x4689ef(0x27c)]+_0x5a53cf-0x1||_0x285d68<=_0x1fbf8a['y']-_0x5a53cf||_0x285d68>=_0x1fbf8a['y']+_0x1fbf8a[_0x4689ef(0x27c)]+_0x5a53cf-0x1){if(this[_0x4689ef(0x4a0)][_0x47472e]&&this['mapBlock'][_0x47472e][_0x285d68])_0x14cbde[_0x4689ef(0x43c)](this[_0x4689ef(0x4a0)][_0x47472e][_0x285d68]);}return _0x14cbde;},this['getZoneAdjacentToPlayerByDir']=_0x1cf9da=>{var _0x484da5=_0x163908;if(!_0x1cf9da||!_0x1cf9da[_0x484da5(0x42e)]||!_0x1cf9da[_0x484da5(0x40c)])return[];var _0x52005e=[],_0x5afddf=_0x1cf9da[_0x484da5(0x40c)];if(_0x1cf9da[_0x484da5(0x42e)]==_0x484da5(0x4a5)||_0x1cf9da[_0x484da5(0x42e)]['x']==-0x1&&_0x1cf9da['dir']['y']==0x0){var _0x2456e7=_0x5afddf['x']-0x1;for(var _0x3e23b6=_0x5afddf['y'];_0x3e23b6<_0x5afddf['y']+_0x5afddf[_0x484da5(0x27c)];_0x3e23b6++)if(this[_0x484da5(0x4a0)][_0x2456e7]&&this['mapBlock'][_0x2456e7][_0x3e23b6])_0x52005e[_0x484da5(0x43c)](this['mapBlock'][_0x2456e7][_0x3e23b6]);}else{if(_0x1cf9da[_0x484da5(0x42e)]=='top'||_0x1cf9da[_0x484da5(0x42e)]['y']==-0x1&&_0x1cf9da[_0x484da5(0x42e)]['x']==0x0){var _0x3e23b6=_0x5afddf['y']-0x1;for(var _0x2456e7=_0x5afddf['x'];_0x2456e7<_0x5afddf['x']+_0x5afddf[_0x484da5(0x27c)];_0x2456e7++)if(this['mapBlock'][_0x2456e7]&&this[_0x484da5(0x4a0)][_0x2456e7][_0x3e23b6])_0x52005e[_0x484da5(0x43c)](this[_0x484da5(0x4a0)][_0x2456e7][_0x3e23b6]);}else{if(_0x1cf9da[_0x484da5(0x42e)]=='right'||_0x1cf9da[_0x484da5(0x42e)]['x']==0x1&&_0x1cf9da['dir']['y']==0x0){var _0x2456e7=_0x5afddf['x']+_0x5afddf[_0x484da5(0x27c)];for(var _0x3e23b6=_0x5afddf['y'];_0x3e23b6<_0x5afddf['y']+_0x5afddf[_0x484da5(0x27c)];_0x3e23b6++)if(this[_0x484da5(0x4a0)][_0x2456e7]&&this[_0x484da5(0x4a0)][_0x2456e7][_0x3e23b6])_0x52005e[_0x484da5(0x43c)](this['mapBlock'][_0x2456e7][_0x3e23b6]);}else{if(_0x1cf9da[_0x484da5(0x42e)]==_0x484da5(0x1a4)||_0x1cf9da[_0x484da5(0x42e)]['y']==0x1&&_0x1cf9da['dir']['x']==0x0){var _0x3e23b6=_0x5afddf['y']+_0x5afddf[_0x484da5(0x27c)];for(var _0x2456e7=_0x5afddf['x'];_0x2456e7<_0x5afddf['x']+_0x5afddf[_0x484da5(0x27c)];_0x2456e7++)if(this[_0x484da5(0x4a0)][_0x2456e7]&&this['mapBlock'][_0x2456e7][_0x3e23b6])_0x52005e[_0x484da5(0x43c)](this[_0x484da5(0x4a0)][_0x2456e7][_0x3e23b6]);}}}}return _0x52005e;},this['getZoneAdjacentToPlayer']=_0x11cfca=>{var _0x324e14=_0x163908;if(!_0x11cfca||!_0x11cfca['player'])return undefined;var _0x1397cc=[];return _0x11cfca[_0x324e14(0x42e)]='left',_0x1397cc=_0x1397cc[_0x324e14(0x1ae)](this[_0x324e14(0x372)](_0x11cfca)),_0x11cfca[_0x324e14(0x42e)]=_0x324e14(0x478),_0x1397cc=_0x1397cc['concat'](this[_0x324e14(0x372)](_0x11cfca)),_0x11cfca['dir']=_0x324e14(0x510),_0x1397cc=_0x1397cc['concat'](this['getZoneAdjacentToPlayerByDir'](_0x11cfca)),_0x11cfca[_0x324e14(0x42e)]=_0x324e14(0x1a4),_0x1397cc=_0x1397cc[_0x324e14(0x1ae)](this[_0x324e14(0x372)](_0x11cfca)),_0x1397cc;},this[_0x163908(0x17b)]=_0xab8ac0=>{var _0x2d4a72=_0x163908;if(!_0xab8ac0||!_0xab8ac0[_0x2d4a72(0x40c)]||!_0xab8ac0[_0x2d4a72(0x42e)])return![];var _0x15ea7a=this[_0x2d4a72(0x372)]({'dir':_0xab8ac0[_0x2d4a72(0x42e)],'player':_0xab8ac0[_0x2d4a72(0x40c)]});if(!_0x15ea7a||_0x15ea7a[_0x2d4a72(0x49c)]==0x0)return![];var _0x36a51e=0x0;for(var _0x569871 in _0x15ea7a){var _0x16e673=_0x15ea7a[_0x569871][_0x2d4a72(0x3f1)]();if(_0x16e673===![]||_0x16e673===0x0)return![];_0x36a51e+=_0x16e673;}return _0x36a51e/_0x15ea7a[_0x2d4a72(0x49c)];},this['generateMap']=()=>{var _0x20bcd5=_0x163908;this['mapBlock']=[];for(var _0x33bcbf=0x0;_0x33bcbf<this['width'];_0x33bcbf++){this[_0x20bcd5(0x4a0)][_0x33bcbf]=[];for(var _0x34feae=0x0;_0x34feae<this[_0x20bcd5(0x458)];_0x34feae++){var _0x36971e=new Block(_0x33bcbf,_0x34feae);this[_0x20bcd5(0x4a0)][_0x33bcbf][_0x34feae]=_0x36971e;if(_0x33bcbf==0x0||_0x34feae==0x0||_0x33bcbf==this[_0x20bcd5(0x1fb)]-0x1||_0x34feae==this[_0x20bcd5(0x458)]-0x1){_0x36971e[_0x20bcd5(0x305)]={'name':_0x20bcd5(0x4e8),'angle':Math[_0x20bcd5(0x213)]()*Math['PI']*0x2};continue;}}}},this['generateRandomElement']=()=>{var _0x226e45=_0x163908;for(var _0x146c64=0x0;_0x146c64<this[_0x226e45(0x1fb)];_0x146c64++){for(var _0x2dad6c=0x0;_0x2dad6c<this[_0x226e45(0x458)];_0x2dad6c++){var _0x225a1d=this['mapBlock'][_0x146c64][_0x2dad6c];if(_0x225a1d[_0x226e45(0x40c)])continue;var _0x23622a=Math[_0x226e45(0x285)](Math[_0x226e45(0x213)]()*0x64);if(_0x23622a<0xa){var _0x2637f7=Math[_0x226e45(0x285)](Math['random']()*MAP_BOT_ELEMENT[_0x226e45(0x49c)]);_0x225a1d[_0x226e45(0x4e3)]={'name':MAP_BOT_ELEMENT[_0x2637f7][_0x226e45(0x312)],'angle':Math['random']()*Math['PI']*0x2};}var _0x23622a=Math[_0x226e45(0x285)](Math['random']()*0x64);if(_0x23622a<0xa){var _0x2637f7=Math[_0x226e45(0x285)](Math[_0x226e45(0x213)]()*MAP_TOP_ELEMENT['length']);_0x225a1d[_0x226e45(0x305)]={'name':MAP_TOP_ELEMENT[_0x2637f7][_0x226e45(0x312)],'angle':Math[_0x226e45(0x213)]()*Math['PI']*0x2};}}}},this[_0x163908(0x2fb)]=()=>{var _0x3afc18=_0x163908,_0x129e95=_0x3afc18(0x187),_0x18c1e1=MAP_FLOORS;for(var _0x5d8072 in _0x18c1e1)this[_0x3afc18(0x1d0)][_0x18c1e1[_0x5d8072]]=new myImage(_0x18c1e1[_0x5d8072],_0x129e95+_0x18c1e1[_0x5d8072]+_0x3afc18(0x3bc));},this[_0x163908(0x514)]=()=>{var _0x323b6b=_0x163908,_0x474add='./img/mapBotElement/',_0x242abe=MAP_BOT_ELEMENT;for(var _0x2f35b7 in _0x242abe)this[_0x323b6b(0x32a)][_0x242abe[_0x2f35b7][_0x323b6b(0x312)]]=new myImage(_0x242abe[_0x2f35b7]['name'],_0x474add+_0x242abe[_0x2f35b7]['name']+_0x323b6b(0x3bc));},this[_0x163908(0x1e5)]=()=>{var _0x1d7ae5=_0x163908,_0x220fe5=_0x1d7ae5(0x23d),_0x4df890=MAP_TOP_ELEMENT;for(var _0x40bc8f in _0x4df890)this[_0x1d7ae5(0x45d)][_0x4df890[_0x40bc8f][_0x1d7ae5(0x312)]]=new myImage(_0x4df890[_0x40bc8f][_0x1d7ae5(0x312)],_0x220fe5+_0x4df890[_0x40bc8f][_0x1d7ae5(0x312)]+'.png');},this['initImgs']=()=>{var _0x37fee1=_0x163908;this[_0x37fee1(0x1e5)](),this['initMapFloorImage'](),this[_0x37fee1(0x514)]();},this[_0x163908(0x334)]=(_0x3a1c05,_0x404d26,_0x2c5b44)=>{var _0x3e2c95=_0x163908;this[_0x3e2c95(0x1e3)]+=_0x3a1c05,this[_0x3e2c95(0x1bb)]+=_0x404d26,this[_0x3e2c95(0x2d0)]*=_0x2c5b44;if(this[_0x3e2c95(0x2d0)]<0.1)this[_0x3e2c95(0x2d0)]=0.1;if(this[_0x3e2c95(0x2d0)]>0x1)this[_0x3e2c95(0x2d0)]=0x1;this['needRedraw']=!![];},this[_0x163908(0x533)]=_0x3313da=>{var _0x2cb557=_0x163908;this[_0x2cb557(0x353)]=Math[_0x2cb557(0x285)](MAP_BLOCK_PIXELSIZE_DEFAULT*this[_0x2cb557(0x2d0)]*this[_0x2cb557(0x1fb)]),this[_0x2cb557(0x3e9)]=Math['floor'](MAP_BLOCK_PIXELSIZE_DEFAULT*this[_0x2cb557(0x2d0)]*this['height']),this[_0x2cb557(0x4e0)]=Math[_0x2cb557(0x285)](this[_0x2cb557(0x353)]/this[_0x2cb557(0x1fb)]),this[_0x2cb557(0x304)]=Math['floor'](this[_0x2cb557(0x3e9)]/this[_0x2cb557(0x458)]),this[_0x2cb557(0x41a)]=this[_0x2cb557(0x1e3)]*this[_0x2cb557(0x4e0)],this[_0x2cb557(0x4f4)]=this['posBlocky']*this[_0x2cb557(0x304)],this[_0x2cb557(0x435)]=_0x3313da[_0x2cb557(0x1fb)]/0x2-this[_0x2cb557(0x41a)],this[_0x2cb557(0x39b)]=_0x3313da[_0x2cb557(0x458)]/0x2-this[_0x2cb557(0x4f4)],this['pixel_startx']=this[_0x2cb557(0x435)]<0x0?0x0:this[_0x2cb557(0x435)],this['pixel_starty']=this[_0x2cb557(0x39b)]<0x0?0x0:this['pos_starty'],this[_0x2cb557(0x352)]=this[_0x2cb557(0x435)]+this['pixel_width']>=_0x3313da['width']?_0x3313da['width']-0x1:this['pos_startx']+this[_0x2cb557(0x353)],this[_0x2cb557(0x222)]=this[_0x2cb557(0x39b)]+this[_0x2cb557(0x3e9)]>=_0x3313da[_0x2cb557(0x458)]?_0x3313da[_0x2cb557(0x458)]-0x1:this[_0x2cb557(0x39b)]+this[_0x2cb557(0x3e9)],this[_0x2cb557(0x2d8)]=this[_0x2cb557(0x348)]({'x':this['pixel_startx'],'y':this[_0x2cb557(0x210)]}),this[_0x2cb557(0x418)]=this[_0x2cb557(0x348)]({'x':this['pixel_endx'],'y':this['pixel_endy']});if(this[_0x2cb557(0x418)]){if(this[_0x2cb557(0x418)]['x']>=this[_0x2cb557(0x1fb)])this[_0x2cb557(0x418)]['x']=this[_0x2cb557(0x1fb)]-0x1;if(this['botright_block']['y']>=this[_0x2cb557(0x458)])this[_0x2cb557(0x418)]['y']=this[_0x2cb557(0x458)]-0x1;}},this['highlightBlock']=(_0x15b527,_0x5a8710,_0x204741,_0x333495,_0x2201c6)=>{var _0x38ad56=_0x163908;if(_0x2201c6=='move'){var _0x1f3268=Math[_0x38ad56(0x285)](_0x204741+0.05*this[_0x38ad56(0x4e0)]),_0x19c9f6=Math[_0x38ad56(0x285)](_0x333495+0.05*this[_0x38ad56(0x304)]),_0x5da600=Math[_0x38ad56(0x285)](_0x204741+0.95*this[_0x38ad56(0x4e0)]),_0x23f57b=Math[_0x38ad56(0x285)](_0x333495+0.95*this[_0x38ad56(0x304)]);if(_0x5a8710[_0x38ad56(0x3f1)]()>0x1)_0x15b527[_0x38ad56(0x3f0)][_0x38ad56(0x3e8)]=_0x38ad56(0x2e1);else{if(!_0x5a8710[_0x38ad56(0x3f1)]()||_0x5a8710[_0x38ad56(0x40c)])_0x15b527[_0x38ad56(0x3f0)][_0x38ad56(0x3e8)]=_0x38ad56(0x4c9);else _0x15b527[_0x38ad56(0x3f0)][_0x38ad56(0x3e8)]='#00af0022';}_0x15b527[_0x38ad56(0x234)](_0x1f3268,_0x19c9f6,_0x5da600,_0x23f57b);var _0x136295=new MyUI(_0x15b527,_0x1f3268,_0x19c9f6,0x64,this[_0x38ad56(0x2d0)],undefined,undefined,0x1);_0x136295['addTextZone']('movement\x20factor\x20x'+_0x5a8710[_0x38ad56(0x3f1)](),0x14*this[_0x38ad56(0x2d0)],0x64,_0x38ad56(0x258)),_0x136295['drawUI']();}if(_0x2201c6==_0x38ad56(0x26b)){var _0x1f3268=Math[_0x38ad56(0x285)](_0x204741+0.05*this[_0x38ad56(0x4e0)]),_0x19c9f6=Math[_0x38ad56(0x285)](_0x333495+0.05*this[_0x38ad56(0x304)]),_0x5da600=Math['floor'](_0x204741+0.95*this[_0x38ad56(0x4e0)]),_0x23f57b=Math[_0x38ad56(0x285)](_0x333495+0.95*this['blocksize_y']);_0x15b527['ctx'][_0x38ad56(0x3e8)]=_0x38ad56(0x544),_0x15b527['drawFillRect'](_0x1f3268,_0x19c9f6,_0x5da600,_0x23f57b);}},this[_0x163908(0x417)]=(_0x508c41,_0x1b3ef0)=>{var _0x59ecc2=_0x163908;this['needRedraw']=![],world[_0x59ecc2(0x457)][_0x59ecc2(0x529)]=!![];if(this['topleft_block']&&this['botright_block'])for(var _0x125184=this[_0x59ecc2(0x2d8)]['x'];_0x125184<=this[_0x59ecc2(0x418)]['x'];_0x125184++){for(var _0x3159c4=this[_0x59ecc2(0x2d8)]['y'];_0x3159c4<=this['botright_block']['y'];_0x3159c4++){var _0x5705b1=this['get_pixel_by_block'](_0x125184,_0x3159c4),_0x14d664=this[_0x59ecc2(0x4a0)][_0x125184][_0x3159c4],_0x11fb8c=undefined;if(!_0x14d664['floor'])_0x11fb8c=this[_0x59ecc2(0x1d0)][_0x59ecc2(0x1c7)];else _0x11fb8c=this[_0x59ecc2(0x1d0)][_0x14d664[_0x59ecc2(0x285)]];if(_0x11fb8c&&_0x11fb8c[_0x59ecc2(0x182)]&&_0x5705b1)_0x508c41[_0x59ecc2(0x33f)](_0x11fb8c[_0x59ecc2(0x2cd)],_0x5705b1['x'],_0x5705b1['y'],this[_0x59ecc2(0x4e0)]+0x1,this[_0x59ecc2(0x304)]+0x1);else this[_0x59ecc2(0x3ca)]=!![];if(_0x14d664[_0x59ecc2(0x4e3)]){_0x11fb8c=this['mapImgsBot'][_0x14d664['botElem'][_0x59ecc2(0x312)]];var _0x230b54=_0x5705b1['x']+this[_0x59ecc2(0x4e0)]/0x2,_0x320340=_0x5705b1['y']+this[_0x59ecc2(0x304)]/0x2;if(_0x11fb8c)_0x508c41['drawImageRotate'](_0x11fb8c[_0x59ecc2(0x2cd)],_0x230b54,_0x320340,this[_0x59ecc2(0x2d0)]*0x2,_0x14d664['botElem'][_0x59ecc2(0x45a)]);}if(_0x14d664['topElem']){_0x11fb8c=this['mapImgsTop'][_0x14d664[_0x59ecc2(0x305)]['name']];var _0x230b54=_0x5705b1['x']+this[_0x59ecc2(0x4e0)]/0x2,_0x320340=_0x5705b1['y']+this['blocksize_y']/0x2;if(_0x11fb8c)_0x1b3ef0[_0x59ecc2(0x2ae)](_0x11fb8c[_0x59ecc2(0x2cd)],_0x230b54,_0x320340,this[_0x59ecc2(0x2d0)]*0x2,_0x14d664[_0x59ecc2(0x305)][_0x59ecc2(0x45a)]);}if(world[_0x59ecc2(0x542)][_0x59ecc2(0x1c4)]&&world['GameUI'][_0x59ecc2(0x1c4)][_0x59ecc2(0x4a1)]&&world['GameUI'][_0x59ecc2(0x1c4)][_0x59ecc2(0x4a1)][_0x59ecc2(0x1a2)](_0x59db38=>_0x59db38==_0x14d664))this[_0x59ecc2(0x2a3)](_0x508c41,_0x14d664,_0x5705b1['x'],_0x5705b1['y'],world[_0x59ecc2(0x542)][_0x59ecc2(0x1c4)][_0x59ecc2(0x24c)]);}}},this[_0x163908(0x348)]=_0x4195dc=>{var _0x28ac56=_0x163908;if(_0x4195dc['x']<this['pixel_startx']||_0x4195dc['y']<this['pixel_starty']||_0x4195dc['x']>this['pixel_endx']||_0x4195dc['y']>this[_0x28ac56(0x222)]||this[_0x28ac56(0x4e0)]==0x0||this[_0x28ac56(0x304)]==0x0)return undefined;var _0x11b816={'x':Math[_0x28ac56(0x285)]((_0x4195dc['x']-this[_0x28ac56(0x435)])/this[_0x28ac56(0x4e0)]),'y':Math[_0x28ac56(0x285)]((_0x4195dc['y']-this['pos_starty'])/this['blocksize_y'])};if(_0x11b816['x']>=this['width']&&_0x11b816['x']>0x0)_0x11b816['x']=this[_0x28ac56(0x1fb)]-0x1;if(_0x11b816['y']>=this[_0x28ac56(0x458)]&&_0x11b816['y']>0x0)_0x11b816['y']=this[_0x28ac56(0x458)]-0x1;return this[_0x28ac56(0x4a0)][_0x11b816['x']][_0x11b816['y']];},this['get_pixel_by_block']=(_0x1682c9,_0x2c8b83)=>{var _0x2581dd=_0x163908;if(_0x1682c9<0x0||_0x2c8b83<0x0||_0x1682c9>=this['width']||_0x2c8b83>=this['height'])return undefined;return{'x':Math[_0x2581dd(0x285)](this[_0x2581dd(0x435)]+this['blocksize_x']*_0x1682c9),'y':Math[_0x2581dd(0x285)](this['pos_starty']+this[_0x2581dd(0x304)]*_0x2c8b83)};},this[_0x163908(0x401)]=(_0x1dcd47,_0xb16e41)=>{var _0x570125=_0x163908;return{'x':this[_0x570125(0x435)]+this[_0x570125(0x4e0)]*_0x1dcd47,'y':this[_0x570125(0x39b)]+this[_0x570125(0x304)]*_0xb16e41};},this[_0x163908(0x427)]=(_0x3490c2,_0xbf2158,_0x4903ea,_0x5c913d)=>{var _0x57839d=_0x163908,_0x1e4ef7=[];for(var _0x1af9cc=_0x3490c2-_0x5c913d;_0x1af9cc<=_0x3490c2+_0x5c913d;r++){for(var _0xf1c102=_0xbf2158-_0x5c913d;_0xf1c102<=_0xbf2158+_0x5c913d;r++){var _0x4d19bd=this[_0x57839d(0x4a0)][_0x1af9cc][_0xf1c102];if(_0x4d19bd&&distBlock(_0x3490c2,_0xbf2158,_0x4d19bd['x'],_0x4d19bd['y'])>=_0x4903ea&&distBlock(_0x3490c2,_0xbf2158,_0x4d19bd['x'],_0x4d19bd['y'])<=_0x5c913d)_0x1e4ef7[_0x57839d(0x43c)](_0x4d19bd);}}return _0x1e4ef7;},this[_0x163908(0x383)]=(_0x192d02,_0x121ac5,_0x522e18,_0x59a602)=>{var _0x4d4b2a=_0x163908,_0x5f476a=[];for(var _0xec8e1c=Math['floor'](_0x192d02-_0x59a602);_0xec8e1c<=Math[_0x4d4b2a(0x51a)](_0x192d02+_0x59a602);r++){for(var _0x2eacbb=Math[_0x4d4b2a(0x285)](_0x121ac5-_0x59a602);_0x2eacbb<=Math[_0x4d4b2a(0x51a)](_0x121ac5+_0x59a602);r++){var _0x47bbc3=this[_0x4d4b2a(0x4a0)][_0xec8e1c][_0x2eacbb];if(_0x47bbc3&&dist(_0x192d02,_0x121ac5,_0x47bbc3['x'],_0x47bbc3['y'])>=_0x522e18&&Block(_0x192d02,_0x121ac5,_0x47bbc3['x'],_0x47bbc3['y'])<=_0x59a602)_0x5f476a['push'](_0x47bbc3);}}return _0x5f476a;};},PLAYER_DEFAULT_SIZEX=0xc8,PLAYER_DEFAULT_SIZEY=0xc8,PLAYER_DEFAULT_HAND_SIZE_X=0x28,PLAYER_DEFAULT_HAND_SIZE_Y=0x28,PLAYER_ANIMATION_DEFAULT=0x0,PLAYER_ANIMATION_MOVING=0x1,PLAYER_ANIMATION_ATTACK_DEFAULT=0x2,PLAYER_ANIMATION_DODGE=0x3,PLAYER_DEFAUTL_MOVECOST=0x14,TEAM_HUMAN=0x0,TEAM_AI=0x1,AP_COST_NOWEAPON=0x21,PLAYER_NAME_FONT=_0xa7c9c4(0x43b),BONUS_DESCRIPTION=[];var id=0x1;BONUS_AXE_FOREST_WOOD=id++,BONUS_DESCRIPTION[BONUS_AXE_FOREST_WOOD]='get\x20x2\x20more\x20wood\x20in\x20forest',BONUS_PICKAXE_MINE=id++,BONUS_DESCRIPTION[BONUS_PICKAXE_MINE]='get\x20more\x20resources\x20in\x20the\x20mine',Player=function(_0xe97c7d,_0x1ee616,_0x4a8e38,_0x2c46a2,_0x241aa1){var _0x2830db=_0xa7c9c4;this['x']=_0xe97c7d,this['y']=_0x1ee616,this[_0x2830db(0x27c)]=_0x4a8e38,this[_0x2830db(0x31f)]=_0x241aa1,this['AI']=_0x241aa1==TEAM_HUMAN?undefined:{},this['color']=_0x2c46a2,this['dir']=[0x1,0x0],this['bodyPartImg']=undefined,this['bodyPartImgReady']=![],this[_0x2830db(0x1f2)]=undefined,this[_0x2830db(0x44f)]=[],this[_0x2830db(0x476)]=PLAYER_DEFAUTL_MOVECOST,this[_0x2830db(0x312)]='No\x20Name',this[_0x2830db(0x4aa)]=0x64,this[_0x2830db(0x1fd)]=0x0,this[_0x2830db(0x41d)]=0x0,this[_0x2830db(0x405)]=0x64,this[_0x2830db(0x17f)]=0x64,this[_0x2830db(0x3f8)]=this[_0x2830db(0x17f)],this[_0x2830db(0x270)]=![],(this[_0x2830db(0x3fe)]={'Strength':0xa,'Dexterity':0xa},this['take_damage']=_0x405046=>{var _0x2a0973=_0x2830db;if(_0x405046==undefined||_0x405046<0x0)return![];this[_0x2a0973(0x3f8)]-=_0x405046,world[_0x2a0973(0x457)][_0x2a0973(0x3d9)][_0x2a0973(0x2ef)]({'type':this[_0x2a0973(0x31f)],'txt':this['name']+_0x2a0973(0x232)+_0x405046+_0x2a0973(0x268)});if(this['life']<=0x0){world[_0x2a0973(0x457)][_0x2a0973(0x3d9)][_0x2a0973(0x2ef)]({'type':this[_0x2a0973(0x31f)],'txt':this[_0x2a0973(0x312)]+_0x2a0973(0x4a9)}),world[_0x2a0973(0x457)][_0x2a0973(0x2d5)](this);if(this==world[_0x2a0973(0x542)][_0x2a0973(0x2ee)])world['GameUI']['playersSelected']=undefined;if(this==world[_0x2a0973(0x457)][_0x2a0973(0x242)])world[_0x2a0973(0x457)][_0x2a0973(0x242)]=undefined;}return!![];}),this[_0x2830db(0x254)]=_0x7bbf15=>{var _0x8f88e4=_0x2830db;if(!_0x7bbf15||_0x7bbf15[_0x8f88e4(0x49c)]<0x1)return![];var _0x4f829d=0x0;for(var _0x4aa2e2 in _0x7bbf15){world[_0x8f88e4(0x457)][_0x8f88e4(0x3d9)]['addMessage']({'type':this[_0x8f88e4(0x31f)],'txt':this['name']+'\x20received\x20damage\x20:\x20'+_0x7bbf15[_0x4aa2e2]['value']+'\x20of\x20type\x20'+_0x7bbf15[_0x4aa2e2][_0x8f88e4(0x24c)]}),_0x4f829d+=_0x7bbf15[_0x4aa2e2][_0x8f88e4(0x32d)];}var _0x1b903d=this[_0x8f88e4(0x207)]?this[_0x8f88e4(0x207)][_0x8f88e4(0x2a5)]({'damages':_0x7bbf15}):_0x4f829d;return this[_0x8f88e4(0x487)](_0x1b903d);},this[_0x2830db(0x543)]=()=>{var _0x51605d=_0x2830db;this['capacityList']=[{'name':'Move\x20To','type':_0x51605d(0x3f6),'description':_0x51605d(0x22a),'callback':this[_0x51605d(0x4ad)],'zone_target_area':world[_0x51605d(0x4c1)][_0x51605d(0x19d)],'zone_selecting_input':{'player':this,'type':_0x51605d(0x3f6)},'windowInfo':[{'txt':_0x51605d(0x3ea),'callback':this['GetMovePrice']},{'txt':_0x51605d(0x450),'callback':this[_0x51605d(0x2f8)]}]},{'name':_0x51605d(0x4f8),'type':_0x51605d(0x3f6),'description':_0x51605d(0x4fc),'callback':this[_0x51605d(0x26b)],'zone_target_area':world['map']['getZoneAtAbsRangeToPlayer'],'zone_selecting_input':{'player':this,'rangeMin':0x1,'rangeMax':0x1,'type':_0x51605d(0x26b)},'windowInfo':[{'txt':_0x51605d(0x519),'callback':this['get_direction_from_pos']}]}];if(this[_0x51605d(0x3de)]){var _0x5e6e0e={'name':_0x51605d(0x30a),'type':'attack','description':_0x51605d(0x329),'callback':this['attack'],'zone_target_area':this[this['weapon'][_0x51605d(0x377)][_0x51605d(0x47e)]],'zone_selecting_input':this[_0x51605d(0x3de)][_0x51605d(0x377)][_0x51605d(0x4d4)],'windowInfo':[{'txt':_0x51605d(0x3ff),'callback':this[_0x51605d(0x249)]},{'txt':_0x51605d(0x511),'callback':this[_0x51605d(0x431)]}]};_0x5e6e0e[_0x51605d(0x3fc)][_0x51605d(0x40c)]=this,_0x5e6e0e[_0x51605d(0x3fc)][_0x51605d(0x24c)]=_0x51605d(0x26b),this[_0x51605d(0x2a7)][_0x51605d(0x43c)](_0x5e6e0e);}else{var _0x5e6e0e={'name':_0x51605d(0x30a),'type':_0x51605d(0x3c8),'description':_0x51605d(0x329),'callback':this['attack'],'zone_target_area':this['getBlockAdjacent'],'zone_selecting_input':{},'windowInfo':[{'txt':_0x51605d(0x3ff),'callback':this['getChanceOfHit']},{'txt':_0x51605d(0x21e),'callback':()=>{}}]};_0x5e6e0e[_0x51605d(0x3fc)]['player']=this,_0x5e6e0e[_0x51605d(0x3fc)]['type']=_0x51605d(0x26b),this[_0x51605d(0x2a7)][_0x51605d(0x43c)](_0x5e6e0e);}},this[_0x2830db(0x431)]=()=>{var _0x3a6bbe=_0x2830db;if(this[_0x3a6bbe(0x3de)])return this['weapon']['getWeaponAttackDescription']();},this[_0x2830db(0x470)]=_0x55ea63=>{var _0x1c4275=_0x2830db;if(!_0x55ea63||!_0x55ea63[_0x1c4275(0x41e)])return undefined;return[_0x55ea63[_0x1c4275(0x41e)]];},this[_0x2830db(0x4b3)]=()=>{var _0x2531c6=_0x2830db;console[_0x2531c6(0x277)](_0x2531c6(0x1a3));var _0x3815b8=[];for(var _0x9c4f91=this['x']-0x1;_0x9c4f91<=this['x']+this['size'];_0x9c4f91++)for(var _0x41ff6e=this['y']-0x1;_0x41ff6e<=this['y']+this[_0x2531c6(0x27c)];_0x41ff6e++)if(!((_0x9c4f91==this['x']-0x1||_0x9c4f91==this['x']+this[_0x2531c6(0x27c)])&&(_0x41ff6e==this['y']-0x1||_0x41ff6e==this['y']+this[_0x2531c6(0x27c)]))&&!(_0x9c4f91<=this['x']+this['size']-0x1&&_0x9c4f91>=this['x']&&_0x41ff6e<=this['y']+this[_0x2531c6(0x27c)]-0x1&&_0x41ff6e>=this['y'])){if(world[_0x2531c6(0x4c1)][_0x2531c6(0x4a0)][_0x9c4f91]&&world['map'][_0x2531c6(0x4a0)][_0x9c4f91][_0x41ff6e])_0x3815b8[_0x2531c6(0x43c)](world[_0x2531c6(0x4c1)][_0x2531c6(0x4a0)][_0x9c4f91][_0x41ff6e]);}return console['log'](_0x2531c6(0x369)+_0x3815b8['length']+'\x20blocks'),_0x3815b8;},this['getBlockUnderPlayer']=()=>{var _0x24733e=_0x2830db,_0x37683f=[];for(var _0x3cf5ea=this['x'];_0x3cf5ea<this['x']+this[_0x24733e(0x27c)];_0x3cf5ea++)for(var _0x299cc1=this['y'];_0x299cc1<this['y']+this['size'];_0x299cc1++)_0x37683f['push'](world[_0x24733e(0x4c1)][_0x24733e(0x4a0)][_0x3cf5ea][_0x299cc1]);},this[_0x2830db(0x18e)]=_0x235590=>{var _0x5e70a5=_0x2830db;if(!_0x235590||!_0x235590[_0x5e70a5(0x41e)])return undefined;var _0x42550d=0x1,_0x462ab8=0x1;_0x235590[_0x5e70a5(0x2e8)]&&(_0x42550d=_0x235590['data'][_0x5e70a5(0x294)]?_0x235590['data'][_0x5e70a5(0x294)]:0x1,_0x462ab8=_0x235590[_0x5e70a5(0x2e8)][_0x5e70a5(0x3c2)]?_0x235590[_0x5e70a5(0x2e8)][_0x5e70a5(0x3c2)]:0x1);if(_0x42550d>_0x462ab8){var _0x17c045=_0x42550d;_0x42550d=_0x462ab8,_0x462ab8=_0x17c045;}var _0x34d970=[],_0x18dd00=_0x235590['block'],_0x10a30e=this[_0x5e70a5(0x351)](_0x18dd00),_0xe23984=-0x1,_0x1039dd=_0x18dd00['x'],_0x54c4d2=_0x18dd00['y'],_0x266213=world[_0x5e70a5(0x4c1)]['mapBlock'];while(++_0xe23984<=_0x462ab8){if(_0xe23984>=_0x42550d){if(_0x266213[_0x1039dd]&&_0x266213[_0x1039dd][_0x54c4d2])_0x34d970['push'](_0x266213[_0x1039dd][_0x54c4d2]);}_0x1039dd+=_0x10a30e[0x0],_0x54c4d2+=_0x10a30e[0x1];}return _0x34d970;},this[_0x2830db(0x2e2)]=_0x4d480a=>{var _0x346f4=_0x2830db;if(!_0x4d480a||!_0x4d480a[_0x346f4(0x41e)])return undefined;var _0x4706f3=0x1,_0x35a3c4=0x1;_0x4d480a[_0x346f4(0x2e8)]&&(_0x4706f3=_0x4d480a[_0x346f4(0x2e8)][_0x346f4(0x294)]?_0x4d480a['data'][_0x346f4(0x294)]:0x1,_0x35a3c4=_0x4d480a[_0x346f4(0x2e8)][_0x346f4(0x3c2)]?_0x4d480a[_0x346f4(0x2e8)][_0x346f4(0x3c2)]:0x1);if(_0x4706f3>_0x35a3c4){var _0x243871=_0x4706f3;_0x4706f3=_0x35a3c4,_0x35a3c4=_0x243871;}var _0xa2c6c3=[],_0x2b3d4c=_0x4d480a[_0x346f4(0x41e)],_0x4e824a=world['map'][_0x346f4(0x4a0)];for(var _0x65f770=_0x2b3d4c['x']-_0x35a3c4;_0x65f770<=_0x2b3d4c['x']+_0x35a3c4;_0x65f770++){for(var _0x2c08c6=_0x2b3d4c['y']-_0x35a3c4;_0x2c08c6<=_0x2b3d4c['y']+_0x35a3c4;_0x2c08c6++){var _0x281783=dist(_0x2b3d4c['x'],_0x2b3d4c['y'],_0x65f770,_0x2c08c6);if(_0x281783<_0x4706f3||_0x281783>_0x35a3c4)continue;if(_0x4e824a[_0x65f770]&&_0x4e824a[_0x65f770][_0x2c08c6])_0xa2c6c3[_0x346f4(0x43c)](_0x4e824a[_0x65f770][_0x2c08c6]);}}return _0xa2c6c3;},this['getBlocksAtRangeFromPlayer']=_0x4f46fb=>{var _0x3de380=_0x2830db;if(!_0x4f46fb||!_0x4f46fb['rangeMin']||!_0x4f46fb[_0x3de380(0x3c2)])return[];var _0x2f2579=[],_0x5bcb5f=this,_0x5cb0a3=_0x4f46fb[_0x3de380(0x294)],_0x2ef9af=_0x4f46fb[_0x3de380(0x3c2)];for(var _0x132733=_0x5bcb5f['x']-_0x2ef9af;_0x132733<_0x5bcb5f['x']+_0x5bcb5f[_0x3de380(0x27c)]+_0x2ef9af;_0x132733++)for(var _0x334e12=_0x5bcb5f['y']-_0x2ef9af;_0x334e12<_0x5bcb5f['y']+_0x5bcb5f['size']+_0x2ef9af;_0x334e12++)if(_0x132733<=_0x5bcb5f['x']-_0x5cb0a3||_0x132733>=_0x5bcb5f['x']+_0x5bcb5f[_0x3de380(0x27c)]+_0x5cb0a3-0x1||_0x334e12<=_0x5bcb5f['y']-_0x5cb0a3||_0x334e12>=_0x5bcb5f['y']+_0x5bcb5f[_0x3de380(0x27c)]+_0x5cb0a3-0x1){if(world['map']['mapBlock'][_0x132733]&&world[_0x3de380(0x4c1)][_0x3de380(0x4a0)][_0x132733][_0x334e12])_0x2f2579['push'](world['map']['mapBlock'][_0x132733][_0x334e12]);}return _0x2f2579;},this[_0x2830db(0x513)]=_0x3c7508=>{var _0x427451=_0x2830db;if(!_0x3c7508||!_0x3c7508[_0x427451(0x41e)])return undefined;var _0x975249=_0x3c7508[_0x427451(0x41e)];if(_0x975249[_0x427451(0x40c)]==this)return 0x0;var _0x134aa3;if(this['x']>=_0x975249['x']&&this['x']+this[_0x427451(0x27c)]<=_0x975249['x'])_0x134aa3=0x0;else{if(this['x']<_0x975249['x'])_0x134aa3=this['x']-_0x975249['x'];else _0x134aa3=this['x']+this[_0x427451(0x27c)]-_0x975249['x']-0x1;}var _0xd65d2;if(this['y']>=_0x975249['y']&&this['y']+this[_0x427451(0x27c)]<=_0x975249['y'])_0xd65d2=0x0;else{if(this['x']<_0x975249['x'])_0xd65d2=this['y']-_0x975249['y'];else _0xd65d2=this['y']+this['size']-_0x975249['y']-0x1;}return console['log'](_0x427451(0x32c)+[_0x975249['x'],_0x975249['y']]+_0x427451(0x46f)+Math[_0x427451(0x35d)](_0x134aa3*_0x134aa3+_0xd65d2*_0xd65d2)),Math[_0x427451(0x35d)](_0x134aa3*_0x134aa3+_0xd65d2*_0xd65d2);},this[_0x2830db(0x516)]=_0x1c9a08=>{var _0x36f8d3=_0x2830db;if(!_0x1c9a08||!_0x1c9a08[_0x36f8d3(0x294)]||!_0x1c9a08[_0x36f8d3(0x3c2)])return[];var _0x1a393c=[],_0x479733=this,_0x9d3d4c=_0x479733['x']+_0x479733[_0x36f8d3(0x27c)]/0x2-0.5,_0x27afae=_0x479733['y']+_0x479733[_0x36f8d3(0x27c)]/0x2-0.5,_0x5a9cb6=_0x1c9a08[_0x36f8d3(0x294)]+_0x479733[_0x36f8d3(0x27c)]/0x2-0.5,_0x302d78=_0x1c9a08[_0x36f8d3(0x3c2)]+_0x479733[_0x36f8d3(0x27c)]/0x2-0.5;for(var _0x3a271b=Math[_0x36f8d3(0x51a)](_0x479733['x']-_0x302d78);_0x3a271b<Math['round'](_0x479733['x']+_0x479733['size']+_0x302d78);_0x3a271b++)for(var _0x47d88f=Math[_0x36f8d3(0x51a)](_0x479733['y']-_0x302d78);_0x47d88f<Math[_0x36f8d3(0x51a)](_0x479733['y']+_0x479733['size']+_0x302d78);_0x47d88f++)if(world[_0x36f8d3(0x4c1)][_0x36f8d3(0x4a0)][_0x3a271b]&&world[_0x36f8d3(0x4c1)]['mapBlock'][_0x3a271b][_0x47d88f]&&this[_0x36f8d3(0x513)]({'block':world[_0x36f8d3(0x4c1)][_0x36f8d3(0x4a0)][_0x3a271b][_0x47d88f]})<=Math['round'](_0x302d78)&&this[_0x36f8d3(0x513)]({'block':world[_0x36f8d3(0x4c1)][_0x36f8d3(0x4a0)][_0x3a271b][_0x47d88f]})>=Math[_0x36f8d3(0x285)](_0x5a9cb6))_0x1a393c['push'](world[_0x36f8d3(0x4c1)][_0x36f8d3(0x4a0)][_0x3a271b][_0x47d88f]);return _0x1a393c;},this['LoadPlayerImage']=_0x3cc6b3=>{var _0x3ae6a1=_0x2830db;if(!this[_0x3ae6a1(0x22d)])this[_0x3ae6a1(0x22d)]=PLAYER_FACE_IMG[Math[_0x3ae6a1(0x285)](Math['random']()*PLAYER_FACE_IMG['length'])];if(!this[_0x3ae6a1(0x1ab)])this['body_type']=PLAYER_BODY_IMG[Math[_0x3ae6a1(0x285)](Math[_0x3ae6a1(0x213)]()*PLAYER_BODY_IMG[_0x3ae6a1(0x49c)])];var _0x224823=[];_0x224823['push']({'name':this[_0x3ae6a1(0x1ab)],'needColor':!![]}),_0x224823[_0x3ae6a1(0x43c)]({'name':this[_0x3ae6a1(0x22d)],'needColor':![]});if(this[_0x3ae6a1(0x207)])_0x224823[_0x3ae6a1(0x43c)]({'name':this[_0x3ae6a1(0x207)][_0x3ae6a1(0x312)],'needColor':![]});for(var _0xa1c25b in _0x224823)if(!_0x3cc6b3[_0x224823[_0xa1c25b]['name']]||!_0x3cc6b3[_0x224823[_0xa1c25b][_0x3ae6a1(0x312)]][_0x3ae6a1(0x182)])return console[_0x3ae6a1(0x277)](_0x3ae6a1(0x374)+_0x224823[_0xa1c25b][_0x3ae6a1(0x312)]);var _0x427d3a=document[_0x3ae6a1(0x39c)]('canvas');_0x427d3a['width']=PLAYER_DEFAULT_SIZEX,_0x427d3a[_0x3ae6a1(0x458)]=PLAYER_DEFAULT_SIZEY;var _0x4fa303=_0x427d3a[_0x3ae6a1(0x2d1)]('2d');for(var _0xa1c25b in _0x224823){var _0x349be4=_0x224823[_0xa1c25b][_0x3ae6a1(0x312)];if(!_0x3cc6b3[_0x349be4])return;var _0x21048a=undefined;if(_0x224823[_0xa1c25b][_0x3ae6a1(0x342)])_0x21048a=_0x3cc6b3[_0x349be4][_0x3ae6a1(0x416)](0x0,0xff,0x0,this[_0x3ae6a1(0x47c)]['r'],this[_0x3ae6a1(0x47c)]['g'],this[_0x3ae6a1(0x47c)]['b']);else _0x21048a=_0x3cc6b3[_0x349be4][_0x3ae6a1(0x2cd)];if(!_0x21048a||!_0x21048a[_0x3ae6a1(0x2bd)])return![];_0x4fa303[_0x3ae6a1(0x32e)](_0x21048a,0x0,0x0);}var _0x21048a=new Image();_0x21048a['src']=_0x427d3a['toDataURL'](),_0x21048a['decode']()['then'](()=>{var _0x134821=_0x3ae6a1;console[_0x134821(0x277)]('player\x20body\x20img\x20loaded\x20and\x20ready'),this[_0x134821(0x1a6)]=!![];if(world['villageUI'])world['villageUI'][_0x134821(0x3ca)]=!![];if(world['GameUI'])world['GameUI'][_0x134821(0x3ca)]=!![];}),this['bodyPartImg']=_0x21048a;if(!_0x3cc6b3[_0x3ae6a1(0x276)]||!_0x3cc6b3[_0x3ae6a1(0x276)]['img']['complete'])return![];var _0x21048a=_0x3cc6b3[_0x3ae6a1(0x276)][_0x3ae6a1(0x416)](0x0,0xff,0x0,this[_0x3ae6a1(0x47c)]['r'],this[_0x3ae6a1(0x47c)]['g'],this[_0x3ae6a1(0x47c)]['b']);if(!_0x21048a)return![];return this[_0x3ae6a1(0x1f2)]=_0x21048a,!![];},this[_0x2830db(0x351)]=_0xbcda44=>{var _0x347699=_0x2830db;if(_0xbcda44[_0x347699(0x41e)])_0xbcda44=_0xbcda44[_0x347699(0x41e)];var _0x48ed99=Math[_0x347699(0x3be)](-(_0xbcda44['y']-this['y']-this[_0x347699(0x27c)]/0x2+0.5),_0xbcda44['x']-this['x']-this[_0x347699(0x27c)]/0x2+0.5);if(_0x48ed99>Math['PI']*0x7/0x8)return[-0x1,0x0];if(_0x48ed99>Math['PI']*0x5/0x8)return[-0x1,-0x1];if(_0x48ed99>Math['PI']*0x3/0x8)return[0x0,-0x1];if(_0x48ed99>Math['PI']*0x1/0x8)return[0x1,-0x1];if(_0x48ed99>-Math['PI']*0x1/0x8)return[0x1,0x0];if(_0x48ed99>-Math['PI']*0x3/0x8)return[0x1,0x1];if(_0x48ed99>-Math['PI']*0x5/0x8)return[0x0,0x1];if(_0x48ed99>-Math['PI']*0x7/0x8)return[-0x1,0x1];else{if(_0x48ed99>=-Math['PI'])return[-0x1,0x0];}return[-0x1,0x0];},this[_0x2830db(0x26b)]=_0x520a09=>{var _0x59eb94=_0x2830db,_0x53ab06=_0x520a09[_0x59eb94(0x41e)];if(!_0x53ab06||_0x53ab06['x']==undefined||_0x53ab06['y']==undefined)return![];var _0xd865e=this[_0x59eb94(0x351)](_0x53ab06);if(_0xd865e)this['dir']=_0xd865e;else return![];return!![];},this[_0x2830db(0x2b9)]=(_0x1d07ac,_0x52334a)=>{var _0x1fd0f7=_0x2830db;for(var _0x1d794b=this['x'];_0x1d794b<this['x']+this[_0x1fd0f7(0x27c)];_0x1d794b++)for(var _0x6f17b4=this['y'];_0x6f17b4<this['y']+this['size'];_0x6f17b4++)_0x52334a[_0x1fd0f7(0x4a0)][_0x1d794b][_0x6f17b4][_0x1fd0f7(0x40c)]=undefined;for(var _0x1d794b=_0x1d07ac['x'];_0x1d794b<_0x1d07ac['x']+this[_0x1fd0f7(0x27c)];_0x1d794b++){for(var _0x6f17b4=_0x1d07ac['y'];_0x6f17b4<_0x1d07ac['y']+this[_0x1fd0f7(0x27c)];_0x6f17b4++){_0x52334a[_0x1fd0f7(0x4a0)][_0x1d794b][_0x6f17b4][_0x1fd0f7(0x40c)]=this;}}this['x']=_0x1d07ac['x'],this['y']=_0x1d07ac['y'];},this[_0x2830db(0x4ce)]=_0x33f050=>{var _0x5269b5=_0x2830db;if(!_0x33f050||!_0x33f050[_0x5269b5(0x41e)]||_0x33f050[_0x5269b5(0x41e)]['x']==undefined||_0x33f050[_0x5269b5(0x41e)]['y']==undefined)return console[_0x5269b5(0x277)](_0x5269b5(0x3d1)),![];var _0x562686={'x':_0x33f050['block']['x'],'y':_0x33f050[_0x5269b5(0x41e)]['y']},_0xf35007=world[_0x5269b5(0x4c1)];if(_0x562686['x']+this[_0x5269b5(0x27c)]-0x1>=_0xf35007[_0x5269b5(0x1fb)]||_0x562686['x']<0x0||_0x562686['y']<0x0||_0x562686['y']+this[_0x5269b5(0x27c)]-0x1>=_0xf35007['height'])return console[_0x5269b5(0x277)](_0x5269b5(0x3fa)),![];var _0x402108;if(_0x562686['x']==this['x']-0x1&&_0x562686['y']>=this['y']&&this['y']+this[_0x5269b5(0x27c)]>_0x562686['y'])_0x562686['y']=this['y'],_0x402108=_0x5269b5(0x4a5);else{if(_0x562686['y']==this['y']-0x1&&_0x562686['x']>=this['x']&&this['x']+this['size']>_0x562686['x'])_0x562686['x']=this['x'],_0x402108=_0x5269b5(0x478);else{if(_0x562686['x']==this['x']+this['size']&&_0x562686['y']>=this['y']&&this['y']+this['size']>_0x562686['y'])_0x562686['y']=this['y'],_0x562686['x']=this['x']+0x1,_0x402108=_0x5269b5(0x510);else{if(_0x562686['y']==this['y']+this['size']&&_0x562686['x']>=this['x']&&this['x']+this[_0x5269b5(0x27c)]>_0x562686['x'])_0x562686['x']=this['x'],_0x562686['y']=this['y']+0x1,_0x402108=_0x5269b5(0x1a4);else return console[_0x5269b5(0x277)](_0x5269b5(0x3a6)),![];}}}for(var _0x416c95=_0x562686['x'];_0x416c95<_0x562686['x']+this[_0x5269b5(0x27c)];_0x416c95++){for(var _0x2e7554=_0x562686['y'];_0x2e7554<_0x562686['y']+this[_0x5269b5(0x27c)];_0x2e7554++){if(_0xf35007[_0x5269b5(0x4a0)][_0x416c95][_0x2e7554][_0x5269b5(0x40c)]&&_0xf35007[_0x5269b5(0x4a0)][_0x416c95][_0x2e7554][_0x5269b5(0x40c)]!=this)return console['log'](_0x5269b5(0x20a)),![];}}var _0x234e78=world['map']['CostMovingPlayer']({'player':this,'dir':_0x402108});if(_0x234e78===![])return console[_0x5269b5(0x277)]('CheckMoveTo\x20:\x20invalid\x20cost'),![];return{'dir':_0x402108,'cost':Math[_0x5269b5(0x285)](_0x234e78*this[_0x5269b5(0x476)])};},this[_0x2830db(0x4ee)]=_0x145ee1=>{var _0x46bd35=_0x2830db,_0x4773ab=this[_0x46bd35(0x4ce)](_0x145ee1);if(_0x4773ab)return _0x4773ab[_0x46bd35(0x226)];return![];},this[_0x2830db(0x2f8)]=_0x552372=>{var _0xd89fc8=_0x2830db,_0x111376=this['CheckMoveTo'](_0x552372);if(_0x111376)return _0x111376[_0xd89fc8(0x42e)];return![];},this[_0x2830db(0x4ad)]=_0x342cc7=>{var _0x534634=_0x2830db;if(!_0x342cc7||!_0x342cc7[_0x534634(0x41e)]||_0x342cc7[_0x534634(0x41e)]['x']==undefined||_0x342cc7[_0x534634(0x41e)]['y']==undefined)return![];var _0x113cb7=this[_0x534634(0x4ce)](_0x342cc7);if(_0x113cb7===![]||_0x113cb7[_0x534634(0x226)]>this[_0x534634(0x41d)])return![];var _0x1bc4d5=undefined;switch(_0x113cb7[_0x534634(0x42e)]){case'right':_0x1bc4d5=[0x1,0x0];break;case'left':_0x1bc4d5=[-0x1,0x0];break;case _0x534634(0x478):_0x1bc4d5=[0x0,-0x1];break;case _0x534634(0x1a4):_0x1bc4d5=[0x0,0x1];break;default:console[_0x534634(0x277)](_0x534634(0x3a6));return![];}this[_0x534634(0x41d)]-=_0x113cb7[_0x534634(0x226)];var _0x568b0c={'type':_0x534634(0x286),'mode':PLAYER_ANIMATION_MOVING,'dir':_0x1bc4d5,'from':[this['x'],this['y']],'duration':0x1f4};this[_0x534634(0x44f)][_0x534634(0x43c)](_0x568b0c),this[_0x534634(0x42e)]=_0x1bc4d5;var _0x48573a={'x':this['x']+_0x1bc4d5[0x0],'y':this['y']+_0x1bc4d5[0x1]};return this[_0x534634(0x2b9)](_0x48573a,world[_0x534634(0x4c1)]),!![];},this[_0x2830db(0x249)]=_0x3111c4=>{var _0x2ddabe=_0x2830db;if(!_0x3111c4||!_0x3111c4['block'])return'no\x20block';var _0x188e98=_0x3111c4[_0x2ddabe(0x41e)];if(!_0x188e98['player']||_0x188e98['player']==this)return _0x2ddabe(0x530);var _0x3e4e4c=_0x188e98[_0x2ddabe(0x40c)],_0x55dc35=Math[_0x2ddabe(0x3be)](_0x3e4e4c[_0x2ddabe(0x42e)][0x1],_0x3e4e4c[_0x2ddabe(0x42e)][0x0]),_0xafd441=Math[_0x2ddabe(0x3be)](this['y']-_0x3e4e4c['y'],this['x']-_0x3e4e4c['x']),_0x3d67e1=_0x55dc35-_0xafd441;while(_0x3d67e1>Math['PI'])_0x3d67e1-=0x2*Math['PI'];while(_0x3d67e1<-Math['PI'])_0x3d67e1+=0x2*Math['PI'];_0x3d67e1=Math[_0x2ddabe(0x183)](_0x3d67e1);var _0x302859=0x28+(0x50-0x28)*(_0x3d67e1/Math['PI']);return Math['floor'](_0x302859*0x64)/0x64;},this[_0x2830db(0x3c8)]=_0x5088c3=>{var _0x56891f=_0x2830db;if(!_0x5088c3||!_0x5088c3[_0x56891f(0x41e)])return![];var _0x5b6406=undefined,_0x4821c6=[];if(this[_0x56891f(0x3de)]){if(this['ActionPoint']<this[_0x56891f(0x3de)][_0x56891f(0x496)])return![];world['players'][_0x56891f(0x3d9)]['addMessage']({'type':this['team'],'txt':this[_0x56891f(0x312)]+_0x56891f(0x3b1)+this[_0x56891f(0x3de)][_0x56891f(0x312)]});for(var _0x3e72be in this[_0x56891f(0x3de)][_0x56891f(0x442)]){var _0x2bb467=this[_0x56891f(0x3de)]['zoneTarget'][_0x3e72be],_0x2b152d={..._0x5088c3};_0x2b152d[_0x56891f(0x2e8)]=_0x2bb467[_0x56891f(0x489)];var _0x1c6700=this[_0x2bb467[_0x56891f(0x47e)]](_0x2b152d);console[_0x56891f(0x277)](_0x56891f(0x1bd)+_0x3e72be),console[_0x56891f(0x277)](_0x56891f(0x1a0)+_0x2bb467[_0x56891f(0x47e)]);if(!_0x1c6700||_0x1c6700[_0x56891f(0x49c)]<0x1)continue;console[_0x56891f(0x277)](_0x56891f(0x1e0)+_0x1c6700[_0x56891f(0x49c)]),_0x4821c6[_0x56891f(0x43c)]({'blocks':_0x1c6700,'damage':_0x2bb467['damageBase']});}}else{if(this[_0x56891f(0x41d)]<AP_COST_NOWEAPON)return![];world[_0x56891f(0x457)]['MessageSystem'][_0x56891f(0x2ef)]({'type':this['team'],'txt':this['name']+_0x56891f(0x4ae)}),_0x4821c6=[{'blocks':[_0x5088c3['block']],'damage':[{'stats':_0x56891f(0x19f),'type':_0x56891f(0x451),'value':0x1}]}];}for(var _0x3e72be in _0x4821c6){var _0x758730=_0x4821c6[_0x3e72be],_0x319f8d=CalculeDamageWeaponFromPlayerStats({'player':this,'damage':_0x758730['damage']}),_0x19ea2b=!![];if(!_0x319f8d||_0x319f8d['length']<0x1)continue;for(var _0x3c59ac in _0x758730['blocks']){var _0x572314=_0x758730[_0x56891f(0x224)][_0x3c59ac];if(!_0x572314||!_0x572314[_0x56891f(0x40c)])continue;var _0x594b14=this[_0x56891f(0x249)]({'block':_0x572314}),_0x57536c=!![];if(Math[_0x56891f(0x285)](Math[_0x56891f(0x213)]()*0x64)>_0x594b14)_0x57536c=![];if(_0x57536c)_0x19ea2b=![],_0x572314[_0x56891f(0x40c)][_0x56891f(0x254)](_0x319f8d);else{world[_0x56891f(0x457)]['MessageSystem']['addMessage']({'txt':this[_0x56891f(0x312)]+_0x56891f(0x491)+_0x594b14+'%)'});var _0x43a109={'type':_0x56891f(0x3e1),'mode':PLAYER_ANIMATION_DODGE,'duration':0x3e8,'angle':Math[_0x56891f(0x213)]()*0x2*Math['PI']};_0x572314[_0x56891f(0x40c)][_0x56891f(0x44f)][_0x56891f(0x43c)](_0x43a109);}}}var _0x40a0a5={'type':_0x56891f(0x3c8),'mode':PLAYER_ANIMATION_ATTACK_DEFAULT,'dir':[_0x5088c3[_0x56891f(0x41e)]['x'],_0x5088c3[_0x56891f(0x41e)]['y']],'from':[this['x'],this['y']],'duration':0x1f4};this[_0x56891f(0x3de)]&&this[_0x56891f(0x3de)][_0x56891f(0x347)]&&(_0x40a0a5[_0x56891f(0x347)]={'posA':{'x':this['x']+0.5,'y':this['y']+0.5},'posB':{'x':_0x5088c3[_0x56891f(0x41e)]['x']+0.5,'y':_0x5088c3['block']['y']+0.5},'projectilName':this[_0x56891f(0x3de)][_0x56891f(0x347)][_0x56891f(0x48d)]?this[_0x56891f(0x3de)]['projectil'][_0x56891f(0x48d)]:undefined,'projectilSpeed':this[_0x56891f(0x3de)][_0x56891f(0x347)][_0x56891f(0x266)]?this[_0x56891f(0x3de)][_0x56891f(0x347)]['projectilSpeed']:0x32,'sound':this[_0x56891f(0x3de)][_0x56891f(0x347)][_0x56891f(0x2bb)]&&!_0x19ea2b?this[_0x56891f(0x3de)]['projectil'][_0x56891f(0x2bb)]:undefined});this[_0x56891f(0x44f)][_0x56891f(0x43c)](_0x40a0a5);if(this[_0x56891f(0x3de)]){var _0x5ca621=PLAYER_WEAPON_IMG[_0x56891f(0x1a2)](_0x4df451=>_0x4df451[_0x56891f(0x312)]==this[_0x56891f(0x3de)]['img']);world[_0x56891f(0x38d)][_0x56891f(0x350)](_0x5ca621['sound']),this[_0x56891f(0x41d)]-=this[_0x56891f(0x3de)][_0x56891f(0x496)];}else world[_0x56891f(0x38d)][_0x56891f(0x350)](_0x56891f(0x499)),this['ActionPoint']-=AP_COST_NOWEAPON;return this[_0x56891f(0x42e)]=this[_0x56891f(0x351)](_0x5088c3[_0x56891f(0x41e)]),!![];},this[_0x2830db(0x1af)]=(_0x1275f0,_0x39ce2a,_0x13e45a,_0x133e75)=>{var _0x1c0afe=_0x2830db,_0xb6afd4=new Date()['getTime']();while(this[_0x1c0afe(0x44f)]&&this[_0x1c0afe(0x44f)][0x0]){!this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3f2)]&&(this[_0x1c0afe(0x44f)][0x0]['startTime']=new Date()[_0x1c0afe(0x1be)]());if(_0xb6afd4>this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3f2)]+this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x35c)]){if(this['animation'][0x0][_0x1c0afe(0x347)])world[_0x1c0afe(0x457)][_0x1c0afe(0x19b)](this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x347)]);this[_0x1c0afe(0x44f)][_0x1c0afe(0x33a)](),this['needUIRedraw']=!![];}else break;}if(!this[_0x1c0afe(0x1a6)]||!this[_0x1c0afe(0x411)])return![];if(this[_0x1c0afe(0x3de)]){var _0x5298f7=world[_0x1c0afe(0x4fe)][this[_0x1c0afe(0x3de)]['name']],_0x24f282=PLAYER_WEAPON_IMG[_0x1c0afe(0x1a2)](_0x32cd21=>_0x32cd21[_0x1c0afe(0x312)]==this[_0x1c0afe(0x3de)]['img']);if(!_0x5298f7||!_0x24f282)return console['log'](_0x1c0afe(0x251)+this['weapon']['name']);_0x24f282=_0x24f282[_0x1c0afe(0x41c)];}if(!this[_0x1c0afe(0x44f)]||!this['animation'][0x0]){var _0x9f735f=Math[_0x1c0afe(0x285)](_0x39ce2a+this['size']*_0x133e75[_0x1c0afe(0x4e0)]/0x2),_0x462e2c=Math['floor'](_0x13e45a+this[_0x1c0afe(0x27c)]*_0x133e75['blocksize_y']/0x2),_0x201344=Math[_0x1c0afe(0x3be)](this[_0x1c0afe(0x42e)][0x0],-this[_0x1c0afe(0x42e)][0x1])-Math['PI']/0x2+getAngleFromTime(-Math['PI']/0x40,Math['PI']/0x40,Math[_0x1c0afe(0x22c)](_0xb6afd4/0x1f4));_0x1275f0[_0x1c0afe(0x2ae)](this[_0x1c0afe(0x411)],_0x9f735f,_0x462e2c,_0x133e75['scale']*this[_0x1c0afe(0x27c)],_0x201344);var _0x189566=getAngleFromTime(-Math['PI']/0x40,Math['PI']/0x10,Math['cos'](_0xb6afd4/0x12c)),_0x43f6a0=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math['cos'](_0x189566+_0x201344-Math['PI']/0x2)),_0x1cf1b7=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x189566+_0x201344-Math['PI']/0x2)),_0x6120a2=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x22c)](-_0x189566+_0x201344+Math['PI']/0x2)),_0x18a9ec=Math[_0x1c0afe(0x285)](0x64*_0x133e75['scale']*this[_0x1c0afe(0x27c)]*Math['sin'](-_0x189566+_0x201344+Math['PI']/0x2));_0x1275f0[_0x1c0afe(0x2ae)](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x43f6a0,_0x462e2c+_0x1cf1b7,_0x133e75[_0x1c0afe(0x2d0)],_0x189566+_0x201344);if(this[_0x1c0afe(0x3de)])_0x1275f0[_0x1c0afe(0x3b0)](_0x5298f7[_0x1c0afe(0x2cd)],_0x9f735f+_0x6120a2,_0x462e2c+_0x18a9ec,_0x24f282['x'],_0x24f282['y'],_0x133e75[_0x1c0afe(0x2d0)],-_0x189566+_0x201344);_0x1275f0[_0x1c0afe(0x379)](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x6120a2,_0x462e2c+_0x18a9ec,0x14,0x14,-_0x133e75['scale'],+_0x189566-_0x201344);}else{if(this[_0x1c0afe(0x44f)]&&this[_0x1c0afe(0x44f)][0x0]&&this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x381)]==PLAYER_ANIMATION_MOVING){var _0x153489=this[_0x1c0afe(0x44f)][0x0];pos=_0x133e75[_0x1c0afe(0x540)](_0x153489[_0x1c0afe(0x3d3)][0x0]+_0x153489['dir'][0x0],_0x153489[_0x1c0afe(0x3d3)][0x1]+_0x153489[_0x1c0afe(0x42e)][0x1]);var _0x9f735f=Math[_0x1c0afe(0x285)](pos['x']+this['size']*_0x133e75[_0x1c0afe(0x4e0)]/0x2),_0x462e2c=Math[_0x1c0afe(0x285)](pos['y']+this[_0x1c0afe(0x27c)]*_0x133e75[_0x1c0afe(0x304)]/0x2);world[_0x1c0afe(0x38d)][_0x1c0afe(0x350)](_0x1c0afe(0x3f6));var _0x2a6afb=[this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x42e)][0x0],this['animation'][0x0][_0x1c0afe(0x42e)][0x1]],_0x4895d2=0x1-(_0xb6afd4-this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3f2)])/this['animation'][0x0][_0x1c0afe(0x35c)];_0x9f735f-=_0x2a6afb[0x0]*_0x133e75['blocksize_x']*_0x4895d2,_0x462e2c-=_0x2a6afb[0x1]*_0x133e75[_0x1c0afe(0x304)]*_0x4895d2;var _0x201344=Math[_0x1c0afe(0x3be)](_0x2a6afb[0x0],-_0x2a6afb[0x1])-Math['PI']/0x2+getAngleFromTime(-Math['PI']/0x20,Math['PI']/0x20,Math[_0x1c0afe(0x22c)](_0xb6afd4/0x64));_0x1275f0[_0x1c0afe(0x2ae)](this[_0x1c0afe(0x411)],_0x9f735f,_0x462e2c,_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)],_0x201344);var _0x34cc8f=getAngleFromTime(-Math['PI']/0x8,Math['PI']/0x8,Math[_0x1c0afe(0x22c)](_0xb6afd4/0x64))+_0x201344,_0x60c117=getAngleFromTime(-Math['PI']/0x8,Math['PI']/0x8,Math['sin'](_0xb6afd4/0x64))-_0x201344,_0x43f6a0=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this['size']*Math[_0x1c0afe(0x22c)](_0x34cc8f-Math['PI']/0x2)),_0x1cf1b7=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this['size']*Math['sin'](_0x34cc8f-Math['PI']/0x2)),_0x468965=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this['size']*Math[_0x1c0afe(0x22c)](_0x60c117-Math['PI']/0x2)),_0x2ae68e=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x60c117-Math['PI']/0x2));_0x1275f0[_0x1c0afe(0x2ae)](this['handImg'],_0x9f735f+_0x43f6a0,_0x462e2c+_0x1cf1b7,_0x133e75['scale'],_0x34cc8f);if(this['weapon'])_0x1275f0[_0x1c0afe(0x3b0)](_0x5298f7['img'],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,_0x24f282['x'],_0x24f282['y'],_0x133e75[_0x1c0afe(0x2d0)],-_0x60c117);_0x1275f0[_0x1c0afe(0x379)](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,0x14,0x14,_0x133e75[_0x1c0afe(0x2d0)],_0x60c117+Math['PI']);}else{if(this[_0x1c0afe(0x44f)]&&this[_0x1c0afe(0x44f)][0x0]&&this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x381)]==PLAYER_ANIMATION_DODGE){var _0x153489=this[_0x1c0afe(0x44f)][0x0],_0x4895d2=0x1-(_0xb6afd4-_0x153489[_0x1c0afe(0x3f2)])/_0x153489['duration'];_0x4895d2=_0x4895d2<0.5?0x0:_0x4895d2>0.75?0x1-(_0x4895d2-0.5)*0x2:(_0x4895d2-0.5)*0x2;var _0x3a5e3e=_0x4895d2*Math[_0x1c0afe(0x22c)](_0x153489[_0x1c0afe(0x45a)])*0x64*_0x133e75['scale']*this[_0x1c0afe(0x27c)],_0x1dc1e7=_0x4895d2*Math[_0x1c0afe(0x38b)](_0x153489['angle'])*0x64*_0x133e75['scale']*this[_0x1c0afe(0x27c)],_0x9f735f=_0x3a5e3e+Math[_0x1c0afe(0x285)](_0x39ce2a+this[_0x1c0afe(0x27c)]*_0x133e75[_0x1c0afe(0x4e0)]/0x2),_0x462e2c=_0x1dc1e7+Math[_0x1c0afe(0x285)](_0x13e45a+this[_0x1c0afe(0x27c)]*_0x133e75[_0x1c0afe(0x304)]/0x2),_0x201344=Math['atan2'](this[_0x1c0afe(0x42e)][0x0],-this[_0x1c0afe(0x42e)][0x1])-Math['PI']/0x2+getAngleFromTime(-Math['PI']/0x40,Math['PI']/0x40,Math[_0x1c0afe(0x22c)](_0xb6afd4/0x1f4));_0x1275f0[_0x1c0afe(0x2ae)](this[_0x1c0afe(0x411)],_0x9f735f,_0x462e2c,_0x133e75['scale']*this[_0x1c0afe(0x27c)],_0x201344);var _0x189566=getAngleFromTime(-Math['PI']/0x40,Math['PI']/0x10,Math[_0x1c0afe(0x22c)](_0xb6afd4/0x12c)),_0x43f6a0=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x22c)](_0x189566+_0x201344-Math['PI']/0x2)),_0x1cf1b7=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x189566+_0x201344-Math['PI']/0x2)),_0x6120a2=Math[_0x1c0afe(0x285)](0x64*_0x133e75['scale']*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x22c)](-_0x189566+_0x201344+Math['PI']/0x2)),_0x18a9ec=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](-_0x189566+_0x201344+Math['PI']/0x2));_0x1275f0[_0x1c0afe(0x2ae)](this['handImg'],_0x9f735f+_0x43f6a0,_0x462e2c+_0x1cf1b7,_0x133e75[_0x1c0afe(0x2d0)],_0x189566+_0x201344);if(this[_0x1c0afe(0x3de)])_0x1275f0['drawImageRotateCenter'](_0x5298f7['img'],_0x9f735f+_0x6120a2,_0x462e2c+_0x18a9ec,_0x24f282['x'],_0x24f282['y'],_0x133e75[_0x1c0afe(0x2d0)],-_0x189566+_0x201344);_0x1275f0[_0x1c0afe(0x379)](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x6120a2,_0x462e2c+_0x18a9ec,0x14,0x14,-_0x133e75[_0x1c0afe(0x2d0)],+_0x189566-_0x201344);}else{if(this[_0x1c0afe(0x44f)]&&this[_0x1c0afe(0x44f)][0x0]&&this['animation'][0x0][_0x1c0afe(0x381)]==PLAYER_ANIMATION_ATTACK_DEFAULT){if(!this[_0x1c0afe(0x3de)]){pos=_0x133e75[_0x1c0afe(0x540)](this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3d3)][0x0],this['animation'][0x0][_0x1c0afe(0x3d3)][0x1]);var _0x9f735f=Math['floor'](pos['x']+this['size']*_0x133e75[_0x1c0afe(0x4e0)]/0x2),_0x462e2c=Math[_0x1c0afe(0x285)](pos['y']+this[_0x1c0afe(0x27c)]*_0x133e75['blocksize_y']/0x2),_0x2a6afb=[this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x42e)][0x0]-(this['x']+this[_0x1c0afe(0x27c)]/0x2)+0.5,this['animation'][0x0][_0x1c0afe(0x42e)][0x1]-(this['y']+this[_0x1c0afe(0x27c)]/0x2)+0.5],_0x4895d2=0x1-(_0xb6afd4-this[_0x1c0afe(0x44f)][0x0]['startTime'])/this['animation'][0x0][_0x1c0afe(0x35c)];if(_0x4895d2>0.5)_0x4895d2=0x1-_0x4895d2;_0x9f735f+=_0x2a6afb[0x0]*_0x133e75['blocksize_x']*_0x4895d2,_0x462e2c+=_0x2a6afb[0x1]*_0x133e75[_0x1c0afe(0x304)]*_0x4895d2;var _0x201344=Math[_0x1c0afe(0x3be)](_0x2a6afb[0x0],-_0x2a6afb[0x1])-Math['PI']/0x2+getAngleFromTime(-Math['PI']/0x6,Math['PI']/0x6,Math['cos'](_0xb6afd4/0x64));_0x1275f0[_0x1c0afe(0x2ae)](this[_0x1c0afe(0x411)],_0x9f735f,_0x462e2c,_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)],_0x201344);var _0x34cc8f=getAngleFromTime(Math['PI']/0x4,Math['PI']/0x2,Math['cos'](_0xb6afd4/0x64))+_0x201344,_0x60c117=getAngleFromTime(-Math['PI']/0x4,Math['PI']/0x2,Math[_0x1c0afe(0x38b)](_0xb6afd4/0x64))-_0x201344,_0x43f6a0=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x22c)](_0x34cc8f-Math['PI']/0x2)),_0x1cf1b7=Math['floor'](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this['size']*Math[_0x1c0afe(0x38b)](_0x34cc8f-Math['PI']/0x2)),_0x468965=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this['size']*Math[_0x1c0afe(0x22c)](_0x60c117-Math['PI']/0x2)),_0x2ae68e=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x60c117-Math['PI']/0x2));_0x1275f0[_0x1c0afe(0x2ae)](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x43f6a0,_0x462e2c+_0x1cf1b7,_0x133e75[_0x1c0afe(0x2d0)],_0x34cc8f),_0x1275f0[_0x1c0afe(0x379)](this['handImg'],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,0x14,0x14,_0x133e75[_0x1c0afe(0x2d0)],_0x60c117+Math['PI']);}else{if(this[_0x1c0afe(0x3de)][_0x1c0afe(0x518)]=='sword'){pos=_0x133e75[_0x1c0afe(0x540)](this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3d3)][0x0],this[_0x1c0afe(0x44f)][0x0]['from'][0x1]);var _0x9f735f=Math[_0x1c0afe(0x285)](pos['x']+this[_0x1c0afe(0x27c)]*_0x133e75[_0x1c0afe(0x4e0)]/0x2),_0x462e2c=Math['floor'](pos['y']+this['size']*_0x133e75['blocksize_y']/0x2),_0x2a6afb=[this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x42e)][0x0]-(this['x']+this[_0x1c0afe(0x27c)]/0x2)+0.5,this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x42e)][0x1]-(this['y']+this[_0x1c0afe(0x27c)]/0x2)+0.5],_0x4895d2=0x1-(_0xb6afd4-this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3f2)])/this['animation'][0x0][_0x1c0afe(0x35c)];if(_0x4895d2>0.5)_0x4895d2=0x1-_0x4895d2;_0x9f735f+=_0x2a6afb[0x0]*_0x133e75[_0x1c0afe(0x4e0)]*_0x4895d2,_0x462e2c+=_0x2a6afb[0x1]*_0x133e75['blocksize_y']*_0x4895d2;var _0x201344=Math[_0x1c0afe(0x3be)](_0x2a6afb[0x0],-_0x2a6afb[0x1])-Math['PI']/0x2+getAngleFromTime(-Math['PI']/0x6,Math['PI']/0x6,Math[_0x1c0afe(0x22c)](_0xb6afd4/0x64));_0x1275f0[_0x1c0afe(0x2ae)](this['bodyPartImg'],_0x9f735f,_0x462e2c,_0x133e75['scale']*this[_0x1c0afe(0x27c)],_0x201344);var _0x34cc8f=getAngleFromTime(Math['PI']/0x4,Math['PI']/0x2,Math[_0x1c0afe(0x22c)](_0xb6afd4/0x64))+_0x201344,_0x60c117=getAngleFromTime(-Math['PI']/0x4,Math['PI']/0x2,Math[_0x1c0afe(0x38b)](_0xb6afd4/0x64))-_0x201344,_0x43f6a0=Math['floor'](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x22c)](_0x34cc8f-Math['PI']/0x2)),_0x1cf1b7=Math['floor'](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this['size']*Math[_0x1c0afe(0x38b)](_0x34cc8f-Math['PI']/0x2)),_0x468965=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this['size']*Math['cos'](_0x60c117-Math['PI']/0x2)),_0x2ae68e=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x60c117-Math['PI']/0x2));_0x1275f0[_0x1c0afe(0x2ae)](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x43f6a0,_0x462e2c+_0x1cf1b7,_0x133e75[_0x1c0afe(0x2d0)],_0x34cc8f);if(this[_0x1c0afe(0x3de)])_0x1275f0['drawImageRotateCenter'](_0x5298f7['img'],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,_0x24f282['x'],_0x24f282['y'],_0x133e75[_0x1c0afe(0x2d0)],-_0x60c117);_0x1275f0['drawImageMirrorRotateCenter'](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,0x14,0x14,_0x133e75['scale'],_0x60c117+Math['PI']);}else{if(this[_0x1c0afe(0x3de)]['anim']=='bow'){pos=_0x133e75[_0x1c0afe(0x540)](this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3d3)][0x0],this[_0x1c0afe(0x44f)][0x0]['from'][0x1]);var _0x9f735f=Math['floor'](pos['x']+this['size']*_0x133e75['blocksize_x']/0x2),_0x462e2c=Math[_0x1c0afe(0x285)](pos['y']+this[_0x1c0afe(0x27c)]*_0x133e75[_0x1c0afe(0x304)]/0x2),_0x2a6afb=[this['animation'][0x0][_0x1c0afe(0x42e)][0x0]-(this['x']+this['size']/0x2)+0.5,this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x42e)][0x1]-(this['y']+this[_0x1c0afe(0x27c)]/0x2)+0.5],_0x4895d2=0x1-(_0xb6afd4-this[_0x1c0afe(0x44f)][0x0]['startTime'])/this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x35c)];if(_0x4895d2>0.5)_0x4895d2=0x1-_0x4895d2;var _0x201344=Math[_0x1c0afe(0x3be)](_0x2a6afb[0x0],-_0x2a6afb[0x1])-Math['PI']/0x2;_0x1275f0[_0x1c0afe(0x2ae)](this[_0x1c0afe(0x411)],_0x9f735f,_0x462e2c,_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)],_0x201344);var _0x34cc8f=Math['PI']*0x7/0x10+_0x201344,_0x60c117=Math['PI']*0x7/0x10-_0x201344,_0x43f6a0=Math[_0x1c0afe(0x285)](0x64*(0x1-_0x4895d2)*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x22c)](_0x34cc8f-Math['PI']/0x2)),_0x1cf1b7=Math['floor'](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x34cc8f-Math['PI']/0x2)),_0x468965=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x22c)](_0x60c117-Math['PI']/0x2)),_0x2ae68e=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x60c117-Math['PI']/0x2));_0x1275f0[_0x1c0afe(0x2ae)](this['handImg'],_0x9f735f+_0x43f6a0,_0x462e2c+_0x1cf1b7,_0x133e75['scale'],_0x34cc8f);if(this[_0x1c0afe(0x3de)])_0x1275f0[_0x1c0afe(0x3b0)](_0x5298f7[_0x1c0afe(0x2cd)],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,_0x24f282['x'],_0x24f282['y'],_0x133e75[_0x1c0afe(0x2d0)],-_0x60c117);_0x1275f0['drawImageMirrorRotateCenter'](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,0x14,0x14,_0x133e75[_0x1c0afe(0x2d0)],_0x60c117+Math['PI']);}else{if(this[_0x1c0afe(0x3de)][_0x1c0afe(0x518)]==_0x1c0afe(0x37e)){pos=_0x133e75[_0x1c0afe(0x540)](this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3d3)][0x0],this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3d3)][0x1]);var _0x9f735f=Math['floor'](pos['x']+this[_0x1c0afe(0x27c)]*_0x133e75[_0x1c0afe(0x4e0)]/0x2),_0x462e2c=Math[_0x1c0afe(0x285)](pos['y']+this[_0x1c0afe(0x27c)]*_0x133e75['blocksize_y']/0x2),_0x2a6afb=[this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x42e)][0x0]-(this['x']+this[_0x1c0afe(0x27c)]/0x2)+0.5,this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x42e)][0x1]-(this['y']+this['size']/0x2)+0.5],_0x4895d2=0x1-(_0xb6afd4-this[_0x1c0afe(0x44f)][0x0]['startTime'])/this['animation'][0x0][_0x1c0afe(0x35c)];if(_0x4895d2>0.5)_0x4895d2=0x1-_0x4895d2;_0x4895d2=_0x4895d2/0x3,_0x9f735f+=_0x2a6afb[0x0]*_0x133e75[_0x1c0afe(0x4e0)]*_0x4895d2,_0x462e2c+=_0x2a6afb[0x1]*_0x133e75[_0x1c0afe(0x304)]*_0x4895d2;var _0x201344=Math[_0x1c0afe(0x3be)](_0x2a6afb[0x0],-_0x2a6afb[0x1])-Math['PI']/0x2+getAngleFromTime(-Math['PI']/0x40,Math['PI']/0x40,Math[_0x1c0afe(0x22c)](_0xb6afd4/0x64));_0x1275f0[_0x1c0afe(0x2ae)](this[_0x1c0afe(0x411)],_0x9f735f,_0x462e2c,_0x133e75[_0x1c0afe(0x2d0)]*this['size'],_0x201344);var _0x34cc8f=getAngleFromTime(0x0,Math['PI']/0x40,Math['cos'](_0xb6afd4/0x64))+_0x201344,_0x60c117=getAngleFromTime(0x0,0x3*Math['PI']/0x8,Math[_0x1c0afe(0x38b)]((_0xb6afd4-this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3f2)])/this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x35c)]*1.1*Math['PI']))-_0x201344,_0x43f6a0=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math['cos'](_0x34cc8f-Math['PI']/0x2)),_0x1cf1b7=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x34cc8f-Math['PI']/0x2)),_0x468965=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x22c)](_0x60c117-Math['PI']/0x2)),_0x2ae68e=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x60c117-Math['PI']/0x2));_0x1275f0[_0x1c0afe(0x2ae)](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x43f6a0,_0x462e2c+_0x1cf1b7,_0x133e75[_0x1c0afe(0x2d0)],_0x34cc8f);if(this['weapon'])_0x1275f0['drawImageRotateCenter'](_0x5298f7[_0x1c0afe(0x2cd)],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,_0x24f282['x'],_0x24f282['y'],_0x133e75[_0x1c0afe(0x2d0)],_0x201344-Math['PI']/0x6);_0x1275f0[_0x1c0afe(0x379)](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,0x14,0x14,_0x133e75[_0x1c0afe(0x2d0)],_0x60c117+Math['PI']);}else{if(this[_0x1c0afe(0x3de)]['anim']==_0x1c0afe(0x214)){pos=_0x133e75[_0x1c0afe(0x540)](this[_0x1c0afe(0x44f)][0x0]['from'][0x0],this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3d3)][0x1]);var _0x9f735f=Math['floor'](pos['x']+this[_0x1c0afe(0x27c)]*_0x133e75[_0x1c0afe(0x4e0)]/0x2),_0x462e2c=Math[_0x1c0afe(0x285)](pos['y']+this[_0x1c0afe(0x27c)]*_0x133e75[_0x1c0afe(0x304)]/0x2),_0x2a6afb=[this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x42e)][0x0]-(this['x']+this[_0x1c0afe(0x27c)]/0x2)+0.5,this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x42e)][0x1]-(this['y']+this[_0x1c0afe(0x27c)]/0x2)+0.5],_0x4895d2=0x1-(_0xb6afd4-this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3f2)])/this['animation'][0x0][_0x1c0afe(0x35c)];if(_0x4895d2>0.5)_0x4895d2=0x1-_0x4895d2;_0x4895d2=_0x4895d2/0x3,_0x9f735f+=_0x2a6afb[0x0]*_0x133e75[_0x1c0afe(0x4e0)]*_0x4895d2,_0x462e2c+=_0x2a6afb[0x1]*_0x133e75['blocksize_y']*_0x4895d2;var _0x201344=Math[_0x1c0afe(0x3be)](_0x2a6afb[0x0],-_0x2a6afb[0x1])-Math['PI']/0x2+getAngleFromTime(-Math['PI']/0x4,Math['PI']/0x4,Math[_0x1c0afe(0x22c)]((_0xb6afd4-this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x3f2)])/this[_0x1c0afe(0x44f)][0x0][_0x1c0afe(0x35c)]*0x1*Math['PI']));_0x1275f0['drawImageRotate'](this[_0x1c0afe(0x411)],_0x9f735f,_0x462e2c,_0x133e75[_0x1c0afe(0x2d0)]*this['size'],_0x201344);var _0x60c117=getAngleFromTime(-Math['PI']/0x4,Math['PI']/0x2,-Math[_0x1c0afe(0x22c)]((_0xb6afd4-this[_0x1c0afe(0x44f)][0x0]['startTime'])/this[_0x1c0afe(0x44f)][0x0]['duration']*0x1*Math['PI']))-_0x201344,_0x34cc8f=_0x60c117-Math['PI']/0x20,_0x43f6a0=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math['cos'](_0x34cc8f-Math['PI']/0x2)),_0x1cf1b7=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x34cc8f-Math['PI']/0x2)),_0x468965=Math[_0x1c0afe(0x285)](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x22c)](_0x60c117-Math['PI']/0x2)),_0x2ae68e=Math['floor'](0x64*_0x133e75[_0x1c0afe(0x2d0)]*this[_0x1c0afe(0x27c)]*Math[_0x1c0afe(0x38b)](_0x60c117-Math['PI']/0x2));_0x1275f0[_0x1c0afe(0x379)](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x43f6a0,_0x462e2c-_0x1cf1b7,0x14,0x14,_0x133e75[_0x1c0afe(0x2d0)],_0x34cc8f+Math['PI']);if(this[_0x1c0afe(0x3de)])_0x1275f0['drawImageRotateCenter'](_0x5298f7[_0x1c0afe(0x2cd)],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,_0x24f282['x'],_0x24f282['y'],_0x133e75[_0x1c0afe(0x2d0)],-_0x60c117);_0x1275f0[_0x1c0afe(0x379)](this[_0x1c0afe(0x1f2)],_0x9f735f+_0x468965,_0x462e2c-_0x2ae68e,0x14,0x14,_0x133e75[_0x1c0afe(0x2d0)],_0x60c117+Math['PI']);}}}}}}}}}},this[_0x2830db(0x2e5)]=(_0x2f998b,_0x3f3059)=>{var _0x2cf9ca=_0x2830db;if(!_0x2f998b||!_0x3f3059||_0x2f998b['length']>0xc8)return undefined;var _0xf0612f=_0x2f998b[_0x2f998b[_0x2cf9ca(0x49c)]-0x1];console[_0x2cf9ca(0x277)](_0x2cf9ca(0x44c)+[_0xf0612f['x'],_0xf0612f['y']]);if(_0xf0612f['x']==_0x3f3059['x']&&_0xf0612f['y']==_0x3f3059['y'])return _0x2f998b;var _0x2859ed=[{'x':_0xf0612f['x']+0x1,'y':_0xf0612f['y']},{'x':_0xf0612f['x']-0x1,'y':_0xf0612f['y']},{'x':_0xf0612f['x'],'y':_0xf0612f['y']-0x1},{'x':_0xf0612f['x'],'y':_0xf0612f['y']+0x1}];_0x2859ed=_0x2859ed[_0x2cf9ca(0x4a4)]((_0x39ce37,_0xea42d)=>{return dist(_0x39ce37['x'],_0x39ce37['y'],_0x3f3059['x'],_0x3f3059['y'])-dist(_0xea42d['x'],_0xea42d['y'],_0x3f3059['x'],_0x3f3059['y']);});for(var _0x1c97ef in _0x2859ed){var _0x42da15=_0x2859ed[_0x1c97ef]['x'],_0x31a121=_0x2859ed[_0x1c97ef]['y'];console[_0x2cf9ca(0x277)]('check\x20next\x20block'+[_0x42da15,_0x31a121]+'?');var _0x86644e=![];for(var _0x222b80 in _0x2f998b)if(_0x2f998b[_0x222b80]['x']==_0x42da15&&_0x2f998b[_0x222b80]['y']==_0x31a121)_0x86644e=!![];if(_0x86644e)continue;if(!world[_0x2cf9ca(0x4c1)][_0x2cf9ca(0x4a0)][_0x42da15]||!world[_0x2cf9ca(0x4c1)][_0x2cf9ca(0x4a0)][_0x42da15][_0x31a121])continue;var _0x10b4c7=world[_0x2cf9ca(0x4c1)][_0x2cf9ca(0x4a0)][_0x42da15][_0x31a121];if(_0x10b4c7[_0x2cf9ca(0x40c)]&&!(_0x3f3059['x']==_0x10b4c7['x']&&_0x3f3059['y']==_0x10b4c7['y'])||!_0x10b4c7['getMoveCost']())continue;console[_0x2cf9ca(0x277)](_0x2cf9ca(0x359));var _0x258a1c=this[_0x2cf9ca(0x2e5)](_0x2f998b[_0x2cf9ca(0x1ae)]([_0x2859ed[_0x1c97ef]]),_0x3f3059);if(_0x258a1c)return _0x258a1c;}return console[_0x2cf9ca(0x277)](_0x2cf9ca(0x1f9)),undefined;},this[_0x2830db(0x1e9)]=()=>{var _0x475bc2=_0x2830db;console[_0x475bc2(0x277)](this['name']+_0x475bc2(0x2b7));var _0x47dbae=this[_0x475bc2(0x2a7)]['find'](_0x145e03=>_0x145e03[_0x475bc2(0x312)]==_0x475bc2(0x30a)),_0x21baa2=_0x47dbae[_0x475bc2(0x3c7)](_0x47dbae[_0x475bc2(0x3fc)]);_0x21baa2=_0x21baa2['find'](_0x4d8c4e=>_0x4d8c4e[_0x475bc2(0x40c)]&&_0x4d8c4e[_0x475bc2(0x40c)]['team']!=this[_0x475bc2(0x31f)]);if(this[_0x475bc2(0x3c8)]({'block':_0x21baa2}))return![];var _0x4ee10a=world[_0x475bc2(0x457)]['playerList']['filter'](_0x4fa2a0=>_0x4fa2a0[_0x475bc2(0x31f)]!=this[_0x475bc2(0x31f)]);if(!_0x4ee10a||_0x4ee10a[_0x475bc2(0x49c)]<0x1)return!![];var _0x23ad22=_0x4ee10a[_0x475bc2(0x4a4)]((_0x285335,_0xc55b8d)=>{return dist(this['x'],this['y'],_0x285335['x'],_0x285335['y'])-dist(this['x'],this['y'],_0xc55b8d['x'],_0xc55b8d['y']);})[0x0];if(!this['AI'][_0x475bc2(0x444)]||this['AI'][_0x475bc2(0x444)][_0x475bc2(0x49c)]<0xa||dist(this['x'],this['y'],_0x23ad22['x'],_0x23ad22['y'])<0x5)this['AI'][_0x475bc2(0x444)]=this[_0x475bc2(0x2e5)]([{'x':this['x'],'y':this['y']}],_0x23ad22);var _0x29ff4c=this['AI'][_0x475bc2(0x444)];if(_0x29ff4c&&_0x29ff4c[_0x475bc2(0x49c)]>0x1)_0x29ff4c=_0x29ff4c[0x1];if(this[_0x475bc2(0x4ad)]({'block':world[_0x475bc2(0x4c1)][_0x475bc2(0x4a0)][_0x29ff4c['x']][_0x29ff4c['y']]}))return this['AI'][_0x475bc2(0x444)][_0x475bc2(0x33a)](),![];return!![];};},PLAYER_FACE_IMG=['face_0',_0xa7c9c4(0x484),'face_2','face_3','face_4'],PLAYER_BODY_IMG=['body_0',_0xa7c9c4(0x310),'body_2',_0xa7c9c4(0x2c0),'body_4'],PROJECTIL_IMG=['wood_arrow'],PlayersManager=function(_0x3be754){var _0x54fe5c=_0xa7c9c4;this[_0x54fe5c(0x1ff)]=[],this[_0x54fe5c(0x4fe)]=undefined,this[_0x54fe5c(0x436)]=![],this['Playerturn']=undefined,this[_0x54fe5c(0x269)]=world[_0x54fe5c(0x2de)]['canList'][_0x54fe5c(0x457)],this[_0x54fe5c(0x265)]=world[_0x54fe5c(0x2de)][_0x54fe5c(0x534)][_0x54fe5c(0x457)],this['pUI_need_redraw']=!![],this[_0x54fe5c(0x3d9)]=new MessageSystem(),this[_0x54fe5c(0x3da)]=[],this['createProjectilAnimation']=_0x9c0295=>{var _0x51f254=_0x54fe5c;if(!_0x9c0295||!_0x9c0295[_0x51f254(0x47a)]||!_0x9c0295[_0x51f254(0x546)]||!_0x9c0295['projectilName']||!_0x9c0295[_0x51f254(0x266)])return;var _0x54d579=_0x9c0295[_0x51f254(0x47a)],_0x443d83=_0x9c0295[_0x51f254(0x546)];this[_0x51f254(0x3da)][_0x51f254(0x43c)]({'posA':_0x54d579,'posB':_0x443d83,'angle':Math[_0x51f254(0x3be)](_0x443d83['y']-_0x54d579['y'],_0x443d83['x']-_0x54d579['x']),'name':_0x9c0295[_0x51f254(0x327)],'duration':_0x9c0295[_0x51f254(0x266)]?_0x9c0295[_0x51f254(0x266)]*dist(_0x54d579['x'],_0x54d579['y'],_0x443d83['x'],_0x443d83['y']):0x64});if(_0x9c0295['sound'])world['Music'][_0x51f254(0x350)](_0x9c0295[_0x51f254(0x2bb)]);},this[_0x54fe5c(0x1f8)]=()=>{var _0x388b68=_0x54fe5c,_0x5ef16d=new Date()[_0x388b68(0x1be)]();for(var _0x3301d0 in this[_0x388b68(0x3da)]){if(this[_0x388b68(0x3da)][_0x3301d0][_0x388b68(0x3f2)]&&_0x5ef16d-this['projectilAnimation'][_0x3301d0]['startTime']>this[_0x388b68(0x3da)][_0x3301d0][_0x388b68(0x35c)])this[_0x388b68(0x3da)][_0x388b68(0x26a)](_0x3301d0,0x1);else{if(!this['projectilAnimation'][_0x3301d0][_0x388b68(0x3f2)])this[_0x388b68(0x3da)][_0x3301d0][_0x388b68(0x3f2)]=_0x5ef16d;}}var _0x270090=world['map'],_0x18730c=this['canvasPlayer'];for(var _0x3301d0 in this['projectilAnimation']){var _0x280f94=this[_0x388b68(0x3da)][_0x3301d0],_0x1a7e52=(_0x5ef16d-_0x280f94['startTime'])/_0x280f94['duration'],_0x914949=_0x1a7e52>0.5?0x1-_0x1a7e52:_0x1a7e52,_0x3374f4=_0x280f94[_0x388b68(0x47a)]['x']+_0x1a7e52*(_0x280f94[_0x388b68(0x546)]['x']-_0x280f94[_0x388b68(0x47a)]['x']),_0x2b28b2=_0x280f94['posA']['y']+_0x1a7e52*(_0x280f94['posB']['y']-_0x280f94['posA']['y']),_0x3b5536=_0x270090[_0x388b68(0x401)](_0x3374f4,_0x2b28b2);if(_0x3b5536['x']<0x0||_0x3b5536['y']<0x0||_0x3b5536['x']>_0x18730c[_0x388b68(0x1fb)]||_0x3b5536['y']>_0x18730c[_0x388b68(0x458)])continue;_0x18730c['drawImageRotate'](world[_0x388b68(0x4fe)][_0x280f94[_0x388b68(0x312)]][_0x388b68(0x2cd)],_0x3b5536['x'],_0x3b5536['y'],_0x270090[_0x388b68(0x2d0)]*(0.5+_0x914949*0x3),_0x280f94[_0x388b68(0x45a)]);}},this[_0x54fe5c(0x2d5)]=_0x4cb096=>{var _0x985672=_0x54fe5c;if(!_0x4cb096)return console[_0x985672(0x277)](_0x985672(0x3cc));_0x4cb096[_0x985672(0x270)]=!![],world['village'][_0x985672(0x3e2)](_0x4cb096);if(_0x4cb096&&_0x4cb096['x']!=undefined&&_0x4cb096['y']!=undefined){for(var _0x398a4d=_0x4cb096['x'];_0x398a4d<_0x4cb096['x']+_0x4cb096[_0x985672(0x27c)];_0x398a4d++)for(var _0x1f0039=_0x4cb096['y'];_0x1f0039<_0x4cb096['y']+_0x4cb096['size'];_0x1f0039++)if(world['map'][_0x985672(0x4a0)][_0x398a4d]&&world[_0x985672(0x4c1)][_0x985672(0x4a0)][_0x398a4d][_0x1f0039]&&world[_0x985672(0x4c1)][_0x985672(0x4a0)][_0x398a4d][_0x1f0039]['player']==_0x4cb096)world[_0x985672(0x4c1)][_0x985672(0x4a0)][_0x398a4d][_0x1f0039][_0x985672(0x40c)]=undefined;}var _0x52c72b=0x0;while(this[_0x985672(0x1ff)][_0x52c72b]){if(this[_0x985672(0x1ff)][_0x52c72b]==_0x4cb096){this[_0x985672(0x1ff)][_0x985672(0x26a)](_0x52c72b,0x1);break;}_0x52c72b++;}},this[_0x54fe5c(0x2e9)]=()=>{var _0x53fbdf=_0x54fe5c,_0x56a33a='./img/player_test3/';this[_0x53fbdf(0x4fe)]=[];var _0x23e015=[[_0x53fbdf(0x276),_0x56a33a+_0x53fbdf(0x32b)]];for(var _0x11d748 in WEAPON_TYPE){var _0x2119dc=WEAPON_TYPE[_0x11d748][_0x53fbdf(0x312)],_0x54f23a=WEAPON_TYPE[_0x11d748]['Img'];_0x23e015[_0x53fbdf(0x43c)]([_0x2119dc,_0x56a33a+_0x53fbdf(0x29b)+_0x54f23a+_0x53fbdf(0x3bc)]),_0x23e015[_0x53fbdf(0x43c)]([_0x2119dc+_0x53fbdf(0x512),_0x56a33a+'weapon/'+_0x54f23a+'_icon'+_0x53fbdf(0x3bc)]);}for(var _0x11d748 in PLAYER_BODY_IMG){var _0x2119dc=PLAYER_BODY_IMG[_0x11d748];_0x23e015[_0x53fbdf(0x43c)]([_0x2119dc,_0x56a33a+_0x53fbdf(0x1b3)+_0x2119dc+_0x53fbdf(0x3bc)]);}for(var _0x11d748 in PLAYER_FACE_IMG){var _0x2119dc=PLAYER_FACE_IMG[_0x11d748];_0x23e015[_0x53fbdf(0x43c)]([_0x2119dc,_0x56a33a+'face/'+_0x2119dc+_0x53fbdf(0x3bc)]);}for(var _0x11d748 in PLAYER_ARMOR){var _0x2119dc=PLAYER_ARMOR[_0x11d748]['name'],_0x54f23a=PLAYER_ARMOR[_0x11d748]['img'];_0x23e015[_0x53fbdf(0x43c)]([_0x2119dc,_0x56a33a+'armor/'+_0x54f23a+_0x53fbdf(0x3bc)]),_0x23e015[_0x53fbdf(0x43c)]([_0x2119dc+_0x53fbdf(0x512),_0x56a33a+'armor/'+_0x54f23a+'_icon'+_0x53fbdf(0x3bc)]);}for(var _0x11d748 in PROJECTIL_IMG){var _0x2119dc=PROJECTIL_IMG[_0x11d748];_0x23e015['push']([_0x2119dc,_0x56a33a+_0x53fbdf(0x231)+_0x2119dc+_0x53fbdf(0x3bc)]);}for(var _0x11d748 in _0x23e015){console[_0x53fbdf(0x277)](_0x53fbdf(0x4f3)+_0x23e015[_0x11d748]),this[_0x53fbdf(0x4fe)][_0x23e015[_0x11d748][0x0]]=new myImage(_0x23e015[_0x11d748][0x0],_0x23e015[_0x11d748][0x1]);}world[_0x53fbdf(0x4fe)]=this[_0x53fbdf(0x4fe)];},this['createNewPlayer']=(_0x5dbc01,_0x3671d8,_0x5b15ca,_0x31f8cd,_0x3fc7c4)=>{var _0x2b5d93=_0x54fe5c,_0x4b6866=new Player(_0x5dbc01,_0x3671d8,_0x5b15ca,_0x31f8cd,_0x3fc7c4);return _0x4b6866['ChangePosition'](_0x4b6866,world['map']),_0x4b6866[_0x2b5d93(0x543)](),_0x4b6866[_0x2b5d93(0x1fd)]=0x0,_0x4b6866;},this[_0x54fe5c(0x51d)]=_0x38685a=>{var _0x75d85b=_0x54fe5c;if(!_0x38685a||!_0x38685a[_0x75d85b(0x40c)]||_0x38685a['x']==undefined||_0x38685a['y']==undefined)return console[_0x75d85b(0x277)](_0x75d85b(0x19c));console[_0x75d85b(0x277)](_0x75d85b(0x425)+[_0x38685a['x'],_0x38685a['y'],_0x38685a[_0x75d85b(0x40c)][_0x75d85b(0x27c)]]);var _0x5436fa=_0x38685a[_0x75d85b(0x40c)],_0x5c3699=_0x38685a['x'],_0x15039f=_0x38685a['y'],_0xe5fd71=_0x38685a[_0x75d85b(0x31f)]?_0x38685a['team']:TEAM_HUMAN,_0x5bd14c=world[_0x75d85b(0x4c1)];if(_0x5c3699<0x0||_0x5c3699+_0x5436fa['size']-0x1>=_0x5bd14c['width']||_0x15039f<0x0||_0x15039f+_0x5436fa[_0x75d85b(0x27c)]-0x1>=_0x5bd14c['height'])return![];for(var _0x4db651=_0x5c3699;_0x4db651<_0x5c3699+_0x5436fa[_0x75d85b(0x27c)];_0x4db651++){for(var _0x4b4941=_0x15039f;_0x4b4941<_0x15039f+_0x5436fa[_0x75d85b(0x27c)];_0x4b4941++){if(_0x5bd14c[_0x75d85b(0x4a0)][_0x4db651][_0x4b4941][_0x75d85b(0x40c)])return![];if(!_0x5bd14c[_0x75d85b(0x4a0)][_0x4db651][_0x4b4941][_0x75d85b(0x3f1)]())return![];}}var _0x3b7b8e=this[_0x75d85b(0x465)](_0x5c3699,_0x15039f,_0x5436fa[_0x75d85b(0x27c)],_0x5436fa[_0x75d85b(0x47c)],_0xe5fd71);if(!_0x3b7b8e)return![];_0x3b7b8e[_0x75d85b(0x312)]=_0x5436fa['name'],_0x3b7b8e[_0x75d85b(0x22d)]=_0x5436fa[_0x75d85b(0x22d)],_0x3b7b8e['body_type']=_0x5436fa[_0x75d85b(0x1ab)],_0x3b7b8e[_0x75d85b(0x207)]=_0x5436fa[_0x75d85b(0x207)],_0x3b7b8e['weapon']=_0x5436fa[_0x75d85b(0x3de)],_0x3b7b8e['speed']=_0x5436fa[_0x75d85b(0x4aa)],_0x3b7b8e[_0x75d85b(0x405)]=_0x5436fa[_0x75d85b(0x405)],_0x3b7b8e['lifeMax']=_0x5436fa[_0x75d85b(0x17f)],_0x3b7b8e[_0x75d85b(0x3f8)]=_0x5436fa[_0x75d85b(0x17f)],_0x3b7b8e[_0x75d85b(0x476)]=_0x5436fa[_0x75d85b(0x476)],_0x3b7b8e['stats']=_0x5436fa[_0x75d85b(0x3fe)],_0x3b7b8e[_0x75d85b(0x27c)]=_0x5436fa[_0x75d85b(0x27c)],_0x3b7b8e['id']=_0x5436fa['id'];if(_0xe5fd71==TEAM_AI)_0x3b7b8e[_0x75d85b(0x42e)]=[-0x1,0x0];for(var _0x4db651=_0x5c3699;_0x4db651<_0x5c3699+_0x5436fa['size'];_0x4db651++){for(var _0x4b4941=_0x15039f;_0x4b4941<_0x15039f+_0x5436fa['size'];_0x4b4941++){_0x5bd14c['mapBlock'][_0x4db651][_0x4b4941][_0x75d85b(0x40c)]=_0x3b7b8e;}}return _0x3b7b8e[_0x75d85b(0x543)](),this[_0x75d85b(0x1ff)][_0x75d85b(0x43c)](_0x3b7b8e),!![];},this['createPlayer']=_0xf6a155=>{var _0x40b3fe=_0x54fe5c;if(!_0xf6a155||_0xf6a155['x']===undefined||_0xf6a155['y']===undefined)return![];var _0x10df24=_0xf6a155['x'],_0x4b3800=_0xf6a155['y'],_0x3f4a30=_0xf6a155[_0x40b3fe(0x47c)]?_0xf6a155[_0x40b3fe(0x47c)]:{'r':Math['floor'](Math[_0x40b3fe(0x213)]()*0x100),'g':Math[_0x40b3fe(0x285)](Math[_0x40b3fe(0x213)]()*0x100),'b':Math[_0x40b3fe(0x285)](Math[_0x40b3fe(0x213)]()*0x100)},_0xb0c2d4=_0xf6a155[_0x40b3fe(0x27c)]||_0xf6a155['size']<0x1?_0xf6a155[_0x40b3fe(0x27c)]:0x1,_0x3a5e6b=_0xf6a155[_0x40b3fe(0x31f)]?_0xf6a155[_0x40b3fe(0x31f)]:TEAM_HUMAN,_0x8fde88=world[_0x40b3fe(0x4c1)];if(_0x10df24<0x0||_0x10df24+_0xb0c2d4-0x1>=_0x8fde88['width']||_0x4b3800<0x0||_0x4b3800+_0xb0c2d4-0x1>=_0x8fde88[_0x40b3fe(0x458)])return![];for(var _0x1ad121=_0x10df24;_0x1ad121<_0x10df24+_0xb0c2d4;_0x1ad121++){for(var _0x15b69b=_0x4b3800;_0x15b69b<_0x4b3800+_0xb0c2d4;_0x15b69b++){if(_0x8fde88['mapBlock'][_0x1ad121][_0x15b69b]['player'])return![];if(!_0x8fde88[_0x40b3fe(0x4a0)][_0x1ad121][_0x15b69b]['getMoveCost']())return![];}}var _0x23e381=this[_0x40b3fe(0x465)](_0x10df24,_0x4b3800,_0xb0c2d4,_0x3f4a30,_0x3a5e6b);_0x23e381['id']=PLAYER_ID++,nameList=[_0x40b3fe(0x2f7),_0x40b3fe(0x19e),'Belek',_0x40b3fe(0x36d),_0x40b3fe(0x3a0),'Fepachie','Osef',_0x40b3fe(0x4f6),_0x40b3fe(0x1d1),_0x40b3fe(0x2c9)],_0x23e381[_0x40b3fe(0x312)]=nameList[Math[_0x40b3fe(0x285)](Math[_0x40b3fe(0x213)]()*nameList['length'])]+'\x20#'+Math[_0x40b3fe(0x285)](Math[_0x40b3fe(0x213)]()*0x64),_0x23e381[_0x40b3fe(0x3de)]=new Weapon()[_0x40b3fe(0x4db)](),_0x23e381[_0x40b3fe(0x207)]=new Armor()['createRandomArmor']();if(_0x3a5e6b==TEAM_AI)_0x23e381['dir']=[-0x1,0x0];for(var _0x1ad121=_0x10df24;_0x1ad121<_0x10df24+_0xb0c2d4;_0x1ad121++){for(var _0x15b69b=_0x4b3800;_0x15b69b<_0x4b3800+_0xb0c2d4;_0x15b69b++){_0x8fde88['mapBlock'][_0x1ad121][_0x15b69b][_0x40b3fe(0x40c)]=_0x23e381;}}return _0x23e381[_0x40b3fe(0x4aa)]=_0xf6a155[_0x40b3fe(0x4aa)]?_0xf6a155[_0x40b3fe(0x4aa)]:Math[_0x40b3fe(0x51a)](_0x23e381['speed']*(0.8+Math[_0x40b3fe(0x213)]()*0.4)),_0x23e381[_0x40b3fe(0x543)](),this[_0x40b3fe(0x1ff)][_0x40b3fe(0x43c)](_0x23e381),_0x23e381;},this['drawPlayers']=()=>{var _0x4bd313=_0x54fe5c,_0x2171a3=world[_0x4bd313(0x4c1)];if(!_0x2171a3||!_0x2171a3['topleft_block']||!_0x2171a3[_0x4bd313(0x418)])return;var _0x28e921=_0x2171a3[_0x4bd313(0x2d8)]['x'],_0x579df5=_0x2171a3[_0x4bd313(0x2d8)]['y'],_0x13d8f9=_0x2171a3[_0x4bd313(0x418)]['x'],_0x1c84f7=_0x2171a3[_0x4bd313(0x418)]['y'],_0x4b70ef=[],_0xa14a28=[];for(var _0x53a564=_0x28e921;_0x53a564<=_0x13d8f9;_0x53a564++){for(var _0x1572c2=_0x579df5;_0x1572c2<=_0x1c84f7;_0x1572c2++){var _0x434d86=_0x2171a3[_0x4bd313(0x4a0)][_0x53a564][_0x1572c2]['player'];if(!_0x434d86||_0xa14a28['find'](_0x3bd60a=>_0x3bd60a==_0x434d86))continue;if(_0x434d86==this[_0x4bd313(0x242)])_0xa14a28[_0x4bd313(0x43c)](_0x434d86);else _0xa14a28['unshift'](_0x434d86);}}for(var _0x55f0ff in _0xa14a28){var _0x434d86=_0xa14a28[_0x55f0ff];if(!_0x434d86['bodyPartImg']||!_0x434d86[_0x4bd313(0x1a6)])_0x434d86['LoadPlayerImage'](this['playerDefaultImgs']);var _0x3fd47d=_0x2171a3[_0x4bd313(0x540)](_0x434d86['x'],_0x434d86['y']);if(_0x3fd47d)_0x434d86[_0x4bd313(0x1af)](this[_0x4bd313(0x265)],_0x3fd47d['x'],_0x3fd47d['y'],_0x2171a3);else continue;_0x434d86[_0x4bd313(0x2d2)]&&(this[_0x4bd313(0x529)]=!![],_0x434d86[_0x4bd313(0x2d2)]=![]);var _0x1d3871=new MyUI(this['canvasPUI'],_0x3fd47d['x']-_0x2171a3[_0x4bd313(0x4e0)]/0x4,_0x3fd47d['y']-_0x2171a3[_0x4bd313(0x304)]/0x4,0x64*world[_0x4bd313(0x4c1)][_0x4bd313(0x2d0)],world[_0x4bd313(0x4c1)]['scale'],undefined,undefined,0x1),_0x98df3e=_0x434d86[_0x4bd313(0x31f)]==TEAM_HUMAN?_0x4bd313(0x18d):'#da1d81';_0x1d3871['addTextZone'](_0x434d86['name'],Math[_0x4bd313(0x285)](0x28*world['map']['scale']),0x10,_0x98df3e,PLAYER_NAME_FONT);var _0x3d29d1=Math[_0x4bd313(0x285)](0x14*world[_0x4bd313(0x4c1)][_0x4bd313(0x2d0)]);if(_0x434d86==this[_0x4bd313(0x242)])_0x1d3871[_0x4bd313(0x221)](_0x4bd313(0x547)+Math[_0x4bd313(0x285)](0x64*_0x434d86[_0x4bd313(0x41d)]/_0x434d86[_0x4bd313(0x405)]),_0x434d86['ActionPoint']/_0x434d86[_0x4bd313(0x405)],Math[_0x4bd313(0x285)](0x64*world[_0x4bd313(0x4c1)][_0x4bd313(0x2d0)]),_0x3d29d1+0x1,_0x3d29d1,_0x4bd313(0x1b8),'#00aaaa',_0x4bd313(0x2eb));else _0x1d3871['addGauge'](_0x4bd313(0x493)+Math[_0x4bd313(0x285)](0x64*_0x434d86['gaugeSpeed'])+'\x20%',_0x434d86['gaugeSpeed'],Math[_0x4bd313(0x285)](0x64*world['map'][_0x4bd313(0x2d0)]),_0x3d29d1+0x1,_0x3d29d1,_0x4bd313(0x1b8),_0x4bd313(0x365),_0x4bd313(0x2eb));_0x1d3871['addGauge'](_0x4bd313(0x536)+Math[_0x4bd313(0x285)](_0x434d86[_0x4bd313(0x3f8)])+'/'+Math[_0x4bd313(0x285)](_0x434d86['lifeMax']),_0x434d86[_0x4bd313(0x3f8)]/_0x434d86[_0x4bd313(0x17f)],Math['floor'](0x64*world[_0x4bd313(0x4c1)][_0x4bd313(0x2d0)]),_0x3d29d1+0x1,_0x3d29d1,_0x4bd313(0x1b8),_0x4bd313(0x31e),_0x4bd313(0x2eb)),_0x4b70ef[_0x4bd313(0x43c)](_0x1d3871);}if(this[_0x4bd313(0x529)]){this[_0x4bd313(0x269)][_0x4bd313(0x1f6)]();for(var _0x55f0ff in _0x4b70ef){_0x4b70ef[_0x55f0ff][_0x4bd313(0x38f)]();}this[_0x4bd313(0x529)]=![];}this[_0x4bd313(0x1f8)]();},this[_0x54fe5c(0x21d)]=_0x2c2b77=>{var _0x444373=_0x54fe5c;if(!_0x2c2b77||_0x2c2b77['x']==undefined||_0x2c2b77['y']==undefined)return undefined;return this[_0x444373(0x1ff)]['find'](_0x52d0ec=>_0x52d0ec['x']==_0x2c2b77['x']&&_0x52d0ec['y']==_0x2c2b77['y']);},this[_0x54fe5c(0x453)]=()=>{var _0x581349=_0x54fe5c,_0x1f6b84=undefined,_0x2100e8=0x0,_0x3b5ca5=0x0;for(var _0x356128 in this[_0x581349(0x1ff)]){var _0x2523dd=this['playerList'][_0x356128];if((0x1-_0x2523dd[_0x581349(0x1fd)])/_0x2523dd['speed']<=(0x1-_0x2100e8)/_0x3b5ca5){if(_0x1f6b84&&(0x1-_0x2523dd[_0x581349(0x1fd)])*_0x2523dd[_0x581349(0x4aa)]==(0x1-_0x2100e8)*_0x3b5ca5){if(_0x1f6b84[_0x581349(0x4aa)]>_0x2523dd['speed'])continue;}_0x1f6b84=_0x2523dd,_0x2100e8=_0x2523dd['gaugeSpeed'],_0x3b5ca5=_0x2523dd[_0x581349(0x4aa)];}}if(!_0x1f6b84)return undefined;for(var _0x356128 in this['playerList']){var _0x2523dd=this[_0x581349(0x1ff)][_0x356128];_0x2523dd[_0x581349(0x1fd)]+=(0x1-_0x2100e8)*(_0x2523dd[_0x581349(0x4aa)]/_0x3b5ca5);}return _0x1f6b84;},this['getNextTurnList']=_0x59cf64=>{var _0x2d3a7f=_0x54fe5c,_0xb432e1=[],_0x89b6d9=[];for(var _0x30a987 in this[_0x2d3a7f(0x1ff)]){var _0x5c61c7=this['playerList'][_0x30a987];_0x89b6d9[_0x30a987]={'player':_0x5c61c7,'gaugeSpeed':_0x5c61c7[_0x2d3a7f(0x1fd)],'speed':_0x5c61c7['speed']};}if(_0x59cf64<0x0||_0x89b6d9['length']<0x1)return[];for(var _0x21bf9e=0x0;_0x21bf9e<_0x59cf64;_0x21bf9e++){var _0xc5d48e=undefined,_0x2f07f1=0x0,_0x206bbd=0x0;for(var _0x30a987 in _0x89b6d9){var _0x5c61c7=_0x89b6d9[_0x30a987];if((0x1-_0x5c61c7[_0x2d3a7f(0x1fd)])/_0x5c61c7[_0x2d3a7f(0x4aa)]<=(0x1-_0x2f07f1)/_0x206bbd){if(_0xc5d48e&&(0x1-_0x5c61c7['gaugeSpeed'])*_0x5c61c7[_0x2d3a7f(0x4aa)]==(0x1-_0x2f07f1)*_0x206bbd){if(_0xc5d48e[_0x2d3a7f(0x4aa)]>_0x5c61c7['speed'])continue;}_0xc5d48e=_0x5c61c7,_0x2f07f1=_0x5c61c7['gaugeSpeed'],_0x206bbd=_0x5c61c7[_0x2d3a7f(0x4aa)];}}if(!_0xc5d48e)continue;for(var _0x30a987 in _0x89b6d9){var _0x5c61c7=_0x89b6d9[_0x30a987];_0x5c61c7[_0x2d3a7f(0x1fd)]+=(0x1-_0x2f07f1)*(_0x5c61c7['speed']/_0x206bbd);}_0xc5d48e[_0x2d3a7f(0x1fd)]=0x0,_0xb432e1[_0x2d3a7f(0x43c)](_0xc5d48e['player']);}return _0xb432e1;},this['nextTurn']=_0x17ee4a=>{var _0x3ba4cb=_0x54fe5c,_0xa072ca=this[_0x3ba4cb(0x1ff)][_0x3ba4cb(0x1a2)](_0x5422b0=>_0x5422b0[_0x3ba4cb(0x31f)]==TEAM_AI),_0x1b57db=this[_0x3ba4cb(0x1ff)][_0x3ba4cb(0x1a2)](_0x2d5831=>_0x2d5831['team']==TEAM_HUMAN);if(!_0xa072ca||!_0x1b57db){console[_0x3ba4cb(0x277)](_0x3ba4cb(0x474)),this[_0x3ba4cb(0x44a)]();return;}world[_0x3ba4cb(0x542)]&&(world[_0x3ba4cb(0x542)]['playersSelected']=undefined,world['GameUI'][_0x3ba4cb(0x1f4)]=undefined,world[_0x3ba4cb(0x542)]['selecting_block']=undefined,world[_0x3ba4cb(0x542)]['highlightZone']=undefined);if(world['players'][_0x3ba4cb(0x242)]&&world[_0x3ba4cb(0x457)][_0x3ba4cb(0x242)]['AI']&&!world[_0x3ba4cb(0x457)][_0x3ba4cb(0x242)]['AI'][_0x3ba4cb(0x1f1)])return;if(this[_0x3ba4cb(0x242)])this[_0x3ba4cb(0x242)][_0x3ba4cb(0x1fd)]=0x0;this[_0x3ba4cb(0x242)]=this[_0x3ba4cb(0x453)]();if(!this['Playerturn'])return;this[_0x3ba4cb(0x3d9)][_0x3ba4cb(0x2ef)]({'type':this[_0x3ba4cb(0x242)][_0x3ba4cb(0x31f)],'txt':this['Playerturn'][_0x3ba4cb(0x312)]+'\x20turn\x20have\x20started'});if(_0x17ee4a[_0x3ba4cb(0x4c1)])_0x17ee4a['map'][_0x3ba4cb(0x263)](this[_0x3ba4cb(0x242)]);if(_0x17ee4a['GameUI'])_0x17ee4a[_0x3ba4cb(0x542)][_0x3ba4cb(0x2ee)]=this['Playerturn'];this['Playerturn'][_0x3ba4cb(0x41d)]=this[_0x3ba4cb(0x242)]['ActionPointMax'];if(this[_0x3ba4cb(0x242)]['AI'])this[_0x3ba4cb(0x242)]['AI'][_0x3ba4cb(0x1f1)]=![];},this[_0x54fe5c(0x44a)]=()=>{var _0x39f02a=_0x54fe5c;world[_0x39f02a(0x542)]=undefined,world[_0x39f02a(0x4c1)]=undefined,world[_0x39f02a(0x415)]=new VillageUI(world[_0x39f02a(0x2de)]['canList'][_0x39f02a(0x542)]),world[_0x39f02a(0x2de)][_0x39f02a(0x534)][_0x39f02a(0x39d)][_0x39f02a(0x475)](),world['Screen']['canList'][_0x39f02a(0x39d)][_0x39f02a(0x1f6)](),world[_0x39f02a(0x2de)][_0x39f02a(0x534)][_0x39f02a(0x3d0)]['GetCanvasPos'](),world[_0x39f02a(0x2de)][_0x39f02a(0x534)][_0x39f02a(0x3d0)][_0x39f02a(0x1f6)](),world[_0x39f02a(0x2de)][_0x39f02a(0x534)][_0x39f02a(0x457)]['GetCanvasPos'](),world[_0x39f02a(0x2de)][_0x39f02a(0x534)]['players'][_0x39f02a(0x1f6)](),world[_0x39f02a(0x2de)]['canList'][_0x39f02a(0x380)][_0x39f02a(0x475)](),world['Screen']['canList'][_0x39f02a(0x380)][_0x39f02a(0x1f6)](),world[_0x39f02a(0x38d)][_0x39f02a(0x4e6)](_0x39f02a(0x2fc)),world[_0x39f02a(0x1ac)][_0x39f02a(0x303)]=![],world[_0x39f02a(0x1ac)][_0x39f02a(0x3d9)]['addMessage']({'txt':_0x39f02a(0x227)});};},GameUI=function(_0x576cea){var _0x1b4eb2=_0xa7c9c4;GAME_UI_DEFAULTSIZE_X=0xc8,GAME_UI_DEFAULTMARGE=0x5,GAME_UI_LETTER_SIZE=0x1e,GAME_UI_FONT='\x27Footlight\x20MT\x20Light\x27',GAME_UI_FONT_BUTTON=_0x1b4eb2(0x360),GAME_UI_WINDOWINFO_MOUSETIME=0x190,this[_0x1b4eb2(0x4bf)]=_0x576cea,this[_0x1b4eb2(0x18a)]=GAME_UI_DEFAULTSIZE_X,this[_0x1b4eb2(0x2d0)]=0x1,this[_0x1b4eb2(0x33d)]=_0x1b4eb2(0x17a),this['stroke']=_0x1b4eb2(0x216),this['marge']=GAME_UI_DEFAULTMARGE,this[_0x1b4eb2(0x3ca)]=!![],this[_0x1b4eb2(0x339)]=undefined,this['UI']=undefined,this['PlayerInfodisplay']=![],this[_0x1b4eb2(0x17c)]=undefined,this['UIturnExpanded']=![],this[_0x1b4eb2(0x29c)]=undefined,this['UIeventExpanded']=![],this[_0x1b4eb2(0x1a9)]={'value':0x0},this[_0x1b4eb2(0x2ee)]=undefined,this['blockSelected']=undefined,this['selecting_block']=undefined,this[_0x1b4eb2(0x1c4)]=undefined,this['mouseInfoWindow']=undefined,this['InfoWinfowPos']=undefined,this[_0x1b4eb2(0x428)]={'x':0xa,'y':0xa},this[_0x1b4eb2(0x477)]=!![],this['init_check_mouse_move']=()=>{var _0x4dff18=_0x1b4eb2;window[_0x4dff18(0x1de)](_0x4dff18(0x406),_0x18ea60=>{var _0x237dc8=_0x4dff18,_0x3fe01a=![];this['UIturn']&&this['UIturn'][_0x237dc8(0x3b3)](_0x18ea60['clientX'],_0x18ea60[_0x237dc8(0x4bb)])&&!this[_0x237dc8(0x477)]&&(this[_0x237dc8(0x3ca)]=!![],this[_0x237dc8(0x477)]=!![],_0x3fe01a=!![]);this['UI']&&this['UI'][_0x237dc8(0x3b3)](_0x18ea60['clientX'],_0x18ea60[_0x237dc8(0x4bb)])&&!this[_0x237dc8(0x477)]&&(this[_0x237dc8(0x3ca)]=!![],this[_0x237dc8(0x477)]=!![],_0x3fe01a=!![]);this[_0x237dc8(0x29c)]&&this[_0x237dc8(0x29c)][_0x237dc8(0x3b3)](_0x18ea60['clientX'],_0x18ea60[_0x237dc8(0x4bb)])&&!this[_0x237dc8(0x477)]&&(this[_0x237dc8(0x3ca)]=!![],this[_0x237dc8(0x477)]=!![],_0x3fe01a=!![]);!_0x3fe01a&&this[_0x237dc8(0x477)]&&(this[_0x237dc8(0x477)]=![],this['needRedraw']=!![]);if(this==world[_0x237dc8(0x542)])this[_0x237dc8(0x22f)]();},{'once':!![]});},this[_0x1b4eb2(0x22f)](),this[_0x1b4eb2(0x430)]=_0xbb379f=>{var _0x531dfb=_0x1b4eb2;if(!world['Controler'])return![];var _0x2b2fdf=world[_0x531dfb(0x325)][_0x531dfb(0x345)];if(!_0x2b2fdf)return![];if(new Date()['getTime']()-_0x2b2fdf[_0x531dfb(0x45b)]<GAME_UI_WINDOWINFO_MOUSETIME)return this[_0x531dfb(0x452)]&&(this['InfoWinfowPos']=![],this[_0x531dfb(0x3ca)]=!![]),![];if(this['UI']&&this['UI'][_0x531dfb(0x430)](_0xbb379f))return!![];if(this[_0x531dfb(0x17c)]&&this[_0x531dfb(0x17c)][_0x531dfb(0x430)](_0xbb379f))return!![];if(this[_0x531dfb(0x29c)]&&this[_0x531dfb(0x29c)][_0x531dfb(0x430)](_0xbb379f))return!![];if(!this[_0x531dfb(0x299)])return![];if(!this[_0x531dfb(0x452)])this[_0x531dfb(0x452)]={'x':_0x2b2fdf['x'],'y':_0x2b2fdf['y']};else{if(!_0xbb379f&&_0x2b2fdf['x']==this['InfoWinfowPos']['x']&&_0x2b2fdf['y']==this[_0x531dfb(0x452)]['y'])return![];}var _0x39701a=new MyUI(this[_0x531dfb(0x4bf)],_0x2b2fdf['x'],_0x2b2fdf['y'],0x32,0x1,this['background'],this[_0x531dfb(0x3a7)],0x1);_0x39701a[_0x531dfb(0x2dd)]('\x20\x20\x20\x20\x20Info\x20:',GAME_UI_LETTER_SIZE/0x2,0x270f,'#000000',GAME_UI_FONT);var _0x3cdf69=world[_0x531dfb(0x4c1)][_0x531dfb(0x348)](_0x2b2fdf);for(var _0x4730bc in this[_0x531dfb(0x299)]){var _0xa84798=this[_0x531dfb(0x299)][_0x4730bc];_0x39701a[_0x531dfb(0x2dd)](_0xa84798[_0x531dfb(0x1cd)]+_0xa84798[_0x531dfb(0x47e)]({'block':_0x3cdf69}),GAME_UI_LETTER_SIZE/0x2,0x270f,_0x531dfb(0x2eb),GAME_UI_FONT);}_0x39701a['drawUI']();},this[_0x1b4eb2(0x344)]=_0x24f129=>{var _0x4df744=_0x1b4eb2;if(this['UI']&&this['UI'][_0x4df744(0x2c1)](_0x24f129))return!![];if(this[_0x4df744(0x17c)]&&this[_0x4df744(0x17c)][_0x4df744(0x2c1)](_0x24f129))return!![];if(this[_0x4df744(0x29c)]&&this[_0x4df744(0x29c)][_0x4df744(0x2c1)](_0x24f129)){if(_0x24f129==_0x4df744(0x273)&&this[_0x4df744(0x525)]())return!![];}return![];},this[_0x1b4eb2(0x525)]=()=>{var _0x462211=_0x1b4eb2,_0x1ba0a3=![];if(this[_0x462211(0x3fd)])return this[_0x462211(0x3fd)]=![],!![];this[_0x462211(0x259)]&&(this[_0x462211(0x259)]=undefined,_0x1ba0a3=!![]);this[_0x462211(0x1c4)]&&(this[_0x462211(0x1c4)]=undefined,this[_0x462211(0x299)]=undefined,this[_0x462211(0x452)]=undefined,world[_0x462211(0x4c1)][_0x462211(0x3ca)]=!![],_0x1ba0a3=!![]);if(_0x1ba0a3)return _0x1ba0a3;_0x1ba0a3=![];this['playersSelected']&&(this[_0x462211(0x2ee)]=undefined,_0x1ba0a3=!![]);this[_0x462211(0x1f4)]&&(this[_0x462211(0x1f4)]=undefined,_0x1ba0a3=!![]);if(_0x1ba0a3)return!![];return![];},this[_0x1b4eb2(0x2ff)]=_0x165f3b=>{var _0x1b7d5c=_0x1b4eb2,_0x34c9df=_0x165f3b['x'],_0x5b043e=_0x165f3b['y'];if(_0x165f3b['button']==0x2){var _0x1661ae=this[_0x1b7d5c(0x525)]();if(_0x1661ae)return!![];}else{if(this['UI']&&this['UI'][_0x1b7d5c(0x4c7)](_0x34c9df,_0x5b043e))return!![];if(this[_0x1b7d5c(0x17c)]&&this[_0x1b7d5c(0x17c)][_0x1b7d5c(0x4c7)](_0x34c9df,_0x5b043e))return!![];if(this['UIevent']&&this[_0x1b7d5c(0x29c)][_0x1b7d5c(0x4c7)](_0x34c9df,_0x5b043e))return!![];if(world[_0x1b7d5c(0x4c1)])var _0x2b1165=world[_0x1b7d5c(0x4c1)][_0x1b7d5c(0x348)]({'x':_0x34c9df,'y':_0x5b043e});if(!_0x2b1165)return![];if(this[_0x1b7d5c(0x259)]&&this[_0x1b7d5c(0x1c4)]&&this[_0x1b7d5c(0x1c4)][_0x1b7d5c(0x4a1)]&&!this[_0x1b7d5c(0x1c4)]['zone'][_0x1b7d5c(0x1a2)](_0x2bac49=>_0x2bac49==_0x2b1165))return![];if(this[_0x1b7d5c(0x259)])return this[_0x1b7d5c(0x259)][_0x1b7d5c(0x47e)]({'block':_0x2b1165,'input':this['selecting_block'][_0x1b7d5c(0x4d4)]}),this['highlightZone']=undefined,this[_0x1b7d5c(0x299)]=undefined,this[_0x1b7d5c(0x1f4)]=undefined,this[_0x1b7d5c(0x259)]=undefined,world[_0x1b7d5c(0x4c1)]['needRedraw']=!![],!![];else this['blockSelected']=_0x2b1165;return this[_0x1b7d5c(0x2ee)]=_0x2b1165[_0x1b7d5c(0x40c)],!![];}return![];},this[_0x1b4eb2(0x3cd)]=_0x1b0859=>{var _0x412139=_0x1b4eb2;if(!_0x1b0859||!_0x1b0859[_0x412139(0x47e)])return;this[_0x412139(0x259)]={'callback':_0x1b0859['callback'],'input':_0x1b0859[_0x412139(0x4d4)],'info':_0x1b0859[_0x412139(0x324)]},this['needRedraw']=!![],_0x1b0859['highlight']&&(this[_0x412139(0x1c4)]={'zone':_0x1b0859['highlight']['callback'](_0x1b0859[_0x412139(0x185)][_0x412139(0x4d4)]),'type':_0x1b0859[_0x412139(0x185)]['input'][_0x412139(0x24c)]},world['map'][_0x412139(0x3ca)]=!![]),_0x1b0859[_0x412139(0x438)]&&(this[_0x412139(0x299)]=_0x1b0859[_0x412139(0x438)]);},this[_0x1b4eb2(0x247)]=()=>{var _0x1cc4aa=_0x1b4eb2;if(!world[_0x1cc4aa(0x457)][_0x1cc4aa(0x242)])return![];world[_0x1cc4aa(0x4c1)]['centerOnBlock'](world[_0x1cc4aa(0x457)][_0x1cc4aa(0x242)]),this[_0x1cc4aa(0x2ee)]=world[_0x1cc4aa(0x457)]['Playerturn'];},this[_0x1b4eb2(0x24f)]=()=>{var _0x20e28b=_0x1b4eb2;0x0;var _0x4650f9=[];_0x4650f9[_0x20e28b(0x43c)]({'type':_0x20e28b(0x2cd),'img':this['playersSelected'][_0x20e28b(0x411)],'lenx':0xc8,'leny':0xc8}),this['UI'][_0x20e28b(0x240)](_0x4650f9);var _0x1b9ee6=this[_0x20e28b(0x2ee)],_0x2dca50=''+_0x1b9ee6['name']+'\x20(',_0x57b7e9=_0x1b9ee6[_0x20e28b(0x31f)]==TEAM_AI?_0x20e28b(0x1ad):_0x20e28b(0x233);_0x2dca50+=_0x57b7e9,_0x2dca50+='\x0a'+_0x1b9ee6[_0x20e28b(0x3f8)]+'/'+_0x1b9ee6[_0x20e28b(0x17f)]+'\x20life\x20point',_0x2dca50+='\x0a'+_0x1b9ee6[_0x20e28b(0x41d)]+'/'+_0x1b9ee6['ActionPointMax']+_0x20e28b(0x46a),_0x2dca50+='\x0a'+_0x20e28b(0x367)+_0x1b9ee6[_0x20e28b(0x4aa)],_0x2dca50+='\x0a'+_0x20e28b(0x1df)+_0x1b9ee6[_0x20e28b(0x476)];for(var _0x463893 in _0x1b9ee6['stats'])_0x2dca50+='\x0a'+_0x463893+_0x20e28b(0x407)+_0x1b9ee6[_0x20e28b(0x3fe)][_0x463893];this['UI'][_0x20e28b(0x2dd)](_0x2dca50,GAME_UI_LETTER_SIZE/0x2,0x270f,_0x20e28b(0x2eb),GAME_UI_FONT);if(_0x1b9ee6[_0x20e28b(0x3de)])this['UI'][_0x20e28b(0x2dd)]('weapon\x20equiped\x20:\x20\x27'+_0x1b9ee6[_0x20e28b(0x3de)][_0x20e28b(0x312)]+'\x27\x0a'+_0x1b9ee6[_0x20e28b(0x3de)][_0x20e28b(0x454)](),GAME_UI_LETTER_SIZE/0x2,0x270f,_0x20e28b(0x2eb),GAME_UI_FONT);if(_0x1b9ee6[_0x20e28b(0x207)])this['UI']['addTextZone'](_0x20e28b(0x42b)+_0x1b9ee6[_0x20e28b(0x207)][_0x20e28b(0x385)](),GAME_UI_LETTER_SIZE/0x2,0x270f,_0x20e28b(0x2eb),GAME_UI_FONT);},this[_0x1b4eb2(0x403)]=()=>{var _0x598157=_0x1b4eb2;this[_0x598157(0x29c)]=new MyUI(this[_0x598157(0x4bf)],this[_0x598157(0x17c)][_0x598157(0x18a)]+this['UI'][_0x598157(0x18a)],0x0,0x5,this[_0x598157(0x2d0)],this[_0x598157(0x33d)],this[_0x598157(0x3a7)],this['marge']);var _0x1da0d1=[];_0x1da0d1['push']({'type':_0x598157(0x53f),'mouseLight':'ff','callback':()=>{var _0x302b28=_0x598157;this['UIeventExpanded']=!this[_0x302b28(0x25b)];},'callback_data':GAME_UI_FONT,'txt':_0x598157(0x43e),'txt_color':'#000000','max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT,'fillColor':_0x598157(0x517),'strokeColor':this[_0x598157(0x25b)]?_0x598157(0x4cd):'ff0000','windowInfo':[{'callback':()=>{return'extand\x20the\x20event\x20window';},'input':_0x183435}]});if(this[_0x598157(0x25b)]){var _0xc7dc67=this[_0x598157(0x3e4)](this[_0x598157(0x1a9)]);for(var _0x183435 in _0xc7dc67)_0x1da0d1[_0x598157(0x43c)](_0xc7dc67[_0x183435]);}this[_0x598157(0x29c)][_0x598157(0x240)](_0x1da0d1);if(this[_0x598157(0x25b)]&&world['players']){var _0x4c52fe=-0x1;for(var _0x183435=this[_0x598157(0x1a9)][_0x598157(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW;_0x183435>=this['eventPageOffset'][_0x598157(0x32d)];_0x183435--){_0x4c52fe++;var _0x4bc41e=world['players']['MessageSystem']['msg'][_0x183435];if(_0x183435>=world[_0x598157(0x457)][_0x598157(0x3d9)][_0x598157(0x508)][_0x598157(0x49c)])continue;if(!_0x4bc41e)break;this[_0x598157(0x1ea)](_0x4bc41e);}}console['log'](this['eventPageOffset'][_0x598157(0x32d)]),this[_0x598157(0x29c)][_0x598157(0x38f)]();},this[_0x1b4eb2(0x471)]=()=>{var _0x1c1154=_0x1b4eb2;if(!world['map']||!world['players'])return;this[_0x1c1154(0x3ca)]=![],this[_0x1c1154(0x4bf)][_0x1c1154(0x475)](),this['canvas'][_0x1c1154(0x1f6)](),this[_0x1c1154(0x17c)]=new MyUI(this[_0x1c1154(0x4bf)],0x0,0x0,0x32,this[_0x1c1154(0x2d0)],this[_0x1c1154(0x33d)],this[_0x1c1154(0x3a7)],0x1),this[_0x1c1154(0x17c)]['addHorizontalElem']([{'type':'button','mouseLight':'ff','callback':()=>{var _0x510032=_0x1c1154;this[_0x510032(0x52c)]=!this[_0x510032(0x52c)];},'callback_data':GAME_UI_FONT,'txt':_0x1c1154(0x256),'txt_color':_0x1c1154(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT,'fillColor':_0x1c1154(0x517),'strokeColor':this['UIeventExpanded']?_0x1c1154(0x4cd):_0x1c1154(0x26e),'windowInfo':[{'callback':()=>{var _0x4952da=_0x1c1154;return _0x4952da(0x40d);},'input':_0x4f1267}]}]);var _0x3c7fe1=world[_0x1c1154(0x457)][_0x1c1154(0x2c5)](0xf);for(var _0x4f1267 in _0x3c7fe1){var _0x5e2c91=_0x3c7fe1[_0x4f1267],_0x37cf14=[];_0x37cf14[_0x1c1154(0x43c)]({'type':_0x1c1154(0x2cd),'img':_0x5e2c91[_0x1c1154(0x411)],'lenx':0x1e,'leny':0x1e});if(this[_0x1c1154(0x52c)])_0x37cf14[_0x1c1154(0x43c)]({'type':'button','mouseLight':'ff','callback':_0x245424=>{var _0x44ba5d=_0x1c1154;this['playersSelected']=_0x245424;if(world[_0x44ba5d(0x4c1)])world[_0x44ba5d(0x4c1)][_0x44ba5d(0x263)](_0x245424);},'callback_data':_0x5e2c91,'txt':_0x5e2c91[_0x1c1154(0x312)],'txt_color':_0x5e2c91[_0x1c1154(0x31f)]==TEAM_HUMAN?_0x1c1154(0x498):_0x1c1154(0x31e),'max_letters':0x270f,'letter_size':0x1e,'txt_font':VILLAGE_UI_FONT,'fillColor':_0x1c1154(0x517),'strokeColor':this[_0x1c1154(0x2ee)]==_0x5e2c91?_0x1c1154(0x192):_0x1c1154(0x4cd),'windowInfo':[{'callback':_0x5882ff=>{var _0x369eea=_0x1c1154;return _0x369eea(0x467)+_0x5882ff+_0x369eea(0x26d);},'input':_0x4f1267}]});this[_0x1c1154(0x17c)]['addHorizontalElem'](_0x37cf14);}this[_0x1c1154(0x17c)]['drawUI'](),this['UI']=new MyUI(this[_0x1c1154(0x4bf)],this[_0x1c1154(0x17c)][_0x1c1154(0x18a)],0x0,this[_0x1c1154(0x18a)],this['scale'],this[_0x1c1154(0x33d)],this['stroke'],this['marge']);if(this[_0x1c1154(0x3fd)]&&this['playersSelected'])this[_0x1c1154(0x24f)](),this['UI'][_0x1c1154(0x423)](this[_0x1c1154(0x3fd)]&&this['playersSelected']?_0x1c1154(0x3a4):_0x1c1154(0x324),GAME_UI_LETTER_SIZE,_0x1c1154(0x2eb),_0x1c1154(0x1b8),this['stroke'],()=>{this['PlayerInfodisplay']=!this['PlayerInfodisplay'];},undefined,GAME_UI_FONT,undefined,undefined,'ff');else{if(world[_0x1c1154(0x457)][_0x1c1154(0x242)])this['UI'][_0x1c1154(0x423)](_0x1c1154(0x48f),GAME_UI_LETTER_SIZE,'#ffff00',_0x1c1154(0x3b7),this['stroke'],world[_0x1c1154(0x457)][_0x1c1154(0x338)],{'map':world['map'],'GameUI':world[_0x1c1154(0x542)]},GAME_UI_FONT,_0x1c1154(0x180)),this['UI']['addButton']('center\x20on\x20player',GAME_UI_LETTER_SIZE,'#000000','#11ff33',this['stroke'],this[_0x1c1154(0x247)],undefined,GAME_UI_FONT,_0x1c1154(0x44d));else this['UI'][_0x1c1154(0x423)](_0x1c1154(0x535),GAME_UI_LETTER_SIZE,'#ffff00',_0x1c1154(0x201),this[_0x1c1154(0x3a7)],world[_0x1c1154(0x457)][_0x1c1154(0x338)],{'map':world[_0x1c1154(0x4c1)],'GameUI':world['GameUI']},GAME_UI_FONT,_0x1c1154(0x180));if(this['blockSelected']&&!this[_0x1c1154(0x2ee)]){var _0x1326cb=this[_0x1c1154(0x1f4)]['x'],_0x17666f=this['blockSelected']['y'],_0x498f4c={'r':Math[_0x1c1154(0x285)](Math[_0x1c1154(0x213)]()*0x100),'g':Math[_0x1c1154(0x285)](Math['random']()*0x100),'b':Math[_0x1c1154(0x285)](Math['random']()*0x100)};this['UI'][_0x1c1154(0x423)]('spawn\x20player',GAME_UI_LETTER_SIZE,_0x1c1154(0x2eb),_0x1c1154(0x40b),this['stroke'],world['players'][_0x1c1154(0x42a)],{'x':_0x1326cb,'y':_0x17666f,'color':_0x498f4c},GAME_UI_FONT);}if(this[_0x1c1154(0x2ee)]){var _0x5e2c91=this['playersSelected'];this['UI'][_0x1c1154(0x423)](_0x5e2c91[_0x1c1154(0x312)],GAME_UI_LETTER_SIZE,_0x1c1154(0x2eb),'#ffffff',this['stroke'],()=>{var _0xafca87=_0x1c1154;this[_0xafca87(0x3fd)]=!this[_0xafca87(0x3fd)];},undefined,GAME_UI_FONT,undefined,undefined,'ff');if(this['playersSelected']==world['players'][_0x1c1154(0x242)]&&this[_0x1c1154(0x2ee)][_0x1c1154(0x31f)]==TEAM_HUMAN){if(_0x5e2c91[_0x1c1154(0x411)]&&_0x5e2c91[_0x1c1154(0x1a6)]&&_0x5e2c91[_0x1c1154(0x411)][_0x1c1154(0x2bd)])this['UI'][_0x1c1154(0x29f)](_0x5e2c91[_0x1c1154(0x411)],0x64,0x64);else this['needRedraw']=!![];if(this['selecting_block'])this['UI']['addTextZone'](_0x1c1154(0x29d)+this[_0x1c1154(0x259)][_0x1c1154(0x324)],GAME_UI_LETTER_SIZE*0.8,0x14,_0x1c1154(0x2eb),GAME_UI_FONT);else for(var _0x4f1267 in _0x5e2c91[_0x1c1154(0x2a7)]){var _0x48762b=_0x5e2c91['capacityList'][_0x4f1267];this['UI'][_0x1c1154(0x423)](_0x48762b[_0x1c1154(0x312)],GAME_UI_LETTER_SIZE,_0x1c1154(0x2eb),_0x1c1154(0x40b),this[_0x1c1154(0x3a7)],this[_0x1c1154(0x3cd)],{'callback':_0x48762b['callback'],'info':_0x48762b[_0x1c1154(0x2e7)],'highlight':{'callback':_0x48762b['zone_target_area'],'input':_0x48762b[_0x1c1154(0x3fc)]},'windowInfo':_0x48762b[_0x1c1154(0x438)]},GAME_UI_FONT,parseInt(_0x4f1267)+0x1);}}}}this[_0x1c1154(0x403)](),this['UI'][_0x1c1154(0x38f)](),this[_0x1c1154(0x430)](!![]);},this[_0x1b4eb2(0x3e4)]=_0x27af79=>{var _0x3896a2=_0x1b4eb2,_0x1101ae=[{'type':'button','callback':()=>{var _0x120951=_0x5f46;_0x27af79[_0x120951(0x32d)]=_0x27af79['value']>0x0?_0x27af79['value']-0x1:0x0;},'txt':'∧','txt_color':_0x3896a2(0x1b8),'mouseLight':'88','max_letters':0x270f,'letter_size':0x1e,'txt_font':VILLAGE_UI_FONT_BUILDINGNAME,'fillColor':_0x3896a2(0x424),'strokeColor':'#000000','windowInfo':[{'callback':()=>{var _0x4e9f1e=_0x3896a2;return _0x4e9f1e(0x49d);}}]},{'type':_0x3896a2(0x53f),'callback':()=>{var _0x5dcb88=_0x3896a2;_0x27af79[_0x5dcb88(0x32d)]++;},'txt':'∨','txt_color':'#ffffff','mouseLight':'88','max_letters':0x270f,'letter_size':0x1e,'txt_font':VILLAGE_UI_FONT_BUILDINGNAME,'fillColor':_0x3896a2(0x424),'strokeColor':'#000000','windowInfo':[{'callback':()=>{var _0x52b4d8=_0x3896a2;return _0x52b4d8(0x49e);}}]},{'type':'txt','txt':'['+_0x27af79[_0x3896a2(0x32d)]+':'+(_0x27af79['value']+VILLAGE_UI_MAX_TAB_ELM_DRAW)+']','txt_color':'#000000','max_letters':0x270f,'letter_size':0xf,'txt_font':VILLAGE_UI_FONT}];return _0x1101ae;},this['displayMessageEvent']=_0x13bf4a=>{var _0x164ea3=_0x1b4eb2;if(!_0x13bf4a)return;var _0x2400e5=_0x164ea3(0x2eb);switch(_0x13bf4a[_0x164ea3(0x24c)]){case TEAM_HUMAN:_0x2400e5=_0x164ea3(0x193);break;case TEAM_AI:_0x2400e5=_0x164ea3(0x31e);break;}this[_0x164ea3(0x29c)][_0x164ea3(0x2dd)](_0x13bf4a[_0x164ea3(0x1cd)],GAME_UI_LETTER_SIZE/0x2,0x270f,_0x2400e5,GAME_UI_FONT);};},ControlManager=function(){var _0xa29bcf=_0xa7c9c4;this[_0xa29bcf(0x2b2)]=[],this['keyUp']=[],this[_0xa29bcf(0x345)]={'x':0x0,'y':0x0,'lastTime':new Date()['getTime']()},window[_0xa29bcf(0x1de)](_0xa29bcf(0x42f),_0x2c0c17=>{var _0x2acf80=_0xa29bcf;if(_0x2c0c17[_0x2acf80(0x2c2)])return;var _0x1d81d=_0x2c0c17[_0x2acf80(0x480)],_0x272b0e=_0x2c0c17['code'];this[_0x2acf80(0x2b2)][_0x272b0e]=!![];}),window[_0xa29bcf(0x1de)](_0xa29bcf(0x3ba),_0x124ff6=>{var _0x496874=_0xa29bcf,_0x97bce3=_0x124ff6[_0x496874(0x480)],_0x5125c9=_0x124ff6[_0x496874(0x35e)];this[_0x496874(0x2b2)][_0x5125c9]=![],this['keyUp'][_0x5125c9]=!![];}),window[_0xa29bcf(0x1de)](_0xa29bcf(0x52d),_0x3834c4=>{var _0x203828=_0xa29bcf,_0x385928=_0x3834c4[_0x203828(0x200)];if(world[_0x203828(0x4c1)]){if(_0x385928>0x0)world['map'][_0x203828(0x334)](0x0,0x0,0.95);else{if(_0x385928<0x0)world[_0x203828(0x4c1)][_0x203828(0x334)](0x0,0x0,1.05);}}}),window[_0xa29bcf(0x1de)](_0xa29bcf(0x433),_0x31e865=>{var _0x500647=_0xa29bcf,_0x5b6a8d=world[_0x500647(0x2de)]['canList'][_0x500647(0x39d)];pos=_0x5b6a8d[_0x500647(0x287)](_0x31e865[_0x500647(0x376)],_0x31e865['clientY']),pos&&(this[_0x500647(0x388)]={'x':pos['x'],'y':pos['y'],'button':_0x31e865['button']});}),window['addEventListener'](_0xa29bcf(0x406),_0x5815e4=>{var _0x3b53e1=_0xa29bcf,_0x20c9ce=world[_0x3b53e1(0x2de)][_0x3b53e1(0x534)]['mapFloor'];this['mousePos']=_0x20c9ce['getPixelPosition'](_0x5815e4['clientX'],_0x5815e4['clientY']);if(this[_0x3b53e1(0x345)])this[_0x3b53e1(0x345)][_0x3b53e1(0x45b)]=new Date()['getTime']();}),this['CheckControlInput']=()=>{var _0x12a928=_0xa29bcf,_0x3a5032=![];if(world['map']){if(this['keyDown'][_0x12a928(0x1ec)])world[_0x12a928(0x4c1)][_0x12a928(0x334)](0x0,-0.1/world['map']['scale'],0x1);if(this[_0x12a928(0x2b2)][_0x12a928(0x3e3)])world[_0x12a928(0x4c1)][_0x12a928(0x334)](0x0,0.1/world[_0x12a928(0x4c1)][_0x12a928(0x2d0)],0x1);if(this['keyDown'][_0x12a928(0x284)])world['map'][_0x12a928(0x334)](-0.1/world['map'][_0x12a928(0x2d0)],0x0,0x1);if(this[_0x12a928(0x2b2)][_0x12a928(0x281)])world['map'][_0x12a928(0x334)](0.1/world[_0x12a928(0x4c1)][_0x12a928(0x2d0)],0x0,0x1);if(this['keyDown'][_0x12a928(0x300)])world[_0x12a928(0x4c1)][_0x12a928(0x334)](0x0,-0.1/world[_0x12a928(0x4c1)][_0x12a928(0x2d0)],0x1);if(this[_0x12a928(0x2b2)][_0x12a928(0x41f)])world[_0x12a928(0x4c1)][_0x12a928(0x334)](0x0,0.1/world[_0x12a928(0x4c1)][_0x12a928(0x2d0)],0x1);if(this[_0x12a928(0x2b2)][_0x12a928(0x409)])world[_0x12a928(0x4c1)][_0x12a928(0x334)](-0.1/world[_0x12a928(0x4c1)]['scale'],0x0,0x1);if(this[_0x12a928(0x2b2)][_0x12a928(0x51b)])world[_0x12a928(0x4c1)][_0x12a928(0x334)](0.1/world[_0x12a928(0x4c1)][_0x12a928(0x2d0)],0x0,0x1);if(this['keyDown']['NumpadSubtract'])world['map'][_0x12a928(0x334)](0x0,0x0,0.95);if(this[_0x12a928(0x2b2)][_0x12a928(0x469)])world[_0x12a928(0x4c1)][_0x12a928(0x334)](0x0,0x0,1.05);}if(this[_0x12a928(0x28f)]['KeyF']){if(!world[_0x12a928(0x2de)]['fullScreen'])world[_0x12a928(0x2de)]['openFullscreen']();else world[_0x12a928(0x2de)][_0x12a928(0x53c)](document);world[_0x12a928(0x38d)]['playSound']('click',undefined,!![]);}for(var _0x204f87 in this[_0x12a928(0x28f)]){if(!_0x3a5032&&_0x204f87[_0x12a928(0x1a1)](_0x12a928(0x2e0))||_0x204f87['startsWith'](_0x12a928(0x2c7)))_0x204f87=_0x204f87['replace'](_0x12a928(0x2e0),'')['replace'](_0x12a928(0x2c7),'');if(world[_0x12a928(0x542)]&&!_0x3a5032&&world[_0x12a928(0x542)][_0x12a928(0x344)](_0x204f87)){world['Music'][_0x12a928(0x350)](_0x12a928(0x3b9),undefined,!![]),_0x3a5032=!![];if(world[_0x12a928(0x542)])world['GameUI'][_0x12a928(0x3ca)]=!![];break;}if(world[_0x12a928(0x415)]&&world['villageUI'][_0x12a928(0x344)](_0x204f87)){world[_0x12a928(0x38d)][_0x12a928(0x350)]('click',undefined,!![]),_0x3a5032=!![];if(world[_0x12a928(0x415)])world[_0x12a928(0x415)][_0x12a928(0x3ca)]=!![];break;}}this[_0x12a928(0x28f)]=[];if(this['inputclick']){if(!_0x3a5032&&world[_0x12a928(0x542)]&&world['GameUI'][_0x12a928(0x2ff)](this['inputclick'])){world['Music'][_0x12a928(0x350)](_0x12a928(0x3b9),undefined,!![]),_0x3a5032=!![];if(world['GameUI'])world[_0x12a928(0x542)][_0x12a928(0x3ca)]=!![];}if(!_0x3a5032&&world[_0x12a928(0x415)]&&world[_0x12a928(0x415)][_0x12a928(0x2ff)](this['inputclick'])){world[_0x12a928(0x38d)][_0x12a928(0x350)](_0x12a928(0x3b9),undefined,!![]),_0x3a5032=!![];if(world['villageUI'])world[_0x12a928(0x415)][_0x12a928(0x3ca)]=!![];}}this['inputclick']=undefined;};},PLAYER_WEAPON_IMG=[{'name':_0xa7c9c4(0x1db),'center':{'x':0xa1,'y':0xd},'sound':_0xa7c9c4(0x53a)},{'name':_0xa7c9c4(0x1c0),'center':{'x':0x28,'y':0x11},'sound':_0xa7c9c4(0x4f5)},{'name':_0xa7c9c4(0x537),'center':{'x':0x3c,'y':0x40},'sound':_0xa7c9c4(0x2f2)},{'name':'wood_stick','center':{'x':0x16,'y':0x11},'sound':_0xa7c9c4(0x1d7)},{'name':_0xa7c9c4(0x27b),'center':{'x':0x32,'y':0x37},'sound':_0xa7c9c4(0x1d7)},{'name':_0xa7c9c4(0x3d6),'center':{'x':0x39,'y':0x25},'sound':'bow\x20attack'},{'name':_0xa7c9c4(0x245),'center':{'x':0x41,'y':0x46},'sound':_0xa7c9c4(0x4dc)}],WEAPON_TYPE=[{'name':'Wood\x20Stick','Img':'wood_stick','weaponAnim':_0xa7c9c4(0x20b),'bonus':[],'actionCost':0x19,'blockTargetingFunction':{'callback':'getBlockAdjacent','input':{}},'zoneTarget':[{'callback':_0xa7c9c4(0x470),'damageBase':[{'stats':_0xa7c9c4(0x19f),'type':'crushing','value':0x1}]}]},{'name':_0xa7c9c4(0x373),'Img':'stone_spear','weaponAnim':'spear','bonus':[],'actionCost':0x28,'blockTargetingFunction':{'callback':_0xa7c9c4(0x532),'input':{'rangeMin':0x1,'rangeMax':0x2}},'zoneTarget':[{'callback':_0xa7c9c4(0x470),'damageBase':[{'stats':_0xa7c9c4(0x19f),'type':_0xa7c9c4(0x4da),'value':1.5}]},{'callback':_0xa7c9c4(0x18e),'damageBase':[{'stats':'Strength','type':'piercing','value':0.5}]}]},{'name':'Stone\x20Axe','Img':_0xa7c9c4(0x27b),'weaponAnim':_0xa7c9c4(0x20b),'bonus':[BONUS_AXE_FOREST_WOOD],'actionCost':0x21,'blockTargetingFunction':{'callback':_0xa7c9c4(0x532),'input':{'rangeMin':0x1,'rangeMax':0x1}},'zoneTarget':[{'callback':'ReturnBlockTargeted','damageBase':[{'stats':_0xa7c9c4(0x19f),'type':_0xa7c9c4(0x451),'value':0x1},{'stats':_0xa7c9c4(0x19f),'type':_0xa7c9c4(0x196),'value':0x1}]}]},{'name':_0xa7c9c4(0x1f7),'Img':_0xa7c9c4(0x1c0),'weaponAnim':_0xa7c9c4(0x20b),'actionCost':0x28,'bonus':[],'blockTargetingFunction':{'callback':'getBlocksAtRangeFromPlayer','input':{'rangeMin':0x1,'rangeMax':0x1}},'zoneTarget':[{'callback':_0xa7c9c4(0x470),'damageBase':[{'stats':'Strength','type':'piercing','value':1.5},{'stats':_0xa7c9c4(0x19f),'type':_0xa7c9c4(0x196),'value':1.5}]}]},{'name':_0xa7c9c4(0x3a2),'Img':_0xa7c9c4(0x537),'weaponAnim':'sword_2h','actionCost':0x32,'bonus':[],'blockTargetingFunction':{'callback':_0xa7c9c4(0x532),'input':{'rangeMin':0x2,'rangeMax':0x2}},'zoneTarget':[{'callback':_0xa7c9c4(0x470),'damageBase':[{'stats':'Strength','type':'crushing','value':0x2},{'stats':_0xa7c9c4(0x19f),'type':_0xa7c9c4(0x196),'value':0x2}]},{'callback':'getBlocksAtRange','callback_data':{'rangeMin':0x1,'rangeMax':0x1},'damageBase':[{'stats':'Strength','type':_0xa7c9c4(0x451),'value':0.2},{'stats':_0xa7c9c4(0x19f),'type':_0xa7c9c4(0x196),'value':0.2}]}]},{'name':_0xa7c9c4(0x52b),'Img':_0xa7c9c4(0x3d6),'weaponAnim':'bow','bonus':[],'projectil':{'ammo':_0xa7c9c4(0x18c),'projectilSpeed':0x64,'sound':_0xa7c9c4(0x3ad)},'actionCost':0x32,'blockTargetingFunction':{'callback':_0xa7c9c4(0x516),'input':{'rangeMin':0x2,'rangeMax':0x4}},'zoneTarget':[{'callback':_0xa7c9c4(0x470),'damageBase':[{'stats':_0xa7c9c4(0x229),'type':_0xa7c9c4(0x4da),'value':0x1}]}]},{'name':'Stone\x20Pickaxe','Img':_0xa7c9c4(0x245),'weaponAnim':_0xa7c9c4(0x20b),'actionCost':0x28,'bonus':[BONUS_PICKAXE_MINE],'blockTargetingFunction':{'callback':_0xa7c9c4(0x4b3),'input':{}},'zoneTarget':[{'callback':'ReturnBlockTargeted','damageBase':[{'stats':'Strength','type':'piercing','value':0x2}]}]}],Weapon=function(){var _0x5f31f8=_0xa7c9c4;this[_0x5f31f8(0x37a)]=_0x5f31f8(0x3de),this[_0x5f31f8(0x312)],this[_0x5f31f8(0x4ef)],this[_0x5f31f8(0x442)],this['img'],this['anim'],this[_0x5f31f8(0x442)],this[_0x5f31f8(0x496)],this[_0x5f31f8(0x377)],this[_0x5f31f8(0x410)],this[_0x5f31f8(0x2b6)]=_0x25e7ef=>{var _0x2fe303=_0x5f31f8;if(!_0x25e7ef||!_0x25e7ef[_0x2fe303(0x312)])return console[_0x2fe303(0x277)](_0x2fe303(0x45f));var _0x3099a0=WEAPON_TYPE['find'](_0x57d6ee=>_0x57d6ee[_0x2fe303(0x312)]==_0x25e7ef[_0x2fe303(0x312)]);if(!_0x3099a0)return console[_0x2fe303(0x277)](_0x2fe303(0x45f));var _0x2d7fe6=PLAYER_WEAPON_IMG['find'](_0x5d6647=>_0x5d6647['name']==_0x3099a0['Img']);if(!_0x2d7fe6)return console['log'](_0x2fe303(0x45f));return this[_0x2fe303(0x2cd)]=_0x2d7fe6[_0x2fe303(0x312)],this['name']=_0x25e7ef[_0x2fe303(0x312)],this['anim']=_0x3099a0[_0x2fe303(0x4ef)],this[_0x2fe303(0x442)]=_0x3099a0[_0x2fe303(0x442)],this['actionCost']=_0x3099a0[_0x2fe303(0x496)],this[_0x2fe303(0x377)]=_0x3099a0['blockTargetingFunction'],this[_0x2fe303(0x347)]=_0x3099a0[_0x2fe303(0x347)],this[_0x2fe303(0x410)]=_0x3099a0[_0x2fe303(0x410)],console['log'](_0x2fe303(0x3c9)+this[_0x2fe303(0x410)][_0x2fe303(0x49c)]),this;},this['createRandomWeapon']=()=>{var _0xb29a3=_0x5f31f8,_0x479231=WEAPON_TYPE[Math[_0xb29a3(0x285)](Math['random']()*WEAPON_TYPE[_0xb29a3(0x49c)])];return this[_0xb29a3(0x2b6)]({'name':_0x479231[_0xb29a3(0x312)]});},this[_0x5f31f8(0x454)]=()=>{var _0x4065a9=_0x5f31f8,_0x157af7=_0x4065a9(0x394)+this['name']+_0x4065a9(0x506)+this['actionCost']+_0x4065a9(0x230);switch(this['blockTargetingFunction']['callback']){case _0x4065a9(0x4b3):_0x157af7+=_0x4065a9(0x48a);break;case _0x4065a9(0x532):_0x157af7+=_0x4065a9(0x2ed)+this[_0x4065a9(0x377)][_0x4065a9(0x4d4)][_0x4065a9(0x294)]+','+this[_0x4065a9(0x377)][_0x4065a9(0x4d4)][_0x4065a9(0x3c2)]+']';break;}for(var _0x106d0f in this[_0x4065a9(0x442)]){var _0x548ac6=this[_0x4065a9(0x442)][_0x106d0f];switch(_0x548ac6[_0x4065a9(0x47e)]){case'ReturnBlockTargeted':_0x157af7+=_0x4065a9(0x307);break;case _0x4065a9(0x18e):var _0x1282b9=_0x548ac6[_0x4065a9(0x489)]?_0x548ac6['callback_data'][_0x4065a9(0x294)]:0x1,_0x3048bd=_0x548ac6[_0x4065a9(0x489)]?_0x548ac6['callback_data'][_0x4065a9(0x3c2)]:0x1;_0x157af7+='\x0a-hit\x20between\x20['+[_0x1282b9,_0x3048bd]+_0x4065a9(0x25a);break;case _0x4065a9(0x2e2):var _0x1282b9=_0x548ac6['callback_data']?_0x548ac6[_0x4065a9(0x489)]['rangeMin']:0x1,_0x3048bd=_0x548ac6['callback_data']?_0x548ac6[_0x4065a9(0x489)][_0x4065a9(0x3c2)]:0x1;_0x157af7+=_0x4065a9(0x485)+[_0x1282b9,_0x3048bd]+_0x4065a9(0x308);break;}for(var _0x503224 in _0x548ac6[_0x4065a9(0x1e1)]){var _0x3d433d=_0x548ac6[_0x4065a9(0x1e1)][_0x503224];_0x157af7+=_0x4065a9(0x2f1)+_0x3d433d['value']+'\x20'+_0x3d433d[_0x4065a9(0x3fe)]+'\x20'+_0x3d433d[_0x4065a9(0x24c)]+_0x4065a9(0x53e);}}for(var _0x106d0f in this['bonus'])if(BONUS_DESCRIPTION[this[_0x4065a9(0x410)]])_0x157af7+='\x0a'+BONUS_DESCRIPTION[this[_0x4065a9(0x410)]];return _0x157af7;};};function CalculeDamageWeaponFromPlayerStats(_0x355608){var _0x2ea47e=_0xa7c9c4;if(!_0x355608||!_0x355608['player']||!_0x355608[_0x2ea47e(0x1a7)])return undefined;var _0x2f33f2=_0x355608[_0x2ea47e(0x1a7)],_0x4c0959=_0x355608['player'],_0x2d396e=[];for(var _0x2200ff in _0x2f33f2)_0x2d396e[_0x2ea47e(0x43c)]({'type':_0x2f33f2[_0x2200ff][_0x2ea47e(0x24c)],'value':_0x4c0959[_0x2ea47e(0x3fe)][_0x2f33f2[_0x2200ff]['stats']]*_0x2f33f2[_0x2200ff]['value']});return _0x2d396e;}PLAYER_ARMOR=[{'name':_0xa7c9c4(0x191),'img':_0xa7c9c4(0x236),'dmgArmor':[{'damage':_0xa7c9c4(0x451),'type':_0xa7c9c4(0x1c8),'value':0x14},{'damage':_0xa7c9c4(0x4da),'value':0x2}]}],PLAYER_ARMOR=[{'name':_0xa7c9c4(0x46d),'img':_0xa7c9c4(0x1b7),'dmgArmor':[{'damage':'crushing','type':_0xa7c9c4(0x1c8),'value':0x19},{'damage':_0xa7c9c4(0x451),'value':0x5}]}],Armor=function(){var _0x2a9a9d=_0xa7c9c4;this[_0x2a9a9d(0x37a)]=_0x2a9a9d(0x207),this[_0x2a9a9d(0x312)],this[_0x2a9a9d(0x2cd)],this['dmgArmor'],this[_0x2a9a9d(0x228)]=_0x23b8a7=>{var _0x3a9bf5=_0x2a9a9d;if(!_0x23b8a7||!_0x23b8a7[_0x3a9bf5(0x312)])return undefined;this[_0x3a9bf5(0x312)]=_0x23b8a7['name'];var _0x321797=PLAYER_ARMOR['find'](_0x1ef864=>_0x1ef864[_0x3a9bf5(0x312)]==_0x23b8a7[_0x3a9bf5(0x312)]);if(!_0x321797)return undefined;return this['img']=_0x321797[_0x3a9bf5(0x2cd)]?_0x321797[_0x3a9bf5(0x2cd)]:this[_0x3a9bf5(0x312)],this[_0x3a9bf5(0x28a)]=_0x321797[_0x3a9bf5(0x28a)],this;},this[_0x2a9a9d(0x509)]=()=>{var _0x5b155c=_0x2a9a9d;return this['createNewArmor']({'name':PLAYER_ARMOR[Math[_0x5b155c(0x285)](Math['random']()*PLAYER_ARMOR[_0x5b155c(0x49c)])]['name']});},this[_0x2a9a9d(0x2a5)]=_0x199ffc=>{var _0x371eaf=_0x2a9a9d;if(!_0x199ffc||!_0x199ffc[_0x371eaf(0x528)]||_0x199ffc[_0x371eaf(0x528)][_0x371eaf(0x49c)]<0x1)return 0x0;var _0x16c372=0x0;for(var _0x482474 in _0x199ffc['damages']){var _0x1bd90e=_0x199ffc[_0x371eaf(0x528)][_0x482474],_0x287553=_0x1bd90e[_0x371eaf(0x32d)];console[_0x371eaf(0x277)](_0x371eaf(0x241)+_0x1bd90e+'\x20'+_0x287553);for(var _0x86583f in this[_0x371eaf(0x28a)]){var _0x4b7f64=this['dmgArmor'][_0x86583f];console[_0x371eaf(0x277)]('check\x20protect\x20'+[_0x4b7f64[_0x371eaf(0x1a7)],_0x4b7f64['type'],_0x1bd90e[_0x371eaf(0x24c)]]);if(_0x4b7f64[_0x371eaf(0x1a7)]==_0x1bd90e['type']){console[_0x371eaf(0x277)](_0x371eaf(0x1e8)+_0x1bd90e[_0x371eaf(0x24c)]+_0x371eaf(0x2ab)+_0x4b7f64[_0x371eaf(0x32d)]+_0x371eaf(0x479)+_0x4b7f64[_0x371eaf(0x24c)]);if(_0x4b7f64[_0x371eaf(0x24c)])_0x287553=_0x287553*(0x1-_0x4b7f64[_0x371eaf(0x32d)]/0x64);else _0x287553=_0x287553-_0x4b7f64[_0x371eaf(0x32d)];}}if(_0x287553>0x0)_0x16c372+=_0x287553;}console[_0x371eaf(0x277)](_0x371eaf(0x507)+_0x16c372+'\x20('+Math[_0x371eaf(0x285)](_0x16c372)+')');if(_0x16c372>0x0)return Math[_0x371eaf(0x285)](_0x16c372);return 0x0;},this[_0x2a9a9d(0x385)]=()=>{var _0x1f6e05=_0x2a9a9d,_0x108bba='\x27'+this[_0x1f6e05(0x312)]+'\x27';for(var _0x2cab77 in this[_0x1f6e05(0x28a)]){_0x108bba+=_0x1f6e05(0x3db);if(this[_0x1f6e05(0x28a)][_0x2cab77][_0x1f6e05(0x24c)])_0x108bba+=this[_0x1f6e05(0x28a)][_0x2cab77][_0x1f6e05(0x32d)]+_0x1f6e05(0x38c);else _0x108bba+=this[_0x1f6e05(0x28a)][_0x2cab77][_0x1f6e05(0x32d)]+'\x20';_0x108bba+=this[_0x1f6e05(0x28a)][_0x2cab77][_0x1f6e05(0x1a7)]+_0x1f6e05(0x320);}return _0x108bba;};},HUMAN_NAME_LIST=[_0xa7c9c4(0x190),_0xa7c9c4(0x2aa),_0xa7c9c4(0x488),_0xa7c9c4(0x4bc),'Kadence\x20Castaneda','Collin\x20Snow',_0xa7c9c4(0x4be),_0xa7c9c4(0x274),_0xa7c9c4(0x4af),'Kai\x20Benjamin',_0xa7c9c4(0x4a8),_0xa7c9c4(0x2ac),_0xa7c9c4(0x28c),_0xa7c9c4(0x441),_0xa7c9c4(0x2f6),_0xa7c9c4(0x198),'Sariah\x20Cabrera',_0xa7c9c4(0x3e7),'Lorelei\x20Alexander',_0xa7c9c4(0x3cb),'Mckenna\x20Leblanc',_0xa7c9c4(0x354),_0xa7c9c4(0x33e),_0xa7c9c4(0x323),_0xa7c9c4(0x302),_0xa7c9c4(0x4cc),'Murphy\x20Nava',_0xa7c9c4(0x420),_0xa7c9c4(0x1ed),_0xa7c9c4(0x313),_0xa7c9c4(0x189),_0xa7c9c4(0x23a),_0xa7c9c4(0x4ff),'Ryder\x20Sandoval',_0xa7c9c4(0x1ba),_0xa7c9c4(0x17d),_0xa7c9c4(0x355),_0xa7c9c4(0x3ef),_0xa7c9c4(0x1a8),_0xa7c9c4(0x3a9),_0xa7c9c4(0x3d2),_0xa7c9c4(0x4d1),_0xa7c9c4(0x20e),_0xa7c9c4(0x35a),_0xa7c9c4(0x4b8),_0xa7c9c4(0x3d8),_0xa7c9c4(0x18b),_0xa7c9c4(0x3d4),_0xa7c9c4(0x2e3),_0xa7c9c4(0x1e6),'Ximena\x20Zimmerman',_0xa7c9c4(0x19a),'Amira\x20Escobar',_0xa7c9c4(0x1e7),_0xa7c9c4(0x432),_0xa7c9c4(0x34c),_0xa7c9c4(0x1e2),'Callahan\x20Schmitt',_0xa7c9c4(0x289),_0xa7c9c4(0x280),'Hazel\x20Crawford',_0xa7c9c4(0x4b6),_0xa7c9c4(0x363),_0xa7c9c4(0x4d8),_0xa7c9c4(0x368),'Kenji\x20McLaughlin',_0xa7c9c4(0x515),'Richard\x20Lee',_0xa7c9c4(0x30f),_0xa7c9c4(0x495),_0xa7c9c4(0x17e),_0xa7c9c4(0x399),_0xa7c9c4(0x4a6),_0xa7c9c4(0x208),_0xa7c9c4(0x523),'Grady\x20O’Neal',_0xa7c9c4(0x340),_0xa7c9c4(0x296),'Maci\x20Alvarado',_0xa7c9c4(0x4ec),_0xa7c9c4(0x47f),_0xa7c9c4(0x46b),'River\x20Hunter',_0xa7c9c4(0x215),_0xa7c9c4(0x23f),_0xa7c9c4(0x2ea),'Aubrielle\x20Farmer',_0xa7c9c4(0x1d4),_0xa7c9c4(0x333),_0xa7c9c4(0x2ba),_0xa7c9c4(0x2f3),_0xa7c9c4(0x2a0),'Alaina\x20Bradford',_0xa7c9c4(0x295),'Mira\x20Acevedo',_0xa7c9c4(0x1f3),_0xa7c9c4(0x419),_0xa7c9c4(0x501),'Marisol\x20Humphrey',_0xa7c9c4(0x328)],MessageSystem=function(){var _0x34f451=_0xa7c9c4;world[_0x34f451(0x3d9)]=this,this['msg']=[],COLOR_SYSTEM_DEFAULT=_0x34f451(0x2eb),MAX_MESSAGE=0xc8,this[_0x34f451(0x2ef)]=_0x38b92b=>{var _0x1b8fa0=_0x34f451;if(!_0x38b92b||!_0x38b92b[_0x1b8fa0(0x1cd)])return;this[_0x1b8fa0(0x508)][_0x1b8fa0(0x4f2)]({'type':_0x38b92b[_0x1b8fa0(0x24c)],'txt':_0x38b92b[_0x1b8fa0(0x1cd)]});while(this[_0x1b8fa0(0x508)][_0x1b8fa0(0x49c)]>MAX_MESSAGE)this['msg'][_0x1b8fa0(0x386)]();},this[_0x34f451(0x2ef)]({'txt':_0x34f451(0x272)}),this[_0x34f451(0x260)]=_0xb66a4e=>{var _0x1ad0de=_0x34f451;if(!_0xb66a4e||!this[_0x1ad0de(0x508)]||this[_0x1ad0de(0x508)][_0x1ad0de(0x49c)]<0x1)return[];var _0x3c1791=_0xb66a4e[_0x1ad0de(0x2e4)]&&_0xb66a4e['page']<this[_0x1ad0de(0x508)][_0x1ad0de(0x49c)]?_0xb66a4e[_0x1ad0de(0x2e4)]:0x0,_0x43b5de=_0xb66a4e[_0x1ad0de(0x400)]?_0xb66a4e[_0x1ad0de(0x400)]:0xa;while(_0x3c1791+_0x43b5de>this['msg'][_0x1ad0de(0x49c)]&&_0x43b5de>0x0)_0x43b5de--;var _0x50af3d=[],_0x4413d5=0x0;while(_0x4413d5<_0x43b5de&&this[_0x1ad0de(0x508)][_0x3c1791+_0x4413d5]){_0x50af3d[_0x1ad0de(0x43c)](this['msg'][_0x3c1791+_0x4413d5]),_0x4413d5++;}return _0x50af3d;};},PlayerVillage=function(_0x17b49){var _0x4f9a91=_0xa7c9c4;this[_0x4f9a91(0x312)]=_0x17b49['name']?_0x17b49[_0x4f9a91(0x312)]:HUMAN_NAME_LIST[Math[_0x4f9a91(0x285)](Math[_0x4f9a91(0x213)]()*HUMAN_NAME_LIST[_0x4f9a91(0x49c)])],this[_0x4f9a91(0x47c)]=_0x17b49[_0x4f9a91(0x47c)]?_0x17b49[_0x4f9a91(0x47c)]:{'r':Math[_0x4f9a91(0x285)](Math[_0x4f9a91(0x213)]()*0x100),'g':Math['floor'](Math['random']()*0x100),'b':Math[_0x4f9a91(0x285)](Math[_0x4f9a91(0x213)]()*0x100)},this[_0x4f9a91(0x411)]=undefined,this[_0x4f9a91(0x1a6)]=![],this['face_type']=_0x17b49['face_type']?_0x17b49[_0x4f9a91(0x22d)]:PLAYER_FACE_IMG[Math[_0x4f9a91(0x285)](Math[_0x4f9a91(0x213)]()*PLAYER_FACE_IMG[_0x4f9a91(0x49c)])],this[_0x4f9a91(0x1ab)]=_0x17b49[_0x4f9a91(0x1ab)]?_0x17b49[_0x4f9a91(0x1ab)]:PLAYER_BODY_IMG[Math[_0x4f9a91(0x285)](Math['random']()*PLAYER_BODY_IMG[_0x4f9a91(0x49c)])],this[_0x4f9a91(0x207)]=_0x17b49[_0x4f9a91(0x207)]?_0x17b49[_0x4f9a91(0x207)]:undefined,this[_0x4f9a91(0x3de)]=_0x17b49[_0x4f9a91(0x3de)]?_0x17b49[_0x4f9a91(0x3de)]:undefined,this[_0x4f9a91(0x4aa)]=_0x17b49[_0x4f9a91(0x4aa)]?_0x17b49[_0x4f9a91(0x4aa)]:0x64,this[_0x4f9a91(0x405)]=_0x17b49['ActionPointMax']?_0x17b49['ActionPointMax']:0x64,this[_0x4f9a91(0x17f)]=_0x17b49['lifeMax']?_0x17b49[_0x4f9a91(0x17f)]:0x64,this[_0x4f9a91(0x3fe)]=_0x17b49['stats'],this['movePCost']=_0x17b49['movePCost']?_0x17b49[_0x4f9a91(0x476)]:PLAYER_DEFAUTL_MOVECOST,this[_0x4f9a91(0x27c)]=_0x17b49['size']?_0x17b49[_0x4f9a91(0x27c)]:0x1,this['id']=PLAYER_ID++,this[_0x4f9a91(0x219)]=_0x17b49['villageActionPointMax']?_0x17b49[_0x4f9a91(0x219)]:0xa,this['villageActionPoint']=this['villageActionPointMax'],this[_0x4f9a91(0x531)]=_0x17b49[_0x4f9a91(0x531)]?_0x17b49['ago']:0x0,this['lvl']=_0x17b49[_0x4f9a91(0x204)]?_0x17b49[_0x4f9a91(0x204)]:0x1,this[_0x4f9a91(0x2da)]=_0x17b49[_0x4f9a91(0x2da)]?_0x17b49['lvlup']:0x0,this[_0x4f9a91(0x468)]=[],this[_0x4f9a91(0x255)]=()=>{var _0x5a3f3b=_0x4f9a91,_0x186bfc=[],_0x574469=Math[_0x5a3f3b(0x285)](Math['random']()*0x64),_0x15e96b=_0x5a3f3b(0x3fe),_0x3b9d61=[{'type':_0x5a3f3b(0x3fe),'stat':_0x5a3f3b(0x19f),'value':0x1},{'type':_0x5a3f3b(0x3fe),'stat':_0x5a3f3b(0x229),'value':0x1},{'type':'playerstats','stat':_0x5a3f3b(0x17f),'value':0x5},{'type':_0x5a3f3b(0x186),'stat':_0x5a3f3b(0x4aa),'value':0x2},{'type':'playerstats','stat':_0x5a3f3b(0x476),'value':-0x1},{'type':_0x5a3f3b(0x186),'stat':_0x5a3f3b(0x405),'value':0x4},{'type':_0x5a3f3b(0x186),'stat':_0x5a3f3b(0x219),'value':0x5}];while(_0x186bfc['length']<0x3){for(var _0x5df6c2 in _0x3b9d61){if(Math[_0x5a3f3b(0x285)](Math[_0x5a3f3b(0x213)]()*0x64)<0x32)_0x186bfc['push'](_0x3b9d61[_0x5df6c2]);if(_0x186bfc[_0x5a3f3b(0x49c)]>0x2)break;}}return this[_0x5a3f3b(0x468)]=_0x186bfc,_0x186bfc;},this[_0x4f9a91(0x3b8)]=_0x7e9984=>{var _0x55d430=_0x4f9a91;if(!_0x7e9984||!_0x7e9984[_0x55d430(0x24c)]||!this['lvlup'])return;if(_0x7e9984[_0x55d430(0x24c)]==_0x55d430(0x186))this[_0x7e9984[_0x55d430(0x1f5)]]+=_0x7e9984[_0x55d430(0x32d)];else _0x7e9984[_0x55d430(0x24c)]=='stats'&&(this['stats'][_0x7e9984[_0x55d430(0x1f5)]]+=_0x7e9984[_0x55d430(0x32d)]);world['village']['MessageSystem']['addMessage']({'type':_0x55d430(0x40c),'txt':this['name']+'\x27s\x20'+_0x7e9984[_0x55d430(0x1f5)]+'\x20'+_0x7e9984['value']}),this[_0x55d430(0x468)]=[],this[_0x55d430(0x2da)]--,this[_0x55d430(0x204)]++;},this[_0x4f9a91(0x4b5)]=()=>{var _0x2d8ce4=_0x4f9a91,_0x558fdc=0x32*(0x1-this[_0x2d8ce4(0x204)]/0x64),_0x16127f=Math[_0x2d8ce4(0x285)](Math[_0x2d8ce4(0x213)]()*0x64);if(_0x16127f<_0x558fdc)return this[_0x2d8ce4(0x2da)]++,world[_0x2d8ce4(0x1ac)]['MessageSystem'][_0x2d8ce4(0x2ef)]({'type':'player','txt':this[_0x2d8ce4(0x312)]+'\x20can\x20lvl\x20up\x20++'}),world[_0x2d8ce4(0x38d)]['playSound'](_0x2d8ce4(0x2da)),!![];return![];},this[_0x4f9a91(0x2ce)]=()=>{var _0x1b375a=_0x4f9a91,_0x402c87=''+this['name'];_0x402c87+='\x0a'+_0x1b375a(0x3aa)+this[_0x1b375a(0x17f)],_0x402c87+='\x0a'+_0x1b375a(0x288)+this[_0x1b375a(0x405)],_0x402c87+='\x0a'+_0x1b375a(0x367)+this['speed'];for(var _0x425a94 in this['stats'])_0x402c87+='\x0a'+_0x425a94+_0x1b375a(0x407)+this[_0x1b375a(0x3fe)][_0x425a94];return this['weapon']&&(_0x402c87+='\x0a'+_0x1b375a(0x32f)+this[_0x1b375a(0x3de)][_0x1b375a(0x312)]+'\x27',_0x402c87+='\x0a'+_0x1b375a(0x402)+[this[_0x1b375a(0x3de)]['blockTargetingFunction'][_0x1b375a(0x47e)]]),_0x402c87;},this[_0x4f9a91(0x522)]=()=>{var _0x4c8b52=_0x4f9a91;if(!this[_0x4c8b52(0x43a)])return[];var _0x2bb3ac=world[_0x4c8b52(0x1ac)][_0x4c8b52(0x34d)](this);if(!_0x2bb3ac||!_0x2bb3ac[_0x4c8b52(0x278)]||!_0x2bb3ac[_0x4c8b52(0x278)][_0x4c8b52(0x49c)])return[];var _0xf62819=_0x2bb3ac['callback_actionPlayer'][_0x4c8b52(0x341)](_0x3efb49=>_0x3efb49[_0x4c8b52(0x226)]<=this[_0x4c8b52(0x43a)]);return _0xf62819;},this['unequipWeapon']=()=>{var _0x14f6b9=_0x4f9a91;this[_0x14f6b9(0x3de)]&&(world[_0x14f6b9(0x1ac)][_0x14f6b9(0x4f9)]({'weapon':this[_0x14f6b9(0x3de)]}),this[_0x14f6b9(0x3de)]=undefined);},this['unequipArmor']=()=>{var _0x4545c5=_0x4f9a91;if(this[_0x4545c5(0x207)])world[_0x4545c5(0x1ac)][_0x4545c5(0x2af)]({'armor':this[_0x4545c5(0x207)]});this[_0x4545c5(0x207)]=undefined,this['bodyPartImgReady']=![];},this[_0x4f9a91(0x527)]=_0x5914ca=>{var _0x2d3eb7=_0x4f9a91;if(!_0x5914ca||!_0x5914ca['item'])return;if(_0x5914ca[_0x2d3eb7(0x2d7)][_0x2d3eb7(0x37a)]==_0x2d3eb7(0x207))this['unequipArmor']();else{if(_0x5914ca[_0x2d3eb7(0x2d7)][_0x2d3eb7(0x37a)]==_0x2d3eb7(0x3de))this[_0x2d3eb7(0x197)]();}},this[_0x4f9a91(0x3ce)]=_0x5069aa=>{var _0x13114e=_0x4f9a91;if(!_0x5069aa||!_0x5069aa[_0x13114e(0x3de)])return;var _0xe3c12a=-0x1;for(var _0x3472ef in world[_0x13114e(0x1ac)]['Items'])if(world['village'][_0x13114e(0x4ea)][_0x3472ef]==_0x5069aa['weapon'])_0xe3c12a=_0x3472ef;if(_0xe3c12a==-0x1)return;if(this['weapon'])this['unequipWeapon']();this[_0x13114e(0x3de)]=_0x5069aa[_0x13114e(0x3de)],world[_0x13114e(0x1ac)][_0x13114e(0x4ea)][_0x13114e(0x26a)](_0xe3c12a,0x1);if(world[_0x13114e(0x415)]&&world[_0x13114e(0x415)][_0x13114e(0x366)]==_0x5069aa[_0x13114e(0x3de)])world[_0x13114e(0x415)][_0x13114e(0x366)]=undefined;},this['equipArmor']=_0x20fd54=>{var _0x9390eb=_0x4f9a91;if(!_0x20fd54||!_0x20fd54[_0x9390eb(0x207)])return;var _0x44a70e=-0x1;for(var _0x3f849c in world[_0x9390eb(0x1ac)][_0x9390eb(0x4ea)])if(world[_0x9390eb(0x1ac)][_0x9390eb(0x4ea)][_0x3f849c]==_0x20fd54[_0x9390eb(0x207)])_0x44a70e=_0x3f849c;if(_0x44a70e==-0x1)return;if(this[_0x9390eb(0x207)])this[_0x9390eb(0x455)]();this[_0x9390eb(0x207)]=_0x20fd54['armor'],world[_0x9390eb(0x1ac)][_0x9390eb(0x4ea)][_0x9390eb(0x26a)](_0x44a70e,0x1);if(world['villageUI']&&world[_0x9390eb(0x415)][_0x9390eb(0x366)]==_0x20fd54['armor'])world[_0x9390eb(0x415)]['itemSelected']=undefined;this[_0x9390eb(0x1a6)]=![];},this[_0x4f9a91(0x331)]=_0x1da217=>{var _0xc028dc=_0x4f9a91;if(!_0x1da217||!_0x1da217[_0xc028dc(0x2d7)])return;if(_0x1da217['item'][_0xc028dc(0x37a)]==_0xc028dc(0x207))this[_0xc028dc(0x539)]();else{if(_0x1da217[_0xc028dc(0x2d7)][_0xc028dc(0x37a)]==_0xc028dc(0x3de))this[_0xc028dc(0x3ce)]();}},this[_0x4f9a91(0x50b)]=()=>{var _0x2dbbc2=_0x4f9a91,_0x462e94=world[_0x2dbbc2(0x4fe)];if(!this['face_type'])this[_0x2dbbc2(0x22d)]=PLAYER_FACE_IMG[Math[_0x2dbbc2(0x285)](Math['random']()*PLAYER_FACE_IMG[_0x2dbbc2(0x49c)])];if(!this[_0x2dbbc2(0x1ab)])this[_0x2dbbc2(0x1ab)]=PLAYER_BODY_IMG[Math['floor'](Math[_0x2dbbc2(0x213)]()*PLAYER_BODY_IMG[_0x2dbbc2(0x49c)])];var _0x522ad7=[];_0x522ad7[_0x2dbbc2(0x43c)]({'name':this[_0x2dbbc2(0x1ab)],'needColor':!![]}),_0x522ad7[_0x2dbbc2(0x43c)]({'name':this[_0x2dbbc2(0x22d)],'needColor':![]});if(this[_0x2dbbc2(0x207)])_0x522ad7[_0x2dbbc2(0x43c)]({'name':this['armor'][_0x2dbbc2(0x312)],'needColor':![]});for(var _0x366061 in _0x522ad7)if(!_0x462e94[_0x522ad7[_0x366061][_0x2dbbc2(0x312)]]||!_0x462e94[_0x522ad7[_0x366061][_0x2dbbc2(0x312)]][_0x2dbbc2(0x182)])return console[_0x2dbbc2(0x277)](_0x2dbbc2(0x374)+_0x522ad7[_0x366061][_0x2dbbc2(0x312)]);var _0x340ed4=document[_0x2dbbc2(0x39c)](_0x2dbbc2(0x4bf));_0x340ed4[_0x2dbbc2(0x1fb)]=PLAYER_DEFAULT_SIZEX,_0x340ed4[_0x2dbbc2(0x458)]=PLAYER_DEFAULT_SIZEY;var _0x4d2688=_0x340ed4[_0x2dbbc2(0x2d1)]('2d');for(var _0x366061 in _0x522ad7){var _0x3064f4=_0x522ad7[_0x366061][_0x2dbbc2(0x312)];if(!_0x462e94[_0x3064f4])return console[_0x2dbbc2(0x277)](_0x2dbbc2(0x2fd)+_0x3064f4);var _0x3cf4d5=undefined;if(_0x522ad7[_0x366061]['needColor'])_0x3cf4d5=_0x462e94[_0x3064f4][_0x2dbbc2(0x416)](0x0,0xff,0x0,this[_0x2dbbc2(0x47c)]['r'],this['color']['g'],this[_0x2dbbc2(0x47c)]['b']);else _0x3cf4d5=_0x462e94[_0x3064f4][_0x2dbbc2(0x2cd)];if(!_0x3cf4d5||!_0x3cf4d5['complete'])return console['log'](_0x2dbbc2(0x209));_0x4d2688[_0x2dbbc2(0x32e)](_0x3cf4d5,0x0,0x0);}var _0x3cf4d5=new Image();return _0x3cf4d5[_0x2dbbc2(0x2b8)]=_0x340ed4[_0x2dbbc2(0x4d0)](),this[_0x2dbbc2(0x411)]=_0x3cf4d5,console[_0x2dbbc2(0x277)]('player\x20'+this[_0x2dbbc2(0x312)]+'\x20img\x20loaded'),this['bodyPartImgReady']=!![],!![];},this[_0x4f9a91(0x50b)]();},Batiment=function(_0x150e02){var _0x337bde=_0xa7c9c4;this['name']=_0x150e02[_0x337bde(0x312)],this[_0x337bde(0x397)]=_0x150e02[_0x337bde(0x397)]?_0x150e02['player_size']:0x0,this[_0x337bde(0x278)]=_0x150e02[_0x337bde(0x278)],this[_0x337bde(0x314)]=[],this[_0x337bde(0x2e7)]=_0x150e02[_0x337bde(0x2e7)]?_0x150e02[_0x337bde(0x2e7)]:'no\x20description',this[_0x337bde(0x524)]=_0x150e02[_0x337bde(0x524)]?_0x150e02['blocking_end_turn']:![],this['imgIcon']=_0x150e02[_0x337bde(0x3dc)]?_0x150e02[_0x337bde(0x3dc)]:undefined,this[_0x337bde(0x239)]=_0x150e02[_0x337bde(0x239)]?_0x150e02[_0x337bde(0x239)]:undefined,this['lvl']=_0x150e02[_0x337bde(0x204)]?_0x150e02[_0x337bde(0x204)]:undefined,this['upgrades']=_0x150e02[_0x337bde(0x225)]?_0x150e02['upgrades']:[],this[_0x337bde(0x520)]=_0x150e02[_0x337bde(0x520)]?_0x150e02[_0x337bde(0x520)]:undefined,this[_0x337bde(0x2f4)]=_0x519f5c=>{var _0x4c068a=_0x337bde;if(!_0x519f5c||!_0x519f5c[_0x4c068a(0x40c)]||!_0x519f5c[_0x4c068a(0x40c)][_0x4c068a(0x43a)])return![];var _0x4f54b4=this['build_progression']<_0x519f5c[_0x4c068a(0x40c)][_0x4c068a(0x43a)]?this[_0x4c068a(0x239)]:_0x519f5c[_0x4c068a(0x40c)][_0x4c068a(0x43a)];return this[_0x4c068a(0x239)]-=_0x4f54b4,_0x519f5c[_0x4c068a(0x40c)]['villageActionPoint']-=_0x4f54b4,world[_0x4c068a(0x1ac)][_0x4c068a(0x3d9)][_0x4c068a(0x2ef)]({'type':'building','txt':_0x519f5c[_0x4c068a(0x40c)][_0x4c068a(0x312)]+_0x4c068a(0x4f1)+this['name']+_0x4c068a(0x4f7)+_0x4f54b4+')'}),this[_0x4c068a(0x239)]<0x1&&(this[_0x4c068a(0x239)]=undefined,world[_0x4c068a(0x1ac)][_0x4c068a(0x3d9)][_0x4c068a(0x2ef)]({'type':'building','txt':_0x4c068a(0x2c8)+this[_0x4c068a(0x312)]+'\x27\x20is\x20finished'})),world[_0x4c068a(0x38d)][_0x4c068a(0x350)](_0x4c068a(0x318)),!![];},this['getNextUpgrade']=()=>{var _0x302d21=_0x337bde;if(!this[_0x302d21(0x225)]||!this[_0x302d21(0x225)][_0x302d21(0x49c)])return undefined;return this[_0x302d21(0x225)][0x0];},this['checkNextUpgrade']=()=>{var _0x57f303=_0x337bde;if(!this['upgrades']||!this['upgrades'][_0x57f303(0x49c)])return![];var _0x5b734f=this[_0x57f303(0x1dd)]();if(_0x5b734f['resources']){if(!world['village'][_0x57f303(0x1b4)](_0x5b734f))return console[_0x57f303(0x277)](_0x57f303(0x20d));}return console[_0x57f303(0x277)](_0x57f303(0x262)),world['Music'][_0x57f303(0x350)](_0x57f303(0x318)),!![];},this[_0x337bde(0x4df)]=()=>{var _0x17d096=_0x337bde,_0x4689fa=this[_0x17d096(0x1dd)]();if(this['checkNextUpgrade']()){world[_0x17d096(0x1ac)][_0x17d096(0x3d9)][_0x17d096(0x2ef)]({'type':_0x17d096(0x2a1),'txt':this[_0x17d096(0x312)]+_0x17d096(0x238)+(this[_0x17d096(0x204)]+0x1)}),world['village'][_0x17d096(0x321)](_0x4689fa);if(this[_0x17d096(0x520)])this[_0x17d096(0x520)]({'bat':this});this[_0x17d096(0x225)][_0x17d096(0x33a)](),this[_0x17d096(0x204)]++;}};},HUMAN_DEFAULT_COLOR=[{'r':0xec,'g':0xdf,'b':0xa2},{'r':0xc6,'g':0x92,'b':0x75},{'r':0xff,'g':0xc6,'b':0xd9},{'r':0xb7,'g':0x75,'b':0x51},{'r':0xb1,'g':0x49,'b':0x51}],CRAFT_LIST=[{'name':_0xa7c9c4(0x36f),'type':_0xa7c9c4(0x3de),'bat':_0xa7c9c4(0x27d),'resources':{'wood':0xa},'APcost':0xa,'description':_0xa7c9c4(0x1bf)},{'name':_0xa7c9c4(0x191),'type':'armor','bat':_0xa7c9c4(0x27d),'resources':{'wood':0x19},'APcost':0xa,'description':_0xa7c9c4(0x1cb)},{'name':_0xa7c9c4(0x2cb),'type':'weapon','bat':'workshop','resources':{'wood':0x14,'stone':0xa},'APcost':0xa,'description':_0xa7c9c4(0x41b)},{'name':_0xa7c9c4(0x205),'type':_0xa7c9c4(0x3de),'bat':'workshop','resources':{'wood':0x32,'stone':0x5},'APcost':0xa,'description':'get\x20more\x20resources\x20in\x20mine'},{'name':_0xa7c9c4(0x373),'type':_0xa7c9c4(0x3de),'bat':_0xa7c9c4(0x27d),'resources':{'wood':0x32,'stone':0x5},'APcost':0xa,'description':'hit\x20the\x20target\x20behind'},{'name':_0xa7c9c4(0x46d),'type':_0xa7c9c4(0x207),'bat':_0xa7c9c4(0x27d),'resources':{'stone':0x64,'coal':0x19},'APcost':0xc,'description':_0xa7c9c4(0x538)},{'name':'Small\x20Woodbow','type':_0xa7c9c4(0x3de),'bat':_0xa7c9c4(0x460),'resources':{'wood':0x64},'APcost':0xa,'description':'hit\x20them\x20from\x20behind'}],Village=function(_0x6d2a04){var _0x10632a=_0xa7c9c4;this[_0x10632a(0x36c)]=_0x6d2a04[_0x10632a(0x179)]?_0x6d2a04['nb_houses']:0x1,this[_0x10632a(0x389)]=_0x6d2a04['resources']?_0x6d2a04[_0x10632a(0x389)]:{'food':0x0,'wood':0x0},this[_0x10632a(0x457)]=_0x6d2a04['players']?_0x6d2a04[_0x10632a(0x457)]:[],this[_0x10632a(0x2d6)]=_0x6d2a04[_0x10632a(0x2d6)]?_0x6d2a04[_0x10632a(0x2d6)]:[],this['batsToBuild']=[],this[_0x10632a(0x35f)]=_0x6d2a04[_0x10632a(0x35f)]?_0x6d2a04[_0x10632a(0x35f)]:0x0,this[_0x10632a(0x3d9)]=new MessageSystem();var _0x4aaf9a=0x0;PHASE_NEWTURN=_0x4aaf9a++,PHASE_PLACEPLAYER=_0x4aaf9a++,PHASE_ACTIONPLAYER=_0x4aaf9a++,PHASE_COMBAT=_0x4aaf9a++,PHASE_END_TURN=_0x4aaf9a++,this[_0x10632a(0x250)]=PHASE_NEWTURN,this['Items']=[],this[_0x10632a(0x2d9)]=_0x6d2a04[_0x10632a(0x2d9)]?_0x6d2a04[_0x10632a(0x2d9)]:HUMAN_DEFAULT_COLOR[Math[_0x10632a(0x285)](Math[_0x10632a(0x213)]()*HUMAN_DEFAULT_COLOR['length'])],this[_0x10632a(0x3ae)]=()=>{var _0x81606f=_0x10632a,_0x5a4cff=Math[_0x81606f(0x285)](this[_0x81606f(0x35f)]/(0xc*0x4)),_0x3718b1=Math['floor'](this[_0x81606f(0x35f)]/0x4)%0xc,_0x3dded7=this[_0x81606f(0x35f)]%0x4+0x1,_0x930d67=_0x81606f(0x50f)+this[_0x81606f(0x35f)];_0x930d67+=_0x81606f(0x407);if(_0x5a4cff)_0x930d67+=_0x81606f(0x2b5)+_0x5a4cff;if(_0x3718b1)_0x930d67+=_0x81606f(0x18f)+_0x3718b1;return _0x930d67+=_0x81606f(0x4b7)+_0x3dded7,_0x930d67;},this[_0x10632a(0x2c3)]=()=>{var _0x2c15a9=_0x10632a,_0xe0ae8f=[];for(var _0x46e01f in CRAFT_LIST){var _0x49ded8=CRAFT_LIST[_0x46e01f],_0x2d9485=this[_0x2c15a9(0x2d6)]['find'](_0x35108d=>_0x35108d[_0x2c15a9(0x312)]==_0x49ded8['bat']);if(!_0x2d9485||_0x2d9485[_0x2c15a9(0x239)])continue;_0xe0ae8f[_0x2c15a9(0x43c)](_0x49ded8);}return _0xe0ae8f;},this[_0x10632a(0x3f4)]=_0x3232a8=>{var _0x4f0b8b=_0x10632a;if(!_0x3232a8||!_0x3232a8[_0x4f0b8b(0x22e)])return[];var _0x2c3852=[],_0xb421e3=_0x3232a8[_0x4f0b8b(0x22e)];for(var _0x473fe3 in this['players']){var _0x44999c=this['players'][_0x473fe3],_0x4d532a=this[_0x4f0b8b(0x34d)](_0x44999c);if(!_0x4d532a||_0x4d532a[_0x4f0b8b(0x312)]!=_0xb421e3[_0x4f0b8b(0x378)])continue;if(_0x44999c[_0x4f0b8b(0x43a)]<_0xb421e3[_0x4f0b8b(0x472)])continue;for(var _0x454223 in _0xb421e3[_0x4f0b8b(0x2db)]){var _0x5cb86a=_0x454223,_0xb6b16a=_0xb421e3[_0x4f0b8b(0x2db)][_0x454223];if(!this[_0x4f0b8b(0x389)][_0x4f0b8b(0x237)]||this[_0x4f0b8b(0x389)][_0x4f0b8b(0x237)]<_0xb6b16a)continue;}_0x2c3852[_0x4f0b8b(0x43c)](_0x44999c);}return _0x2c3852;},this['TryCraftItem']=_0x43461c=>{var _0x35b916=_0x10632a;console[_0x35b916(0x277)]('craft\x20item');if(!_0x43461c||!_0x43461c[_0x35b916(0x22e)]||!_0x43461c[_0x35b916(0x40c)])return console[_0x35b916(0x277)]('bad\x20input');var _0x3beb0d=this[_0x35b916(0x2c3)](),_0x69411e=_0x43461c[_0x35b916(0x40c)];if(!_0x3beb0d||_0x3beb0d['length']<0x1)return console['log'](_0x35b916(0x206));_0x3beb0d=_0x3beb0d[_0x35b916(0x1a2)](_0x47b41f=>_0x47b41f==_0x43461c[_0x35b916(0x22e)]);if(!_0x3beb0d)return console[_0x35b916(0x277)]('invalid\x20craft');if(!this[_0x35b916(0x3f4)]({'craft':_0x3beb0d})[_0x35b916(0x1a2)](_0x3da4aa=>_0x3da4aa==_0x69411e))return console['log'](_0x35b916(0x4eb));for(var _0xc942da in _0x3beb0d['resources']){var _0x4cd406=_0xc942da,_0x37915e=_0x3beb0d[_0x35b916(0x389)][_0xc942da];if(this['resources'][_0xc942da]<_0x37915e)return this[_0x35b916(0x3d9)]['addMessage']({'txt':_0x35b916(0x43d)}),![];}if(_0x69411e[_0x35b916(0x43a)]<_0x3beb0d['APcost'])return this['MessageSystem']['addMessage']({'txt':_0x69411e[_0x35b916(0x312)]+_0x35b916(0x483)}),![];_0x69411e[_0x35b916(0x43a)]-=_0x3beb0d[_0x35b916(0x472)];switch(_0x3beb0d[_0x35b916(0x24c)]){case _0x35b916(0x3de):this['addWeaponToVillageInventory']({'weapon':new Weapon()[_0x35b916(0x2b6)]({'name':_0x3beb0d[_0x35b916(0x312)]})});break;case _0x35b916(0x207):this[_0x35b916(0x2af)]({'armor':new Armor()[_0x35b916(0x228)]({'name':_0x3beb0d[_0x35b916(0x312)]})});}switch(_0x3beb0d[_0x35b916(0x378)]){case _0x35b916(0x27d):world[_0x35b916(0x38d)][_0x35b916(0x350)]('saw_workshop');break;case'Bow\x20workshop':world[_0x35b916(0x38d)][_0x35b916(0x350)](_0x35b916(0x1c6));break;}this[_0x35b916(0x3d9)][_0x35b916(0x2ef)]({'type':'job','txt':_0x69411e[_0x35b916(0x312)]+_0x35b916(0x202)+_0x3beb0d['name']}),this[_0x35b916(0x321)](_0x3beb0d);},this[_0x10632a(0x2b3)]=_0x5a2c93=>{var _0xe21bee=_0x10632a;if(this[_0xe21bee(0x457)][_0xe21bee(0x49c)]>=this[_0xe21bee(0x36c)])return undefined;var _0x263521={'r':this[_0xe21bee(0x2d9)]['r']-0x5+Math['floor'](Math[_0xe21bee(0x213)]()*0xb),'g':this[_0xe21bee(0x2d9)]['g']-0x5+Math[_0xe21bee(0x285)](Math[_0xe21bee(0x213)]()*0xb),'b':this[_0xe21bee(0x2d9)]['b']-0x5+Math[_0xe21bee(0x285)](Math[_0xe21bee(0x213)]()*0xb)},_0x5f4b91=new PlayerVillage({'color':_0x263521,'speed':0x64-0x5+Math[_0xe21bee(0x285)](Math['random']()*0xb),'stats':{'Strength':0xa-0x5+Math[_0xe21bee(0x285)](Math[_0xe21bee(0x213)]()*0xb),'Dexterity':0xa-0x5+Math[_0xe21bee(0x285)](Math[_0xe21bee(0x213)]()*0xb)},'movePCost':PLAYER_DEFAUTL_MOVECOST-0x2+Math[_0xe21bee(0x285)](Math[_0xe21bee(0x213)]()*0x5),'lifeMax':0x64-0x14+Math[_0xe21bee(0x285)](Math[_0xe21bee(0x213)]()*0x29),'weapon':_0x5a2c93[_0xe21bee(0x3de)]?new Weapon()[_0xe21bee(0x2b6)]({'name':_0x5a2c93[_0xe21bee(0x3de)]}):undefined,'armor':_0x5a2c93[_0xe21bee(0x207)]?new Armor()[_0xe21bee(0x228)]({'name':_0x5a2c93['armor']}):undefined,'size':0x1});return this[_0xe21bee(0x457)]['push'](_0x5f4b91),_0x5f4b91;},this[_0x10632a(0x34d)]=_0x11c431=>{var _0x4a542b=_0x10632a;if(!_0x11c431)return undefined;for(var _0x1aa1a2 in this[_0x4a542b(0x2d6)]){var _0x41cf8e=this[_0x4a542b(0x2d6)][_0x1aa1a2][_0x4a542b(0x314)]['find'](_0x4287a6=>_0x4287a6==_0x11c431);if(_0x41cf8e)return this[_0x4a542b(0x2d6)][_0x1aa1a2];}return undefined;},this[_0x10632a(0x393)]=()=>{var _0x59460f=_0x10632a;this[_0x59460f(0x36c)]=0x5,this['resources']={'food':0xc8,'wood':0xc8,'stone':0xc8};for(var _0x14dfda=0x0;_0x14dfda<0x5;_0x14dfda++){if(_0x14dfda==0x0)this['generateBasicPlayer']({'weapon':_0x59460f(0x205),'armor':_0x59460f(0x46d)});else this['generateBasicPlayer']({});}this[_0x59460f(0x4d2)](),this[_0x59460f(0x326)](),this['addHouse'](),this[_0x59460f(0x1cc)]();},this['removePlayerFromBat']=_0x3782ac=>{var _0x9cce58=_0x10632a;if(!_0x3782ac||!_0x3782ac[_0x9cce58(0x40c)])return![];var _0x241329=_0x3782ac[_0x9cce58(0x40c)];for(var _0x49ad66 in this['bats']){var _0x583b09=this['bats'][_0x49ad66];for(var _0x1d7541 in _0x583b09[_0x9cce58(0x314)])if(_0x583b09[_0x9cce58(0x314)][_0x1d7541]==_0x241329)_0x583b09[_0x9cce58(0x314)][_0x9cce58(0x26a)](_0x1d7541,0x1);}},this['affectPlayerToBat']=_0x58c63f=>{var _0x32b2a8=_0x10632a;if(!_0x58c63f||!_0x58c63f[_0x32b2a8(0x40c)]||!_0x58c63f['bat'])return![];if(_0x58c63f[_0x32b2a8(0x378)][_0x32b2a8(0x314)]['length']>=_0x58c63f[_0x32b2a8(0x378)][_0x32b2a8(0x397)])return![];var _0x4e0c8f=_0x58c63f['player'];for(var _0x82b901 in this[_0x32b2a8(0x2d6)]){var _0x25a957=this['bats'][_0x82b901];for(var _0x7c13c0 in _0x25a957['players_inside'])if(_0x25a957[_0x32b2a8(0x314)][_0x7c13c0]==_0x4e0c8f)_0x25a957['players_inside'][_0x32b2a8(0x26a)](_0x7c13c0,0x1);}_0x58c63f[_0x32b2a8(0x378)]['players_inside'][_0x32b2a8(0x43c)](_0x4e0c8f);},this[_0x10632a(0x321)]=_0x5ca9f5=>{var _0x2638ca=_0x10632a;if(!_0x5ca9f5||!_0x5ca9f5[_0x2638ca(0x389)])return console[_0x2638ca(0x277)](_0x2638ca(0x1c2));var _0x5effde=![],_0x556b03=_0x2638ca(0x301);for(var _0x17be59 in _0x5ca9f5['resources']){var _0x1e4a14=_0x17be59,_0x25f849=_0x5ca9f5[_0x2638ca(0x389)][_0x17be59];if(!(_0x25f849>0x0))continue;_0x5effde=!![];var _0x42964c=this[_0x2638ca(0x389)];if(!_0x42964c[_0x1e4a14]||_0x42964c[_0x1e4a14]<_0x25f849)return console[_0x2638ca(0x277)](_0x2638ca(0x31d));_0x42964c[_0x1e4a14]-=_0x25f849,_0x556b03+='\x20x'+_0x25f849+'\x20'+_0x1e4a14;}if(_0x5effde)this[_0x2638ca(0x3d9)]['addMessage']({'type':'resource','txt':{..._0x5ca9f5[_0x2638ca(0x389)]}});},this[_0x10632a(0x195)]=_0x3ff590=>{var _0x398ed6=_0x10632a;if(!_0x3ff590||!_0x3ff590[_0x398ed6(0x389)])return![];var _0x4b5f17=![];for(var _0x5f3fbd in _0x3ff590[_0x398ed6(0x389)]){var _0x5e0ad5=_0x5f3fbd,_0x298d8c=_0x3ff590['resources'][_0x5f3fbd];if(!(_0x298d8c>0x0))continue;_0x4b5f17=!![];var _0x1de838=this[_0x398ed6(0x389)];if(!_0x1de838[_0x5e0ad5])_0x1de838[_0x5e0ad5]=0x0;_0x1de838[_0x5e0ad5]+=_0x298d8c;}if(_0x4b5f17)this[_0x398ed6(0x3d9)][_0x398ed6(0x2ef)]({'type':'resource','txt':{..._0x3ff590[_0x398ed6(0x389)]}});},this[_0x10632a(0x3fb)]=_0x4df38f=>{var _0x13d3f4=_0x10632a;function _0x552926(_0x300366){var _0x2a033c=_0x5f46;if(!_0x300366||!_0x300366['bat'])return;var _0x4af68f=_0x300366[_0x2a033c(0x378)],_0x474e91=world[_0x2a033c(0x1ac)];_0x4af68f[_0x2a033c(0x204)]==0x1&&(_0x474e91['populationMax']+=0x5,_0x474e91[_0x2a033c(0x3d9)][_0x2a033c(0x2ef)]({'type':_0x2a033c(0x40c),'txt':_0x2a033c(0x364)+_0x474e91[_0x2a033c(0x36c)]+')'})),_0x4af68f[_0x2a033c(0x204)]==0x2&&(_0x474e91['populationMax']+=0xa,_0x474e91['MessageSystem']['addMessage']({'type':_0x2a033c(0x40c),'txt':_0x2a033c(0x217)+_0x474e91[_0x2a033c(0x36c)]+')'}));}var _0x1db76f=new Batiment({'name':_0x13d3f4(0x26f),'player_size':0x0,'callback_actionPlayer':[],'description':_0x297811=>{var _0x89e541=_0x13d3f4;return _0x89e541(0x2f9)+_0x297811[_0x89e541(0x204)]+'\x0aVillage\x20max\x20population\x20=\x20'+world['village'][_0x89e541(0x36c)];},'blocking_end_turn':!![],'imgIcon':'Houses','lvl':0x1,'upgrades_callback':_0x552926,'upgrades':[{'resources':{'wood':0x32,'stone':0x5}},{'resources':{'wood':0x64,'stone':0x14}}]});_0x1db76f[_0x13d3f4(0x50c)]=0x5,this['bats']['push'](_0x1db76f);},this[_0x10632a(0x449)]=_0x2fa55a=>{var _0x54a7a9=_0x10632a,_0x1497a7=new Batiment({'name':_0x2fa55a['name'],'player_size':0x2,'callback_actionPlayer':[{'callback':()=>{var _0x13d677=_0x5f46;world[_0x13d677(0x415)]&&world[_0x13d677(0x415)][_0x13d677(0x2c6)]({'tab':'craft'});},'buto_txt':'go\x20to\x20craft\x20tab','description':_0x54a7a9(0x337),'cost':0x0}],'description':_0x54a7a9(0x24a),'blocking_end_turn':!![],'imgIcon':_0x54a7a9(0x283),'build_progression':_0x2fa55a['costAP']});this[_0x54a7a9(0x2d6)]['push'](_0x1497a7);},this[_0x10632a(0x24d)]=_0x3e33d0=>{var _0x134bdd=_0x10632a,_0x57bf10=new Batiment({'name':_0x3e33d0[_0x134bdd(0x312)],'player_size':0x2,'callback_actionPlayer':[{'callback':()=>{var _0x5f4685=_0x134bdd;world[_0x5f4685(0x415)]&&world[_0x5f4685(0x415)][_0x5f4685(0x2c6)]({'tab':_0x5f4685(0x22e)});},'buto_txt':_0x134bdd(0x23b),'description':_0x134bdd(0x337),'cost':0x0}],'description':'craft\x20stuff\x20here','blocking_end_turn':!![],'imgIcon':'workshop_icon','build_progression':_0x3e33d0[_0x134bdd(0x1eb)]});this[_0x134bdd(0x2d6)][_0x134bdd(0x43c)](_0x57bf10);},this[_0x10632a(0x3f3)]=_0x39cdbe=>{var _0x27600b=_0x10632a;recolteMine=function(_0x1eba3f){var _0x2bbddf=_0x5f46;if(!_0x1eba3f||!_0x1eba3f[_0x2bbddf(0x40c)]||_0x1eba3f[_0x2bbddf(0x226)]==undefined||_0x1eba3f[_0x2bbddf(0x226)]>_0x1eba3f[_0x2bbddf(0x40c)]['villageActionPoint'])return;var _0x47d264=_0x1eba3f['player'][_0x2bbddf(0x312)]+_0x2bbddf(0x3ee)+_0x1eba3f[_0x2bbddf(0x226)]+_0x2bbddf(0x46a);world[_0x2bbddf(0x1ac)][_0x2bbddf(0x3d9)][_0x2bbddf(0x2ef)]({'type':'job','txt':_0x47d264}),_0x1eba3f['player'][_0x2bbddf(0x43a)]-=_0x1eba3f[_0x2bbddf(0x226)];var _0xa0e17d=_0x1eba3f[_0x2bbddf(0x40c)]['weapon']&&_0x1eba3f[_0x2bbddf(0x40c)][_0x2bbddf(0x3de)][_0x2bbddf(0x410)][_0x2bbddf(0x1a2)](_0x1b5c0e=>_0x1b5c0e==BONUS_PICKAXE_MINE)?!![]:![],_0x25a3f8=0x2+Math[_0x2bbddf(0x285)](Math['random']()*0x5);if(_0xa0e17d)_0x25a3f8+=0x14;var _0x5da654=Math[_0x2bbddf(0x285)](Math['random']()*0x64)>0x5?0x0:Math[_0x2bbddf(0x285)](Math['random']()*0xa),_0x28784e={'stone':_0x25a3f8};if(_0x5da654||_0xa0e17d)_0x28784e[_0x2bbddf(0x2ec)]=_0x5da654;world[_0x2bbddf(0x1ac)][_0x2bbddf(0x195)]({'resources':_0x28784e}),world[_0x2bbddf(0x38d)][_0x2bbddf(0x350)](_0x2bbddf(0x4dc));};var _0x37db39=new Batiment({'name':_0x39cdbe[_0x27600b(0x312)],'player_size':0x3,'callback_actionPlayer':[{'callback':recolteMine,'buto_txt':_0x27600b(0x4dc),'description':_0x27600b(0x31a),'cost':0x4}],'description':'A\x20big\x20hole\x20in\x20the\x20ground','blocking_end_turn':!![],'imgIcon':_0x27600b(0x437),'build_progression':_0x39cdbe[_0x27600b(0x1eb)]});this[_0x27600b(0x2d6)][_0x27600b(0x43c)](_0x37db39);},this['addSawmill']=()=>{var _0x25f1c6=_0x10632a;function _0x3ae6c8(_0x459dbd){var _0x230e94=_0x5f46;if(!_0x459dbd||!_0x459dbd[_0x230e94(0x40c)]||_0x459dbd[_0x230e94(0x226)]==undefined||_0x459dbd['cost']>_0x459dbd[_0x230e94(0x40c)][_0x230e94(0x43a)])return;if(!world['village'][_0x230e94(0x1b4)]({'resources':{'wood':0xa}})){world['village'][_0x230e94(0x3d9)]['addMessage']({'type':_0x230e94(0x291),'txt':'you\x20need\x20more\x20wood\x20for\x20make\x20a\x20plank'});return;}world[_0x230e94(0x38d)][_0x230e94(0x350)](_0x230e94(0x184));var _0x19670a=_0x459dbd['player'][_0x230e94(0x312)]+_0x230e94(0x3a1)+_0x459dbd[_0x230e94(0x226)]+_0x230e94(0x46a);world[_0x230e94(0x1ac)][_0x230e94(0x3d9)][_0x230e94(0x2ef)]({'type':'job','txt':_0x19670a}),_0x459dbd[_0x230e94(0x40c)][_0x230e94(0x43a)]-=_0x459dbd[_0x230e94(0x226)],world['village'][_0x230e94(0x321)]({'resources':{'wood':0xa}}),world[_0x230e94(0x1ac)][_0x230e94(0x195)]({'resources':{'woodplank':0x1}});}var _0x47b396=new Batiment({'name':_0x25f1c6(0x2ca),'player_size':0x2,'callback_actionPlayer':[{'callback':_0x3ae6c8,'buto_txt':_0x25f1c6(0x45e),'description':'transform\x20wood\x20into\x20woodplank','cost':0x5}],'description':_0x25f1c6(0x4b9),'blocking_end_turn':!![],'imgIcon':_0x25f1c6(0x53d)});this[_0x25f1c6(0x2d6)][_0x25f1c6(0x43c)](_0x47b396);},this['addForest']=()=>{var _0x528b9f=_0x10632a;function _0x186f15(_0x13b85b){var _0x59fd56=_0x5f46;if(!_0x13b85b||!_0x13b85b['player']||_0x13b85b[_0x59fd56(0x226)]==undefined||_0x13b85b['cost']>_0x13b85b[_0x59fd56(0x40c)][_0x59fd56(0x43a)])return;world[_0x59fd56(0x38d)]['playSound'](_0x59fd56(0x4fa));var _0x59e12d=0xa-0x2+Math[_0x59fd56(0x285)](Math[_0x59fd56(0x213)]()*0x5),_0x4e38c4=0x5-0x4+Math['floor'](Math[_0x59fd56(0x213)]()*0x9);_0x13b85b[_0x59fd56(0x40c)]['weapon']&&_0x13b85b['player'][_0x59fd56(0x3de)][_0x59fd56(0x410)]['find'](_0x515dbb=>_0x515dbb==BONUS_AXE_FOREST_WOOD)&&(_0x4e38c4*=0x2,console[_0x59fd56(0x277)](_0x59fd56(0x4e4)));var _0x38afab=0x1+Math[_0x59fd56(0x285)](Math['random']()*0x2),_0x22f1a1=_0x13b85b[_0x59fd56(0x40c)][_0x59fd56(0x312)]+'\x20is\x20recolting\x20resource\x20in\x20the\x20forest\x20for\x20'+_0x13b85b[_0x59fd56(0x226)]+_0x59fd56(0x46a);world[_0x59fd56(0x1ac)][_0x59fd56(0x3d9)][_0x59fd56(0x2ef)]({'type':_0x59fd56(0x291),'txt':_0x22f1a1}),_0x13b85b[_0x59fd56(0x40c)][_0x59fd56(0x43a)]-=_0x13b85b[_0x59fd56(0x226)],world[_0x59fd56(0x1ac)]['addResource']({'resources':{'food':_0x59e12d,'wood':_0x4e38c4,'stone':_0x38afab}});}var _0xbba1e2=new Batiment({'name':_0x528b9f(0x2bf),'player_size':0x2,'callback_actionPlayer':[{'callback':_0x186f15,'buto_txt':_0x528b9f(0x4bd),'description':_0x528b9f(0x211),'cost':0x5}],'description':_0x528b9f(0x390),'blocking_end_turn':!![],'imgIcon':'forest_icon'});this[_0x528b9f(0x2d6)]['push'](_0xbba1e2);},this[_0x10632a(0x4d2)]=()=>{var _0xc38f66=_0x10632a,_0xfb25b3=new Batiment({'name':_0xc38f66(0x20f),'player_size':0x5,'callback_actionPlayer':[],'description':_0xc38f66(0x21b),'blocking_end_turn':![],'imgIcon':_0xc38f66(0x3dd)});this[_0xc38f66(0x2d6)]['push'](_0xfb25b3);},this['createBatToBuildList']=()=>{var _0x5060ae=_0x10632a;this['batsToBuild']=[{'name':_0x5060ae(0x27d),'img':_0x5060ae(0x48e),'resources':{'wood':0xa,'stone':0x1},'callback':this[_0x5060ae(0x24d)],'input':{'name':_0x5060ae(0x27d),'costAP':0x1e}},{'name':_0x5060ae(0x460),'img':_0x5060ae(0x283),'resources':{'wood':0x64,'stone':0x1e},'callback':this[_0x5060ae(0x449)],'input':{'name':'fletching\x20station','costAP':0x14}},{'name':'Mine','img':_0x5060ae(0x437),'resources':{'wood':0x14,'stone':0x5},'callback':this[_0x5060ae(0x3f3)],'input':{'name':_0x5060ae(0x437),'costAP':0xa}},{'name':_0x5060ae(0x2ca),'img':_0x5060ae(0x53d),'resources':{'wood':0x14,'stone':0x5},'callback':this['addSawmill'],'input':{'name':_0x5060ae(0x2ca),'costAP':0xa}}];},this[_0x10632a(0x1b4)]=_0x4c3cde=>{var _0x378197=_0x10632a;if(!_0x4c3cde||!_0x4c3cde['resources'])return![];var _0x30c9af=_0x4c3cde[_0x378197(0x389)];for(var _0x4fc3f8 in _0x4c3cde[_0x378197(0x389)]){var _0x350e62=_0x4fc3f8,_0x427523=_0x30c9af[_0x4fc3f8];if(!this[_0x378197(0x389)][_0x350e62]||this['resources'][_0x350e62]<_0x427523)return![];}return!![];},this[_0x10632a(0x33c)]=_0x4a099d=>{var _0x45e1f1=_0x10632a;if(!_0x4a099d||!_0x4a099d['bat'])return![];if(!this['checkHaveResources'](_0x4a099d[_0x45e1f1(0x378)]))return this[_0x45e1f1(0x3d9)]['addMessage']({'txt':'you\x20don\x27t\x20have\x20enought\x20resource'});var _0xeca072=_0x4a099d[_0x45e1f1(0x378)];this[_0x45e1f1(0x3d9)][_0x45e1f1(0x2ef)]({'type':_0x45e1f1(0x2a1),'txt':'the\x20construction\x20of\x20\x27'+_0xeca072[_0x45e1f1(0x312)]+_0x45e1f1(0x4e5)}),this[_0x45e1f1(0x321)](_0x4a099d['bat']),_0xeca072[_0x45e1f1(0x47e)](_0xeca072['input']);for(var _0x3110ab in this[_0x45e1f1(0x4c8)])if(this[_0x45e1f1(0x4c8)][_0x3110ab]==_0xeca072)this[_0x45e1f1(0x4c8)][_0x45e1f1(0x26a)](_0x3110ab,0x1);},this[_0x10632a(0x2af)]=_0x4f9879=>{var _0xc98541=_0x10632a;if(!_0x4f9879||!_0x4f9879[_0xc98541(0x207)])return;this[_0xc98541(0x4ea)][_0xc98541(0x43c)](_0x4f9879['armor']);},this[_0x10632a(0x4f9)]=_0x208b7f=>{var _0xc8d55f=_0x10632a;if(!_0x208b7f||!_0x208b7f[_0xc8d55f(0x3de)])return;this[_0xc8d55f(0x4ea)]['push'](_0x208b7f[_0xc8d55f(0x3de)]);},this[_0x10632a(0x36e)]=_0x285419=>{var _0x55035d=_0x10632a;if(!_0x285419)return![];world[_0x55035d(0x415)][_0x55035d(0x1b2)]=[];switch(this['phase']){case PHASE_NEWTURN:this['phase']=PHASE_PLACEPLAYER,this[_0x55035d(0x3d9)][_0x55035d(0x2ef)]({'txt':_0x55035d(0x39a)});for(var _0x50fab5 in this[_0x55035d(0x457)])this[_0x55035d(0x457)][_0x50fab5][_0x55035d(0x43a)]=this[_0x55035d(0x457)][_0x50fab5][_0x55035d(0x219)];if(this[_0x55035d(0x35f)]==0x0)world[_0x55035d(0x38d)][_0x55035d(0x350)]('the-britons',!![]);break;case PHASE_PLACEPLAYER:if(_0x285419[_0x55035d(0x4ab)]){var _0x429ef7=[];for(var _0x50fab5 in this[_0x55035d(0x457)]){_0x3492cc=this[_0x55035d(0x457)][_0x50fab5];if(!this['getBatFromPlayer'](_0x3492cc))_0x429ef7['push']({'txt':_0x55035d(0x500)+_0x3492cc['name']+'\x20is\x20not\x20affected\x20to\x20a\x20building','player':_0x3492cc,'tab':_0x55035d(0x2a1)});}defBat=this[_0x55035d(0x2d6)]['find'](_0xfc5692=>_0xfc5692[_0x55035d(0x312)]==_0x55035d(0x20f));if(defBat[_0x55035d(0x314)][_0x55035d(0x49c)]<0x1)_0x429ef7['push']({'txt':_0x55035d(0x30c),'bat':defBat,'tab':'building'});if(_0x429ef7['length']>0x0){world['villageUI']['warningEndTurnMessage']=_0x429ef7;return;}}this[_0x55035d(0x250)]=PHASE_ACTIONPLAYER,this[_0x55035d(0x3d9)][_0x55035d(0x2ef)]({'txt':_0x55035d(0x49b)});break;case PHASE_ACTIONPLAYER:var _0x429ef7=[];if(_0x285419[_0x55035d(0x4ab)])for(var _0x50fab5 in this[_0x55035d(0x2d6)]){var _0xaf64dc=this[_0x55035d(0x2d6)][_0x50fab5];if(!_0xaf64dc['blocking_end_turn'])continue;for(var _0x3aa577 in _0xaf64dc[_0x55035d(0x314)]){var _0x3492cc=_0xaf64dc[_0x55035d(0x314)][_0x3aa577],_0x48e3c5=_0x3492cc[_0x55035d(0x522)]();if(_0x48e3c5&&_0x48e3c5[_0x55035d(0x49c)]>0x0)_0x429ef7[_0x55035d(0x43c)]({'txt':_0x55035d(0x500)+_0x3492cc['name']+_0x55035d(0x2fa)+_0x3492cc[_0x55035d(0x43a)]+_0x55035d(0x4d5),'player':_0x3492cc,'tab':_0x55035d(0x2a1)});}}if(_0x429ef7[_0x55035d(0x49c)]>0x0){world['villageUI'][_0x55035d(0x1b2)]=_0x429ef7;return;}this[_0x55035d(0x250)]=PHASE_COMBAT;(this[_0x55035d(0x35f)]==0x0||Math[_0x55035d(0x285)](Math[_0x55035d(0x213)]()*0x64)<0x21)&&(this['battle']=!![],this[_0x55035d(0x3d9)][_0x55035d(0x2ef)]({'txt':'Your\x20village\x20is\x20attacked\x20!'}));break;case PHASE_COMBAT:if(this[_0x55035d(0x303)])this[_0x55035d(0x309)]();else{this[_0x55035d(0x250)]=PHASE_NEWTURN,this[_0x55035d(0x35f)]++;var _0x46bec4=this[_0x55035d(0x457)][_0x55035d(0x49c)]*0x2;this[_0x55035d(0x3d9)][_0x55035d(0x2ef)]({'txt':_0x55035d(0x315)+this[_0x55035d(0x35f)]}),this[_0x55035d(0x3d9)]['addMessage']({'type':'player','txt':_0x55035d(0x448)}),this['removeResource']({'resources':{'food':_0x46bec4}}),this[_0x55035d(0x49a)]=_0x46bec4;for(var _0x50fab5 in this[_0x55035d(0x457)]){this[_0x55035d(0x457)][_0x50fab5][_0x55035d(0x4b5)](),this[_0x55035d(0x457)][_0x50fab5]['age']++;}if(this[_0x55035d(0x457)][_0x55035d(0x49c)]<this[_0x55035d(0x36c)]){var _0x435caf=Math[_0x55035d(0x285)](Math['random']()*0x64);if(_0x435caf<0x32){var _0x3492cc=this[_0x55035d(0x2b3)]();this[_0x55035d(0x3d9)][_0x55035d(0x2ef)]({'type':'player','txt':_0x55035d(0x2a6)+_0x3492cc[_0x55035d(0x312)]+'\x20joined\x20your\x20village'});}}}break;}},this[_0x10632a(0x309)]=()=>{var _0x36b451=_0x10632a,_0x4563fe=[];for(var _0x4eaae4 in this[_0x36b451(0x457)]){var _0x393422=this['players'][_0x4eaae4];bat=this[_0x36b451(0x34d)](_0x393422);if(bat[_0x36b451(0x312)]==_0x36b451(0x20f))_0x4563fe[_0x36b451(0x43c)](_0x393422);}world[_0x36b451(0x415)]=undefined,console[_0x36b451(0x277)](_0x4563fe['length']+'\x20players\x20to\x20the\x20battle'),world[_0x36b451(0x48b)](_0x4563fe,this[_0x36b451(0x35f)]),world[_0x36b451(0x38d)][_0x36b451(0x4e6)](_0x36b451(0x3d5),!![]),world['Music'][_0x36b451(0x350)](_0x36b451(0x2fc),!![]),world['GameUI']=new GameUI(world['Screen']['canList'][_0x36b451(0x542)]);},this[_0x10632a(0x3e2)]=_0x3f061b=>{var _0x5933ec=_0x10632a;for(var _0x5afb04 in this[_0x5933ec(0x457)]){this[_0x5933ec(0x457)][_0x5afb04]['id']==_0x3f061b['id']&&(this['players'][_0x5933ec(0x26a)](_0x5afb04,0x1),this[_0x5933ec(0x3d9)]['addMessage']({'txt':_0x3f061b[_0x5933ec(0x312)]+'is\x20dead\x20R.I.P'}));}for(var _0x5afb04 in this[_0x5933ec(0x2d6)]){var _0x2baeb5=this['bats'][_0x5afb04];for(var _0x82ba6a in _0x2baeb5[_0x5933ec(0x314)])if(_0x2baeb5[_0x5933ec(0x314)][_0x82ba6a]['id']==_0x3f061b['id'])_0x2baeb5[_0x5933ec(0x314)][_0x5933ec(0x26a)](_0x82ba6a,0x1);}};},VILLAGE_UI_LETTER_SIZE=0x1e,VILLAGE_UI_FONT='\x27Footlight\x20MT\x20Light\x27',VILLAGE_UI_FONT_BUTTON=_0xa7c9c4(0x4ba),VILLAGE_UI_FONT_BUTTON_2='\x27Comic\x20Sans\x20MS\x27',VILLAGE_UI_FONT_TITLE=_0xa7c9c4(0x2a4),VILLAGE_UI_FONT_PLAYERNAME=_0xa7c9c4(0x526),VILLAGE_UI_FONT_BUILDINGNAME=_0xa7c9c4(0x194),VILLAGE_UI_FONT_PHASE=_0xa7c9c4(0x188),VILLAGE_UI_TABS_FONT=_0xa7c9c4(0x2a4),VILLAGE_UI_TABS_TXTCOLOR='#ffffff',VILLAGE_UI_TABS_FILLCOLOR=_0xa7c9c4(0x4fb),VILLAGE_UI_MAX_TAB_ELM_DRAW=0x14,VILLAGE_UI_FILLSTYLE='#ffff66',VILLAGE_UI_BAT_ELM_FILLCOLOR=_0xa7c9c4(0x4d9),VILLAGE_UI_PLAYER_ELM_FILLCOLOR=_0xa7c9c4(0x481),VILLAGE_UI_ITEM_ELM_FILLCOLOR=_0xa7c9c4(0x1b5),VILLAGE_UI_BUTTON_FILLCOLOR='#00dd00',VillageUI=function(_0x431bcf){var _0x425573=_0xa7c9c4;world[_0x425573(0x38d)]['playSound'](_0x425573(0x3d5),!![]),this[_0x425573(0x4bf)]=_0x431bcf,this[_0x425573(0x3ca)]=!![],this[_0x425573(0x53b)]=0x5,this[_0x425573(0x33d)]=VILLAGE_UI_FILLSTYLE,this[_0x425573(0x3a7)]=_0x425573(0x216),this['scale']=0x1,this['mouseWasOnMouseLightLastDraw']=!![],this['tabs']=[_0x425573(0x535),'building','craft',_0x425573(0x2db),_0x425573(0x4ea),_0x425573(0x461)],this[_0x425573(0x370)]=0x0,this[_0x425573(0x246)]=undefined,this[_0x425573(0x3b6)]=undefined,this[_0x425573(0x23e)]={'value':0x0},this[_0x425573(0x395)]=undefined,this['batBuildMenu']=undefined,this[_0x425573(0x503)]={'value':0x0},this[_0x425573(0x382)]=[_0x425573(0x42d),_0x425573(0x40c),_0x425573(0x27c)],this[_0x425573(0x4dd)]={'value':0x0},this[_0x425573(0x2cf)]=undefined,this['itemSelected']=undefined,this[_0x425573(0x2a9)]={'value':0x0},this[_0x425573(0x2d3)]=undefined,this[_0x425573(0x4ca)]={'value':0x0},this['UI']=undefined,this['showUI']=!![],this[_0x425573(0x2fe)]=undefined,this[_0x425573(0x243)]=!![],this[_0x425573(0x282)]=undefined,this['showUIsystem']=!![],this[_0x425573(0x434)]=0x0,this[_0x425573(0x1b2)]=[];const _0x3675b6=document[_0x425573(0x39c)](_0x425573(0x4bf)),_0x5b9501=_0x3675b6[_0x425573(0x2d1)]('2d'),_0x13d5bf=new Image();_0x13d5bf[_0x425573(0x2b8)]=_0x425573(0x31b),_0x13d5bf['onload']=()=>{var _0x238120=_0x425573;const _0xa63493=_0x5b9501[_0x238120(0x464)](_0x13d5bf,_0x238120(0x2c2));this[_0x238120(0x33d)]=_0xa63493,this['needRedraw']=!![];},this['init_check_mouse_move']=()=>{var _0x2c94b4=_0x425573;window[_0x2c94b4(0x1de)](_0x2c94b4(0x406),_0xbeed13=>{var _0x52b178=_0x2c94b4,_0x370bae=![];this[_0x52b178(0x2fe)]&&this[_0x52b178(0x2fe)][_0x52b178(0x3b3)](_0xbeed13[_0x52b178(0x376)],_0xbeed13[_0x52b178(0x4bb)])&&!this[_0x52b178(0x477)]&&(this['needRedraw']=!![],this['mouseWasOnMouseLightLastDraw']=!![],_0x370bae=!![]);this['UI']&&this['UI'][_0x52b178(0x3b3)](_0xbeed13[_0x52b178(0x376)],_0xbeed13[_0x52b178(0x4bb)])&&!this[_0x52b178(0x477)]&&(this[_0x52b178(0x3ca)]=!![],this['mouseWasOnMouseLightLastDraw']=!![],_0x370bae=!![]);this[_0x52b178(0x282)]&&this['UIsystem'][_0x52b178(0x3b3)](_0xbeed13[_0x52b178(0x376)],_0xbeed13[_0x52b178(0x4bb)])&&!this[_0x52b178(0x477)]&&(this['needRedraw']=!![],this[_0x52b178(0x477)]=!![],_0x370bae=!![]);!_0x370bae&&this[_0x52b178(0x477)]&&(this[_0x52b178(0x477)]=![],this[_0x52b178(0x3ca)]=!![]);if(this==world[_0x52b178(0x415)])this[_0x52b178(0x22f)]();},{'once':!![]});},this[_0x425573(0x22f)](),this[_0x425573(0x344)]=_0x2a518f=>{var _0x1b4239=_0x425573;if(this['UI']&&this['UI'][_0x1b4239(0x2c1)](_0x2a518f))return!![];if(this[_0x1b4239(0x2fe)]&&this['UIplayers']['key_buton_check'](_0x2a518f))return!![];if(this[_0x1b4239(0x282)]&&this['UIsystem'][_0x1b4239(0x2c1)](_0x2a518f))return!![];if(_0x2a518f==_0x1b4239(0x273)&&this['cancel_menu']())return!![];return![];},this[_0x425573(0x525)]=()=>{var _0xdb5b81=_0x425573;if(this['playerInfoMenu'])return this[_0xdb5b81(0x3b6)]=undefined,!![];if(this[_0xdb5b81(0x46e)][this['activeTabId']]==_0xdb5b81(0x2a1)){if(this[_0xdb5b81(0x343)])return this[_0xdb5b81(0x343)]=undefined,!![];if(this[_0xdb5b81(0x395)])return this[_0xdb5b81(0x395)]=undefined,!![];}return![];},this[_0x425573(0x2ff)]=_0xf361ef=>{var _0xcb659e=_0x425573,_0x1eceb7=_0xf361ef['x'],_0x4730f9=_0xf361ef['y'];if(_0xf361ef[_0xcb659e(0x53f)]==0x2){var _0x1c2f75=this[_0xcb659e(0x525)]();if(_0x1c2f75)return!![];}else{if(this['UI'][_0xcb659e(0x4c7)](_0x1eceb7,_0x4730f9))return!![];else{if(this[_0xcb659e(0x2fe)]['click_buton_check'](_0x1eceb7,_0x4730f9))return!![];else{if(this[_0xcb659e(0x282)][_0xcb659e(0x4c7)](_0x1eceb7,_0x4730f9))return!![];}}}return![];},this['GoToTabName']=_0x530914=>{var _0x2a2263=_0x425573;if(!_0x530914)return;if(_0x530914[_0x2a2263(0x414)])for(var _0x59fbb9 in this[_0x2a2263(0x46e)]){if(this[_0x2a2263(0x46e)][_0x59fbb9]==_0x530914['tab'])this[_0x2a2263(0x370)]=_0x59fbb9;}if(_0x530914[_0x2a2263(0x40c)])this[_0x2a2263(0x246)]=_0x530914[_0x2a2263(0x40c)];if(_0x530914['bat'])this['batSelected']=_0x530914[_0x2a2263(0x378)];},this[_0x425573(0x430)]=_0xc4eaac=>{var _0x1420da=_0x425573;if(this['UI']&&this['UI'][_0x1420da(0x430)](_0xc4eaac))this[_0x1420da(0x3ca)]=!![];if(this[_0x1420da(0x2fe)]&&this[_0x1420da(0x2fe)][_0x1420da(0x430)](_0xc4eaac))this['needRedraw']=!![];if(this['UIsystem']&&this['UIsystem'][_0x1420da(0x430)](_0xc4eaac))this[_0x1420da(0x3ca)]=!![];},this[_0x425573(0x3e4)]=_0x3340ab=>{var _0x47b984=_0x425573;if(!_0x3340ab['selector'])return;var _0x35005f=[{'type':_0x47b984(0x53f),'callback':()=>{var _0x2456cb=_0x47b984;_0x3340ab['selector'][_0x2456cb(0x32d)]=_0x3340ab[_0x2456cb(0x3a3)][_0x2456cb(0x32d)]>0x0?_0x3340ab[_0x2456cb(0x3a3)]['value']-0x1:0x0;},'txt':'∧','txt_color':_0x47b984(0x1b8),'mouseLight':'88','max_letters':0x270f,'letter_size':0x1e,'txt_font':VILLAGE_UI_FONT_BUILDINGNAME,'fillColor':_0x47b984(0x424),'strokeColor':_0x47b984(0x2eb),'windowInfo':[{'callback':()=>{var _0x1949e9=_0x47b984;return _0x1949e9(0x49d);}}]},{'type':_0x47b984(0x53f),'callback':()=>{var _0x467731=_0x47b984;_0x3340ab[_0x467731(0x3a3)][_0x467731(0x32d)]++;},'txt':'∨','txt_color':'#ffffff','mouseLight':'88','max_letters':0x270f,'letter_size':0x1e,'txt_font':VILLAGE_UI_FONT_BUILDINGNAME,'fillColor':'#5500ff','strokeColor':_0x47b984(0x2eb),'windowInfo':[{'callback':()=>{var _0x10dd16=_0x47b984;return _0x10dd16(0x49e);}}]},{'type':_0x47b984(0x1cd),'txt':'['+_0x3340ab[_0x47b984(0x3a3)]['value']+':'+(_0x3340ab[_0x47b984(0x3a3)][_0x47b984(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)+']','txt_color':'#000000','max_letters':0x270f,'letter_size':0xf,'txt_font':VILLAGE_UI_FONT}];if(_0x3340ab[_0x47b984(0x3a8)])_0x35005f[_0x47b984(0x43c)]({'type':'button','callback':_0x5a5b57=>{var _0x4d065c=_0x47b984;_0x5a5b57['id'][_0x4d065c(0x32d)]=(_0x5a5b57['id']['value']+0x1)%_0x5a5b57[_0x4d065c(0x4c4)][_0x4d065c(0x49c)],console[_0x4d065c(0x277)](_0x4d065c(0x358)+[_0x5a5b57['id']['value'],_0x5a5b57[_0x4d065c(0x4c4)][_0x4d065c(0x49c)]]);},'callback_data':_0x3340ab[_0x47b984(0x3a8)],'txt':this[_0x47b984(0x382)][this[_0x47b984(0x4dd)][_0x47b984(0x32d)]],'txt_color':'#000000','mouseLight':'88','max_letters':0x270f,'letter_size':0xf,'txt_font':VILLAGE_UI_FONT_BUILDINGNAME,'fillColor':_0x47b984(0x3c1),'strokeColor':_0x47b984(0x2eb),'windowInfo':[{'callback':()=>{var _0x3f8af3=_0x47b984;return'sort\x20buildings\x20by\x20'+this[_0x3f8af3(0x382)][this[_0x3f8af3(0x4dd)]['value']];}}]});return _0x35005f;},this['draw_building_tab']=()=>{var _0x36429a=_0x425573,_0x4f986e=world[_0x36429a(0x1ac)];this['UI'][_0x36429a(0x240)](this['GetPageSelector']({'sortButo':{'list':this[_0x36429a(0x382)],'id':this['batSortModeId']},'selector':this[_0x36429a(0x503)]}));switch(this[_0x36429a(0x382)][this['batSortModeId'][_0x36429a(0x32d)]]){case _0x36429a(0x42d):_0x4f986e[_0x36429a(0x2d6)][_0x36429a(0x4a4)]((_0x2cca6d,_0x3851d9)=>{var _0x2b6149=_0x36429a;if(_0x2cca6d[_0x2b6149(0x312)]>_0x3851d9[_0x2b6149(0x312)])return 0x1;return-0x1;});break;case _0x36429a(0x40c):_0x4f986e[_0x36429a(0x2d6)][_0x36429a(0x4a4)]((_0x1083a7,_0x4fd716)=>{var _0x418eb5=_0x36429a;if(_0x1083a7['players_inside']['length']<=_0x4fd716[_0x418eb5(0x314)][_0x418eb5(0x49c)])return 0x1;return-0x1;});break;case _0x36429a(0x27c):_0x4f986e[_0x36429a(0x2d6)][_0x36429a(0x4a4)]((_0x49b4b6,_0xd0c605)=>{var _0x5031f1=_0x36429a;if(_0x49b4b6[_0x5031f1(0x397)]<=_0xd0c605['player_size'])return 0x1;return-0x1;});break;}if(_0x4f986e[_0x36429a(0x250)]==PHASE_PLACEPLAYER){this['UI'][_0x36429a(0x240)](this[_0x36429a(0x2bc)]());var _0x10b95f=0x0;if(this[_0x36429a(0x343)])for(var _0x315612 in _0x4f986e[_0x36429a(0x4c8)]){var _0x3627e3=_0x4f986e[_0x36429a(0x4c8)][_0x315612],_0x1679ef=[];_0x1679ef['push']({'type':_0x36429a(0x53f),'callback':_0x303672=>{var _0x375e7f=_0x36429a;if(this[_0x375e7f(0x2cf)]==_0x303672)this[_0x375e7f(0x2cf)]=undefined;else this['constructionSelected']=_0x303672;},'callback_data':_0x3627e3,'txt':_0x3627e3[_0x36429a(0x312)],'mouseLight':'88','txt_color':_0x36429a(0x2eb),'max_letters':0x270f,'letter_size':0x1e,'txt_font':VILLAGE_UI_FONT_BUILDINGNAME,'fillColor':_0x36429a(0x4cd),'strokeColor':this[_0x36429a(0x2cf)]==_0x3627e3?_0x36429a(0x2eb):_0x36429a(0x4cd),'windowInfo':[{'callback':()=>{var _0x518954=_0x36429a;return _0x518954(0x349);}}]}),_0x1679ef[_0x36429a(0x43c)]({'type':'img','img':world[_0x36429a(0x44e)][_0x3627e3[_0x36429a(0x2cd)]][_0x36429a(0x2cd)],'len_x':0x1e,'len_y':0x1e});if(_0x10b95f>=this[_0x36429a(0x503)][_0x36429a(0x32d)]&&_0x10b95f<this[_0x36429a(0x503)][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x240)](_0x1679ef);_0x10b95f++;if(this['constructionSelected']==_0x3627e3){var _0x1679ef=[];_0x1679ef[_0x36429a(0x43c)]({'type':'button','mouseLight':'88','callback':world[_0x36429a(0x1ac)][_0x36429a(0x33c)],'callback_data':{'bat':_0x3627e3},'txt':_0x36429a(0x25d),'txt_color':_0x36429a(0x2eb),'max_letters':0x270f,'letter_size':0xf,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':VILLAGE_UI_BUTTON_FILLCOLOR,'strokeColor':_0x36429a(0x4cd),'windowInfo':[{'callback':()=>{var _0x40a4ef=_0x36429a;return _0x40a4ef(0x349);}}]});if(_0x10b95f>=this[_0x36429a(0x503)][_0x36429a(0x32d)]&&_0x10b95f<this['batPageOffset'][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x240)](_0x1679ef);_0x10b95f++;if(_0x3627e3[_0x36429a(0x4d4)]&&_0x3627e3['input'][_0x36429a(0x1eb)]){if(_0x10b95f>=this['batPageOffset'][_0x36429a(0x32d)]&&_0x10b95f<this[_0x36429a(0x503)][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x240)]([{'type':_0x36429a(0x1cd),'txt':_0x36429a(0x292)+_0x3627e3[_0x36429a(0x4d4)][_0x36429a(0x1eb)],'txt_color':_0x36429a(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT},{'type':_0x36429a(0x2cd),'img':world[_0x36429a(0x44e)][_0x36429a(0x2a8)][_0x36429a(0x2cd)],'len_x':0x14,'len_y':0x14}]);_0x10b95f++;}for(var _0x518e0a in _0x3627e3[_0x36429a(0x389)]){var _0x290d35=[];_0x290d35[_0x36429a(0x43c)]({'type':_0x36429a(0x1cd),'txt':'\x20-'+_0x518e0a+'\x20'+_0x3627e3[_0x36429a(0x389)][_0x518e0a],'txt_color':_0x36429a(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT}),_0x290d35[_0x36429a(0x43c)]({'type':'img','img':world['Imgs'][_0x518e0a+_0x36429a(0x512)]['img'],'len_x':0x14,'len_y':0x14});}if(_0x10b95f>=this[_0x36429a(0x503)]['value']&&_0x10b95f<this[_0x36429a(0x503)][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x240)](this[_0x36429a(0x466)](_0x3627e3[_0x36429a(0x389)],0x14));_0x10b95f++;}}else{if(!this[_0x36429a(0x343)])for(var _0x315612 in _0x4f986e[_0x36429a(0x2d6)]){var _0x3627e3=_0x4f986e[_0x36429a(0x2d6)][_0x315612],_0x59cc7d=this[_0x36429a(0x1bc)](_0x3627e3,0x28);if(_0x3627e3['build_progression'])_0x59cc7d['push']({'type':_0x36429a(0x2cd),'img':world[_0x36429a(0x44e)][_0x36429a(0x2df)][_0x36429a(0x2cd)],'len_x':0x28,'len_y':0x28});if(_0x10b95f>=this['batPageOffset'][_0x36429a(0x32d)]&&_0x10b95f<this['batPageOffset'][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI']['addHorizontalElem'](_0x59cc7d);_0x10b95f++;if(_0x3627e3[_0x36429a(0x239)]){if(_0x10b95f>=this[_0x36429a(0x503)][_0x36429a(0x32d)]&&_0x10b95f<this[_0x36429a(0x503)][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x2dd)](''+_0x3627e3[_0x36429a(0x239)]+'\x20PA\x20left\x20for\x20finish\x20construction',0x14,0x270f,_0x36429a(0x2eb),VILLAGE_UI_FONT);_0x10b95f++;}var _0x1679ef=[],_0x2d160d=_0x3627e3[_0x36429a(0x1dd)]();if(this[_0x36429a(0x395)]==_0x3627e3&&_0x3627e3[_0x36429a(0x204)]){if(_0x10b95f>=this['batPageOffset'][_0x36429a(0x32d)]&&_0x10b95f<this[_0x36429a(0x503)][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x2dd)](_0x36429a(0x40e)+_0x3627e3[_0x36429a(0x204)],0xf,0x270f,'#000000',VILLAGE_UI_FONT);_0x10b95f++;}if(this[_0x36429a(0x395)]==_0x3627e3&&_0x2d160d){var _0x40b8a0=this[_0x36429a(0x466)](_0x2d160d[_0x36429a(0x389)],0x14);_0x40b8a0[_0x36429a(0x4f2)]({'type':'button','mouseLight':'88','callback':_0x3627e3[_0x36429a(0x4df)],'callback_data':{},'txt':_0x36429a(0x47b),'txt_color':_0x36429a(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':VILLAGE_UI_BUTTON_FILLCOLOR});if(_0x10b95f>=this['batPageOffset']['value']&&_0x10b95f<this[_0x36429a(0x503)][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI']['addHorizontalElem'](_0x40b8a0);_0x10b95f++;}if(_0x3627e3==this[_0x36429a(0x395)]&&_0x3627e3[_0x36429a(0x397)]){if(_0x3627e3[_0x36429a(0x397)]&&_0x10b95f>=this['batPageOffset']['value']&&_0x10b95f<this[_0x36429a(0x503)][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x2dd)](''+_0x3627e3[_0x36429a(0x314)][_0x36429a(0x49c)]+_0x36429a(0x30b)+_0x3627e3[_0x36429a(0x397)]+_0x36429a(0x298),0x14,0x270f,_0x36429a(0x2eb),VILLAGE_UI_FONT);_0x10b95f++;}if(this[_0x36429a(0x246)]&&_0x3627e3==this[_0x36429a(0x395)]&&!_0x3627e3[_0x36429a(0x314)][_0x36429a(0x1a2)](_0x146f3c=>_0x146f3c==this[_0x36429a(0x246)])&&_0x3627e3[_0x36429a(0x314)][_0x36429a(0x49c)]<_0x3627e3[_0x36429a(0x397)])_0x1679ef[_0x36429a(0x43c)]({'type':_0x36429a(0x53f),'mouseLight':'88','callback':world[_0x36429a(0x1ac)][_0x36429a(0x223)],'callback_data':{'player':this[_0x36429a(0x246)],'bat':_0x3627e3},'txt':_0x36429a(0x4f0),'txt_color':'#000000','max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':VILLAGE_UI_BUTTON_FILLCOLOR});if(_0x1679ef[_0x36429a(0x49c)]){if(_0x10b95f>=this[_0x36429a(0x503)][_0x36429a(0x32d)]&&_0x10b95f<this[_0x36429a(0x503)]['value']+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x240)](_0x1679ef);_0x10b95f++;}if(this[_0x36429a(0x395)]==_0x3627e3)for(var _0x518e0a in _0x3627e3['players_inside']){var _0x2bf6d1=_0x3627e3[_0x36429a(0x314)][_0x518e0a],_0x48882c=this[_0x36429a(0x38a)](_0x2bf6d1);_0x48882c[_0x36429a(0x43c)]({'type':_0x36429a(0x53f),'mouseLight':'88','callback':world[_0x36429a(0x1ac)]['removePlayerFromBat'],'callback_data':{'player':_0x2bf6d1},'txt':_0x36429a(0x2d4),'txt_color':_0x36429a(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_PLAYERNAME,'fillColor':_0x36429a(0x31e)});if(_0x10b95f>=this[_0x36429a(0x503)][_0x36429a(0x32d)]&&_0x10b95f<this['batPageOffset'][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x240)](_0x48882c);_0x10b95f++;}}}}else{if(_0x4f986e[_0x36429a(0x250)]==PHASE_ACTIONPLAYER){var _0x10b95f=0x0;for(var _0x315612 in _0x4f986e[_0x36429a(0x2d6)]){var _0x3627e3=_0x4f986e['bats'][_0x315612],_0x59cc7d=this[_0x36429a(0x1bc)](_0x3627e3,0x28);if(_0x3627e3[_0x36429a(0x239)])_0x59cc7d['push']({'type':_0x36429a(0x2cd),'img':world['Imgs']['under_construction_icon'][_0x36429a(0x2cd)],'len_x':0x28,'len_y':0x28});if(_0x10b95f>=this['batPageOffset'][_0x36429a(0x32d)]&&_0x10b95f<this[_0x36429a(0x503)][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x240)](_0x59cc7d);_0x10b95f++;if(_0x3627e3[_0x36429a(0x239)]){if(_0x10b95f>=this['batPageOffset'][_0x36429a(0x32d)]&&_0x10b95f<this['batPageOffset'][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI']['addTextZone'](''+_0x3627e3[_0x36429a(0x239)]+_0x36429a(0x42c),0x14,0x270f,_0x36429a(0x2eb),VILLAGE_UI_FONT);_0x10b95f++;}var _0x1679ef=[];if(_0x1679ef['length']){if(_0x10b95f>=this[_0x36429a(0x503)][_0x36429a(0x32d)]&&_0x10b95f<this[_0x36429a(0x503)][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x240)](_0x1679ef);_0x10b95f++;}for(var _0x518e0a in _0x3627e3['players_inside']){var _0x2bf6d1=_0x3627e3[_0x36429a(0x314)][_0x518e0a],_0x3d89db=_0x2bf6d1[_0x36429a(0x522)]();if(this[_0x36429a(0x395)]==_0x3627e3||_0x3d89db['length']&&_0x3627e3[_0x36429a(0x312)]!=_0x36429a(0x20f)){var _0x48882c=this[_0x36429a(0x38a)](_0x2bf6d1);if(_0x3627e3[_0x36429a(0x278)][_0x36429a(0x49c)])_0x48882c['push']({'type':_0x36429a(0x2cd),'img':world[_0x36429a(0x44e)][_0x36429a(0x2a8)][_0x36429a(0x2cd)],'len_x':0x14,'len_y':0x14},{'type':_0x36429a(0x1cd),'txt':''+_0x2bf6d1[_0x36429a(0x43a)]+_0x36429a(0x220),'txt_color':_0x2bf6d1[_0x36429a(0x43a)]?'#000000':_0x36429a(0x3b5),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT});if(_0x10b95f>=this[_0x36429a(0x503)][_0x36429a(0x32d)]&&_0x10b95f<this['batPageOffset'][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI']['addHorizontalElem'](_0x48882c);_0x10b95f++;if(_0x3627e3[_0x36429a(0x239)]){var _0x1b05d9=[];_0x2bf6d1['villageActionPoint']>0x0&&(_0x1b05d9[_0x36429a(0x43c)]({'type':_0x36429a(0x53f),'mouseLight':'88','callback':_0x3627e3[_0x36429a(0x2f4)],'callback_data':{'player':_0x2bf6d1},'txt':_0x36429a(0x2f4),'txt_color':'#000000','max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':VILLAGE_UI_BUTTON_FILLCOLOR,'windowInfo':[{'callback':_0x56890d=>{return _0x56890d;},'input':_0x36429a(0x447)}]}),_0x1b05d9[_0x36429a(0x43c)]({'type':_0x36429a(0x1cd),'txt':_0x36429a(0x3e6)+_0x3627e3[_0x36429a(0x239)]+_0x36429a(0x1f0),'txt_color':_0x2bf6d1[_0x36429a(0x43a)]?_0x36429a(0x2eb):_0x36429a(0x3b5),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT}));if(_0x10b95f>=this[_0x36429a(0x503)][_0x36429a(0x32d)]&&_0x10b95f<this[_0x36429a(0x503)][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI']['addHorizontalElem'](_0x1b05d9);_0x10b95f++;}else for(var _0x5868e7 in _0x3627e3[_0x36429a(0x278)]){var _0x27e7d0=_0x3627e3['callback_actionPlayer'][_0x5868e7];if(_0x27e7d0[_0x36429a(0x226)]&&_0x27e7d0[_0x36429a(0x226)]>_0x2bf6d1[_0x36429a(0x43a)]||_0x2bf6d1[_0x36429a(0x43a)]==0x0)continue;var _0x4b460e={'type':_0x36429a(0x53f),'mouseLight':'88','callback':_0x27e7d0['callback'],'callback_data':{'player':_0x2bf6d1,'cost':_0x27e7d0[_0x36429a(0x226)]},'txt':_0x27e7d0[_0x36429a(0x244)],'txt_color':_0x36429a(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':VILLAGE_UI_BUTTON_FILLCOLOR,'windowInfo':[{'callback':_0x3776f0=>{return _0x3776f0;},'input':_0x27e7d0['description']}]};if(_0x10b95f>=this['batPageOffset'][_0x36429a(0x32d)]&&_0x10b95f<this['batPageOffset'][_0x36429a(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x36429a(0x240)]([_0x4b460e]);_0x10b95f++;}}}}}}},this[_0x425573(0x2bc)]=()=>{var _0x5f1ce7=_0x425573,_0x15be2f=[];return this[_0x5f1ce7(0x343)]?_0x15be2f['push']({'type':'button','mouseLight':'88','callback':()=>{var _0x331d00=_0x5f1ce7;this[_0x331d00(0x343)]=![],this[_0x331d00(0x503)][_0x331d00(0x32d)]=0x0;},'txt':_0x5f1ce7(0x3f7),'mouseLight':'88','txt_color':_0x5f1ce7(0x443),'max_letters':0x270f,'letter_size':0x23,'txt_font':VILLAGE_UI_FONT,'fillColor':_0x5f1ce7(0x1c9),'strokeColor':_0x5f1ce7(0x2eb),'windowInfo':[{'callback':()=>{var _0x24e6a8=_0x5f1ce7;return _0x24e6a8(0x349);}}]}):_0x15be2f[_0x5f1ce7(0x43c)]({'type':_0x5f1ce7(0x53f),'mouseLight':'88','callback':()=>{var _0x591376=_0x5f1ce7;this[_0x591376(0x343)]=!![],this[_0x591376(0x503)][_0x591376(0x32d)]=0x0;},'txt':'New\x20Building','mouseLight':'88','txt_color':'#17bdbc','max_letters':0x270f,'letter_size':0x23,'txt_font':VILLAGE_UI_FONT,'fillColor':_0x5f1ce7(0x443),'strokeColor':_0x5f1ce7(0x2eb),'windowInfo':[{'callback':()=>{var _0x564d3f=_0x5f1ce7;return _0x564d3f(0x4a2);}}]}),_0x15be2f;},this['getResourcesTextAndImg']=(_0x49a819,_0x447345)=>{var _0x1d7d1e=_0x425573,_0x5b5c6b=[];for(var _0x32b038 in _0x49a819){_0x5b5c6b[_0x1d7d1e(0x43c)]({'type':_0x1d7d1e(0x2cd),'img':world[_0x1d7d1e(0x44e)][_0x32b038+_0x1d7d1e(0x512)]['img'],'len_x':_0x447345,'len_y':_0x447345}),_0x5b5c6b['push']({'type':_0x1d7d1e(0x1cd),'txt':'\x20x'+_0x49a819[_0x32b038],'txt_color':_0x1d7d1e(0x2eb),'max_letters':0x270f,'letter_size':_0x447345,'txt_font':VILLAGE_UI_FONT});}return _0x5b5c6b;},this[_0x425573(0x322)]=(_0x392bd4,_0x5d6b77,_0x567b5c)=>{var _0x5b1d0d=_0x425573,_0x20540b=()=>this['itemSelected']=this[_0x5b1d0d(0x366)]==_0x392bd4?undefined:_0x392bd4;if(_0x567b5c)_0x20540b=()=>{};var _0x5e9983=[{'type':_0x5b1d0d(0x2cd),'img':world[_0x5b1d0d(0x44e)][_0x392bd4['name']+_0x5b1d0d(0x512)]['img'],'len_x':_0x5d6b77,'len_y':_0x5d6b77},{'type':_0x5b1d0d(0x53f),'mouseLight':'ff','callback':_0x20540b,'txt':_0x392bd4[_0x5b1d0d(0x312)],'txt_color':'#000000','max_letters':0x270f,'letter_size':_0x5d6b77,'txt_font':VILLAGE_UI_FONT,'fillColor':VILLAGE_UI_ITEM_ELM_FILLCOLOR,'strokeColor':this['itemSelected']==_0x392bd4?_0x5b1d0d(0x1ce):_0x5b1d0d(0x4cd),'windowInfo':[{'callback':_0x392bd4['itemType']==_0x5b1d0d(0x3de)?_0x392bd4[_0x5b1d0d(0x454)]:_0x392bd4['getArmorDescription']}]}];return _0x5e9983;},this[_0x425573(0x257)]=()=>{var _0x3159e6=_0x425573,_0x56b4a1=world[_0x3159e6(0x1ac)];this['UI'][_0x3159e6(0x240)](this[_0x3159e6(0x3e4)]({'selector':this[_0x3159e6(0x4ca)]}));var _0x3d728f=0x0,_0x5e5f6a=_0x56b4a1[_0x3159e6(0x2c3)]();if(_0x56b4a1[_0x3159e6(0x250)]!=PHASE_ACTIONPLAYER)this['UI']['addTextZone'](_0x3159e6(0x1aa),0x14,0x270f,_0x3159e6(0x31e),VILLAGE_UI_FONT);if(!_0x5e5f6a||_0x5e5f6a['length']<0x1)this['UI'][_0x3159e6(0x2dd)]('no\x20craft\x20available',0x14,0x270f,_0x3159e6(0x2eb),VILLAGE_UI_FONT);for(var _0x174055 in _0x5e5f6a){var _0x308d50=[],_0x2f4e2b=_0x5e5f6a[_0x174055];_0x308d50[_0x3159e6(0x43c)]({'type':'button','mouseLight':'ff','callback':_0x1cdce5=>this['craftSelected']=this[_0x3159e6(0x2d3)]==_0x1cdce5?undefined:_0x1cdce5,'callback_data':_0x2f4e2b,'txt':_0x2f4e2b[_0x3159e6(0x312)]+'\x20('+_0x2f4e2b[_0x3159e6(0x24c)]+')','txt_color':this['craftSelected']==_0x2f4e2b?_0x3159e6(0x4c2):'#000000','max_letters':0x270f,'letter_size':0x19,'txt_font':VILLAGE_UI_FONT,'fillColor':_0x3159e6(0x517),'strokeColor':this[_0x3159e6(0x2d3)]==_0x2f4e2b?'#000000ff':_0x3159e6(0x4cd),'windowInfo':[{'callback':()=>{var _0x5173db=_0x3159e6;return _0x2f4e2b[_0x5173db(0x2e7)];},'input':undefined}]});if(_0x3d728f>=this[_0x3159e6(0x4ca)]['value']&&_0x3d728f<this[_0x3159e6(0x4ca)]['value']+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x3159e6(0x240)](_0x308d50);_0x3d728f++;if(this[_0x3159e6(0x2d3)]==_0x2f4e2b){var _0x336483=_0x56b4a1[_0x3159e6(0x3f4)]({'craft':_0x2f4e2b});if(_0x3d728f>=this[_0x3159e6(0x4ca)][_0x3159e6(0x32d)]&&_0x3d728f<this['craftPageOffset']['value']+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI']['addHorizontalElem'](this[_0x3159e6(0x466)](_0x2f4e2b[_0x3159e6(0x389)],0x14));_0x3d728f++;if(!_0x336483||_0x336483[_0x3159e6(0x49c)]<0x1){if(_0x3d728f>=this['craftPageOffset'][_0x3159e6(0x32d)]&&_0x3d728f<this[_0x3159e6(0x4ca)][_0x3159e6(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI']['addTextZone'](_0x3159e6(0x4ac),0x14,0x270f,_0x3159e6(0x31e),VILLAGE_UI_FONT);_0x3d728f++;}for(var _0x4c88e6 in _0x336483){var _0x58d8f0=_0x336483[_0x4c88e6],_0x308d50=this[_0x3159e6(0x38a)](_0x58d8f0,0x19);_0x56b4a1[_0x3159e6(0x250)]==PHASE_ACTIONPLAYER&&_0x308d50['push']({'type':_0x3159e6(0x53f),'mouseLight':'88','callback':_0x56b4a1[_0x3159e6(0x178)],'callback_data':{'craft':_0x2f4e2b,'player':_0x58d8f0},'txt':_0x3159e6(0x22e),'txt_color':_0x3159e6(0x2eb),'max_letters':0x270f,'letter_size':0x19,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':_0x3159e6(0x39f),'strokeColor':this['craftSelected']==_0x2f4e2b?_0x3159e6(0x192):_0x3159e6(0x4cd),'windowInfo':[{'callback':()=>{var _0x3cea95=_0x3159e6;return _0x2f4e2b[_0x3cea95(0x2e7)];},'input':undefined}]});if(_0x3d728f>=this['craftPageOffset'][_0x3159e6(0x32d)]&&_0x3d728f<this['craftPageOffset'][_0x3159e6(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI'][_0x3159e6(0x240)](_0x308d50);_0x3d728f++;}}}},this[_0x425573(0x1bc)]=(_0x2d7f58,_0x51ae8a)=>{var _0x2d438e=_0x425573,_0x486557=[{'type':_0x2d438e(0x2cd),'img':world[_0x2d438e(0x44e)][_0x2d7f58[_0x2d438e(0x3dc)]][_0x2d438e(0x2cd)],'len_x':_0x51ae8a,'len_y':_0x51ae8a},{'type':'button','mouseLight':'ff','callback':_0x18d1b9=>{var _0x136fb4=_0x2d438e;this[_0x136fb4(0x395)]=this['batSelected']==_0x18d1b9?undefined:_0x18d1b9;},'callback_data':_0x2d7f58,'txt':_0x2d7f58[_0x2d438e(0x312)],'txt_color':this['batSelected']==_0x2d7f58?_0x2d438e(0x4d6):_0x2d438e(0x2eb),'max_letters':0x270f,'letter_size':_0x51ae8a,'txt_font':VILLAGE_UI_FONT_BUILDINGNAME,'fillColor':VILLAGE_UI_BAT_ELM_FILLCOLOR,'strokeColor':this[_0x2d438e(0x395)]==_0x2d7f58?_0x2d438e(0x192):_0x2d438e(0x4cd),'windowInfo':[{'callback':_0x242e86=>{var _0x97c92=_0x2d438e;if(typeof _0x242e86[_0x97c92(0x2e7)]==_0x97c92(0x34b))return _0x242e86[_0x97c92(0x2e7)](_0x242e86);if(typeof _0x242e86['description']==_0x97c92(0x29e))return _0x242e86[_0x97c92(0x2e7)];},'input':_0x2d7f58}]}];return _0x486557;},this[_0x425573(0x486)]=(_0x31b32c,_0x516ba8,_0x50726c)=>{var _0x550f9c=_0x425573,_0x213baf={'type':_0x550f9c(0x53f),'mouseLight':'88','callback':world[_0x550f9c(0x1ac)][_0x550f9c(0x36e)],'callback_data':{'warning':_0x31b32c?!![]:![]},'txt':_0x50726c,'txt_color':'#000000','max_letters':0x270f,'letter_size':0x28,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':_0x516ba8?_0x550f9c(0x25f):_0x550f9c(0x39f),'strokeColor':_0x550f9c(0x2eb)};return _0x213baf;},this['getPlayerIcone']=(_0x5e4bf1,_0x3759bc)=>{var _0x240404=_0x425573;if(!_0x5e4bf1)return undefined;var _0x3759bc=_0x3759bc?_0x3759bc:0x28,_0x110408=[{'type':'button','mouseLight':'ff','txt':_0x5e4bf1[_0x240404(0x312)],'callback':_0xb49699=>{var _0x4eea7=_0x240404;this[_0x4eea7(0x246)]=this[_0x4eea7(0x246)]==_0xb49699?undefined:_0xb49699;},'callback_data':_0x5e4bf1,'txt_color':_0x5e4bf1[_0x240404(0x2da)]?_0x240404(0x335):this[_0x240404(0x246)]==_0x5e4bf1?_0x240404(0x1b8):'#000000','max_letters':0x270f,'letter_size':_0x3759bc,'txt_font':VILLAGE_UI_FONT_PLAYERNAME,'fillColor':VILLAGE_UI_PLAYER_ELM_FILLCOLOR,'strokeColor':this[_0x240404(0x246)]==_0x5e4bf1?_0x240404(0x192):_0x240404(0x4cd),'windowInfo':[{'callback':_0x5e4bf1[_0x240404(0x2ce)]}]}];if(!_0x5e4bf1[_0x240404(0x1a6)])_0x5e4bf1[_0x240404(0x50b)]();_0x110408[_0x240404(0x43c)]({'type':_0x240404(0x2cd),'img':_0x5e4bf1['bodyPartImg'],'len_x':_0x3759bc,'len_y':_0x3759bc});if(_0x5e4bf1[_0x240404(0x3de)])_0x110408[_0x240404(0x43c)]({'type':_0x240404(0x2cd),'img':world[_0x240404(0x4fe)][_0x5e4bf1[_0x240404(0x3de)][_0x240404(0x312)]+'_icon'][_0x240404(0x2cd)],'len_x':_0x3759bc,'len_y':_0x3759bc});return _0x110408;},this[_0x425573(0x4c3)]=()=>{var _0x1694c1=_0x425573,_0x238116=world['village'];this[_0x1694c1(0x2fe)]=new MyUI(this['canvas'],0x0,0x0,0xa,this[_0x1694c1(0x2d0)],this[_0x1694c1(0x33d)],this['stroke'],this[_0x1694c1(0x53b)]),this[_0x1694c1(0x2fe)][_0x1694c1(0x423)](_0x1694c1(0x271),0x28,'#000000',_0x1694c1(0x4cd),'#00000000',()=>{var _0x5896f4=_0x1694c1;this['showUIplayers']=!this[_0x5896f4(0x243)];},undefined,VILLAGE_UI_FONT_PHASE);var _0x1e9a9d=this[_0x1694c1(0x3e4)]({'selector':this[_0x1694c1(0x23e)]});if(this[_0x1694c1(0x246)]&&this[_0x1694c1(0x46e)][this[_0x1694c1(0x370)]]!=_0x1694c1(0x461)&&(_0x238116['phase']==PHASE_PLACEPLAYER||_0x238116[_0x1694c1(0x250)]==PHASE_ACTIONPLAYER))_0x1e9a9d['push']({'type':'button','mouseLight':'88','callback':this['GoToTabName'],'callback_data':{'tab':_0x1694c1(0x461)},'txt':_0x1694c1(0x462),'txt_color':_0x1694c1(0x2eb),'max_letters':0x270f,'letter_size':0x1e,'txt_font':VILLAGE_UI_FONT_PLAYERNAME,'fillColor':'#ffffff'});this[_0x1694c1(0x2fe)][_0x1694c1(0x240)](_0x1e9a9d);var _0x1ccfc3=0x0;if(this[_0x1694c1(0x243)]){if(!this['playerInfoMenu'])for(var _0x4231f1 in _0x238116[_0x1694c1(0x457)]){var _0x5467ea=_0x238116[_0x1694c1(0x457)][_0x4231f1];if(_0x1ccfc3>=this[_0x1694c1(0x23e)][_0x1694c1(0x32d)]&&_0x1ccfc3<this[_0x1694c1(0x23e)]['value']+VILLAGE_UI_MAX_TAB_ELM_DRAW)this[_0x1694c1(0x2fe)][_0x1694c1(0x240)](this[_0x1694c1(0x38a)](_0x5467ea));_0x1ccfc3++;if(_0x5467ea[_0x1694c1(0x2da)]&&_0x238116[_0x1694c1(0x250)]!=PHASE_NEWTURN){if(_0x1ccfc3>=this['playersPageOffset']['value']&&_0x1ccfc3<this[_0x1694c1(0x23e)][_0x1694c1(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UIplayers'][_0x1694c1(0x423)](_0x1694c1(0x39e),0xa,_0x1694c1(0x1b8),_0x1694c1(0x398),_0x1694c1(0x2eb),this[_0x1694c1(0x2c6)],{'tab':'Player','player':_0x5467ea},VILLAGE_UI_FONT_BUTTON,undefined,()=>{return'go\x20to\x20player\x20tab\x20for\x20lvl\x20up';},'ff');_0x1ccfc3++;}var _0x597124=world[_0x1694c1(0x1ac)]['getBatFromPlayer'](_0x5467ea);if(_0x597124){var _0x829484=[{'type':_0x1694c1(0x1cd),'txt':_0x597124[_0x1694c1(0x312)],'txt_color':this['batSelected']==_0x597124?_0x1694c1(0x404):_0x1694c1(0x2eb),'max_letters':0x270f,'letter_size':0xf,'txt_font':VILLAGE_UI_FONT_BUILDINGNAME},{'type':_0x1694c1(0x2cd),'img':world[_0x1694c1(0x44e)][_0x597124[_0x1694c1(0x3dc)]][_0x1694c1(0x2cd)],'len_x':0x14,'len_y':0x14}];if(_0x238116['phase']==PHASE_PLACEPLAYER)_0x829484['push']({'type':_0x1694c1(0x53f),'mouseLight':'88','callback':world[_0x1694c1(0x1ac)][_0x1694c1(0x3c0)],'callback_data':{'player':_0x5467ea},'txt':'\x20leave\x20','txt_color':'#000000','max_letters':0x270f,'letter_size':0xa,'txt_font':VILLAGE_UI_FONT_PLAYERNAME,'fillColor':_0x1694c1(0x31e)});if(_0x1ccfc3>=this[_0x1694c1(0x23e)][_0x1694c1(0x32d)]&&_0x1ccfc3<this[_0x1694c1(0x23e)]['value']+VILLAGE_UI_MAX_TAB_ELM_DRAW)this[_0x1694c1(0x2fe)][_0x1694c1(0x240)](_0x829484);_0x1ccfc3++;}var _0x34c541=[];if(_0x238116[_0x1694c1(0x250)]==PHASE_PLACEPLAYER&&this[_0x1694c1(0x395)]&&this['tabs'][this[_0x1694c1(0x370)]]==_0x1694c1(0x2a1)&&this[_0x1694c1(0x395)][_0x1694c1(0x397)]&&!this['batSelected']['players_inside'][_0x1694c1(0x1a2)](_0x5ea664=>_0x5ea664==_0x5467ea)&&!_0x597124&&!this[_0x1694c1(0x343)]&&this['batSelected'][_0x1694c1(0x314)][_0x1694c1(0x49c)]<this[_0x1694c1(0x395)][_0x1694c1(0x397)])_0x34c541[_0x1694c1(0x43c)]({'type':_0x1694c1(0x53f),'mouseLight':'88','callback':world[_0x1694c1(0x1ac)][_0x1694c1(0x223)],'callback_data':{'player':_0x5467ea,'bat':this['batSelected']},'txt':_0x1694c1(0x4e1),'txt_color':_0x1694c1(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':VILLAGE_UI_BUTTON_FILLCOLOR});if(_0x34c541['length']){if(_0x1ccfc3>=this[_0x1694c1(0x23e)][_0x1694c1(0x32d)]&&_0x1ccfc3<this[_0x1694c1(0x23e)][_0x1694c1(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this[_0x1694c1(0x2fe)]['addHorizontalElem'](_0x34c541);_0x1ccfc3++;}if(this[_0x1694c1(0x46e)][this[_0x1694c1(0x370)]]==_0x1694c1(0x4ea)){if(this['playerSelected']==_0x5467ea){if(_0x238116[_0x1694c1(0x250)]==PHASE_PLACEPLAYER&&_0x5467ea['weapon']){if(_0x1ccfc3>=this[_0x1694c1(0x23e)]['value']&&_0x1ccfc3<this[_0x1694c1(0x23e)]['value']+VILLAGE_UI_MAX_TAB_ELM_DRAW)this[_0x1694c1(0x2fe)]['addButton'](_0x1694c1(0x1c1),0x14,_0x1694c1(0x2eb),VILLAGE_UI_BUTTON_FILLCOLOR,_0x1694c1(0x2eb),_0x5467ea[_0x1694c1(0x197)],undefined,VILLAGE_UI_FONT_BUTTON_2,undefined,undefined,'88');_0x1ccfc3++;}if(_0x238116[_0x1694c1(0x250)]==PHASE_PLACEPLAYER&&_0x5467ea[_0x1694c1(0x207)]){if(_0x1ccfc3>=this[_0x1694c1(0x23e)][_0x1694c1(0x32d)]&&_0x1ccfc3<this[_0x1694c1(0x23e)]['value']+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UIplayers'][_0x1694c1(0x423)]('unequip\x20armor',0x14,_0x1694c1(0x2eb),VILLAGE_UI_BUTTON_FILLCOLOR,_0x1694c1(0x2eb),_0x5467ea['unequipArmor'],undefined,VILLAGE_UI_FONT_BUTTON_2,undefined,undefined,'88');_0x1ccfc3++;}if(_0x238116[_0x1694c1(0x250)]==PHASE_PLACEPLAYER&&this[_0x1694c1(0x366)]&&this[_0x1694c1(0x366)][_0x1694c1(0x37a)]==_0x1694c1(0x3de)){if(_0x1ccfc3>=this[_0x1694c1(0x23e)]['value']&&_0x1ccfc3<this[_0x1694c1(0x23e)][_0x1694c1(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this[_0x1694c1(0x2fe)]['addButton'](_0x1694c1(0x1d3),0x14,_0x1694c1(0x2eb),VILLAGE_UI_BUTTON_FILLCOLOR,_0x1694c1(0x2eb),_0x5467ea['equipWeapon'],{'weapon':this['itemSelected']},VILLAGE_UI_FONT_BUTTON_2,undefined,undefined,'88');_0x1ccfc3++;}if(_0x238116['phase']==PHASE_PLACEPLAYER&&this[_0x1694c1(0x366)]&&this[_0x1694c1(0x366)][_0x1694c1(0x37a)]==_0x1694c1(0x207)){if(_0x1ccfc3>=this[_0x1694c1(0x23e)]['value']&&_0x1ccfc3<this[_0x1694c1(0x23e)][_0x1694c1(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this[_0x1694c1(0x2fe)][_0x1694c1(0x423)](_0x1694c1(0x1ef),0x14,_0x1694c1(0x2eb),VILLAGE_UI_BUTTON_FILLCOLOR,_0x1694c1(0x2eb),_0x5467ea['equipArmor'],{'armor':this[_0x1694c1(0x366)]},VILLAGE_UI_FONT_BUTTON_2,undefined,undefined,'88');_0x1ccfc3++;}}}}if(this[_0x1694c1(0x3b6)]){if(_0x1ccfc3>=this[_0x1694c1(0x23e)][_0x1694c1(0x32d)]&&_0x1ccfc3<this[_0x1694c1(0x23e)][_0x1694c1(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UIplayers']['addTextZone'](this['playerInfoMenu'][_0x1694c1(0x2ce)](),0x28,0x270f,_0x1694c1(0x2eb),VILLAGE_UI_FONT);_0x1ccfc3++;}}this['UIplayers'][_0x1694c1(0x38f)]();},this[_0x425573(0x446)]=()=>{var _0x4561bb=_0x425573,_0x5412b6=world[_0x4561bb(0x1ac)],_0x1d9016='New\x20Turn\x20!\x20';_0x1d9016+=world['village'][_0x4561bb(0x3ae)]();if(_0x5412b6['foodconsumedLastTurn'])_0x1d9016+=_0x4561bb(0x30e)+_0x5412b6['foodconsumedLastTurn']+_0x4561bb(0x3d7);for(var _0x110a54 in _0x5412b6['players']){var _0x27f90a=_0x5412b6[_0x4561bb(0x457)];if(_0x27f90a['lvlup'])_0x1d9016+='\x0a'+_0x27f90a[_0x4561bb(0x312)]+_0x4561bb(0x4de);}this['UI']['addTextZone'](_0x1d9016,0x1e,0x270f,_0x4561bb(0x2eb),VILLAGE_UI_FONT),this['UI'][_0x4561bb(0x240)]([this[_0x4561bb(0x486)](![],![],'Start\x20Turn')]);},this['draw_battlePhase']=()=>{var _0xf4a0e2=_0x425573,_0x1baba1=world[_0xf4a0e2(0x1ac)];if(_0x1baba1[_0xf4a0e2(0x303)])this['UI'][_0xf4a0e2(0x2dd)]('Your\x20Village\x20is\x20attacked\x20!!',0x28,0x270f,_0xf4a0e2(0x2eb),VILLAGE_UI_FONT);else this['UI']['addTextZone'](_0xf4a0e2(0x3ec),0x28,0x270f,_0xf4a0e2(0x2eb),VILLAGE_UI_FONT);this['UI'][_0xf4a0e2(0x240)]([this[_0xf4a0e2(0x486)](![],![],_0x1baba1['battle']?_0xf4a0e2(0x1dc):_0xf4a0e2(0x535))]);},this['draw_ItemsTab']=()=>{var _0x263951=_0x425573,_0x6081b3=world['village'];this['UI']['addHorizontalElem'](this[_0x263951(0x3e4)]({'selector':this[_0x263951(0x2a9)]}));var _0x6c79c3=0x0;if(_0x6081b3[_0x263951(0x250)]!=PHASE_PLACEPLAYER)this['UI'][_0x263951(0x2dd)]('you\x20can\x20only\x20equip\x20weapon\x20during\x20Phase\x201',0x14,0x270f,'#ff0000',VILLAGE_UI_FONT);if(!_0x6081b3[_0x263951(0x4ea)][_0x263951(0x49c)])this['UI'][_0x263951(0x2dd)]('you\x20don\x27t\x20have\x20any\x20weapon\x20in\x20your\x20village',0x14,0x270f,_0x263951(0x2eb),VILLAGE_UI_FONT);for(var _0x2206aa in _0x6081b3['Items']){var _0x1fff2b=_0x6081b3[_0x263951(0x4ea)][_0x2206aa];if(_0x6c79c3>=this[_0x263951(0x2a9)]['value']&&_0x6c79c3<this['itemsPageOffset'][_0x263951(0x32d)]+VILLAGE_UI_MAX_TAB_ELM_DRAW)this['UI']['addHorizontalElem'](this['getItemIcone'](_0x1fff2b,0x14));_0x6c79c3++;}},this[_0x425573(0x45c)]=()=>{var _0x5390ce=_0x425573,_0x4c60fb=world[_0x5390ce(0x1ac)];switch(_0x4c60fb[_0x5390ce(0x250)]){case PHASE_PLACEPLAYER:this['UI'][_0x5390ce(0x2dd)](world['village'][_0x5390ce(0x3ae)](),0x14,0x270f,_0x5390ce(0x2eb),VILLAGE_UI_FONT);var _0x11e913='\x20\x20During\x20Phase\x201,\x20you\x20can';_0x11e913+=_0x5390ce(0x275),_0x11e913+='\x0a-affect\x20players\x20to\x20a\x20building',_0x11e913+=_0x5390ce(0x52a),_0x11e913+='\x0a\x0abefore\x20start\x20Phase\x202,\x20you\x20must\x20affect\x20at\x20least\x201\x20player\x20to\x20\x27Defend\x20Village\x27',this['UI'][_0x5390ce(0x2dd)](_0x11e913,0x14,0x270f,_0x5390ce(0x2eb),VILLAGE_UI_FONT);var _0x1cf660=[this[_0x5390ce(0x486)](!![],this[_0x5390ce(0x1b2)][_0x5390ce(0x49c)],_0x5390ce(0x4b0))];this['UI'][_0x5390ce(0x240)](_0x1cf660);if(this[_0x5390ce(0x1b2)][_0x5390ce(0x49c)])for(var _0x1c8083 in this[_0x5390ce(0x1b2)]){var _0x12dcf6=[];_0x12dcf6[_0x5390ce(0x43c)]({'type':_0x5390ce(0x1cd),'txt':this[_0x5390ce(0x1b2)][_0x1c8083][_0x5390ce(0x1cd)],'txt_color':_0x5390ce(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT}),(this[_0x5390ce(0x1b2)][_0x1c8083][_0x5390ce(0x40c)]||this[_0x5390ce(0x1b2)][_0x1c8083][_0x5390ce(0x378)]||this['warningEndTurnMessage'][_0x1c8083][_0x5390ce(0x414)])&&_0x12dcf6[_0x5390ce(0x43c)]({'type':_0x5390ce(0x53f),'callback':this[_0x5390ce(0x2c6)],'callback_data':this[_0x5390ce(0x1b2)][_0x1c8083],'txt':_0x5390ce(0x52f),'txt_color':_0x5390ce(0x2eb),'mouseLight':'88','max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':VILLAGE_UI_BUTTON_FILLCOLOR,'strokeColor':_0x5390ce(0x2eb),'windowInfo':[{'callback':()=>{var _0x2275be=_0x5390ce;return _0x2275be(0x49d);}}]}),this['UI']['addHorizontalElem'](_0x12dcf6);}break;case PHASE_ACTIONPLAYER:this['UI'][_0x5390ce(0x2dd)](world[_0x5390ce(0x1ac)]['getDateText'](),0x14,0x270f,'#000000',VILLAGE_UI_FONT);var _0x11e913=_0x5390ce(0x4c0);_0x11e913+=_0x5390ce(0x264),_0x11e913+=_0x5390ce(0x31c),_0x11e913+=_0x5390ce(0x27a),_0x11e913+=_0x5390ce(0x50d),this['UI'][_0x5390ce(0x2dd)](_0x11e913,0x14,0x270f,_0x5390ce(0x2eb),VILLAGE_UI_FONT);var _0x1cf660=[this[_0x5390ce(0x486)](!![],this[_0x5390ce(0x1b2)]['length'],_0x5390ce(0x48f))];if(this[_0x5390ce(0x1b2)][_0x5390ce(0x49c)])_0x1cf660[_0x5390ce(0x43c)](this[_0x5390ce(0x486)](![],this[_0x5390ce(0x1b2)]['length'],_0x5390ce(0x51f)));this['UI']['addHorizontalElem'](_0x1cf660);if(this[_0x5390ce(0x1b2)][_0x5390ce(0x49c)])for(var _0x1c8083 in this[_0x5390ce(0x1b2)]){var _0x12dcf6=[];_0x12dcf6[_0x5390ce(0x43c)]({'type':_0x5390ce(0x1cd),'txt':this[_0x5390ce(0x1b2)][_0x1c8083][_0x5390ce(0x1cd)],'txt_color':_0x5390ce(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT}),(this[_0x5390ce(0x1b2)][_0x1c8083][_0x5390ce(0x40c)]||this[_0x5390ce(0x1b2)][_0x1c8083][_0x5390ce(0x378)]||this[_0x5390ce(0x1b2)][_0x1c8083][_0x5390ce(0x414)])&&_0x12dcf6[_0x5390ce(0x43c)]({'type':_0x5390ce(0x53f),'callback':this[_0x5390ce(0x2c6)],'callback_data':this[_0x5390ce(0x1b2)][_0x1c8083],'txt':_0x5390ce(0x52f),'txt_color':_0x5390ce(0x2eb),'mouseLight':'88','max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':VILLAGE_UI_BUTTON_FILLCOLOR,'strokeColor':_0x5390ce(0x2eb),'windowInfo':[{'callback':()=>{var _0x3ebb70=_0x5390ce;return _0x3ebb70(0x49d);}}]}),this['UI']['addHorizontalElem'](_0x12dcf6);}break;}},this[_0x425573(0x1c5)]=()=>{var _0x3ea1a4=_0x425573,_0x365ba8=world[_0x3ea1a4(0x1ac)];if(!this['playerSelected'])return this['UI'][_0x3ea1a4(0x2dd)](_0x3ea1a4(0x23c),VILLAGE_UI_LETTER_SIZE,0x270f,_0x3ea1a4(0x2eb),VILLAGE_UI_FONT);var _0x2ffe78=this['playerSelected'],_0x4d425a=this['getPlayerIcone'](_0x2ffe78,0x50);this['UI'][_0x3ea1a4(0x240)](_0x4d425a);var _0x268180=world[_0x3ea1a4(0x1ac)][_0x3ea1a4(0x34d)](_0x2ffe78);if(_0x268180){var _0x24dc46=[{'type':_0x3ea1a4(0x1cd),'txt':_0x268180['name'],'txt_color':this[_0x3ea1a4(0x395)]==_0x268180?_0x3ea1a4(0x404):_0x3ea1a4(0x2eb),'max_letters':0x270f,'letter_size':0x19,'txt_font':VILLAGE_UI_FONT_BUILDINGNAME},{'type':_0x3ea1a4(0x2cd),'img':world['Imgs'][_0x268180[_0x3ea1a4(0x3dc)]][_0x3ea1a4(0x2cd)],'len_x':0x19,'len_y':0x19}];if(_0x365ba8[_0x3ea1a4(0x250)]==PHASE_PLACEPLAYER)_0x24dc46[_0x3ea1a4(0x43c)]({'type':'button','mouseLight':'88','callback':world[_0x3ea1a4(0x1ac)][_0x3ea1a4(0x3c0)],'callback_data':{'player':_0x2ffe78},'txt':'\x20leave\x20','txt_color':_0x3ea1a4(0x2eb),'max_letters':0x270f,'letter_size':0xa,'txt_font':VILLAGE_UI_FONT_PLAYERNAME,'fillColor':_0x3ea1a4(0x31e)});this['UI'][_0x3ea1a4(0x240)](_0x24dc46);}if(!_0x2ffe78['weapon'])this['UI'][_0x3ea1a4(0x2dd)](_0x3ea1a4(0x4fd),0x14,0x270e,_0x3ea1a4(0x1b1),VILLAGE_UI_FONT);else{var _0x58f74f=this[_0x3ea1a4(0x322)](_0x2ffe78[_0x3ea1a4(0x3de)],0x1e,!![]);if(_0x365ba8['phase']==PHASE_PLACEPLAYER)_0x58f74f[_0x3ea1a4(0x43c)]({'type':_0x3ea1a4(0x53f),'callback':_0x2ffe78[_0x3ea1a4(0x197)],'callback_data':undefined,'txt':'\x20x\x20','txt_color':_0x3ea1a4(0x2eb),'mouseLight':'88','max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':'#ff0000','strokeColor':_0x3ea1a4(0x2eb),'windowInfo':[{'callback':()=>{var _0x43fc3d=_0x3ea1a4;return _0x43fc3d(0x1c1);}}]});this['UI'][_0x3ea1a4(0x240)](_0x58f74f);}if(!_0x2ffe78['armor'])this['UI']['addTextZone'](_0x3ea1a4(0x36b),0x14,0x270e,_0x3ea1a4(0x1b1),VILLAGE_UI_FONT);else{var _0x58f74f=this[_0x3ea1a4(0x322)](_0x2ffe78['armor'],0x1e,!![]);if(_0x365ba8[_0x3ea1a4(0x250)]==PHASE_PLACEPLAYER)_0x58f74f['push']({'type':_0x3ea1a4(0x53f),'callback':_0x2ffe78['unequipArmor'],'callback_data':undefined,'txt':'\x20x\x20','txt_color':_0x3ea1a4(0x2eb),'mouseLight':'88','max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON_2,'fillColor':_0x3ea1a4(0x31e),'strokeColor':_0x3ea1a4(0x2eb),'windowInfo':[{'callback':()=>{var _0x48ecbc=_0x3ea1a4;return _0x48ecbc(0x290);}}]});this['UI'][_0x3ea1a4(0x240)](_0x58f74f);}if(_0x2ffe78[_0x3ea1a4(0x2da)]&&_0x2ffe78[_0x3ea1a4(0x468)]&&_0x2ffe78[_0x3ea1a4(0x468)][_0x3ea1a4(0x49c)]>0x0)for(var _0x4bda1f in _0x2ffe78[_0x3ea1a4(0x468)]){var _0x4d425a=_0x2ffe78[_0x3ea1a4(0x468)][_0x4bda1f];this['UI'][_0x3ea1a4(0x423)](_0x4d425a[_0x3ea1a4(0x1f5)]+'\x20'+_0x4d425a['value'],0x28,_0x3ea1a4(0x2eb),_0x3ea1a4(0x335),'#000000',_0x2ffe78['ApplyListPerkUp'],_0x4d425a,VILLAGE_UI_FONT_BUTTON,undefined,undefined,'ff');}else _0x2ffe78[_0x3ea1a4(0x2da)]&&this['UI'][_0x3ea1a4(0x423)](_0x3ea1a4(0x2cc),0x3c,_0x3ea1a4(0x2eb),'#ffff00',_0x3ea1a4(0x2eb),_0x2ffe78['getLvlUpPerkList'],undefined,VILLAGE_UI_FONT_BUTTON,undefined,undefined,'ff');_0x4d425a=[];var _0x305681=_0x3ea1a4(0x1b0)+_0x2ffe78[_0x3ea1a4(0x405)];_0x305681+=_0x3ea1a4(0x391)+_0x2ffe78['lifeMax'],_0x305681+=_0x3ea1a4(0x541)+_0x2ffe78[_0x3ea1a4(0x4aa)],_0x305681+='\x0aMove\x20AP\x20cost\x20'+_0x2ffe78[_0x3ea1a4(0x476)];for(var _0x4bda1f in _0x2ffe78[_0x3ea1a4(0x3fe)])_0x305681+='\x0a'+_0x4bda1f+'\x20'+_0x2ffe78[_0x3ea1a4(0x3fe)][_0x4bda1f];_0x4d425a[_0x3ea1a4(0x43c)]({'type':_0x3ea1a4(0x1cd),'txt':_0x305681,'txt_color':'#000000','max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT});var _0x23a451='\x20Action\x20Point\x20(Village)\x20'+_0x2ffe78[_0x3ea1a4(0x43a)]+'/'+_0x2ffe78['villageActionPointMax'];_0x23a451+='\x0aLvl\x20:\x20'+_0x2ffe78['lvl'],_0x23a451+=_0x3ea1a4(0x1b6)+_0x2ffe78[_0x3ea1a4(0x531)]+_0x3ea1a4(0x248),_0x4d425a[_0x3ea1a4(0x43c)]({'type':_0x3ea1a4(0x1cd),'txt':_0x23a451,'txt_color':_0x3ea1a4(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT}),this['UI'][_0x3ea1a4(0x240)](_0x4d425a);},this['draw_resource_tab']=()=>{var _0x2333fd=_0x425573,_0x5bb800=world[_0x2333fd(0x1ac)];for(var _0x242b49 in _0x5bb800['resources']){var _0x2521d7=[],_0xbb10f2=_0x5bb800[_0x2333fd(0x389)][_0x242b49];if(_0xbb10f2==undefined)continue;_0x2521d7['push']({'type':'txt','txt':_0x242b49,'txt_color':_0x2333fd(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT}),_0x2521d7['push']({'type':_0x2333fd(0x2cd),'img':world['Imgs'][_0x242b49+_0x2333fd(0x512)][_0x2333fd(0x2cd)],'len_x':0x14,'len_y':0x14}),_0x2521d7['push']({'type':_0x2333fd(0x1cd),'txt':'\x20'+_0xbb10f2,'txt_color':_0x2333fd(0x2eb),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT}),this['UI']['addHorizontalElem'](_0x2521d7);}},this['draw_tab_selector']=()=>{var _0x4be72a=_0x425573,_0x433da3=[];_0x433da3[_0x4be72a(0x43c)]({'type':_0x4be72a(0x53f),'mouseLight':'88','callback':()=>{var _0x428026=_0x4be72a;this[_0x428026(0x370)]=this[_0x428026(0x370)]-0x1>=0x0?this[_0x428026(0x370)]-0x1:this[_0x428026(0x46e)]['length']-0x1;},'txt':'<','txt_color':VILLAGE_UI_TABS_TXTCOLOR,'max_letters':0x270f,'letter_size':0x28,'txt_font':VILLAGE_UI_TABS_FONT,'fillColor':VILLAGE_UI_TABS_FILLCOLOR}),_0x433da3['push']({'type':'button','mouseLight':'88','callback':()=>{var _0x4b3446=_0x4be72a;this[_0x4b3446(0x370)]=this['activeTabId']+0x1<this[_0x4b3446(0x46e)][_0x4b3446(0x49c)]?this[_0x4b3446(0x370)]+0x1:0x0;},'txt':'>','txt_color':VILLAGE_UI_TABS_TXTCOLOR,'max_letters':0x270f,'letter_size':0x28,'txt_font':VILLAGE_UI_TABS_FONT,'fillColor':VILLAGE_UI_TABS_FILLCOLOR}),_0x433da3[_0x4be72a(0x43c)]({'type':_0x4be72a(0x53f),'mouseLight':'ff','callback':()=>{var _0x3d9732=_0x4be72a;this[_0x3d9732(0x370)]=undefined;},'callback_data':undefined,'txt':this[_0x4be72a(0x46e)][this[_0x4be72a(0x370)]],'txt_color':VILLAGE_UI_TABS_TXTCOLOR,'max_letters':0x270f,'letter_size':0x28,'txt_font':VILLAGE_UI_TABS_FONT,'fillColor':VILLAGE_UI_TABS_FILLCOLOR}),this['UI'][_0x4be72a(0x240)](_0x433da3);},this['draw_UI_EventMessage']=()=>{var _0x4467e2=_0x425573,_0x1f490b=world[_0x4467e2(0x1ac)];this[_0x4467e2(0x282)]=new MyUI(this['canvas'],this[_0x4467e2(0x2fe)][_0x4467e2(0x18a)]+this['UI'][_0x4467e2(0x18a)],0x0,0xa,this[_0x4467e2(0x2d0)],this[_0x4467e2(0x33d)],this[_0x4467e2(0x3a7)],this[_0x4467e2(0x53b)]),this['UIsystem'][_0x4467e2(0x2dd)](_0x4467e2(0x43e),0x28,0x270f,_0x4467e2(0x2eb),VILLAGE_UI_FONT_PHASE),this[_0x4467e2(0x282)][_0x4467e2(0x240)]([{'type':_0x4467e2(0x53f),'mouseLight':'88','callback':()=>{var _0x3e78cf=_0x4467e2;this[_0x3e78cf(0x434)]=this[_0x3e78cf(0x434)]>0x0?this[_0x3e78cf(0x434)]-0x1:this['eventPage'];},'txt':'∧','txt_color':_0x4467e2(0x31e),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON,'fillColor':_0x4467e2(0x384)},{'type':_0x4467e2(0x53f),'mouseLight':'88','callback':()=>{var _0xdf0c8b=_0x4467e2;this[_0xdf0c8b(0x434)]=this[_0xdf0c8b(0x434)]<_0x1f490b[_0xdf0c8b(0x3d9)][_0xdf0c8b(0x508)][_0xdf0c8b(0x49c)]-0x1?this[_0xdf0c8b(0x434)]+0x1:this[_0xdf0c8b(0x434)];},'txt':'∨','txt_color':_0x4467e2(0x31e),'max_letters':0x270f,'letter_size':0x14,'txt_font':VILLAGE_UI_FONT_BUTTON,'fillColor':_0x4467e2(0x384)}]);var _0x2832c8=_0x1f490b[_0x4467e2(0x3d9)][_0x4467e2(0x260)]({'page':this[_0x4467e2(0x434)]});for(var _0x11f224 in _0x2832c8){var _0x4ce482=_0x2832c8[_0x4467e2(0x49c)]-_0x11f224-0x1,_0x2c097f=_0x4467e2(0x2eb);switch(_0x2832c8[_0x4ce482][_0x4467e2(0x24c)]){case _0x4467e2(0x291):_0x2c097f=_0x4467e2(0x1fe);break;case _0x4467e2(0x2a1):_0x2c097f='#a52a2a';break;case _0x4467e2(0x40c):_0x2c097f='#0000ff';break;default:_0x2c097f=_0x4467e2(0x2eb);break;}if(_0x2832c8[_0x4ce482][_0x4467e2(0x24c)]=='resource')this[_0x4467e2(0x282)][_0x4467e2(0x240)](this['getResourcesTextAndImg'](_0x2832c8[_0x4ce482][_0x4467e2(0x1cd)],0x14));else this[_0x4467e2(0x282)][_0x4467e2(0x2dd)](_0x2832c8[_0x4ce482]['txt'],0x14,0x270f,_0x2c097f,VILLAGE_UI_FONT);}this['UIsystem'][_0x4467e2(0x38f)]();},this['drawVillageUI']=()=>{var _0x3c3311=_0x425573;if(!world[_0x3c3311(0x1ac)])return;var _0x1cfc92=world['village'];this[_0x3c3311(0x3ca)]=![],this[_0x3c3311(0x4bf)][_0x3c3311(0x475)](),this[_0x3c3311(0x4bf)]['cleanCanvas'](),this[_0x3c3311(0x4c3)](),this['UI']=new MyUI(this['canvas'],this[_0x3c3311(0x2fe)][_0x3c3311(0x18a)],0x0,0xa,this[_0x3c3311(0x2d0)],this[_0x3c3311(0x33d)],this[_0x3c3311(0x3a7)],this[_0x3c3311(0x53b)]);if(!this[_0x3c3311(0x199)])this['UI'][_0x3c3311(0x423)](_0x3c3311(0x3a5),0x28,_0x3c3311(0x2eb),'#00000000',_0x3c3311(0x4cd),()=>{var _0x1231cb=_0x3c3311;this['showUI']=!this[_0x1231cb(0x199)];},undefined,VILLAGE_UI_FONT_PHASE);else{if(this[_0x3c3311(0x199)]){switch(_0x1cfc92[_0x3c3311(0x250)]){case PHASE_PLACEPLAYER:this['UI'][_0x3c3311(0x423)](_0x3c3311(0x4d3),0x28,_0x3c3311(0x2eb),_0x3c3311(0x4cd),_0x3c3311(0x4cd),()=>{this['showUI']=!this['showUI'];},undefined,VILLAGE_UI_FONT_PHASE);break;case PHASE_ACTIONPLAYER:this['UI'][_0x3c3311(0x423)]('Phase\x202\x20:\x20Action\x20Players',0x28,'#000000',_0x3c3311(0x4cd),_0x3c3311(0x4cd),()=>{this['showUI']=!this['showUI'];},undefined,VILLAGE_UI_FONT_PHASE);break;}if(this[_0x3c3311(0x370)]===undefined)for(var _0x29665b in this[_0x3c3311(0x46e)]){var _0xceb9fc=[];_0xceb9fc[_0x3c3311(0x43c)]({'type':'button','mouseLight':'ff','callback':_0xbdb4cb=>{var _0x50057c=_0x3c3311;this[_0x50057c(0x370)]=parseInt(_0xbdb4cb);},'callback_data':_0x29665b,'txt':this[_0x3c3311(0x46e)][_0x29665b],'txt_color':VILLAGE_UI_TABS_TXTCOLOR,'max_letters':0x270f,'letter_size':0x28,'txt_font':VILLAGE_UI_TABS_FONT,'fillColor':VILLAGE_UI_TABS_FILLCOLOR}),this['UI'][_0x3c3311(0x240)](_0xceb9fc);}else{if(_0x1cfc92[_0x3c3311(0x250)]==PHASE_NEWTURN)this[_0x3c3311(0x446)]();else{if(_0x1cfc92[_0x3c3311(0x250)]==PHASE_COMBAT)this[_0x3c3311(0x24b)]();else{this['draw_tab_selector']();switch(this['tabs'][this[_0x3c3311(0x370)]]){case'Next\x20Turn':this[_0x3c3311(0x45c)]();break;case _0x3c3311(0x2a1):this[_0x3c3311(0x356)]();break;case _0x3c3311(0x22e):this[_0x3c3311(0x257)]();break;case _0x3c3311(0x2db):this['draw_resource_tab']();break;case'Items':this[_0x3c3311(0x2c4)]();break;case _0x3c3311(0x461):this['draw_playerTab']();break;}}}}}}this['UI'][_0x3c3311(0x38f)](),this[_0x3c3311(0x3c4)](),this['CheckInfoWindow'](![]);};};var IMG_TO_LOAD=[['player_test3/village/resource',_0xa7c9c4(0x44b)],[_0xa7c9c4(0x3cf),_0xa7c9c4(0x346)],['player_test3/village/resource','stone_icon'],[_0xa7c9c4(0x3cf),_0xa7c9c4(0x43f)],[_0xa7c9c4(0x3cf),_0xa7c9c4(0x3af)],['player_test3/village/building','forest_icon'],[_0xa7c9c4(0x371),'defend_village_icon'],[_0xa7c9c4(0x371),_0xa7c9c4(0x48e)],[_0xa7c9c4(0x371),_0xa7c9c4(0x26f)],[_0xa7c9c4(0x371),_0xa7c9c4(0x437)],['player_test3/village/building',_0xa7c9c4(0x283)],[_0xa7c9c4(0x371),'sawmill'],['player_test3/village/resource',_0xa7c9c4(0x2a8)],[_0xa7c9c4(0x3cf),_0xa7c9c4(0x2df)]],id=0x0;World=function(_0xc3d2da){var _0x5b3eb8=_0xa7c9c4;this[_0x5b3eb8(0x2de)]=_0xc3d2da,this[_0x5b3eb8(0x38d)]=new SoundManager(),this[_0x5b3eb8(0x44e)]=[],this['initVillage']=()=>{var _0x9e7ac9=_0x5b3eb8;this[_0x9e7ac9(0x1ac)]=new Village({}),this[_0x9e7ac9(0x1ac)][_0x9e7ac9(0x393)](),this['villageUI']=new VillageUI(this[_0x9e7ac9(0x2de)]['canList'][_0x9e7ac9(0x542)]);},this[_0x5b3eb8(0x2dc)]=()=>{var _0x4fba85=_0x5b3eb8;for(var _0x68a025 in IMG_TO_LOAD){var _0x540382=IMG_TO_LOAD[_0x68a025][0x1],_0x428ca9=IMG_TO_LOAD[_0x68a025][0x0];this['Imgs'][_0x540382]=new myImage(_0x540382,'./img/'+_0x428ca9+'/'+_0x540382+_0x4fba85(0x3bc));}},this[_0x5b3eb8(0x492)]=()=>{var _0x4dbef9=_0x5b3eb8;this['Controler']=new ControlManager(),new PlayersManager()[_0x4dbef9(0x2e9)](),this[_0x4dbef9(0x44e)]={...world[_0x4dbef9(0x4fe)]},this['loadImg'](),this['initVillage']();},this[_0x5b3eb8(0x1ee)]=_0x53ed8c=>{var _0x42513e=_0x5b3eb8;if(!this[_0x42513e(0x4c1)])return undefined;var _0x133e91=0x64;while(_0x133e91-->0x1){var _0xea0611=0x1+Math['floor'](this['map'][_0x42513e(0x1fb)]*(0.5+0.5*Math[_0x42513e(0x213)]())),_0x3a4b91=0x1+Math['floor'](this[_0x42513e(0x4c1)][_0x42513e(0x458)]*Math[_0x42513e(0x213)]()),_0x52e54b=this[_0x42513e(0x457)][_0x42513e(0x42a)]({'x':_0xea0611,'y':_0x3a4b91,'size':0x1,'team':TEAM_AI,'color':TEAM_AI_COLOR});_0x52e54b&&(console[_0x42513e(0x277)]('creating\x20an\x20enemy\x20in\x20'+[_0xea0611,_0x3a4b91]),_0x133e91=0x0);}if(!_0x52e54b)return undefined;_0x52e54b[_0x42513e(0x17f)]=0x14+_0x53ed8c*0x4,_0x52e54b[_0x42513e(0x3f8)]=_0x52e54b[_0x42513e(0x17f)],_0x52e54b['stats'][_0x42513e(0x19f)]=0x5+_0x53ed8c,_0x52e54b[_0x42513e(0x3fe)]['Dexterity']=0x5+_0x53ed8c,_0x52e54b[_0x42513e(0x4aa)]=0x50+_0x53ed8c*0x1+Math[_0x42513e(0x285)](Math[_0x42513e(0x213)]()*0x50),_0x52e54b['ActionPointMax']=0x32+Math[_0x42513e(0x285)](Math[_0x42513e(0x213)]()*0x64)+_0x53ed8c,_0x52e54b[_0x42513e(0x41d)]=_0x52e54b[_0x42513e(0x405)],_0x52e54b[_0x42513e(0x476)]=0x14-0xf+Math['floor'](Math[_0x42513e(0x213)]()*0x1f)-_0x53ed8c;if(_0x52e54b[_0x42513e(0x476)]<0x5)_0x52e54b[_0x42513e(0x476)]=0x5;var _0x32b766=undefined,_0x5ec563=Math[_0x42513e(0x285)](Math['random']()*0x64);if(_0x53ed8c<0x5)_0x32b766=undefined;else{if(_0x5ec563+_0x53ed8c*0x2>0x50)_0x32b766=new Weapon()[_0x42513e(0x4db)]();}_0x52e54b[_0x42513e(0x3de)]=_0x32b766;var _0x4f001d=undefined,_0x5ec563=Math[_0x42513e(0x285)](Math['random']()*0x64);if(_0x53ed8c<0x5)_0x4f001d=undefined;else{if(_0x5ec563+_0x53ed8c*0x2>0x50)_0x4f001d=new Armor()[_0x42513e(0x509)]();}return _0x52e54b[_0x42513e(0x207)]=_0x4f001d,_0x52e54b['generateCapacity'](),console[_0x42513e(0x277)](_0x42513e(0x396)),_0x52e54b;},this[_0x5b3eb8(0x48b)]=(_0x46907f,_0x185fb5,_0x3b3160)=>{var _0xf954d=_0x5b3eb8;this['map']=new BattleMap(0x19,0x6+0x2*_0x46907f[_0xf954d(0x49c)]),this[_0xf954d(0x4c1)][_0xf954d(0x317)](),this[_0xf954d(0x4c1)][_0xf954d(0x28e)](),this[_0xf954d(0x457)]=new PlayersManager(),this[_0xf954d(0x457)][_0xf954d(0x2e9)](),this[_0xf954d(0x457)]=this[_0xf954d(0x457)],this[_0xf954d(0x457)][_0xf954d(0x269)]=this[_0xf954d(0x2de)][_0xf954d(0x534)][_0xf954d(0x380)],this[_0xf954d(0x457)][_0xf954d(0x265)]=this['Screen'][_0xf954d(0x534)][_0xf954d(0x457)],TEAM_AI_COLOR={'r':0x78,'g':0x78,'b':0x78};var _0x2879d1=0x3;for(var _0x35a0b3 in _0x46907f){var _0x4448b6=_0x46907f[_0x35a0b3];this['players'][_0xf954d(0x51d)]({'x':0x3,'y':_0x2879d1,'player':_0x4448b6}),_0x2879d1+=0x2;}for(var _0x50eb7c=0x0;_0x50eb7c<0x64;_0x50eb7c++){if(_0x3b3160){this['create_random_enemy_on_map'](_0x185fb5*0x3);break;}if(_0x50eb7c==0x0||_0x50eb7c==0x1){this[_0xf954d(0x1ee)](_0x185fb5);continue;}else{if(_0x185fb5>0x5&&_0x50eb7c>0x5a&&Math[_0xf954d(0x285)](Math[_0xf954d(0x213)]()*(0x64+_0x185fb5))<_0x185fb5)this[_0xf954d(0x1ee)](_0x185fb5);else{if(_0x185fb5>0x14&&_0x50eb7c>0x50&&Math['floor'](Math[_0xf954d(0x213)]()*(0xc8+_0x185fb5))<_0x185fb5)this[_0xf954d(0x1ee)](_0x185fb5);else{if(_0x185fb5>0x32&&_0x50eb7c>0x46&&Math[_0xf954d(0x285)](Math[_0xf954d(0x213)]()*(0x190+_0x185fb5))<_0x185fb5)this[_0xf954d(0x1ee)](_0x185fb5);else{if(_0x185fb5>0x64&&_0x50eb7c>0x32&&Math[_0xf954d(0x285)](Math[_0xf954d(0x213)]()*(0x320+_0x185fb5))<_0x185fb5)this[_0xf954d(0x1ee)](_0x185fb5);}}}}}this[_0xf954d(0x4c1)][_0xf954d(0x24e)]();},this[_0x5b3eb8(0x3ca)]=()=>{var _0x9518df=_0x5b3eb8;if(this['map'])this['map'][_0x9518df(0x3ca)]=!![];if(this[_0x9518df(0x542)])this[_0x9518df(0x542)]['needRedraw']=!![];if(this[_0x9518df(0x415)])this[_0x9518df(0x415)]['needRedraw']=!![];};},PLAYER_ID=0x3e8,document[_0xa7c9c4(0x357)]=rightClick;function rightClick(_0x36c8aa){_0x36c8aa['preventDefault']();}window[_0xa7c9c4(0x439)]=function(){var _0x1c762a=_0xa7c9c4;const _0x5bfd08=new CanvasManager();_0x5bfd08[_0x1c762a(0x3c3)](_0x1c762a(0x39d),0x0),_0x5bfd08['addCanvas']('players',0x1),_0x5bfd08[_0x1c762a(0x3c3)](_0x1c762a(0x3d0),0x2),_0x5bfd08[_0x1c762a(0x3c3)](_0x1c762a(0x380),0x3),_0x5bfd08['addCanvas'](_0x1c762a(0x542),0x4),world=new World(_0x5bfd08),world['init']();var _0x207892=new Date()[_0x1c762a(0x1be)]();setInterval(()=>{var _0x470a14=_0x1c762a;if(!world||!world[_0x470a14(0x325)])return;var _0x1e6ab7=new Date()[_0x470a14(0x1be)]();if(world[_0x470a14(0x542)])world[_0x470a14(0x542)][_0x470a14(0x339)]=Math[_0x470a14(0x285)](0x3e8/(_0x1e6ab7-_0x207892));_0x207892=_0x1e6ab7;if(world[_0x470a14(0x457)]&&world[_0x470a14(0x457)]['Playerturn']&&world['players'][_0x470a14(0x242)][_0x470a14(0x31f)]==TEAM_AI&&!world[_0x470a14(0x457)]['Playerturn']['AI']['turnFinished']){var _0xb0a32d=world['players'][_0x470a14(0x1ff)]['find'](_0x585b9f=>_0x585b9f[_0x470a14(0x44f)][_0x470a14(0x49c)]>0x0);if(!_0xb0a32d){_0xb0a32d=world[_0x470a14(0x457)][_0x470a14(0x242)][_0x470a14(0x1e9)](),console[_0x470a14(0x277)](_0x470a14(0x3ac)+_0xb0a32d);if(_0xb0a32d)world[_0x470a14(0x457)][_0x470a14(0x242)]['AI']['turnFinished']=!![];}}world[_0x470a14(0x325)][_0x470a14(0x4cf)](),world['map']&&world[_0x470a14(0x4c1)][_0x470a14(0x3ca)]&&(_0x5bfd08[_0x470a14(0x534)]['mapFloor'][_0x470a14(0x475)](),_0x5bfd08[_0x470a14(0x534)]['mapFloor'][_0x470a14(0x1f6)](),_0x5bfd08[_0x470a14(0x534)]['mapTopElem']['GetCanvasPos'](),_0x5bfd08[_0x470a14(0x534)][_0x470a14(0x3d0)]['cleanCanvas'](),world[_0x470a14(0x4c1)][_0x470a14(0x533)](_0x5bfd08[_0x470a14(0x534)][_0x470a14(0x39d)]['canvas']),world['map'][_0x470a14(0x417)](_0x5bfd08['canList'][_0x470a14(0x39d)],_0x5bfd08[_0x470a14(0x534)][_0x470a14(0x3d0)],_0x5bfd08['canList'][_0x470a14(0x380)])),world['players']&&(_0x5bfd08['canList'][_0x470a14(0x457)][_0x470a14(0x475)](),_0x5bfd08[_0x470a14(0x534)][_0x470a14(0x457)][_0x470a14(0x1f6)](),world[_0x470a14(0x457)][_0x470a14(0x36a)](),scale_changed=![]),world[_0x470a14(0x542)]&&(world[_0x470a14(0x542)][_0x470a14(0x430)](![]),world[_0x470a14(0x542)]['needRedraw']&&world[_0x470a14(0x542)][_0x470a14(0x471)]()),world[_0x470a14(0x415)]&&(world[_0x470a14(0x415)][_0x470a14(0x430)](![]),world[_0x470a14(0x415)][_0x470a14(0x3ca)]&&(world['villageUI'][_0x470a14(0x422)](),console[_0x470a14(0x277)](_0x470a14(0x4e2))));},0x14);};
+
+SoundManager = function () {
+
+    this.sounds = []
+    this.src = "./music/"
+
+    this.LoadSound = (name) => {
+        if (this.sounds[name] && this.sounds[name].readyState)
+            return
+        var sound = new Audio(this.src + name + ".mp3")
+        this.sounds[name] = sound
+    }
+
+    this.playSound = (name, loop, Norestart) => {
+        if (!this.sounds[name])
+            this.LoadSound(name)
+        if (!Norestart && !this.sounds[name].paused)
+            this.sounds[name].currentTime = 0;
+        if (loop)
+            this.sounds[name].loop = true
+        this.sounds[name].play()
+    }
+
+    this.stopSound = (name) => {
+        if (this.sounds[name]) {
+            this.sounds[name].pause()
+            this.sounds[name].currentTime = 0;
+        }
+    }
+}
+function isInRect (x, y, rect) {
+    if (x === undefined || y === undefined
+            || rect.ax === undefined || rect.ay === undefined
+            || rect.bx === undefined || rect.by === undefined)
+        return (false)
+    if (rect.ax > rect.bx) {
+        var tmp = rect.ax
+        rect.ax = rect.bx
+        rect.bx = tmp
+    }
+    if (rect.ay > rect.by) {
+        var tmp = rect.ay
+        rect.ay = rect.by
+        rect.by = tmp
+    }
+    if (x > rect.ax && x < rect.bx 
+            && y > rect.ay && y < rect.by)
+        return (true)
+    return (false)
+}
+
+function testCB (block) {
+    if (!block)
+        console.log("error, no block")
+    console.log("change block " + block.x + " " + block.y)
+    map_test.mapBlock[block.x][block.y] = (map_test.mapBlock[block.x][block.y] + 1) % 4
+    scale_changed = true
+}
+
+function getAngleFromTime (angleMin, angleMax, t) {
+    var angleArc = angleMax - angleMin
+    return (angleMin + angleArc / 2 + t * angleArc / 2)
+}
+
+function distBlock (ax, ay, bx, by) {
+    var dist = Math.abs(ax - bx)
+    var dist2 = Math.abs(ay - by)
+    if (dist > dist2)
+        return dist
+    return dist2
+}
+
+function dist (ax, ay, bx, by) {
+    var dist = Math.sqrt((ax - bx) * (ax - bx) + (ay - by) * (ay - by))
+    return dist
+
+}
+
+
+
+
+/*
+
+        var zone = []
+        var p = world.players.Playerturn
+        var px = p.x + p.size / 2
+        var py = p.y + p.size / 2
+        var rmin = 2 + p.size / 2
+        var rmax = 5 + p.size / 2
+        
+        for (var i = p.x - Math.round(rmax); i < p.x + p.size + Math.round(rmax); i++)
+            for (var j = p.y - Math.round(rmax); j < p.y + p.size + Math.round(rmax); j++)
+                if (world.map.mapBlock[i] && world.map.mapBlock[i][j] && p.getDistToABlock({block : world.map.mapBlock[i][j]}) <= Math.round(rmax) && p.getDistToABlock({block : world.map.mapBlock[i][j]}) >= rmin)
+                    console.log([i, j, p.getDistToABlock({block : world.map.mapBlock[i][j]})])
+
+*/
+
+
+
+var obj = {
+    callback : "test"
+}
+    
+World = function() {
+    this.txt = "hello world"
+    this.test = () => {
+        console.log(this.txt)
+    }
+}
+    var world = new World()
+    world[obj.callback]()
+    
+myImage = function (name, src) {
+    console.log("creating an image : " + src)
+    this.img = new Image(); // Image constructor
+    this.ready = false
+    this.name = name
+    this.img.crossOrigin = 'anonymous'
+    this.img.src = src;
+    this.img.alt = 'cant load image "' + src + '"';
+    this.imgColored = undefined
+    this.colorColored = undefined
+    //this.img.crossOrigin = 'anonymous';
+    this.img.decode()
+    .then(() => {
+        console.log("img " + name + " is loaded")
+        this.ready = true
+        this.AlphaTransparencyByPixel(255, 255, 255)
+
+
+        if (world.villageUI)
+            world.villageUI.needRedraw = true
+        if (world.GameUI)
+            world.GameUI.needRedraw = true
+
+    })
+    .catch((encodingError) => {
+        console.log("can't load " + this.name)
+        console.log(encodingError)
+    })
+
+    this.createDatafromImage = () => {
+        if (!this.ready)
+            return undefined
+        const canvas = document.createElement("canvas")// new OffscreenCanvas(this.img.width, this.img.height)
+        canvas.width = this.img.width
+        canvas.height = this.img.height
+        const ctx = canvas.getContext("2d")
+        ctx.drawImage(this.img, 0, 0)
+        return ctx.getImageData(0, 0, this.img.width, this.img.height)
+    }
+
+    this.createImgFromData = (data) => {
+        const canvas = document.createElement("canvas")// new OffscreenCanvas(this.img.width, this.img.height)
+        canvas.width = data.width
+        canvas.height = data.height
+        //const canvas = new OffscreenCanvas(data.width, data.height)
+        const ctx = canvas.getContext("2d")
+        ctx.putImageData(data, 0, 0)
+        this.img = new Image()
+        this.img.src = canvas.toDataURL()
+        this.img.alt = 'failed createImgData image';
+        this.img.decode().then(() => {
+            if (world.villageUI)
+                world.villageUI.needRedraw = true
+            if (world.GameUI)
+                world.GameUI.needRedraw = true
+        })
+    }
+
+    this.GetColorImage = (src_r, src_g, src_b, dst_r, dst_g, dst_b) => {
+        var imageData = this.createDatafromImage()
+        if (!imageData)
+            return console.log("can't create getColorImage")
+        for(var x = 0; x < imageData.height; x++) {
+            for(var y = 0; y < imageData.width; y++) {
+                var r = imageData.data[((x*(imageData.width*4)) + (y*4))];
+                var g = imageData.data[((x*(imageData.width*4)) + (y*4)) + 1];
+                var b = imageData.data[((x*(imageData.width*4)) + (y*4)) + 2];
+                var a = imageData.data[((x*(imageData.width*4)) + (y*4)) + 3];
+                if (r == src_r && g == src_g && b == src_b) {
+                    imageData.data[((x*(imageData.width*4)) + (y*4))] = dst_r
+                    imageData.data[((x*(imageData.width*4)) + (y*4)) + 1] = dst_g;
+                    imageData.data[((x*(imageData.width*4)) + (y*4)) + 2] = dst_b;
+                }
+            }
+        }
+        const canvas = document.createElement("canvas")// new OffscreenCanvas(this.img.width, this.img.height)
+        canvas.width = imageData.width
+        canvas.height = imageData.height
+        //const canvas = new OffscreenCanvas(data.width, data.height)
+        const ctx = canvas.getContext("2d")
+        ctx.putImageData(imageData, 0, 0)
+        var imgColored = new Image()
+        imgColored.src = canvas.toDataURL()
+        imgColored.alt = 'failed createImgData image Colored';
+        
+        return imgColored
+    }
+
+    this.AlphaTransparencyByPixel = (ra, ga, ba) => {
+        var imageData = this.createDatafromImage()
+        if (!imageData)
+            return undefined
+        for(var x = 0; x < imageData.height; x++) {
+            for(var y = 0; y < imageData.width; y++) {
+                var r = imageData.data[((x*(imageData.width*4)) + (y*4))];
+                var g = imageData.data[((x*(imageData.width*4)) + (y*4)) + 1];
+                var b = imageData.data[((x*(imageData.width*4)) + (y*4)) + 2];
+                var a = imageData.data[((x*(imageData.width*4)) + (y*4)) + 3];
+                if (r == ra && g == ga && b == ba) {
+                    imageData.data[((x*(imageData.width*4)) + (y*4)) + 3] = 0
+                }
+            }
+        }
+        this.createImgFromData(imageData);
+    }    
+}
+
+
+
+createImgFromData = (data) => {
+    const canvas = document.createElement("canvas")// new OffscreenCanvas(this.img.width, this.img.height)
+    canvas.width = data.width
+    canvas.height = data.height
+    //const canvas = new OffscreenCanvas(data.width, data.height)
+    const ctx = canvas.getContext("2d")
+    ctx.putImageData(data, 0, 0)
+    var img = new Image()
+    img.src = canvas.toDataURL()
+    img.alt = 'failed createImgData image'
+    return img
+}
+
+
+MyUI = function (canvas, x, y, lenx, scale, background, stroke, marge) {
+
+    MYUI_WINDOWINFO_MOUSETIME = 400
+    MYUI_LETTER_SIZE = 20
+    MYUI_FONT = "'Footlight MT Light'"
+
+    this.x = x
+    this.y = y
+    this.canvas = canvas
+    this.marge = marge ? marge : 5
+    this.lenx = lenx + 2 * this.marge
+    this.leny = this.marge
+    this.elmList = []
+    this.scale = scale
+    this.background = background ? background : undefined
+    this.stroke = stroke ? stroke : undefined
+    this.buttonList = []
+
+    this.InfoWindowPos = false
+
+
+    this.addTextZone = (txt, letter_size, letter_per_line, text_color, text_font) => {
+        this.canvas.ctx.font = "" + letter_size + "px" + text_font
+        var txts = []
+        while (txt.length > 0) {
+            var cutlen = 0
+            while (txt[cutlen] == '\n')
+                cutlen++
+            while (txt[cutlen] != '\n' && cutlen < txt.length && cutlen < letter_per_line)
+                cutlen++;
+            if (cutlen == letter_per_line)
+                while (txt[cutlen] != ' ' && cutlen > 0)
+                    cutlen--
+            cutlen = cutlen > 0 ? cutlen : letter_per_line
+            var line = "" + txt.substring(0, cutlen)
+            while (txt[cutlen + 1] == '\n')
+                cutlen++
+            txt = txt.substring(cutlen)
+            txts.push(line)
+            var txt_size = this.canvas.ctx.measureText(line)
+            if (this.lenx < txt_size.width + 2 * this.marge)
+                this.lenx = txt_size.width + 2 * this.marge
+            this.leny += (letter_size + this.marge) 
+        }
+        this.elmList.push({
+            type : "text",
+            txts : txts,
+            letter_size : Math.floor(letter_size),
+            txt_color : text_color,
+            text_font : text_font
+        })
+    }
+
+    this.addGauge = (txt, fullness, lenx, leny, letter_size, colorFill, colorStroke, colorText, text_font) => {
+        text_font = text_font ? text_font : "Arial"
+        this.canvas.ctx.font = "" + letter_size + "px " + text_font
+        var txt_size = this.canvas.ctx.measureText(txt)
+        if (txt_size > lenx + 2 * this.marge)
+            lenx = txt_size + 2 * this.marge
+        if (this.lenx < lenx + 2 * this.marge)
+            this.lenx = lenx + 2 * this.marge
+        if (leny < letter_size + 2 * this.marge)
+            leny = letter_size + 2 * this.marge
+        this.elmList.push({
+            type : "gauge",
+            txt : txt,
+            fullness : fullness,
+            lenx : lenx,
+            leny : leny,
+            letter_size : letter_size,
+            colorFill : colorFill,
+            colorStroke : colorStroke,
+            colorText : colorText,
+            text_font : text_font,
+        })
+        this.leny += leny + this.marge
+    }
+
+    this.addButton = (txt, letter_size, text_color, fillColor, strokeColor, callback, callback_data, text_font, key_event, windowInfo, mouseLight) => {
+        this.canvas.ctx.font = "" + letter_size + "px" + text_font
+        txt = key_event ? key_event + " - " + txt : txt
+        var txt_size = this.canvas.ctx.measureText(txt)
+        if (txt_size.width + 4 * this.marge > this.lenx)
+            this.lenx = txt_size.width + 4 * this.marge
+        this.elmList.push({
+            type : "button",
+            txt_size : txt_size,
+            letter_size : letter_size,
+            text_color : text_color,
+            fillColor : fillColor,
+            strokeColor : strokeColor,
+            callback : callback,
+            callback_data : callback_data,
+            text_font : text_font,
+            key_event : key_event,
+            txt : txt,
+            windowInfo : windowInfo,
+            mouseLight : mouseLight
+        })
+        this.leny += Math.floor(3 * this.marge + letter_size)
+    }
+
+    this.addHorizontalElem = (list) => {
+        // list  all the elemnt on the verctial
+        var elmUI = {
+            type : "horizontal",
+            list : []
+        }
+        var max_len_y = 0;
+        var len_x = this.marge
+        for (var z in list) {
+            var e = list[z]
+            var elmHoriz = undefined
+            switch (e.type) {
+                case undefined :
+                    continue
+                case "txt" :
+                    if (!e.txt)
+                        continue
+                    var txt = e.txt
+                    var txts = []
+                    var txt_leny = 0
+                    var txt_lenx = 0
+                    var letter_per_line = e.letter_per_line ? e.letter_per_line : 9999
+                    this.canvas.ctx.font = "" + e.letter_size + "px" + e.txt_font
+                    while (txt.length > 0) {
+                        var cutlen = 0
+                        while (txt[cutlen] == '\n')
+                            cutlen++
+                        while (txt[cutlen] != '\n' && cutlen < txt.length && cutlen < letter_per_line)
+                            cutlen++;
+                        if (cutlen == letter_per_line)
+                            while (txt[cutlen] != ' ' && cutlen > 0)
+                                cutlen--
+                        cutlen = cutlen > 0 ? cutlen : letter_per_line
+                        var line = "" + txt.substring(0, cutlen)
+                        while (txt[cutlen + 1] == '\n')
+                            cutlen++
+                        txt = txt.substring(cutlen)
+                        txts.push(line)
+                        var txt_size = this.canvas.ctx.measureText(line)
+                        if (txt_lenx < txt_size.width + 2 * this.marge)
+                            txt_lenx = txt_size.width + 2 * this.marge
+                        txt_leny += (e.letter_size + this.marge) 
+                    }
+                    max_len_y = txt_leny > max_len_y ? txt_leny : max_len_y  
+                    elmHoriz = {
+                        type : "txt",
+                        txts : txts,
+                        txt_color : e.txt_color ? e.txt_color : "#000000",
+                        max_letters : e.max_letter ? e.max_letter : 9999,
+                        letter_size : e.letter_size ? e.letter_size : 20,
+                        txt_font : e.txt_font ? e.txt_font : "Arial",
+                        txt_size : txt_lenx,
+                    }
+                    
+                    len_x += txt_lenx
+                    //
+                    //var txt_size = this.canvas.ctx.measureText(elmHoriz.txt).width
+                    //elmHoriz.txt_size = txt_size
+                    //max_len_y = elmHoriz.letter_size > max_len_y ? elmHoriz.letter_size : max_len_y
+                    //len_x += elmHoriz.txt_size + this.marge
+                    break
+            
+                case "img" :
+                    if (!e.img)
+                        continue
+                    elmHoriz = {
+                        type : "img",
+                        img : e.img,
+                        len_x : e.len_x ? e.len_x : 50,
+                        len_y : e.len_y ? e.len_y : 50
+                    }
+                    max_len_y = elmHoriz.len_y > max_len_y ? elmHoriz.len_y : max_len_y
+                    len_x += elmHoriz.len_x + this.marge
+                    break
+                case "button" :
+                    if (!e.callback || !e.txt)
+                        continue
+                    var letter_size = e.letter_size ? e.letter_size : 20
+                    var txt_font = e.txt_font? e.txt_font : "Arial"
+                    this.canvas.ctx.font = "" + letter_size + "px" + txt_font
+                    var txt = e.key_event ? e.key_event + " - " + e.txt : e.txt
+                    var txt_size = this.canvas.ctx.measureText(txt)
+                    elmHoriz = {
+                        type : "button",
+                        txt_size : txt_size.width,
+                        letter_size : letter_size,
+                        txt_color : e.txt_color ? e.txt_color : '#000000',
+                        fillColor : e.fillColor ? e.fillColor : "#ffffff",
+                        strokeColor : e.strokeColor ? e.strokeColor : '#000000',
+                        callback : e.callback,
+                        callback_data : e.callback_data,
+                        txt_font : txt_font,
+                        key_event : e.key_event,
+                        txt : txt,
+                        windowInfo: e.windowInfo,
+                        mouseLight : e.mouseLight
+                    }
+                    max_len_y = elmHoriz.letter_size + 2 * this.marge > max_len_y ? elmHoriz.letter_size + 2 * this.marge : max_len_y
+                    len_x += txt_size.width + this.marge * 3
+                    break
+            }
+            elmUI.list.push(elmHoriz)
+        }
+        if (this.lenx < len_x)
+            this.lenx = len_x
+        elmUI.len_y = max_len_y
+        this.elmList.push(elmUI)
+        this.leny += Math.floor(this.marge + max_len_y)
+    }
+
+    this.addImage = (img, lenx, leny) => {
+        this.elmList.push({
+            type : "img",
+            img : img,
+            lenx : lenx,
+            leny : leny
+        })
+        if (this.lenx < lenx + 2 * this.marge)
+            this.lenx = lenx + 2 * this.marge
+        this.leny += Math.floor(this.marge + lenx)
+    }
+
+    this.drawUI = () => {
+        if (this.background) {
+            this.canvas.ctx.fillStyle = this.background
+            this.canvas.drawFillRect(this.x, this.y, this.x + this.lenx, this.y + this.leny)
+        }
+        if (this.stroke) {
+            this.canvas.ctx.strokeStyle = this.stroke
+            this.canvas.drawRect(this.x, this.y, this.x + this.lenx, this.y + this.leny)
+        }
+        var py = this.y + this.marge
+        for (var z in this.elmList) {
+            var zone = this.elmList[z]
+            switch (zone.type) {
+                case "text": 
+                    for (var i in zone.txts) {
+                        this.canvas.drawTextTopLeft(zone.txts[i], this.x + this.marge, py, this.lenx, zone.letter_size, zone.txt_color, zone.text_font)
+                        py += zone.letter_size + this.marge
+                    }
+                    break
+                case "button":
+                    this.canvas.ctx.font = "" + zone.letter_size + "px" + zone.text_font
+                    var center_x = Math.floor(this.x + zone.txt_size.width / 2 + 2 * this.marge)
+                    var center_y = Math.floor(py + zone.letter_size / 2 + 1 * this.marge)
+                    var bRect = {
+                        ax : Math.floor(center_x - zone.txt_size.width / 2 - this.marge),
+                        ay : Math.floor(center_y - zone.letter_size / 2 - this.marge),
+                        bx : Math.floor(center_x + zone.txt_size.width / 2 + this.marge),
+                        by : Math.floor(center_y + zone.letter_size / 2 + this.marge),
+                    }
+                    this.canvas.ctx.fillStyle = zone.fillColor
+                    if (zone.mouseLight && isInRect(world.Controler.mousePos.x, world.Controler.mousePos.y, bRect))
+                        this.canvas.ctx.fillStyle = zone.fillColor.substring(0, 7) + zone.mouseLight
+                    this.canvas.drawFillRect(bRect.ax, bRect.ay, bRect.bx, bRect.by)
+                    this.canvas.ctx.strokeStyle = zone.strokeColor
+                    this.canvas.drawRect(bRect.ax, bRect.ay, bRect.bx, bRect.by)
+                    this.canvas.drawTextCenter(zone.txt, center_x, center_y, 9999, zone.letter_size, zone.text_color, zone.text_font)
+                    this.buttonList.push({
+                        rect : bRect,
+                        callback : zone.callback,
+                        callback_data : zone.callback_data,
+                        key_event : zone.key_event,
+                        windowInfo : zone.windowInfo
+                    })
+                    py += zone.letter_size + this.marge * 3
+                    break;
+                case ("img"):
+                    this.canvas.draw_Image(zone.img, this.x + this.marge, py + this.marge, zone.lenx, zone.leny)
+                    py += zone.leny + this.marge
+                    break
+                case ("gauge"):
+                    this.canvas.ctx.fillStyle = zone.colorFill
+                    this.canvas.drawFillRect(this.x + this.marge, py + this.marge, this.x + zone.lenx, py + zone.leny)
+                    this.canvas.ctx.fillStyle = zone.colorStroke
+                    if (zone.fullness > 0)
+                        this.canvas.drawFillRect(this.x + this.marge * 2, py + this.marge * 2, Math.floor(this.x + zone.lenx * zone.fullness - this.marge), py + zone.leny - this.marge)
+                    this.canvas.drawTextCenter(zone.txt, this.x + this.marge + zone.lenx / 2, py + this.marge + zone.leny / 2, zone.lenx, zone.letter_size, zone.colorText, zone.text_font)
+                    py += zone.leny
+                    break
+                case ("horizontal"):
+                    var horizX = this.marge
+                    for (var e in zone.list) {
+                        var elmH = zone.list[e]
+                        switch (elmH.type) {
+                            case "txt": 
+                                var ppy = py
+                                for (var z in elmH.txts) {
+                                    this.canvas.drawTextTopLeft(elmH.txts[z], this.x + horizX, ppy, elmH.txt_size, elmH.letter_size, elmH.txt_color, elmH.txt_font)
+                                    ppy += elmH.letter_size + this.marge
+                                }
+                                horizX += this.marge + elmH.txt_size
+                                break
+                            case "button":
+                                this.canvas.ctx.font = "" + elmH.letter_size + "px" + elmH.txt_font
+                                var center_x = Math.floor(this.x + horizX + elmH.txt_size / 2 + this.marge / 2)
+                                var center_y = Math.floor(py + elmH.letter_size / 2 + this.marge / 2)
+                                var bRect = {
+                                    ax : Math.floor(center_x - elmH.txt_size / 2 - this.marge),
+                                    ay : Math.floor(center_y - elmH.letter_size / 2 - this.marge),
+                                    bx : Math.floor(center_x + elmH.txt_size / 2 + this.marge),
+                                    by : Math.floor(center_y + elmH.letter_size / 2 + this.marge),
+                                }
+                                this.canvas.ctx.fillStyle = elmH.fillColor
+                                if (elmH.mouseLight && isInRect(world.Controler.mousePos.x, world.Controler.mousePos.y, bRect))
+                                    this.canvas.ctx.fillStyle = elmH.fillColor.substring(0, 7) + elmH.mouseLight
+                                this.canvas.drawFillRect(bRect.ax, bRect.ay, bRect.bx, bRect.by)
+                                this.canvas.ctx.strokeStyle = elmH.strokeColor
+                                this.canvas.drawRect(bRect.ax, bRect.ay, bRect.bx, bRect.by)
+                                this.canvas.drawTextCenter(elmH.txt, center_x, center_y, 9999, elmH.letter_size, elmH.txt_color, elmH.txt_font)
+                                this.buttonList.push({
+                                    rect : bRect,
+                                    callback : elmH.callback,
+                                    callback_data : elmH.callback_data,
+                                    key_event : elmH.key_event,
+                                    windowInfo : elmH.windowInfo,
+                                    mouseLight : true
+                                })
+                                horizX += this.marge * 3 + elmH.txt_size
+                                break;
+                            case ("img"):
+                                this.canvas.draw_Image(elmH.img, this.x + horizX, py, elmH.len_x, elmH.len_y)
+                                horizX += elmH.len_y + this.marge
+                                break
+                        } 
+                    }
+                    py += zone.len_y + this.marge
+                    break
+            }
+        }
+        this.CheckInfoWindow()
+    }
+    this.click_buton_check = (x, y) => {
+        for (var z in this.buttonList) {
+            var buto = this.buttonList[z]
+            if (isInRect(x, y, buto.rect)) {
+                buto.callback(buto.callback_data)
+                return (true)
+            }
+        }
+        return (false)
+    }
+
+    this.mouse_move_check = (x, y) => {
+        for (var z in this.buttonList) {
+            var buto = this.buttonList[z]
+            if (buto.mouseLight && isInRect(x, y, buto.rect)) {
+                this.needRedraw = true
+                return (true)
+            }
+        }
+        return (false)
+    }
+
+    this.key_buton_check = (key) => {
+        for (var z in this.buttonList) {
+            var buto = this.buttonList[z]
+            if (buto.key_event && buto.key_event == key) {
+                buto.callback(buto.callback_data)
+                return (true)
+            }
+        }
+        return (false)
+    }
+    this.CheckInfoWindow = (redraw) => {
+        if (!world.Controler)
+            return false
+        var mpos = world.Controler.mousePos
+        if (!mpos)
+            return
+        if (new Date().getTime() - mpos.lastTime < MYUI_WINDOWINFO_MOUSETIME) {
+            if (this.InfoWindowPos) {
+                this.InfoWindowPos = false
+                this.needRedraw = true;
+            }
+            return false
+        }
+        if (!this.InfoWindowPos)
+            this.InfoWindowPos = {
+                x : mpos.x,
+                y : mpos.y
+            }
+        else if (!redraw && mpos.x == this.InfoWindowPos.x && mpos.y == this.InfoWindowPos.y)
+            return false
+
+        for (var z in this.buttonList) {
+            var b = this.buttonList[z]
+            if (b.windowInfo && isInRect(mpos.x, mpos.y, b.rect)) {
+                var wUI = new MyUI(this.canvas, mpos.x, mpos.y, 50, 1, this.background, this.stroke, 1)
+                wUI.addTextZone("  Info  ", MYUI_LETTER_SIZE, 9999, '#000000', MYUI_FONT)
+                for (var i in b.windowInfo) {
+                    var e = b.windowInfo[i]
+                    if (e.callback)
+                        wUI.addTextZone(e.callback(e.input), MYUI_LETTER_SIZE, 9999, '#000000', MYUI_FONT)
+                }
+                wUI.drawUI()
+                return true
+            }
+        }
+        return false
+    }
+
+}
+
+UIManager = function () {
+    this.UI_list = []
+
+    this.createUI = (canvas, x, y, lenx, scale, background, stroke, marge) => {
+        var UI = new MyUI(canvas, x, y, lenx, scale, background, stroke, marge)
+        this.UI_list.push(UI)
+        return UI
+    }
+
+    this.Key_Input = (key) => {
+        for (var z in this.UI_list) {
+            var UI = this.UI_list[z]
+            var check = UI.key_buton_check(key)
+            if (check)
+                return (true)
+        }
+        return (false)
+    }
+
+    this.Mouse_Input = (x, y) => {
+        for (var z in this.UI_list) {
+            var UI = this.UI_list[z]
+            var check = UI.click_buton_check(x, y)
+            if (check)
+                return (true)
+        }
+        return (false)
+    }
+}
+MyCanvas = function(id, layer, info) {
+        /*
+        create a canvas
+        option info : default is screen size, else info.x and info.y
+        */
+       
+        this.width = window.innerWidth
+        this.height = window.innerHeight
+
+
+        if (info) {
+            if (info.x && info.y) {
+                this.width = info.x
+                this.height = info.y
+            }
+        }
+        this.canvas = document.createElement("canvas")
+        this.canvas.width = this.width
+        this.canvas.height = this.height
+        this.id = id
+        this.canvas.id = id
+        this.canvas.style.zIndex = layer
+        this.canvas.style.position = 'absolute';
+        this.canvas.style.top = "0px";
+        this.canvas.style.left = "0px"
+        this.ctx = this.canvas.getContext("2d")
+        this.fullScreen = false;
+        document.body.appendChild(this.canvas)
+        
+        this.GetCanvasPos = () => {     //get the positon of the canvas relative to the screen
+            var pos = this.canvas.getBoundingClientRect()
+            if (pos) {
+                this.screenAx = Math.floor(pos.x)
+                this.screenAy = Math.floor(pos.y)
+                this.screenBx = Math.floor(pos.right - pos.x)
+                this.screenBy = Math.floor(pos.bottom - pos.y)
+            }
+            else
+                console.log("can't get can pos")
+        }
+        this.GetCanvasPos();        //first time you create it, get the pos
+
+
+        this.getPixelPosition = (x, y) => {     //get the pixel position relative to the canvas
+            this.GetCanvasPos()
+            if (x < this.screenAx || y < this.screenAy || x > this.screenBx || y > this.screenBy)
+                return undefined
+            var pos = {
+                x : Math.floor(x - this.screenAx),
+                y : Math.floor(y - this.screenAy)
+            }
+            return pos
+        }
+
+
+        // TOOL BOX FOR DRAW
+
+        this.cleanCanvas = () => {
+            this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height)
+        }
+
+        this.drawFillRect = (startx, starty, endx, endy) => {
+            this.ctx.fillRect(startx, starty, endx - startx, endy - starty)
+        }
+        
+        this.drawRect = (startx, starty, endx, endy) => {
+            this.ctx.strokeRect(startx, starty, endx - startx, endy - starty)
+        }
+        
+        this.drawLine = (startx, starty, endx, endy) => {
+            this.ctx.beginPath();
+            this.ctx.moveTo(startx, starty);
+            this.ctx.lineTo(endx, endy);
+            this.ctx.stroke();
+        }
+        
+        this.draw_Image = (image, x, y, lenx, leny) => {
+            x = Math.round(x)
+            y = Math.round(y)
+            lenx = Math.round(lenx)
+            leny = Math.round(leny)
+            ctx = this.ctx
+            //ctx.setTransform(scale, 0, 0, scale, 0, 0); // sets scale and origin
+            ctx.drawImage(image, x, y, lenx, leny);
+            //ctx.setTransform(1, 0, 0, 1, 0, 0);
+        }
+
+        this.drawImageMirrorRotateCenter = (image, x, y, cx, cy, scale, rotation) => {
+            x = Math.round(x)
+            y = Math.round(y)
+            ctx = this.ctx
+            ctx.setTransform(-scale, 0, 0, scale, x, y); // sets scale and origin
+            ctx.rotate(rotation);
+            ctx.drawImage(image, -cx, -cy);
+            ctx.setTransform(1, 0, 0, 1, 0, 0); // restore default transform
+        }
+
+        this.drawImageRotateCenter = (image, x, y, cx, cy, scale, rotation) => {
+            x = Math.round(x)
+            y = Math.round(y)
+            ctx = this.ctx
+            ctx.setTransform(scale, 0, 0, scale, x, y); // sets scale and origin
+            ctx.rotate(rotation);
+            ctx.drawImage(image, -cx, -cy);
+            ctx.setTransform(1, 0, 0, 1, 0, 0); // restore default transform
+        } 
+
+        this.drawImageRotate = (image, x, y, scale, rotation) => {
+            x = Math.round(x)
+            y = Math.round(y)
+            ctx = this.ctx
+            ctx.setTransform(scale, 0, 0, scale, x, y); // sets scale and origin
+            ctx.rotate(rotation);
+            ctx.drawImage(image, -image.width / 2, -image.height / 2);
+            ctx.setTransform(1, 0, 0, 1, 0, 0); // restore default transform
+        }
+
+        this.drawTextTopLeft = (txt, x, y, lenx, letter_size, txt_color, font) => {
+            this.ctx.textAlign = 'left';
+            this.ctx.textBaseline = "top"
+            this.ctx.fillStyle = txt_color
+            var fonttxt = "" + letter_size + "px"
+            if (!font)
+                font = "serif"
+            fonttxt = fonttxt + " " + font
+            this.ctx.font = fonttxt
+            this.ctx.fillText(txt, x, y, lenx)
+        }
+        this.drawTextCenter = (txt, x, y, lenx, letter_size, txt_color, font) => {
+            this.ctx.textAlign = 'center';
+            this.ctx.textBaseline = "middle"
+            this.ctx.fillStyle = txt_color
+            var fonttxt = "" + letter_size + "px"
+            if (!font)
+                font = "serif"
+            fonttxt = fonttxt + " " + font
+            this.ctx.font = fonttxt
+            this.ctx.fillText(txt, x, y, lenx)
+        }
+}
+
+CanvasManager = function() {
+
+    this.canList = []
+    this.layerLen = 0
+
+    window.addEventListener('resize', () => {
+        for (var z in this.canList) {
+            var can = this.canList[z].canvas
+            can.width = window.innerWidth
+            can.height = window.innerHeight
+        }
+        console.log("resized")
+        world.needRedraw()
+    })
+
+
+    document.addEventListener('fullscreenchange', this.EventcloseFullscreen, false);
+    document.addEventListener('mozfullscreenchange', this.EventcloseFullscreen, false);
+    document.addEventListener('MSFullscreenChange', this.EventcloseFullscreen, false);
+    document.addEventListener('webkitfullscreenchange', this.EventcloseFullscreen, false);
+
+    this.EventcloseFullscreen = () => {
+        this.fullScreen = false
+        this.closeFullscreen()
+    }
+
+    this.addCanvas = (id, layer, info) => {
+        for (var z in this.canList)
+            if (this.canList[z].id == id)
+                return console.log("ERROR : CANVAS WITH THIS NAME ALREADY EXIST")
+        var canvas = new MyCanvas(id, layer, info)
+        this.canList[id] = canvas
+    }
+
+    this.openFullscreen = () => {
+        this.fullScreen = true;
+        document.documentElement.requestFullscreen()
+    }
+    this.closeFullscreen = () => {
+        if (this.fullScreen && document.fullscreenElement) {
+                if (document.exitFullscreen) {
+                  document.exitFullscreen();
+                } else if (document.webkitExitFullscreen) { /* Safari */
+                  document.webkitExitFullscreen();
+                } else if (document.msExitFullscreen) { /* IE11 */
+                  document.msExitFullscreen();
+                }
+        }
+//            document.exitFullscreen()
+        this.fullScreen = false;
+    }
+
+}
+
+
+BLOCK_DEFAULT_FLOOR = 0
+MAP_FLOORS = ["rock","sand","sea","weed"]
+MAP_BOT_ELEMENT = [
+    {
+        name : "bush",
+        moveCost : 1.5
+    },
+    {
+        name : "stones",
+        moveCost : 2
+    },
+    {
+        name : "tree_root",
+        moveCost : 3
+    }
+]
+MAP_TOP_ELEMENT = [
+    {
+        name : "big_tree_0",
+        sizex : 3,
+        sizey : 3,
+        moveCost : false
+    },
+    {
+        name : "big_tree_1",
+        sizex : 3,
+        sizey : 3,
+        moveCost : false
+    },
+    {
+        name : "roof_0",
+        sizex : 1,
+        sizey : 1,
+    },
+    {
+        name : "wall",
+        sizex : 1,
+        sizey : 1,
+        moveCost : false
+    }
+]
+
+Block = function (x, y) {
+    
+    this.x = x
+    this.y = y
+    this.botElem = undefined
+    this.topElem = undefined
+    this.player = undefined
+
+    this.getMoveCost = () => {
+        var cost = 1
+        if (this.botElem) {
+            for (var z in MAP_BOT_ELEMENT)
+            var elm = MAP_BOT_ELEMENT.find(a => a.name == this.botElem.name)
+            if (elm.moveCost == false)
+                return false
+            if (elm.moveCost)
+                cost *= elm.moveCost
+        }
+        if (this.topElem) {
+            var elm = MAP_TOP_ELEMENT.find(a => a.name == this.topElem.name)
+            if (elm.moveCost == false)
+                return false
+            if (elm.moveCost)
+                cost *= elm.moveCost
+        }
+        return cost
+    } 
+}
+
+BattleMap = function (size_x, size_y) {
+    MAP_BLOCK_PIXELSIZE_DEFAULT = 200
+
+    this.width = size_x
+    this.height = size_y
+    this.posBlockx = size_x / 2
+    this.posBlocky = size_y / 2
+    this.scale = 1
+    this.mapImgsFloor = []
+
+    this.mapBlock = []
+    this.mapImgsBot = []
+    this.mapImgsTop = []
+    this.needRedraw = true
+    
+
+    this.centerOnBlock = (block) => {
+        var size = 1
+        if (block.size)
+            size = block.size
+        this.posBlockx = block.x + size / 2
+        this.posBlocky = block.y + size / 2
+        this.needRedraw = true
+    }
+
+    this.getZoneAtAbsRangeToPlayer = (data) => {
+        if (!data || !data.rangeMin || !data.rangeMax || !data.player)
+            return []
+        var zone = []
+        var p = data.player
+        var rmin = data.rangeMin
+        var rmax = data.rangeMax
+        for (var i = p.x - rmax; i < p.x + p.size + rmax; i++)
+            for (var j = p.y - rmax; j < p.y + p.size + rmax; j++)
+                if (i <= p.x - rmin || i >= p.x + p.size + rmin - 1 || j <= p.y - rmin || j >= p.y + p.size + rmin - 1)
+                    if (this.mapBlock[i] && this.mapBlock[i][j])
+                        zone.push(this.mapBlock[i][j])
+        return zone
+    }
+
+    this.getZoneAdjacentToPlayerByDir = (data) => {
+        if (!data || !data.dir || !data.player)
+            return []
+        var zone = []
+        var p = data.player
+        if (data.dir == "left" || (data.dir.x == -1 && data.dir.y == 0)) {
+            var x = p.x - 1
+            for (var y = p.y; y < p.y + p.size; y++)
+                if (this.mapBlock[x] && this.mapBlock[x][y])
+                    zone.push(this.mapBlock[x][y])
+        }
+        else if (data.dir == "top" || (data.dir.y == -1 && data.dir.x == 0)) {
+            var y = p.y - 1
+            for (var x = p.x; x < p.x + p.size; x++)
+                if (this.mapBlock[x] && this.mapBlock[x][y])
+                    zone.push(this.mapBlock[x][y])
+        }
+        else if (data.dir == "right" || (data.dir.x == 1 && data.dir.y == 0)) {
+            var x = p.x + p.size
+            for (var y = p.y; y < p.y + p.size; y++)
+                if (this.mapBlock[x] && this.mapBlock[x][y])
+                    zone.push(this.mapBlock[x][y])
+        }
+        else if (data.dir == "bot" || (data.dir.y == 1 && data.dir.x == 0)) {
+            var y = p.y + p.size
+            for (var x = p.x; x < p.x + p.size; x++)
+                if (this.mapBlock[x] && this.mapBlock[x][y])
+                    zone.push(this.mapBlock[x][y])
+        }
+        return (zone)
+    }
+
+    this.getZoneAdjacentToPlayer = (data) => {
+        if (!data || !data.player)
+            return undefined
+        var zone = []
+        data.dir = "left"
+        zone = zone.concat(this.getZoneAdjacentToPlayerByDir(data))
+        data.dir = "top"
+        zone = zone.concat(this.getZoneAdjacentToPlayerByDir(data))
+        data.dir = "right"
+        zone = zone.concat(this.getZoneAdjacentToPlayerByDir(data))
+        data.dir = "bot"
+        zone = zone.concat(this.getZoneAdjacentToPlayerByDir(data))
+        return (zone)
+    }
+
+    this.CostMovingPlayer = (data) => {
+        if (!data || !data.player || !data.dir)
+            return false
+        var zone = this.getZoneAdjacentToPlayerByDir({dir : data.dir, player : data.player})
+        if (!zone || zone.length == 0)
+            return false
+        var cost = 0;
+        
+        for (var z in zone) {
+            var bc = zone[z].getMoveCost()
+            if (bc === false || bc === 0)   
+                return false
+            cost += bc
+        }
+        return cost / zone.length
+    }
+
+    this.generateMap = () => {
+        this.mapBlock = []
+        for (var x = 0; x < this.width; x++) {
+            this.mapBlock[x] = []
+            for (var y = 0; y < this.height; y++) {
+                var b = new Block(x, y)
+                this.mapBlock[x][y] = b
+
+                //place wall on border
+                if (x == 0 || y == 0 || x == this.width - 1 || y == this.height - 1) {
+                    b.topElem = {
+                        name : "wall",
+                        angle : Math.random() * Math.PI * 2
+                    }
+                    continue
+                }
+                /*
+                var rand = Math.floor(Math.random() * 100)
+                if (rand < 5) {
+                    var randb = Math.floor(Math.random() * MAP_BOT_ELEMENT.length)
+                    b.botElem = {
+                        name : MAP_BOT_ELEMENT[randb].name,
+                        angle : Math.random() * Math.PI * 2
+                    }
+                }
+                var rand = Math.floor(Math.random() * 100)
+                if (rand < 5) {
+                    var randb = Math.floor(Math.random() * MAP_TOP_ELEMENT.length)
+                    b.topElem = {
+                        name : MAP_TOP_ELEMENT[randb].name,
+                        angle : Math.random() * Math.PI * 2
+                    }
+                }
+                */
+            }
+        }
+    }
+
+    this.generateRandomElement = () => {
+        for (var x = 0; x < this.width; x++) {
+            for (var y = 0; y < this.height; y++) {
+                var b = this.mapBlock[x][y]
+                if (b.player)
+                    continue
+                var rand = Math.floor(Math.random() * 100)
+                if (rand < 10) {
+                    var randb = Math.floor(Math.random() * MAP_BOT_ELEMENT.length)
+                    b.botElem = {
+                        name : MAP_BOT_ELEMENT[randb].name,
+                        angle : Math.random() * Math.PI * 2
+                    }
+                }
+                var rand = Math.floor(Math.random() * 100)
+                if (rand < 10) {
+                    var randb = Math.floor(Math.random() * MAP_TOP_ELEMENT.length)
+                    b.topElem = {
+                        name : MAP_TOP_ELEMENT[randb].name,
+                        angle : Math.random() * Math.PI * 2
+                    }
+                }
+            }
+        }
+    }
+
+    this.initMapFloorImage = () => {
+        var src = "./img/mapFloor/"
+        var imgs = MAP_FLOORS
+        for (var z in imgs)
+            this.mapImgsFloor[imgs[z]] = new myImage(imgs[z], src + imgs[z] + ".png")
+    }
+    this.initMapBotElement = () => {
+        var src = "./img/mapBotElement/"
+        var elm = MAP_BOT_ELEMENT
+        for (var z in elm) 
+            this.mapImgsBot[elm[z].name] = new myImage(elm[z].name, src + elm[z].name + ".png")
+    }
+    this.initMapTopElement = () => {
+        var src = "./img/mapTopElement/"
+        var imgs = MAP_TOP_ELEMENT
+        for (var z in imgs) 
+            this.mapImgsTop[imgs[z].name] = new myImage(imgs[z].name, src + imgs[z].name + ".png")
+    }
+    this.initImgs = () => {
+        this.initMapTopElement()
+        this.initMapFloorImage()
+        this.initMapBotElement()
+    }
+
+    this.changeMapView = (dx, dy, scaleFactor) => {
+        this.posBlockx += dx
+        this.posBlocky += dy
+        this.scale *= scaleFactor
+        if (this.scale < 0.1)
+            this.scale = 0.1
+        if (this.scale > 1)
+            this.scale = 1
+        this.needRedraw = true
+    }
+    
+    this.set_drawing_map = (canvas) => {     //top left postion, where the map starts (can be outisde the canvas)
+        this.pixel_width =  Math.floor(MAP_BLOCK_PIXELSIZE_DEFAULT * this.scale * this.width) // the size in pixel of the map
+        this.pixel_height =  Math.floor(MAP_BLOCK_PIXELSIZE_DEFAULT * this.scale * this.height)
+        this.blocksize_x = Math.floor(this.pixel_width / this.width)    //the size of a block of the map
+        this.blocksize_y = Math.floor(this.pixel_height / this.height)
+        this.pos_x = this.posBlockx * this.blocksize_x
+        this.pos_y = this.posBlocky * this.blocksize_y
+        //this.pos_startx = this.pixel_width / this.pos_x - canvas.width / 2 - pos_x   //where the drawing start on the canavs
+        //this.pos_starty = this.pixel_height / this.pos_y - canvas.height / 2 - pos_y
+        this.pos_startx = canvas.width / 2 - this.pos_x
+        this.pos_starty = canvas.height / 2 - this.pos_y
+
+        this.pixel_startx = this.pos_startx < 0 ? 0 : this.pos_startx   //where the drawing start on the canavs
+        this.pixel_starty = this.pos_starty < 0 ? 0 : this.pos_starty
+        this.pixel_endx = this.pos_startx + this.pixel_width >= canvas.width ? canvas.width - 1 : this.pos_startx + this.pixel_width  //where the drawing end in the canvas
+        this.pixel_endy = this.pos_starty + this.pixel_height >= canvas.height ? canvas.height - 1 : this.pos_starty + this.pixel_height
+
+        this.topleft_block = this.get_block_by_pixel({x : this.pixel_startx, y : this.pixel_starty})   //the first block displayed on the map
+        this.botright_block = this.get_block_by_pixel({x : this.pixel_endx, y : this.pixel_endy})      //the last, can be undefined if map outscreen
+        if (this.botright_block) {
+            if (this.botright_block.x >= this.width)
+                this.botright_block.x = this.width - 1
+            if (this.botright_block.y >= this.height)
+                this.botright_block.y = this.height - 1
+        }
+        
+    }
+
+    this.highlightBlock = (canvas, block, posx, posy, type) => {
+        if (type == "move") {
+            var startx = Math.floor(posx + 0.05 * this.blocksize_x)
+            var starty = Math.floor(posy + 0.05 * this.blocksize_y)
+            var endx = Math.floor(posx + 0.95 * this.blocksize_x)
+            var endy = Math.floor(posy + 0.95 * this.blocksize_y)
+            if (block.getMoveCost() > 1)
+                canvas.ctx.fillStyle = '#ff880022'
+            else if (!block.getMoveCost() || block.player)
+                canvas.ctx.fillStyle = '#ff000055'
+            else
+                canvas.ctx.fillStyle = '#00af0022'
+            canvas.drawFillRect(startx, starty, endx, endy)
+            //canvas.ctx.strokeStyle = "#00af00"
+            //canvas.drawRect(startx, starty, endx, endy)
+            var UI = new MyUI(canvas, startx, starty, 100, this.scale, undefined, undefined, 1)
+            UI.addTextZone ("movement factor x" + block.getMoveCost(), 20 * this.scale, 100, "#005500")
+            UI.drawUI();
+        }
+        if (type == "rotate") {
+            var startx = Math.floor(posx + 0.05 * this.blocksize_x)
+            var starty = Math.floor(posy + 0.05 * this.blocksize_y)
+            var endx = Math.floor(posx + 0.95 * this.blocksize_x)
+            var endy = Math.floor(posy + 0.95 * this.blocksize_y)
+            canvas.ctx.fillStyle = '#ef0bc322'
+            canvas.drawFillRect(startx, starty, endx, endy)
+        }
+    }
+
+    this.draw_map = (canvasFloor, canvasTop) => {    //pos_start is the pixel where you start to draw the map (can be outside the screen) 
+        this.needRedraw = false
+        world.players.pUI_need_redraw = true
+        if (this.topleft_block && this.botright_block) {
+            for (var x = this.topleft_block.x; x <= this.botright_block.x; x++) {
+                for (var y = this.topleft_block.y; y <= this.botright_block.y; y++) {
+                    var pos = this.get_pixel_by_block(x, y)
+                    var block = this.mapBlock[x][y]
+                    //floor drawing
+                    var img = undefined
+                    if (!block.floor)
+                        img = this.mapImgsFloor["weed"]
+                    else
+                        img = this.mapImgsFloor[block.floor]
+                    if (img && img.ready && pos) {
+                        canvasFloor.draw_Image(img.img, pos.x, pos.y, this.blocksize_x + 1, this.blocksize_y + 1)
+                    }
+                    else
+                        this.needRedraw = true
+                    //botom element drawing
+                    if (block.botElem) {
+                        img = this.mapImgsBot[block.botElem.name]
+                        var sx = pos.x + this.blocksize_x / 2
+                        var sy = pos.y + this.blocksize_y / 2
+                        if (img)
+                            canvasFloor.drawImageRotate(img.img, sx, sy, this.scale * 2, block.botElem.angle)
+                    }
+                    //top element drawing
+                    if (block.topElem) {
+                        img = this.mapImgsTop[block.topElem.name]
+                        var sx = pos.x + this.blocksize_x / 2
+                        var sy = pos.y + this.blocksize_y / 2
+                        if (img)
+                            canvasTop.drawImageRotate(img.img, sx, sy, this.scale * 2, block.topElem.angle)
+                    }
+                    if (world.GameUI.highlightZone && world.GameUI.highlightZone.zone && world.GameUI.highlightZone.zone.find(b => b == block))
+                        this.highlightBlock(canvasFloor, block, pos.x, pos.y, world.GameUI.highlightZone.type)
+                }
+            }
+        }
+
+    }
+    
+    this.get_block_by_pixel = (clic) => {
+        if (clic.x < this.pixel_startx || clic.y < this.pixel_starty || clic.x > this.pixel_endx || clic.y > this.pixel_endy
+                || this.blocksize_x == 0 || this.blocksize_y == 0)
+            return undefined
+        var block = {
+            x : Math.floor((clic.x - this.pos_startx ) / this.blocksize_x),
+            y : Math.floor((clic.y - this.pos_starty ) / this.blocksize_y)
+        }
+        if (block.x >= this.width && block.x > 0)
+            block.x = this.width - 1
+        if (block.y >= this.height && block.y > 0)
+            block.y = this.height - 1
+        return this.mapBlock[block.x][block.y]
+    }
+
+    this.get_pixel_by_block = (bx, by) => {
+        if (bx < 0 || by < 0 || bx >= this.width || by >= this.height)
+            return undefined
+        return {
+            x : Math.floor(this.pos_startx + this.blocksize_x * bx),
+            y : Math.floor(this.pos_starty + this.blocksize_y * by)
+        }
+    }
+
+    this.get_pixel_by_pos = (x, y) => {
+        return {
+            x : this.pos_startx + this.blocksize_x * x,
+            y : this.pos_starty + this.blocksize_y * y
+        }
+    }
+
+    this.get_block_at_BlockRange = (x, y, rmin, rmax) => {
+        var blist = []
+        for (var i = x - rmax; i <= x + rmax; r++) {
+            for (var j = y - rmax; j <= y + rmax; r++) {
+                var b = this.mapBlock[i][j]
+                if (b && distBlock(x, y, b.x, b.y) >= rmin && distBlock(x, y, b.x, b.y) <= rmax)
+                    blist.push(b)
+            }
+        }
+        return blist
+    }
+
+    this.get_block_at_DistRange = (x, y, rmin, rmax) => {
+        var blist = []
+        for (var i = Math.floor(x - rmax); i <= Math.round(x + rmax); r++) {
+            for (var j = Math.floor(y - rmax); j <= Math.round(y + rmax); r++) {
+                var b = this.mapBlock[i][j]
+                if (b && dist(x, y, b.x, b.y) >= rmin && Block(x, y, b.x, b.y) <= rmax)
+                    blist.push(b)
+            }
+        }
+        return blist
+    }
+}
+
+
+
+
+PLAYER_DEFAULT_SIZEX = 200
+PLAYER_DEFAULT_SIZEY = 200
+PLAYER_DEFAULT_HAND_SIZE_X = 40
+PLAYER_DEFAULT_HAND_SIZE_Y = 40
+
+PLAYER_ANIMATION_DEFAULT = 0
+PLAYER_ANIMATION_MOVING = 1
+PLAYER_ANIMATION_ATTACK_DEFAULT = 2
+PLAYER_ANIMATION_DODGE = 3
+
+PLAYER_DEFAUTL_MOVECOST = 20
+
+TEAM_HUMAN = 0
+TEAM_AI = 1
+
+AP_COST_NOWEAPON = 33
+
+PLAYER_NAME_FONT = "Algerian"
+
+BONUS_DESCRIPTION = []
+var id = 1
+BONUS_AXE_FOREST_WOOD = id++
+BONUS_DESCRIPTION[BONUS_AXE_FOREST_WOOD] = "get x2 more wood in forest"
+BONUS_PICKAXE_MINE = id++
+BONUS_DESCRIPTION[BONUS_PICKAXE_MINE] = "get more resources in the mine"
+
+Player = function (x, y, size, color, team) {
+    this.x = x
+    this.y = y
+    this.size = size
+    this.team = team
+    this.AI = team == TEAM_HUMAN ? undefined : {}
+
+    this.color = color
+    this.dir = [1, 0]
+    this.bodyPartImg = undefined
+    this.bodyPartImgReady = false
+    this.handImg = undefined
+    this.animation = []
+    this.movePCost = PLAYER_DEFAUTL_MOVECOST
+
+    this.name = "No Name"
+    //Player Stats
+    this.speed = 100
+    this.gaugeSpeed = 0
+    this.ActionPoint = 0
+    this.ActionPointMax = 100
+
+    this.lifeMax = 100
+    this.life = this.lifeMax
+    this.isDead = false
+
+    this.stats = {
+        Strength : 10,
+        Dexterity : 10
+    },
+
+
+    this.take_damage = (dmg) => {
+        if (dmg == undefined || dmg < 0)
+            return false
+        this.life -= dmg
+        world.players.MessageSystem.addMessage({type : this.team, txt : this.name + " lost " + dmg + " life point"})
+        if (this.life <= 0) {
+            world.players.MessageSystem.addMessage({type : this.team, txt : this.name + " is dead"})
+            world.players.delete_player(this)
+
+            if (this == world.GameUI.playersSelected)
+                world.GameUI.playersSelected = undefined
+            if (this == world.players.Playerturn)
+                world.players.Playerturn = undefined
+        }
+        return true
+    }
+
+    this.receive_attack = (attack) => {
+        if (!attack || attack.length < 1)
+            return false
+        
+        var dmg = 0;
+        for (var z in attack) {
+            world.players.MessageSystem.addMessage({type : this.team, txt : this.name + " received damage : " + attack[z].value + " of type " + attack[z].type})
+            dmg += attack[z].value
+        }
+        var damageAfterArmor = this.armor ? this.armor.calculatDamageFromAttack({damages : attack}) : dmg
+        
+        return this.take_damage(damageAfterArmor)   
+    }
+
+    this.generateCapacity = () => {
+        this.capacityList = [
+            {
+                name : "Move To",
+                type : "move",
+                description : "Move your player up/right/down/left",
+                callback : this.TryMoveTo,
+                zone_target_area : world.map.getZoneAdjacentToPlayer,
+                zone_selecting_input : {
+                    player : this,
+                    type : "move"
+                },
+                windowInfo : [
+                    {
+                        txt : "Movement cost : ",
+                        callback : this.GetMovePrice,
+                    },
+                    {
+                        txt : "Direction : ",
+                        callback : this.GetMoveDir,
+                    }
+                ]
+            },
+            {
+                name : "Rotate",
+                type : "move",
+                description : "rotate your player in the desired direction",
+                callback : this.rotate,
+                zone_target_area : world.map.getZoneAtAbsRangeToPlayer,
+                zone_selecting_input : {
+                    player : this,
+                    rangeMin : 1,
+                    rangeMax : 1,
+                    type : "rotate"
+                },
+                windowInfo : [
+                    {
+                        txt : "direction : ",
+                        callback : this.get_direction_from_pos,
+                    }
+                ]
+            },  
+        ]
+        if (this.weapon) {
+            var c = {
+                name : "Attack",
+                type : "attack",
+                description : "attack animation on the selected block",
+                callback : this.attack,
+                zone_target_area : this[this.weapon.blockTargetingFunction.callback], 
+                zone_selecting_input : this.weapon.blockTargetingFunction.input,
+                windowInfo : [
+                    {
+                        txt : "chance to hit : %",
+                        callback : this.getChanceOfHit//getEquipedWeaponDescription,
+                    },
+                    {
+                        txt : "attack with : ",
+                        callback : this.getEquipedWeaponDescription,
+                    },
+                ]
+            }
+            c.zone_selecting_input.player = this,
+            c.zone_selecting_input.type = "rotate" //the color the GUI highlight when selecting a target
+            this.capacityList.push(c)
+        }
+        else {
+            var c = {
+                name : "Attack",
+                type : "attack",
+                description : "attack animation on the selected block",
+                callback : this.attack,
+                zone_target_area : this.getBlockAdjacent, 
+                zone_selecting_input : {},
+                windowInfo : [
+                    {
+                        txt : "chance to hit : %",
+                        callback : this.getChanceOfHit//getEquipedWeaponDescription,
+                    },
+                    {
+                        txt : "attack with your hands, 33 AP, x1 Strench crushing damage",
+                        callback : () => {},
+                    }
+                ]
+            }
+            c.zone_selecting_input.player = this,
+            c.zone_selecting_input.type = "rotate" //the color the GUI highlight when selecting a target
+            this.capacityList.push(c)
+        }
+    }
+
+    this.getEquipedWeaponDescription = () => {
+        if (this.weapon)
+            return this.weapon.getWeaponAttackDescription()
+    }
+
+    this.ReturnBlockTargeted = (info) => {
+        if (!info || !info.block)
+            return undefined
+        return [info.block]
+    }
+
+    this.getBlockAdjacent = () => {
+        console.log("get block adjacent")
+        var zone = []
+        for (var x = this.x - 1; x <= this.x + this.size; x++)
+            for (var y = this.y - 1; y <= this.y + this.size; y++)
+                if (!((x == this.x - 1 || x == this.x + this.size) && (y == this.y - 1 || y == this.y + this.size))
+                    && !(x <= this.x + this.size - 1 && x >= this.x && y <= this.y + this.size - 1 && y >= this.y))
+                    if (world.map.mapBlock[x] && world.map.mapBlock[x][y])
+                        zone.push(world.map.mapBlock[x][y])
+        console.log("returned " + zone.length + " blocks")
+        return (zone)
+    }
+
+    this.getBlockUnderPlayer = () => {
+        var zone = []
+        for (var x = this.x; x < this.x + this.size; x++)
+            for (var y = this.y; y < this.y + this.size; y++)
+                zone.push(world.map.mapBlock[x][y])
+    }
+
+    this.getBlockBehindTarget = (input) => {
+        if (!input || !input.block)
+            return undefined
+        var min = 1
+        var max = 1
+        if (input.data) {
+            min = input.data.rangeMin ? input.data.rangeMin : 1
+            max = input.data.rangeMax ? input.data.rangeMax : 1
+        }
+        if (min > max) {
+            var tmp = min
+            min = max
+            max = tmp
+        }
+        var zone = []
+        var b = input.block
+        var dir = this.get_direction_from_pos(b)
+        var rangeId = -1;
+        var x = b.x
+        var y = b.y
+        var block = world.map.mapBlock
+        while (++rangeId <= max) {
+            if (rangeId >= min)
+                if (block[x] && block[x][y])
+                    zone.push(block[x][y])
+            x += dir[0]
+            y += dir[1]
+        }
+        return zone
+    }
+
+    this.getBlocksAtRange = (input) => {
+        if (!input || !input.block)
+            return undefined
+        var min = 1
+        var max = 1
+        if (input.data) {
+            min = input.data.rangeMin ? input.data.rangeMin : 1
+            max = input.data.rangeMax ? input.data.rangeMax : 1
+        }
+        if (min > max) {
+            var tmp = min
+            min = max
+            max = tmp
+        }
+        var zone = []
+        var b = input.block
+        var blocks = world.map.mapBlock
+        for (var x = b.x - max; x <= b.x + max; x++) {
+            for (var y = b.y - max; y <= b.y + max; y++) {
+                var d = dist(b.x, b.y, x, y)
+                if (d < min || d > max)
+                    continue
+                if (blocks[x] && blocks[x][y])
+                    zone.push(blocks[x][y])
+            }
+        }
+        return zone
+    }
+
+    this.getBlocksAtRangeFromPlayer = (data) => {
+        if (!data || !data.rangeMin || !data.rangeMax)
+            return []
+        var zone = []
+        var p = this
+        var rmin = data.rangeMin
+        var rmax = data.rangeMax
+        for (var i = p.x - rmax; i < p.x + p.size + rmax; i++)
+            for (var j = p.y - rmax; j < p.y + p.size + rmax; j++)
+                if (i <= p.x - rmin || i >= p.x + p.size + rmin - 1 || j <= p.y - rmin || j >= p.y + p.size + rmin - 1)
+                    if (world.map.mapBlock[i] && world.map.mapBlock[i][j])
+                        zone.push(world.map.mapBlock[i][j])
+        return zone
+    }
+
+    this.getDistToABlock = (data) => {
+        if (!data || !data.block)
+            return undefined
+        var b = data.block
+        if (b.player == this)
+            return 0 
+        var distx
+        if (this.x >= b.x && this.x + this.size <= b.x)
+            distx = 0
+        else if (this.x < b.x)
+            distx = this.x - b.x
+        else
+            distx = this.x + this.size - b.x - 1
+        var disty
+        if (this.y >= b.y && this.y + this.size <= b.y)
+            disty = 0
+        else if (this.x < b.x)
+            disty = this.y - b.y
+        else
+            disty = this.y + this.size - b.y - 1
+        console.log("block " + [b.x, b.y] + " dist " + Math.sqrt(distx * distx + disty * disty))
+        return Math.sqrt(distx * distx + disty * disty)
+    }
+
+    this.getBlocksAtDistRangeFromPlayer = (data) => {
+        if (!data || !data.rangeMin || !data.rangeMax)
+            return []
+        var zone = []
+        var p = this
+        var px = p.x + p.size / 2 - 0.5
+        var py = p.y + p.size / 2 - 0.5
+        var rmin = data.rangeMin + p.size / 2 - 0.5
+        var rmax = data.rangeMax + p.size / 2 - 0.5
+        
+        for (var i = Math.round(p.x - rmax); i < Math.round(p.x + p.size + rmax); i++)
+            for (var j = Math.round(p.y - rmax); j < Math.round(p.y + p.size + rmax); j++)
+                if (world.map.mapBlock[i] && world.map.mapBlock[i][j] && this.getDistToABlock({block : world.map.mapBlock[i][j]}) <= Math.round(rmax) && this.getDistToABlock({block : world.map.mapBlock[i][j]}) >= Math.floor(rmin))
+                    zone.push(world.map.mapBlock[i][j])
+        return zone
+    }
+
+    this.LoadPlayerImage = (defaultImg) => {
+        if (!this.face_type)
+            this.face_type = PLAYER_FACE_IMG[Math.floor(Math.random() * PLAYER_FACE_IMG.length)]
+        if (!this.body_type)
+            this.body_type = PLAYER_BODY_IMG[Math.floor(Math.random() * PLAYER_BODY_IMG.length)]
+        var imgs = []
+        imgs.push({name : this.body_type, needColor : true})
+        imgs.push({name : this.face_type, needColor : false})
+        if (this.armor)
+            imgs.push({name : this.armor.name, needColor : false})
+        for (var z in imgs)
+            if (!defaultImg[imgs[z].name] || !defaultImg[imgs[z].name].ready)
+                return console.log("can't with " + imgs[z].name)
+        var canvas = document.createElement("canvas")// new OffscreenCanvas(this.img.width, this.img.height)
+        canvas.width = PLAYER_DEFAULT_SIZEX
+        canvas.height = PLAYER_DEFAULT_SIZEY
+        var ctx = canvas.getContext("2d")
+        for (var z in imgs) {
+            var name = imgs[z].name
+            if (!defaultImg[name])
+                return
+            var img = undefined
+            if (imgs[z].needColor)
+                img = defaultImg[name].GetColorImage(0, 255, 0, this.color.r, this.color.g, this.color.b)
+            else
+                img = defaultImg[name].img
+            if (!img || !img.complete)
+                return false
+            ctx.drawImage(img, 0, 0)
+        }
+        var img = new Image()
+        img.src = canvas.toDataURL()
+        img.decode()
+        .then(() => {
+            console.log("player body img loaded and ready")
+            this.bodyPartImgReady = true;
+            if (world.villageUI)
+                world.villageUI.needRedraw = true
+            if (world.GameUI)
+                world.GameUI.needRedraw = true
+
+        })
+        this.bodyPartImg = img
+
+        if (!defaultImg["hand"] || !defaultImg["hand"].img.complete)
+            return false
+        var img = defaultImg["hand"].GetColorImage(0, 255, 0, this.color.r, this.color.g, this.color.b)
+        if (!img)
+            return false
+        
+
+        this.handImg = img
+        
+        return true
+    }
+
+    this.get_direction_from_pos = (pos) => {
+        if (pos.block)
+            pos = pos.block
+        var angle = Math.atan2(-(pos.y - this.y - this.size / 2 + 0.5), pos.x - this.x - this.size / 2 + 0.5)
+        if (angle > Math.PI * 7 / 8)
+            return ([-1, 0])
+        if (angle > Math.PI * 5 / 8)
+            return ([-1, -1]) 
+        if (angle > Math.PI * 3 / 8)
+            return ([0, -1])
+        if (angle > Math.PI * 1 / 8)
+            return ([1, -1])
+        if (angle > -Math.PI * 1 / 8)
+            return ([1, 0])
+        if (angle > -Math.PI * 3 / 8)
+            return ([1, 1])
+        if (angle > -Math.PI * 5 / 8)
+            return ([0, 1])
+        if (angle > -Math.PI * 7 / 8)
+            return ([-1, 1])
+        else if (angle >= -Math.PI)
+            return ([-1, 0])
+        return [-1, 0]
+    }
+
+    this.rotate = (input) => {
+        var block = input.block
+        if (!block || block.x == undefined || block.y == undefined)
+            return false
+        var dir = this.get_direction_from_pos(block)
+        if (dir)
+            this.dir = dir
+        else
+            return false
+        return true
+    }
+
+    this.ChangePosition = (dst, map) => {
+        //does not check validy, need secure it before use
+        for (var i = this.x; i < this.x + this.size; i++)
+            for (var j = this.y; j < this.y + this.size; j++)
+                map.mapBlock[i][j].player = undefined
+
+        for (var i = dst.x; i < dst.x + this.size; i++) {
+            for (var j = dst.y; j < dst.y + this.size; j++) {
+                map.mapBlock[i][j].player = this
+            }}
+        this.x = dst.x
+        this.y = dst.y
+    }
+
+    this.CheckMoveTo = (info) => {
+        if (!info || !info.block || info.block.x == undefined || info.block.y == undefined) {
+            console.log("CheckMoveTo : invalid Input")
+            return false
+        }
+        var dst = {
+            x : info.block.x,
+            y : info.block.y
+        }
+        var map = world.map
+        if (dst.x + this.size - 1 >= map.width || dst.x < 0 || dst.y < 0 || dst.y + this.size - 1 >= map.height){
+            console.log("CheckMoveTo : invalid block")
+            return false
+        }
+
+        //will check block postion relative to the player (in function of his size), and if it's adacent block, change dst to macth with the desired direction
+
+        var dir
+        if (dst.x == this.x - 1 && dst.y >= this.y && this.y + this.size > dst.y) { //to the west 
+            dst.y = this.y
+            dir = "left"
+        }
+        else if (dst.y == this.y - 1 && dst.x >= this.x && this.x + this.size > dst.x) {   //to the north
+            dst.x = this.x
+            dir = "top"
+        }
+        else if (dst.x == this.x + this.size && dst.y >= this.y && this.y + this.size > dst.y) { //o the east 
+            dst.y = this.y
+            dst.x = this.x + 1
+            dir = "right"
+        }
+        else if (dst.y == this.y + this.size && dst.x >= this.x && this.x + this.size > dst.x) { // to south
+            dst.x = this.x
+            dst.y = this.y + 1
+            dir = "bot"  
+        }
+        else {
+            console.log("wrong direction")
+            return false
+        }
+        for (var i = dst.x; i < dst.x + this.size; i++) {
+            for (var j = dst.y; j < dst.y + this.size; j++) {
+                if (map.mapBlock[i][j].player && map.mapBlock[i][j].player != this) {
+                    console.log("CheckMoveTo : player here")
+                    return false
+                }
+            }
+        }
+        //normally, the input will have only valid block, the code above is not necessary. map.CostMovingPlayer still need a string with the direction "right/left/top/bot"
+        var cost = world.map.CostMovingPlayer({player : this, dir : dir})
+        if (cost === false){
+            console.log("CheckMoveTo : invalid cost")
+            return false
+        }
+        return ({
+            dir : dir,
+            cost : Math.floor(cost * this.movePCost)
+        })
+    }
+
+    this.GetMovePrice = (info) => {
+        var check = this.CheckMoveTo(info)
+        if (check)
+            return check.cost
+        return false
+    }
+
+    this.GetMoveDir = (info) => {
+        var check = this.CheckMoveTo(info)
+        if (check)
+            return check.dir
+        return false
+    }
+
+    this.TryMoveTo = (info) => {
+        if (!info || !info.block || info.block.x == undefined || info.block.y == undefined)
+            return false
+ 
+        var check = this.CheckMoveTo(info)
+        if (check === false || check.cost > this.ActionPoint)
+            return false
+
+        var dir = undefined
+        switch (check.dir) {
+            case "right":
+                dir = [1, 0]
+                break
+            case "left" :
+                dir = [-1, 0]
+                break
+            case "top" :
+                dir = [0, -1]
+                break
+            case "bot":
+                dir = [0, 1]
+                break
+            default:
+                console.log("wrong direction")
+                return false    
+        }
+        this.ActionPoint -= check.cost
+        var anim = {
+            type : "moving",
+            mode : PLAYER_ANIMATION_MOVING,
+            dir : dir,
+            from : [this.x, this.y],
+            duration : 500,
+        }
+        this.animation.push(anim)
+        this.dir = dir
+        var dst = {
+            x : this.x + dir[0],
+            y : this.y + dir[1]
+        }
+        this.ChangePosition(dst, world.map)
+        
+        return true
+    }
+
+    this.getChanceOfHit = (info) => {
+        if (!info || !info.block)
+            return "no block"
+        var b = info.block
+        if (!b.player|| b.player == this)
+            return "no players"
+        var targ = b.player
+        var enemyAngle = Math.atan2(targ.dir[1], targ.dir[0])
+        //enemyAngle = enemyAngle > Math.PI ? enemyAngle - Math.PI : (enemyAngle < - Math.PI ? enemyAngle + MAth.PI : enemyAngle)
+        var enemyDirect = Math.atan2(this.y - targ.y, this.x - targ.x)
+        //enemyDirect = enemyDirect > Math.PI ? enemyDirect - Math.PI : (enemyDirect < - Math.PI ? enemyDirect + MAth.PI : enemyDirect)
+        var angle = (enemyAngle - enemyDirect)
+        
+        while (angle > Math.PI)
+            angle -= 2 * Math.PI
+        while (angle < -Math.PI)
+            angle += 2 * Math.PI
+        angle = Math.abs(angle)
+
+        var res = 40 + (80 - 40) * (angle / Math.PI)
+        /*
+        if (angle <= Math.PI / 4)
+            return 40
+        if (angle < 3 * Math.PI / 4)
+            return 60
+            
+        return 80
+        */
+       return Math.floor(res * 100) / 100
+    }
+
+    this.attack = (info) => {
+        if (!info || !info.block)
+            return false
+        var blocktargetAnimation = undefined
+        var zonesDamage = []
+        if (this.weapon) {
+            if (this.ActionPoint < this.weapon.actionCost)
+                return false
+            //each weapon can hit differents zones with differents damages
+            world.players.MessageSystem.addMessage({type : this.team, txt : this.name + " is attacking with " + this.weapon.name})
+            for (var z in this.weapon.zoneTarget) {         //for each zone
+                var zoneSelector = this.weapon.zoneTarget[z]
+                var zoneInfo = {...info}
+                zoneInfo.data = zoneSelector.callback_data  
+                var zoneSelected = this[zoneSelector.callback](zoneInfo)        //call the function linked to the weapon, return the zone (list of blocks) attacked
+                console.log("test zone " + z)
+                console.log("selector : " + zoneSelector.callback)
+                if (!zoneSelected || zoneSelected.length < 1)
+                    continue
+                console.log("add some blocks " + zoneSelected.length)
+                zonesDamage.push({
+                    blocks : zoneSelected,
+                    damage : zoneSelector.damageBase
+                })
+            }
+        }
+        else {      //if not equiped with a weapon
+            if (this.ActionPoint < AP_COST_NOWEAPON)
+                return false
+            world.players.MessageSystem.addMessage({type : this.team, txt : this.name + " is attacking (no weapon)"})
+            zonesDamage = [{
+                blocks : [info.block],
+                damage : [{
+                    stats : "Strength",
+                    type : "crushing",
+                    value : 1
+                }]
+            }]
+        }
+
+        for (var z in zonesDamage) {  //for each zone of damage
+            var zone = zonesDamage[z]
+            var dmg = CalculeDamageWeaponFromPlayerStats({player : this, damage : zone.damage})
+            var missedAllShot = true
+            if (!dmg || dmg.length < 1)
+                continue
+            for (var i in zone.blocks) {//will apply the damage on each block of the zone
+                var b = zone.blocks[i]
+                if (!b || !b.player)
+                    continue
+                
+                var chanceHit = this.getChanceOfHit({block : b})
+                var testHit = true
+                if (Math.floor(Math.random() * 100) > chanceHit)
+                    testHit = false
+                if (testHit) {
+                    missedAllShot = false
+                    b.player.receive_attack(dmg)
+                }
+                else {
+                    world.players.MessageSystem.addMessage({txt : this.name + " missed attack (" + chanceHit + "%)"})
+                    var animdodge = {
+                        type : "dodge",
+                        mode : PLAYER_ANIMATION_DODGE,
+                        duration : 1000,
+                        angle : Math.random() * 2 * Math.PI,
+                    }
+                    b.player.animation.push(animdodge)
+                }
+            }
+        }
+        var anim = {
+            type : "attack",
+            mode : PLAYER_ANIMATION_ATTACK_DEFAULT,
+            dir : [info.block.x, info.block.y],
+            from : [this.x, this.y],
+            duration : 500,
+        }
+        if (this.weapon && this.weapon.projectil) {
+            anim.projectil = {
+                posA :  {x : this.x + 0.5, y : this.y + 0.5},
+                posB : {x : info.block.x + 0.5, y : info.block.y + 0.5},
+                projectilName : this.weapon.projectil.ammo ? this.weapon.projectil.ammo : undefined,
+                projectilSpeed : this.weapon.projectil.projectilSpeed ? this.weapon.projectil.projectilSpeed : 50,
+                sound : this.weapon.projectil.sound && !missedAllShot ? this.weapon.projectil.sound : undefined
+            }
+        }
+
+        this.animation.push(anim)
+        if (this.weapon) {
+            var wpSong = PLAYER_WEAPON_IMG.find(a => a.name == this.weapon.img)
+            world.Music.playSound(wpSong.sound)
+            this.ActionPoint -= this.weapon.actionCost
+        }
+        else {
+            world.Music.playSound("hand hit")
+            this.ActionPoint -= AP_COST_NOWEAPON
+        }
+        
+        this.dir = this.get_direction_from_pos(info.block)
+        return true
+    }
+
+    this.drawPlayer = (canvas, pos_x, pos_y, map) => {
+        var now = new Date().getTime()
+        while (this.animation && this.animation[0]) {
+            if (!this.animation[0].startTime) {
+                this.animation[0].startTime = new Date().getTime()
+            }
+            if (now > this.animation[0].startTime + this.animation[0].duration) {
+                if (this.animation[0].projectil)
+                    world.players.createProjectilAnimation(this.animation[0].projectil)
+                this.animation.shift()
+                this.needUIRedraw = true
+            }
+            else
+                break
+        }
+        if (!this.bodyPartImgReady || !this.bodyPartImg)
+            return false
+
+
+        if (this.weapon) {
+            var weaponImg = world.playerDefaultImgs[this.weapon.name]
+            var weaponImgcenter = PLAYER_WEAPON_IMG.find(a => a.name == this.weapon.img)
+            if (!weaponImg || !weaponImgcenter)
+                return console.log("can't display weapon : " + this.weapon.name)
+            weaponImgcenter = weaponImgcenter.center
+        }
+
+        if (!this.animation || !this.animation[0]) {              //default animation
+            var x = Math.floor(pos_x + this.size * map.blocksize_x / 2)
+            var y = Math.floor(pos_y + this.size * map.blocksize_y / 2)
+            var dirAngle = Math.atan2(this.dir[0], -this.dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 64, Math.PI / 64, Math.cos(now / 500))
+            canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
+            var varAngle = getAngleFromTime(-Math.PI / 64, Math.PI / 16, Math.cos(now / 300))
+            var handx = Math.floor(100 * map.scale * this.size * Math.cos(varAngle + dirAngle - Math.PI / 2))
+            var handy = Math.floor(100 * map.scale * this.size * Math.sin(varAngle + dirAngle - Math.PI / 2))
+            var hand2x = Math.floor(100 * map.scale * this.size * Math.cos(-varAngle + dirAngle + Math.PI / 2))
+            var hand2y = Math.floor(100 * map.scale * this.size * Math.sin(-varAngle + dirAngle + Math.PI / 2))
+            
+            canvas.drawImageRotate(this.handImg, x + handx, y + handy, map.scale, varAngle + dirAngle)
+            if (this.weapon)
+                canvas.drawImageRotateCenter(weaponImg.img, x + hand2x, y + hand2y, weaponImgcenter.x, weaponImgcenter.y, map.scale, -varAngle + dirAngle)
+            canvas.drawImageMirrorRotateCenter(this.handImg, x + hand2x, y + hand2y, 20, 20, -map.scale, +varAngle - dirAngle)
+        }
+        else if (this.animation && this.animation[0] && this.animation[0].mode == PLAYER_ANIMATION_MOVING) {
+            var anim = this.animation[0]
+            pos = map.get_pixel_by_block(anim.from[0] + anim.dir[0], anim.from[1] + anim.dir[1])
+            var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
+            var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
+            world.Music.playSound("move")
+            var dir = [this.animation[0].dir[0], this.animation[0].dir[1]]
+            var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+            x -= dir[0] * map.blocksize_x * progress
+            y -= dir[1] * map.blocksize_y * progress
+            var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 32, Math.PI / 32, Math.cos(now / 100))
+            canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
+            var angle = getAngleFromTime(- Math.PI / 8, Math.PI / 8, Math.cos(now / 100)) + dirAngle
+            var angle2 = getAngleFromTime(- Math.PI / 8, Math.PI / 8, Math.sin((now) / 100)) - dirAngle
+            var handx = Math.floor(100 * map.scale * this.size * Math.cos(angle - Math.PI / 2))
+            var handy = Math.floor(100 * map.scale * this.size * Math.sin(angle - Math.PI / 2))
+            var handx2 = Math.floor(100 * map.scale * this.size * Math.cos(angle2 - Math.PI / 2))
+            var handy2 = Math.floor(100 * map.scale * this.size * Math.sin(angle2 - Math.PI / 2))
+            
+            canvas.drawImageRotate(this.handImg, x + handx, y + handy, map.scale, angle)
+            //canvas.drawImageRotate(weaponImg.img, x + handx2, y - handy2, map.scale, -angle2)
+            if (this.weapon)
+                canvas.drawImageRotateCenter(weaponImg.img, x + handx2, y - handy2, weaponImgcenter.x, weaponImgcenter.y, map.scale, -angle2)
+            canvas.drawImageMirrorRotateCenter(this.handImg, x + handx2, y - handy2, 20, 20, map.scale, angle2 + Math.PI)
+            
+        }
+        else if (this.animation && this.animation[0] && this.animation[0].mode == PLAYER_ANIMATION_DODGE) {
+            var anim = this.animation[0]
+            var progress = 1 - (now - anim.startTime) / anim.duration
+            progress = progress < 0.5 ? 0 : (progress > 0.75) ? 1 - (progress - 0.5) * 2 : (progress - 0.5) * 2
+            var dodgex = progress * Math.cos(anim.angle) * 100 * map.scale * this.size
+            var dodgey = progress * Math.sin(anim.angle) * 100 * map.scale * this.size
+            var x = dodgex + Math.floor(pos_x + this.size * map.blocksize_x / 2)
+            var y = dodgey +Math.floor(pos_y + this.size * map.blocksize_y / 2)
+            var dirAngle = Math.atan2(this.dir[0], -this.dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 64, Math.PI / 64, Math.cos(now / 500))
+            canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
+            var varAngle = getAngleFromTime(-Math.PI / 64, Math.PI / 16, Math.cos(now / 300))
+            var handx = Math.floor(100 * map.scale * this.size * Math.cos(varAngle + dirAngle - Math.PI / 2))
+            var handy = Math.floor(100 * map.scale * this.size * Math.sin(varAngle + dirAngle - Math.PI / 2))
+            var hand2x = Math.floor(100 * map.scale * this.size * Math.cos(-varAngle + dirAngle + Math.PI / 2))
+            var hand2y = Math.floor(100 * map.scale * this.size * Math.sin(-varAngle + dirAngle + Math.PI / 2))
+            
+            canvas.drawImageRotate(this.handImg, x + handx, y + handy, map.scale, varAngle + dirAngle)
+            if (this.weapon)
+                canvas.drawImageRotateCenter(weaponImg.img, x + hand2x, y + hand2y, weaponImgcenter.x, weaponImgcenter.y, map.scale, -varAngle + dirAngle)
+            canvas.drawImageMirrorRotateCenter(this.handImg, x + hand2x, y + hand2y, 20, 20, -map.scale, +varAngle - dirAngle)
+        }
+        else if (this.animation && this.animation[0] && this.animation[0].mode == PLAYER_ANIMATION_ATTACK_DEFAULT) {
+            if (!this.weapon) {
+                pos = map.get_pixel_by_block(this.animation[0].from[0], this.animation[0].from[1])
+                var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
+                var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
+                var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
+                var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 6, Math.PI / 6, Math.cos(now / 100))
+                canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
+                var angle = getAngleFromTime(Math.PI / 4, Math.PI / 2, Math.cos(now / 100)) + dirAngle
+                var angle2 = getAngleFromTime(- Math.PI / 4, Math.PI / 2, Math.sin((now) / 100)) - dirAngle
+                var handx = Math.floor(100 * map.scale * this.size * Math.cos(angle - Math.PI / 2))
+                var handy = Math.floor(100 * map.scale * this.size * Math.sin(angle - Math.PI / 2))
+                var handx2 = Math.floor(100 * map.scale * this.size * Math.cos(angle2 - Math.PI / 2))
+                var handy2 = Math.floor(100 * map.scale * this.size * Math.sin(angle2 - Math.PI / 2))
+                canvas.drawImageRotate(this.handImg, x + handx, y + handy, map.scale, angle)
+                //canvas.drawImageRotate(weaponImg.img, x + handx2, y - handy2, map.scale, -angle2)
+                canvas.drawImageMirrorRotateCenter(this.handImg, x + handx2, y - handy2, 20, 20, map.scale, angle2 + Math.PI)
+            }            else if (this.weapon.anim == "sword") {
+                pos = map.get_pixel_by_block(this.animation[0].from[0], this.animation[0].from[1])
+                var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
+                var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
+                var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
+                var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 6, Math.PI / 6, Math.cos(now / 100))
+                canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
+                var angle = getAngleFromTime(Math.PI / 4, Math.PI / 2, Math.cos(now / 100)) + dirAngle
+                var angle2 = getAngleFromTime(- Math.PI / 4, Math.PI / 2, Math.sin((now) / 100)) - dirAngle
+                var handx = Math.floor(100 * map.scale * this.size * Math.cos(angle - Math.PI / 2))
+                var handy = Math.floor(100 * map.scale * this.size * Math.sin(angle - Math.PI / 2))
+                var handx2 = Math.floor(100 * map.scale * this.size * Math.cos(angle2 - Math.PI / 2))
+                var handy2 = Math.floor(100 * map.scale * this.size * Math.sin(angle2 - Math.PI / 2))
+                
+                canvas.drawImageRotate(this.handImg, x + handx, y + handy, map.scale, angle)
+                //canvas.drawImageRotate(weaponImg.img, x + handx2, y - handy2, map.scale, -angle2)
+                if (this.weapon)
+                    canvas.drawImageRotateCenter(weaponImg.img, x + handx2, y - handy2, weaponImgcenter.x, weaponImgcenter.y, map.scale, -angle2)
+                canvas.drawImageMirrorRotateCenter(this.handImg, x + handx2, y - handy2, 20, 20, map.scale, angle2 + Math.PI)
+            }
+            else if (this.weapon.anim == "bow") {
+                pos = map.get_pixel_by_block(this.animation[0].from[0], this.animation[0].from[1])
+                var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
+                var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
+                var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
+                
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+
+                var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2
+                canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
+                var angle = Math.PI * 7 / 16 + dirAngle
+                var angle2 = Math.PI * 7 / 16 - dirAngle
+                var handx = Math.floor(100 * (1 - progress) * map.scale * this.size * Math.cos(angle - Math.PI / 2))
+                var handy = Math.floor(100 * map.scale * this.size * Math.sin(angle - Math.PI / 2))
+                var handx2 = Math.floor(100 * map.scale * this.size * Math.cos(angle2 - Math.PI / 2))
+                var handy2 = Math.floor(100 * map.scale * this.size * Math.sin(angle2 - Math.PI / 2))
+                
+                canvas.drawImageRotate(this.handImg, x + handx, y + handy, map.scale, angle)
+                //canvas.drawImageRotate(weaponImg.img, x + handx2, y - handy2, map.scale, -angle2)
+                if (this.weapon)
+                    canvas.drawImageRotateCenter(weaponImg.img, x + handx2, y - handy2, weaponImgcenter.x, weaponImgcenter.y, map.scale, -angle2)
+                canvas.drawImageMirrorRotateCenter(this.handImg, x + handx2, y - handy2, 20, 20, map.scale, angle2 + Math.PI)
+            }
+            else if (this.weapon.anim == "spear") {
+                pos = map.get_pixel_by_block(this.animation[0].from[0], this.animation[0].from[1])
+                var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
+                var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
+                var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+                progress = progress / 3
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
+                var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 64, Math.PI / 64, Math.cos(now / 100))
+                canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
+                var angle = getAngleFromTime(0, Math.PI / 64, Math.cos(now / 100)) + dirAngle
+                var angle2 = getAngleFromTime(0, 3 * Math.PI / 8, Math.sin((now - this.animation[0].startTime) / this.animation[0].duration * 1.1 * Math.PI)) - dirAngle
+                var handx = Math.floor(100 * map.scale * this.size * Math.cos(angle - Math.PI / 2))
+                var handy = Math.floor(100 * map.scale * this.size * Math.sin(angle - Math.PI / 2))
+                var handx2 = Math.floor(100 * map.scale * this.size * Math.cos(angle2 - Math.PI / 2))
+                var handy2 = Math.floor(100 * map.scale * this.size * Math.sin(angle2 - Math.PI / 2))
+                
+                canvas.drawImageRotate(this.handImg, x + handx, y + handy, map.scale, angle)
+                //canvas.drawImageRotate(weaponImg.img, x + handx2, y - handy2, map.scale, -angle2)
+                if (this.weapon)
+                    canvas.drawImageRotateCenter(weaponImg.img, x + handx2, y - handy2, weaponImgcenter.x, weaponImgcenter.y, map.scale, dirAngle - Math.PI / 6)
+                canvas.drawImageMirrorRotateCenter(this.handImg, x + handx2, y - handy2, 20, 20, map.scale, angle2 + Math.PI)
+            }
+            else if (this.weapon.anim == "sword_2h") {
+                pos = map.get_pixel_by_block(this.animation[0].from[0], this.animation[0].from[1])
+                var x = Math.floor(pos.x + this.size * map.blocksize_x / 2)
+                var y = Math.floor(pos.y + this.size * map.blocksize_y / 2)
+                var dir = [this.animation[0].dir[0] - (this.x + this.size / 2) + 0.5, this.animation[0].dir[1] - (this.y + this.size / 2) + 0.5]
+                var progress = 1 - (now - this.animation[0].startTime) / this.animation[0].duration
+                if (progress > 0.5)
+                    progress = 1 - progress
+                progress = progress / 3
+                x += dir[0] * map.blocksize_x * progress
+                y += dir[1] * map.blocksize_y * progress
+                var dirAngle = Math.atan2(dir[0], -dir[1]) - Math.PI / 2 + getAngleFromTime(-Math.PI / 4, Math.PI / 4, Math.cos((now - this.animation[0].startTime) / this.animation[0].duration * 1 * Math.PI))
+                canvas.drawImageRotate(this.bodyPartImg, x, y, map.scale * this.size, dirAngle)
+                //var angle = getAngleFromTime(Math.PI / 4, Math.PI / 2, Math.cos(now / 100)) + dirAngle
+                var angle2 = getAngleFromTime(-Math.PI / 4, Math.PI / 2, -Math.cos((now - this.animation[0].startTime) / this.animation[0].duration * 1 * Math.PI)) - dirAngle
+                var angle = angle2 - Math.PI / 32
+                var handx = Math.floor(100 * map.scale * this.size * Math.cos(angle - Math.PI / 2))
+                var handy = Math.floor(100 * map.scale * this.size * Math.sin(angle - Math.PI / 2))
+                var handx2 = Math.floor(100 * map.scale * this.size * Math.cos(angle2 - Math.PI / 2))
+                var handy2 = Math.floor(100 * map.scale * this.size * Math.sin(angle2 - Math.PI / 2))
+                
+                canvas.drawImageMirrorRotateCenter(this.handImg, x + handx, y - handy, 20, 20, map.scale, angle + Math.PI)
+                //canvas.drawImageRotate(weaponImg.img, x + handx2, y - handy2, map.scale, -angle2)
+                if (this.weapon)
+                    canvas.drawImageRotateCenter(weaponImg.img, x + handx2, y - handy2, weaponImgcenter.x, weaponImgcenter.y, map.scale, -angle2)
+                canvas.drawImageMirrorRotateCenter(this.handImg, x + handx2, y - handy2, 20, 20, map.scale, angle2 + Math.PI)
+            }
+        }
+    }
+
+    this.get_next_path = (path, dst) => {   //pm the mouvement point 0
+        if (!path || !dst || path.length > 200)
+            return undefined
+        var pos = path[path.length - 1]
+        console.log("i am in " + [pos.x, pos.y])
+        if (pos.x == dst.x && pos.y == dst.y)
+            return path
+        var steps = [
+            {x : pos.x + 1, y: pos.y},  //right
+            {x : pos.x - 1, y : pos.y}, //left
+            {x : pos.x, y : pos.y - 1}, //bot
+            {x : pos.x, y : pos.y + 1}, //top
+        ]
+        steps = steps.sort((a, b) => {return dist(a.x, a.y, dst.x, dst.y) - dist(b.x, b.y, dst.x, dst.y) })
+        for (var z in steps) {
+            var x = steps[z].x
+            var y = steps[z].y
+
+            console.log("check next block" + [x, y] + "?")
+            var check_old_step = false
+            for (var i in path)
+                if (path[i].x == x && path[i].y == y)
+                    check_old_step = true
+            if (check_old_step)
+                continue               
+            if (!world.map.mapBlock[x] || !world.map.mapBlock[x][y])
+                continue
+            var b = world.map.mapBlock[x][y]
+            if ((b.player && !(dst.x == b.x && dst.y == b.y)) || !b.getMoveCost())
+                continue
+            console.log("let do it")
+            var test = this.get_next_path(path.concat([steps[z]]), dst)
+            if (test)
+                return test
+        }
+        console.log("nope, not this way")
+        return undefined
+    }
+
+    this.playAIturn = () => {
+        console.log(this.name + " AI is playing")
+        var attack = this.capacityList.find(a => a.name == "Attack")
+
+        var blockTarget = attack.zone_target_area(attack.zone_selecting_input)
+        blockTarget = blockTarget.find(a => a.player && a.player.team != this.team)
+        if (this.attack({block : blockTarget}))
+            return false
+
+        var enemyteam = world.players.playerList.filter(a => a.team != this.team)
+        if (!enemyteam || enemyteam.length < 1)
+            return true
+        var closest_enemy = enemyteam.sort((a, b) => {return dist(this.x, this.y, a.x, a.y) - dist(this.x, this.y, b.x, b.y)})[0]
+
+        if (!this.AI.path || this.AI.path.length < 10 || dist(this.x, this.y, closest_enemy.x, closest_enemy.y) < 5)
+            this.AI.path = this.get_next_path([{x : this.x, y : this.y}], closest_enemy)
+        var dir = this.AI.path
+        if (dir && dir.length > 1)
+            dir = dir[1]
+        if(this.TryMoveTo({block : world.map.mapBlock[dir.x][dir.y]})) {
+            this.AI.path.shift()
+            return false
+        }
+
+       return true
+    }
+
+}
+
+
+
+
+
+
+
+
+
+PLAYER_FACE_IMG = ["face_0", "face_1", "face_2", "face_3", "face_4"]
+PLAYER_BODY_IMG = ["body_0", "body_1", "body_2", "body_3", "body_4"]
+
+PROJECTIL_IMG = ["wood_arrow"]
+
+PlayersManager = function (canvasPUI) {
+    this.playerList = []
+    this.playerDefaultImgs = undefined
+    this.DefaultImgsReady = false
+    this.Playerturn = undefined
+    this.canvasPUI = world.Screen.canList["players"] 
+    this.canvasPlayer = world.Screen.canList["players"] 
+    this.pUI_need_redraw = true
+
+    this.MessageSystem = new MessageSystem()
+
+    this.projectilAnimation = []
+
+    this.createProjectilAnimation = (input) => {
+        if (!input || !input.posA || !input.posB || !input.projectilName || !input.projectilSpeed)
+            return;
+        var posA = input.posA
+        var posB = input.posB
+        this.projectilAnimation.push({
+            posA : posA,
+            posB : posB,
+            angle : Math.atan2((posB.y - posA.y), posB.x - posA.x),
+            name : input.projectilName,
+            duration : input.projectilSpeed ? input.projectilSpeed * dist(posA.x, posA.y, posB.x, posB.y) : 100,
+        })
+        if (input.sound)
+            world.Music.playSound(input.sound)
+    }
+
+    this.drawProjectiles = () => {
+        var now = new Date().getTime()
+        for (var z in this.projectilAnimation) {
+            if (this.projectilAnimation[z].startTime && now - this.projectilAnimation[z].startTime > this.projectilAnimation[z].duration)
+                this.projectilAnimation.splice(z, 1)
+            else if (!this.projectilAnimation[z].startTime)
+                this.projectilAnimation[z].startTime = now
+        }
+        var map = world.map
+        var canvas = this.canvasPlayer
+        for (var z in this.projectilAnimation) {
+            var p = this.projectilAnimation[z]
+            var progress = (now - p.startTime) / p.duration
+            var progressSizeProjectil = progress > 0.5 ? 1 - progress : progress
+            var x = p.posA.x + progress * (p.posB.x - p.posA.x)
+            var y = p.posA.y + progress * (p.posB.y - p.posA.y)
+            var posPixel = map.get_pixel_by_pos(x, y)
+            if (posPixel.x < 0 || posPixel.y < 0 || posPixel.x > canvas.width || posPixel.y > canvas.height)
+                continue
+            canvas.drawImageRotate(world.playerDefaultImgs[p.name].img, posPixel.x, posPixel.y, map.scale * (0.5 + progressSizeProjectil * 3), p.angle)
+            
+        }
+    }
+
+    this.delete_player = (p) => {
+        if (!p)
+            return console.log("can't delete this player")
+        p.isDead = true
+        world.village.kill_player(p)
+        if (p && p.x != undefined && p.y != undefined)
+            for (var x = p.x; x < p.x + p.size; x++)
+                for (var y = p.y; y <  p.y + p.size; y++) 
+                    if (world.map.mapBlock[x] && world.map.mapBlock[x][y] && world.map.mapBlock[x][y].player == p)
+                        world.map.mapBlock[x][y].player = undefined
+        var i = 0;
+        while (this.playerList[i]) {
+            if (this.playerList[i] == p) {
+                this.playerList.splice(i, 1)
+                break
+            }
+            i++
+        }
+    
+    }
+
+    this.loadPlayerDefaultImgs = () => {
+        var src = "./img/player_test3/"
+        this.playerDefaultImgs = []
+        var imgs = [
+            ["hand", src + "hand/hand_0.png"],
+        ]
+        for (var z in WEAPON_TYPE) {
+            var name = WEAPON_TYPE[z].name
+            var img = WEAPON_TYPE[z].Img
+            imgs.push([name, src + "weapon/" + img + ".png"])
+            imgs.push([name + "_icon", src + "weapon/" + img + "_icon" + ".png"])
+        }
+        for (var z in PLAYER_BODY_IMG) {
+            var name = PLAYER_BODY_IMG[z]
+            imgs.push([name, src + "body/" + name + ".png"])
+        }
+        for (var z in PLAYER_FACE_IMG) {
+            var name = PLAYER_FACE_IMG[z]
+            imgs.push([name, src + "face/" + name + ".png"])
+        }
+        for (var z in PLAYER_ARMOR) {
+            var name = PLAYER_ARMOR[z].name
+            var img = PLAYER_ARMOR[z].img
+            imgs.push([name, src + "armor/" + img + ".png"])
+            imgs.push([name + "_icon", src + "armor/" + img + "_icon" + ".png"])
+        }
+        for (var z in PROJECTIL_IMG) {
+            var name = PROJECTIL_IMG[z]
+            imgs.push([name, src + "weapon/projectil/" + name + ".png"])
+        }
+        for (var z in imgs) {
+            console.log("imgs : " + imgs[z])
+            this.playerDefaultImgs[imgs[z][0]] = new myImage(imgs[z][0], imgs[z][1])
+        }
+        world.playerDefaultImgs = this.playerDefaultImgs
+    }
+
+    this.createNewPlayer = (x, y, size, color, team) => {
+        var p = new Player(x, y, size, color, team)
+        //p.weapon = new Weapon().createRandomWeapon()
+        //p.armor = new Armor().createNewArmor({name : PLAYER_ARMOR_IMG[Math.floor(Math.random() * PLAYER_ARMOR_IMG.length)].name})
+        p.ChangePosition(p, world.map)
+        p.generateCapacity();
+        p.gaugeSpeed = 0
+        return p
+    }
+
+    this.createPlayerFromVillage = (data) => {
+        if (!data || !data.player || data.x == undefined || data.y == undefined)
+            return console.log("error input create player")
+        console.log("create player in " + [data.x, data.y, data.player.size])
+        var p = data.player
+        var x = data.x
+        var y = data.y
+
+        var team = data.team ? data.team : TEAM_HUMAN
+
+        var map = world.map
+        if (x < 0 || x + p.size - 1 >= map.width || y < 0 || y + p.size - 1 >= map.height)
+            return false
+        for (var i = x; i < x + p.size; i++) {
+            for (var j = y; j < y + p.size; j++) {
+                if (map.mapBlock[i][j].player)
+                    return false
+                if (!map.mapBlock[i][j].getMoveCost())
+                    return false
+            }
+        }
+        var vp = this.createNewPlayer(x, y, p.size, p.color, team)
+        if (!vp)
+            return false
+        vp.name = p.name 
+        vp.face_type = p.face_type
+        vp.body_type = p.body_type 
+        vp.armor = p.armor 
+        vp.weapon = p.weapon 
+        vp.speed = p.speed
+        vp.ActionPointMax = p.ActionPointMax 
+        vp.lifeMax = p.lifeMax
+        vp.life = p.lifeMax
+        vp.movePCost = p.movePCost
+        vp.stats = p.stats
+        vp.size = p.size
+        vp.id = p.id
+        if (team == TEAM_AI)
+            vp.dir = [-1, 0]
+        for (var i = x; i < x + p.size; i++) {
+            for (var j = y; j < y + p.size; j++) {
+                map.mapBlock[i][j].player = vp
+            }
+        }
+        vp.generateCapacity();
+        this.playerList.push(vp)
+        return true
+    }
+
+    this.createPlayer = (data) => {
+        if (!data || data.x === undefined || data.y === undefined)
+            return false
+        var x = data.x
+        var y = data.y
+        var color = data.color ? data.color : {
+            r : Math.floor(Math.random() * 256),
+            g : Math.floor(Math.random() * 256),
+            b : Math.floor(Math.random() * 256),
+        }
+        var size = data.size || data.size < 1 ? data.size : 1
+        var team = data.team ? data.team : TEAM_HUMAN
+
+        var map = world.map
+        if (x < 0 || x + size - 1 >= map.width || y < 0 || y + size - 1 >= map.height)
+            return false
+        for (var i = x; i < x + size; i++) {
+            for (var j = y; j < y + size; j++) {
+                if (map.mapBlock[i][j].player)
+                    return false
+                if (!map.mapBlock[i][j].getMoveCost())
+                    return false
+            }
+        }
+        var p = this.createNewPlayer(x, y, size, color, team)
+        p.id = PLAYER_ID++
+        nameList = ["Gruu", "Argoo", "Belek", "Setple", "Azyla", "Fepachie", "Osef", "Okalm", "Aufait", "Askip"]
+        p.name = nameList[Math.floor(Math.random() * nameList.length)] + " #" + Math.floor(Math.random() * 100)
+        p.weapon = new Weapon().createRandomWeapon()
+        p.armor = new Armor().createRandomArmor()
+        
+        if (team == TEAM_AI)
+            p.dir = [-1, 0]
+        for (var i = x; i < x + size; i++) {
+            for (var j = y; j < y + size; j++) {
+                map.mapBlock[i][j].player = p
+            }
+        }
+        p.speed = data.speed ? data.speed : Math.round(p.speed * (0.8 + Math.random() * 0.4))
+        p.generateCapacity()
+        this.playerList.push(p)
+        return p
+    }
+
+    this.drawPlayers = () => {
+        var map = world.map
+        if (!map || !map.topleft_block || !map.botright_block)
+            return
+        var ax = map.topleft_block.x
+        var ay = map.topleft_block.y
+        var bx = map.botright_block.x
+        var by = map.botright_block.y
+
+        var pUIList = []
+
+        var drawed_player = []
+        for (var i = ax; i <= bx; i++) {
+            for (var j = ay; j <= by; j++) {
+                var p = map.mapBlock[i][j].player
+                if (!p || drawed_player.find(z => z == p))
+                    continue
+                if (p == this.Playerturn)
+                    drawed_player.push(p)
+                else
+                    drawed_player.unshift(p)
+            }
+        }
+        for (var z in drawed_player) {
+            var p = drawed_player[z]
+            if (!p.bodyPartImg || !p.bodyPartImgReady)
+                p.LoadPlayerImage(this.playerDefaultImgs)
+            var pos = map.get_pixel_by_block(p.x, p.y)
+            if (pos)
+                p.drawPlayer(this.canvasPlayer, pos.x, pos.y, map)
+            else
+                continue
+            if (p.needUIRedraw) {
+                this.pUI_need_redraw = true
+                p.needUIRedraw = false
+            }
+            var pUI = new MyUI(this.canvasPUI, pos.x - map.blocksize_x / 4, pos.y - map.blocksize_y / 4, 100 * world.map.scale, world.map.scale, undefined, undefined, 1)
+            
+            var color_name = p.team == TEAM_HUMAN ? "#1e90ff" : "#da1d81"
+            pUI.addTextZone(p.name, Math.floor(40 * world.map.scale), 16, color_name, PLAYER_NAME_FONT)
+            var letter_sizeUI = Math.floor(20 * world.map.scale)
+            if (p == this.Playerturn)
+                pUI.addGauge("action point : " + (Math.floor(100 * p.ActionPoint / p.ActionPointMax)), p.ActionPoint / p.ActionPointMax, Math.floor(100 * world.map.scale), letter_sizeUI + 1, letter_sizeUI, "#ffffff", "#00aaaa", "#000000")
+            else    
+                pUI.addGauge("speed " + Math.floor(100 * p.gaugeSpeed) + " %", p.gaugeSpeed, Math.floor(100 * world.map.scale), letter_sizeUI + 1, letter_sizeUI, "#ffffff", "#00aaaa", "#000000")
+            pUI.addGauge("life " + Math.floor(p.life) + "/" + Math.floor(p.lifeMax), p.life / p.lifeMax, Math.floor(100 * world.map.scale), letter_sizeUI + 1, letter_sizeUI, "#ffffff", "#ff0000", "#000000")
+            pUIList.push(pUI)
+        }
+        if (this.pUI_need_redraw) {
+            this.canvasPUI.cleanCanvas()
+            for (var z in pUIList) {
+                pUIList[z].drawUI()
+            }
+            this.pUI_need_redraw = false
+        }
+        this.drawProjectiles();
+    }
+
+    this.getPlayerByBlock = (block) => {
+        if (!block || block.x == undefined || block.y == undefined)
+            return undefined
+        return this.playerList.find(p => p.x == block.x && p.y == block.y)
+    }
+
+    this.get_next_turn = () => {
+        var best = undefined
+        var gauge_progress = 0
+        var gauge_speed = 0
+        for (var z in this.playerList) {
+            var p = this.playerList[z]
+            if ((1 - p.gaugeSpeed) / p.speed <= (1 - gauge_progress) / gauge_speed) {
+                if (best && ((1 - p.gaugeSpeed) * p.speed == (1 - gauge_progress) * gauge_speed))
+                    if (best.speed > p.speed)
+                        continue
+                best = p
+                gauge_progress = p.gaugeSpeed
+                gauge_speed = p.speed
+            }
+        }
+        if (!best)
+            return undefined
+        for (var z in this.playerList) {
+            var p = this.playerList[z]
+                p.gaugeSpeed += (1 - gauge_progress) * (p.speed / gauge_speed)
+        }
+        return best
+    }
+
+    this.getNextTurnList = (len) => {
+        var list = []
+        var players = []
+        for (var z in this.playerList) {
+            var p = this.playerList[z]
+            players[z] = {
+                player : p,
+                gaugeSpeed : p.gaugeSpeed,
+                speed : p.speed
+            }
+        }
+        if (len < 0 || players.length < 1)
+            return []
+        for (var i = 0; i < len; i++) {
+            var best = undefined
+            var gauge_progress = 0
+            var gauge_speed = 0
+            for (var z in players) {
+                var p = players[z]
+                if ((1 - p.gaugeSpeed) / p.speed <= (1 - gauge_progress) / gauge_speed) {
+                    if (best && ((1 - p.gaugeSpeed) * p.speed == (1 - gauge_progress) * gauge_speed))
+                        if (best.speed > p.speed)
+                            continue
+                    best = p
+                    gauge_progress = p.gaugeSpeed
+                    gauge_speed = p.speed
+                }
+            }
+            if (!best)
+                continue
+            for (var z in players) {
+                var p = players[z]
+                    p.gaugeSpeed += (1 - gauge_progress) * (p.speed / gauge_speed)
+            }
+            best.gaugeSpeed = 0
+            list.push(best.player)
+        }
+        return list
+    }
+
+    this.nextTurn = (data) => {
+
+        var test_end = this.playerList.find(p => p.team == TEAM_AI)
+        var test_end2 = this.playerList.find(p => p.team == TEAM_HUMAN)
+        if (!test_end || !test_end2) {
+            console.log("end of the combat")
+            this.endFight()
+            return
+        } 
+        if (world.GameUI) {
+            world.GameUI.playersSelected = undefined
+            world.GameUI.blockSelected = undefined
+            world.GameUI.selecting_block = undefined
+            world.GameUI.highlightZone = undefined
+        }
+        if (world.players.Playerturn &&  world.players.Playerturn.AI && !world.players.Playerturn.AI.turnFinished)
+            return  //check if AI have finished his turn
+        if (this.Playerturn)
+            this.Playerturn.gaugeSpeed = 0
+        this.Playerturn = this.get_next_turn()
+        if (!this.Playerturn)
+            return
+        this.MessageSystem.addMessage({type : this.Playerturn.team , txt : this.Playerturn.name + " turn have started"})
+        if (data.map)
+            data.map.centerOnBlock(this.Playerturn)
+        if (data.GameUI)
+            data.GameUI.playersSelected = this.Playerturn
+        this.Playerturn.ActionPoint = this.Playerturn.ActionPointMax
+        if (this.Playerturn.AI)
+            this.Playerturn.AI.turnFinished = false
+    }
+    
+
+    this.endFight = () => {
+        world.GameUI = undefined
+        world.map = undefined
+        world.villageUI = new VillageUI(world.Screen.canList["GameUI"])
+        world.Screen.canList["mapFloor"].GetCanvasPos()
+        world.Screen.canList["mapFloor"].cleanCanvas()
+        world.Screen.canList["mapTopElem"].GetCanvasPos()
+        world.Screen.canList["mapTopElem"].cleanCanvas()
+        world.Screen.canList["players"].GetCanvasPos()
+        world.Screen.canList["players"].cleanCanvas()
+        world.Screen.canList["mapUI"].GetCanvasPos()
+        world.Screen.canList["mapUI"].cleanCanvas()
+        world.Music.stopSound("where-the-brave-may-live-forever")
+        world.village.battle = false
+        world.village.MessageSystem.addMessage({txt : "End of the battle"})
+    }
+}
+
+
+
+GameUI = function (canvas) {
+    GAME_UI_DEFAULTSIZE_X = 200
+    GAME_UI_DEFAULTMARGE = 5
+    GAME_UI_LETTER_SIZE = 30
+
+    GAME_UI_FONT = "'Footlight MT Light'"
+    GAME_UI_FONT_BUTTON = "'Bauhaus 93'"
+    GAME_UI_WINDOWINFO_MOUSETIME = 400
+
+    this.canvas = canvas
+    this.lenx = GAME_UI_DEFAULTSIZE_X
+    this.scale = 1
+    this.background = "#ffff66"
+    this.stroke = "#663300"
+    this.marge = GAME_UI_DEFAULTMARGE
+    this.needRedraw = true
+
+    this.fps = undefined
+
+    this.UI = undefined
+    this.PlayerInfodisplay = false
+
+    this.UIturn = undefined
+    this.UIturnExpanded = false
+    
+    this.UIevent = undefined
+    this.UIeventExpanded = false
+    this.eventPageOffset = {value : 0}
+
+    this.playersSelected = undefined
+    this.blockSelected = undefined
+    this.selecting_block = undefined
+    this.highlightZone = undefined
+    this.mouseInfoWindow = undefined
+    this.InfoWinfowPos = undefined
+
+    this.newGameInput = {
+        x : 10,
+        y : 10
+    }
+
+    this.mouseWasOnMouseLightLastDraw = true
+    this.init_check_mouse_move = () => {        //highlight button when mouse move over it
+        window.addEventListener('mousemove', (event) => {
+            var check = false
+            if (this.UIturn && this.UIturn.mouse_move_check(event.clientX, event.clientY) && !this.mouseWasOnMouseLightLastDraw) {
+                this.needRedraw = true
+                this.mouseWasOnMouseLightLastDraw = true
+                check = true
+            }
+            if (this.UI && this.UI.mouse_move_check(event.clientX, event.clientY) && !this.mouseWasOnMouseLightLastDraw){
+                this.needRedraw = true
+                this.mouseWasOnMouseLightLastDraw = true
+                check = true
+            }
+            if (this.UIevent && this.UIevent.mouse_move_check(event.clientX, event.clientY) && !this.mouseWasOnMouseLightLastDraw) {
+                this.needRedraw = true
+                this.mouseWasOnMouseLightLastDraw = true
+                check = true
+            }
+            if (!check && this.mouseWasOnMouseLightLastDraw) {
+                this.mouseWasOnMouseLightLastDraw = false
+                this.needRedraw = true
+            }
+            if (this == world.GameUI)
+                this.init_check_mouse_move()
+        }, {once : true});
+    }
+    this.init_check_mouse_move()
+
+
+    this.CheckInfoWindow = (redraw) => {
+        if (!world.Controler)
+            return false
+        var mpos = world.Controler.mousePos
+        if (!mpos)
+            return false
+        if (new Date().getTime() - mpos.lastTime < GAME_UI_WINDOWINFO_MOUSETIME) {
+            if (this.InfoWinfowPos) {
+                this.InfoWinfowPos = false
+                this.needRedraw = true;
+            }
+            return false
+        }
+
+        if (this.UI && this.UI.CheckInfoWindow(redraw))
+            return true
+        if (this.UIturn && this.UIturn.CheckInfoWindow(redraw))
+            return true
+        if (this.UIevent && this.UIevent.CheckInfoWindow(redraw))
+            return true
+
+        if (!this.mouseInfoWindow)
+            return false
+        if (!this.InfoWinfowPos)
+            this.InfoWinfowPos = {
+                x : mpos.x,
+                y : mpos.y
+            }
+        else if (!redraw && mpos.x == this.InfoWinfowPos.x && mpos.y == this.InfoWinfowPos.y)
+            return false
+        var UI = new MyUI(this.canvas, mpos.x, mpos.y, 50, 1, this.background, this.stroke, 1)
+        UI.addTextZone("     Info :", GAME_UI_LETTER_SIZE / 2, 9999, '#000000', GAME_UI_FONT)
+        var b = world.map.get_block_by_pixel(mpos)
+        for (var z in this.mouseInfoWindow) {
+            var e = this.mouseInfoWindow[z]
+            UI.addTextZone(e.txt + e.callback({block : b}), GAME_UI_LETTER_SIZE / 2, 9999, '#000000', GAME_UI_FONT)
+        }
+        UI.drawUI()
+    }
+
+    this.getKeyInput = (key) => {
+        if (this.UI && this.UI.key_buton_check(key))
+            return true
+        if (this.UIturn && this.UIturn.key_buton_check(key))
+            return true
+        if (this.UIevent && this.UIevent.key_buton_check(key))
+        if (key == 'ControlLeft' && this.cancel_menu())
+            return true
+        return false
+    }
+
+    this.cancel_menu = () => {
+        var test = false
+        if (this.PlayerInfodisplay) {
+            this.PlayerInfodisplay = false
+            return true
+        }
+        if (this.selecting_block) {
+            this.selecting_block = undefined
+            test = true
+        }
+        if (this.highlightZone) {
+            this.highlightZone = undefined
+            this.mouseInfoWindow = undefined
+            this.InfoWinfowPos = undefined
+            world.map.needRedraw = true
+            test = true
+        }
+        if (test)
+            return test
+        test = false           
+        if (this.playersSelected) {
+            this.playersSelected = undefined
+            test = true
+        }
+        if (this.blockSelected) {
+            this.blockSelected = undefined
+            test = true
+        }
+        if (test)
+            return true
+        return false
+    }
+
+    this.getMouseInput = (input) => {
+        var x = input.x
+        var y = input.y
+        if (input.button == 2) { //right click
+            var test = this.cancel_menu()
+            if (test)
+                return true
+        }
+        else {
+            if (this.UI && this.UI.click_buton_check(x, y))
+                return true
+            if (this.UIturn && this.UIturn.click_buton_check(x, y))
+                return true
+            if (this.UIevent && this.UIevent.click_buton_check(x, y))
+                return true
+            if (world.map)
+                var b = world.map.get_block_by_pixel({x : x, y : y})
+            if (!b)
+                return false
+            if (this.selecting_block && this.highlightZone && this.highlightZone.zone
+                    && !this.highlightZone.zone.find(z => z == b))
+                return false
+            if (this.selecting_block) {
+                this.selecting_block.callback({
+                    block : b,
+                    input : this.selecting_block.input
+                })
+                this.highlightZone = undefined
+                this.mouseInfoWindow = undefined
+                this.blockSelected = undefined
+                this.selecting_block = undefined
+                world.map.needRedraw = true
+                return true
+            }
+            else
+                this.blockSelected = b
+            this.playersSelected = b.player
+            return true
+        }
+        return false
+    }
+
+    this.SelectingBlockAction = (info) => {
+        if (!info || !info.callback)
+            return
+        this.selecting_block = {
+            callback : info.callback,
+            input : info.input,
+            info : info.info
+        }
+        this.needRedraw = true
+        if (info.highlight) {
+            this.highlightZone = {
+                zone : info.highlight.callback(info.highlight.input),
+                type : info.highlight.input.type
+            }
+            world.map.needRedraw = true
+        }
+        if (info.windowInfo) {
+            this.mouseInfoWindow = info.windowInfo
+        }
+    }
+
+    this.center_on_selected_player = () => {
+        if (!world.players.Playerturn)
+            return false
+        world.map.centerOnBlock(world.players.Playerturn)
+        this.playersSelected = world.players.Playerturn
+    }
+
+
+    this.DrawTabInfoPlayer = () => {0
+        var Uielm = []
+        Uielm.push({
+            type : "img",
+            img : this.playersSelected.bodyPartImg,
+            lenx : 200,
+            leny : 200,
+        })
+        this.UI.addHorizontalElem(Uielm)
+        var p = this.playersSelected
+        var txt = "" + p.name + " ("
+        var isenemy = p.team == TEAM_AI ? "enemy)" : "allied)"
+        txt += isenemy
+        txt += "\n" + p.life + "/" + p.lifeMax + " life point"
+        txt += "\n" + p.ActionPoint + "/" + p.ActionPointMax + " AP"
+        txt += "\n" + "Speed : " + p.speed
+        txt += "\n" + "Move AP cost : " + p.movePCost
+        for (var z in p.stats)
+            txt += "\n" + z + " : " + p.stats[z]
+        this.UI.addTextZone(txt, GAME_UI_LETTER_SIZE / 2, 9999, "#000000", GAME_UI_FONT)
+        if (p.weapon)
+            this.UI.addTextZone("weapon equiped : '" + p.weapon.name + "'\n" + p.weapon.getWeaponAttackDescription(), GAME_UI_LETTER_SIZE / 2, 9999, "#000000", GAME_UI_FONT)
+        if (p.armor)
+            this.UI.addTextZone("armor equiped : " + p.armor.getArmorDescription(), GAME_UI_LETTER_SIZE / 2, 9999, "#000000", GAME_UI_FONT)
+    }
+
+    this.drawMessageSystemEvents = () => {
+        this.UIevent = new MyUI(this.canvas, this.UIturn.lenx + this.UI.lenx, 0, 5, this.scale, this.background, this.stroke, this.marge)
+        var first_line = []
+        first_line.push({
+            type : "button",
+            mouseLight : "ff",
+            callback : () => {this.UIeventExpanded = !this.UIeventExpanded},
+            callback_data : GAME_UI_FONT,
+            txt : "Events",
+            txt_color : "#000000",
+            max_letters : 9999,
+            letter_size : 20,
+            txt_font : VILLAGE_UI_FONT,
+            fillColor : "#ffffff88",
+            strokeColor : this.UIeventExpanded ? "#00000000" : "ff0000",
+            windowInfo : [{
+                callback : () => {return "extand the event window"},
+                input : z,
+            }]
+        })
+        if (this.UIeventExpanded) {
+            var elms = this.GetPageSelector(this.eventPageOffset)
+            for (var z in elms)
+                first_line.push(elms[z])
+        }
+            
+        this.UIevent.addHorizontalElem(first_line)
+        //if (!this.UIeventExpanded && world.players && world.players.MessageSystem.msg.length) 
+        //    this.displayMessageEvent(world.players.MessageSystem.msg[0])
+        
+
+            
+        //this.UIevent.addButton("Events", 20, "#000000", "#ffffff88", this.UIeventExpanded ? "#00000000" : "ff0000", () => {this.UIeventExpanded = !this.UIeventExpanded}, undefined, GAME_UI_FONT, undefined, undefined, "ff")
+        
+        if (this.UIeventExpanded && world.players) {
+            var msgId = -1;
+            for (var z = this.eventPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW; z >= this.eventPageOffset.value; z--) {
+                msgId++
+                var msg = world.players.MessageSystem.msg[z]
+                if (z >= world.players.MessageSystem.msg.length)
+                    continue
+                if (!msg)
+                    break
+                this.displayMessageEvent(msg)
+            }
+        }
+        
+        console.log(this.eventPageOffset.value)
+        this.UIevent.drawUI()
+    }
+
+    this.drawGameUI = () => {
+        if (!world.map || !world.players)
+            return
+        this.needRedraw = false
+        this.canvas.GetCanvasPos()
+        this.canvas.cleanCanvas()
+
+
+        //Turn UI
+        this.UIturn = new MyUI(this.canvas, 0, 0, 50, this.scale, this.background, this.stroke, 1)
+
+
+        this.UIturn.addHorizontalElem([{
+            type : "button",
+            mouseLight : "ff",
+            callback : () => {this.UIturnExpanded = !this.UIturnExpanded},
+            callback_data : GAME_UI_FONT,
+            txt : "Turns",
+            txt_color : "#000000",
+            max_letters : 9999,
+            letter_size : 20,
+            txt_font : VILLAGE_UI_FONT,
+            fillColor : "#ffffff88",
+            strokeColor : this.UIeventExpanded ? "#00000000" : "ff0000",
+            windowInfo : [{
+                callback : () => {return "extand the Turns window"},
+                input : z,
+            }]
+        }])
+        //this.UIturn.addButton("Turns", 20, "#000000", "#ffffff88", this.UIturnExpanded ? "#00000000" : "ff0000", () => {this.UIturnExpanded = !this.UIturnExpanded}, undefined, GAME_UI_FONT, undefined, undefined, "ff")
+
+        var playersTurnList = world.players.getNextTurnList(15)
+        for (var z in playersTurnList) {
+            var p = playersTurnList[z]
+            var Uielm = []
+            Uielm.push({
+                type : "img",
+                img : p.bodyPartImg,
+                lenx : 30,
+                leny : 30
+            })
+            if (this.UIturnExpanded)
+                Uielm.push({
+                    type : "button",
+                    mouseLight : "ff",
+                    callback : (p) => {this.playersSelected = p;if (world.map) world.map.centerOnBlock(p)},
+                    callback_data : p,
+                    txt : p.name,
+                    txt_color : p.team == TEAM_HUMAN ? '#0088ff' : '#ff0000',
+                    max_letters : 9999,
+                    letter_size : 30,
+                    txt_font : VILLAGE_UI_FONT,
+                    fillColor : "#ffffff88",
+                    strokeColor : this.playersSelected == p ? "#000000ff" : "#00000000",
+                    windowInfo : [{
+                        callback : (z) => {return "I will play in " + z + " turn"},
+                        input : z,
+                    }]
+                })
+            this.UIturn.addHorizontalElem(Uielm)
+        }
+        
+        this.UIturn.drawUI()
+
+
+        
+        
+
+        //MAIN UI
+        this.UI = new MyUI(this.canvas, this.UIturn.lenx, 0, this.lenx, this.scale, this.background, this.stroke, this.marge)
+
+        /*
+        var txtFps = "No FPS"
+        if (this.fps)
+            txtFps = "FPS = " + this.fps + "ips"
+        //this.UI.addTextZone(txtFps, GAME_UI_LETTER_SIZE, 9999, "#000000", GAME_UI_FONT)
+        */            
+        if (this.PlayerInfodisplay && this.playersSelected) {
+            this.DrawTabInfoPlayer()
+            this.UI.addButton((this.PlayerInfodisplay && this.playersSelected ? "return" : "info"), GAME_UI_LETTER_SIZE, "#000000", "#ffffff", this.stroke, () => {this.PlayerInfodisplay = !this.PlayerInfodisplay}, undefined, GAME_UI_FONT, undefined, undefined, "ff")
+        }
+        
+        else {
+            /*
+            var txtBlockSelect = "No block selected"
+            if (this.blockSelected) {
+                var txtBlockSelect = "x : " + this.blockSelected.x + "  y : " + this.blockSelected.y
+                this.UI.addTextZone(txtBlockSelect, GAME_UI_LETTER_SIZE, 9999, "#000000", GAME_UI_FONT)
+            }
+            */
+            
+            if (world.players.Playerturn) {
+                this.UI.addButton("End Turn", GAME_UI_LETTER_SIZE, '#ffff00', '#0320fb', this.stroke, world.players.nextTurn, {map : world.map, GameUI : world.GameUI}, GAME_UI_FONT, "Enter")
+                this.UI.addButton("center on player", GAME_UI_LETTER_SIZE, '#000000', '#11ff33', this.stroke, this.center_on_selected_player, undefined, GAME_UI_FONT, "Space")
+                
+            }
+            else
+                this.UI.addButton("Next Turn", GAME_UI_LETTER_SIZE, '#ffff00', '#0000fb', this.stroke, world.players.nextTurn, {map : world.map, GameUI : world.GameUI}, GAME_UI_FONT, "Enter")
+                
+            if (this.blockSelected && !this.playersSelected) {
+                var x = this.blockSelected.x
+                var y = this.blockSelected.y
+                var color = {
+                    r : Math.floor(Math.random() * 256),
+                    g : Math.floor(Math.random() * 256),
+                    b : Math.floor(Math.random() * 256)
+                }
+                this.UI.addButton("spawn player", GAME_UI_LETTER_SIZE, '#000000', '#ff66ff', this.stroke, world.players.createPlayer, {x : x, y : y, color : color}, GAME_UI_FONT)
+            }
+                
+            if (this.playersSelected) {
+                var p = this.playersSelected
+                //this.UI.addTextZone(p.name, GAME_UI_LETTER_SIZE, 9999, "#000000", GAME_UI_FONT)
+                this.UI.addButton(p.name, GAME_UI_LETTER_SIZE, "#000000", "#ffffff", this.stroke, () => {this.PlayerInfodisplay = !this.PlayerInfodisplay}, undefined, GAME_UI_FONT, undefined, undefined, "ff")
+                if (this.playersSelected == world.players.Playerturn && this.playersSelected.team == TEAM_HUMAN) {
+                    if (p.bodyPartImg && p.bodyPartImgReady && p.bodyPartImg.complete)
+                        this.UI.addImage(p.bodyPartImg, 100, 100)
+                    else
+                        this.needRedraw = true
+                    if (this.selecting_block)
+                        this.UI.addTextZone("left mouse :\n" + this.selecting_block.info, GAME_UI_LETTER_SIZE * 0.8, 20, "#000000", GAME_UI_FONT)
+                    else {
+                        for (var z in p.capacityList) {
+                            var c = p.capacityList[z]
+                            this.UI.addButton(c.name, GAME_UI_LETTER_SIZE, '#000000', '#ff66ff', this.stroke, this.SelectingBlockAction, {
+                                callback : c.callback, 
+                                info : c.description, 
+                                highlight : {
+                                    callback : c.zone_target_area,
+                                    input : c.zone_selecting_input,
+                                },
+                                windowInfo : c.windowInfo
+                            }, GAME_UI_FONT, (parseInt(z) + 1))
+                        }
+                    }
+                }
+    
+            }
+        }
+
+        //turn event UI
+        this.drawMessageSystemEvents()
+
+        
+        this.UI.drawUI()
+        
+
+
+        //UI event
+
+
+        this.CheckInfoWindow(true)
+    }
+
+    this.GetPageSelector = (input) => {      
+        var buildingPageSelector = [{
+            type : "button",
+            callback : () => {input.value = (input.value > 0) ? input.value - 1 : 0},
+            txt : "∧",
+            txt_color : "#ffffff",
+            mouseLight : "88",
+            max_letters : 9999,
+            letter_size : 30,
+            txt_font : VILLAGE_UI_FONT_BUILDINGNAME,
+            fillColor : "#5500ff",
+            strokeColor : "#000000",
+            windowInfo : [{
+                callback : () => {return ("page up")},
+            }]
+        },{
+            type : "button",
+            callback : () => {input.value++},
+            txt : "∨",
+            txt_color : "#ffffff",
+            mouseLight : "88",
+            max_letters : 9999,
+            letter_size : 30,
+            txt_font : VILLAGE_UI_FONT_BUILDINGNAME,
+            fillColor : "#5500ff",
+            strokeColor : "#000000",
+            windowInfo : [{
+                callback : () => {return ("page down")},
+            }]
+        },{
+            type : "txt",
+            txt : "[" + input.value + ":" + (input.value + VILLAGE_UI_MAX_TAB_ELM_DRAW) + "]",
+            txt_color : '#000000',
+            max_letters : 9999,
+            letter_size : 15,
+            txt_font : VILLAGE_UI_FONT
+        }]
+        return (buildingPageSelector)
+    }
+    
+    this.displayMessageEvent = (msg) => {
+        if (!msg)
+            return;
+        var color = "#000000"
+        switch (msg.type) {
+            case TEAM_HUMAN :
+                color = "#0000ff"
+                break
+            case TEAM_AI :
+                color = "#ff0000"
+                break
+        }
+        this.UIevent.addTextZone(msg.txt, GAME_UI_LETTER_SIZE / 2, 9999, color, GAME_UI_FONT)
+    }
+    
+}
+
+ControlManager = function() {
+
+    this.keyDown = []
+    this.keyUp = []
+    this.mousePos = {
+        x : 0,
+        y : 0,
+        lastTime : new Date().getTime()
+    }
+
+    window.addEventListener('keydown', (event) => {
+        if (event.repeat)
+            return
+        var name = event.key;
+        var code = event.code;
+        this.keyDown[code] = true
+        //console.log("key code : " + code)
+    });
+    window.addEventListener('keyup', (event) => {
+        var name = event.key;
+        var code = event.code;
+        this.keyDown[code] = false
+        this.keyUp[code] = true
+    });
+    window.addEventListener('wheel', (event) => {
+        var wheelDir = event.deltaY
+        if (world.map) {
+            if (wheelDir > 0)
+                world.map.changeMapView(0, 0, 0.95);
+            else if (wheelDir < 0)
+                world.map.changeMapView(0, 0, 1.05);
+        }
+
+    })
+    window.addEventListener('mouseup', (event) => {
+        var topc = world.Screen.canList["mapFloor"];
+        pos = topc.getPixelPosition(event.clientX, event.clientY)
+        if (pos) {
+            this.inputclick = {
+                x : pos.x,
+                y : pos.y,
+                button : event.button
+            }
+        }
+    });
+    window.addEventListener('mousemove', (event) => {
+        var topc = world.Screen.canList["mapFloor"];
+        this.mousePos = topc.getPixelPosition(event.clientX, event.clientY)
+        if (this.mousePos)
+            this.mousePos.lastTime = new Date().getTime()
+    });
+
+
+
+    this.CheckControlInput = () => {
+        var GameUigetInput = false
+
+        ///check jey down
+        if (world.map) {
+            if (this.keyDown['KeyW']) 
+                world.map.changeMapView(0, -0.1 / world.map.scale, 1);
+            if (this.keyDown['KeyS']) 
+                world.map.changeMapView(0, 0.1 / world.map.scale, 1);
+            if (this.keyDown['KeyA']) 
+                world.map.changeMapView(-0.1 / world.map.scale, 0, 1);
+            if (this.keyDown['KeyD']) 
+                world.map.changeMapView(0.1 / world.map.scale, 0, 1);
+            if (this.keyDown['ArrowUp']) 
+                world.map.changeMapView(0, -0.1 / world.map.scale, 1);
+            if (this.keyDown['ArrowDown']) 
+                world.map.changeMapView(0, 0.1 / world.map.scale, 1);
+            if (this.keyDown['ArrowLeft']) 
+                world.map.changeMapView(-0.1 / world.map.scale, 0, 1);
+            if (this.keyDown['ArrowRight']) 
+                world.map.changeMapView(0.1 / world.map.scale, 0, 1);
+            if (this.keyDown['NumpadSubtract']) 
+                world.map.changeMapView(0, 0, 0.95);
+            if (this.keyDown['NumpadAdd']) 
+                world.map.changeMapView(0, 0, 1.05);
+        }
+
+
+
+
+        //check key up
+        if (this.keyUp['KeyF']) {
+            if (!world.Screen.fullScreen)
+                world.Screen.openFullscreen()
+            else
+                world.Screen.closeFullscreen(document)
+            world.Music.playSound("click", undefined, true)
+        }
+        for (var z in this.keyUp) {
+            if (!GameUigetInput && z.startsWith("Digit") || z.startsWith("Numpad"))
+                z = z.replace("Digit", "").replace("Numpad", "")
+            if (world.GameUI && !GameUigetInput && world.GameUI.getKeyInput(z)) {
+                world.Music.playSound("click", undefined, true)
+                GameUigetInput = true
+                if (world.GameUI)
+                    world.GameUI.needRedraw = true;
+                break
+            }
+            if (world.villageUI && world.villageUI.getKeyInput(z)) {
+                world.Music.playSound("click", undefined, true)
+                GameUigetInput = true
+                if (world.villageUI)
+                    world.villageUI.needRedraw = true
+                break
+            }
+        }
+        this.keyUp = []
+
+
+
+
+        //check mouse click
+        if (this.inputclick) {
+            if (!GameUigetInput && world.GameUI && world.GameUI.getMouseInput(this.inputclick)) {
+                world.Music.playSound("click", undefined, true)
+                GameUigetInput = true
+                if (world.GameUI)
+                    world.GameUI.needRedraw = true;
+            }
+            if (!GameUigetInput && world.villageUI && world.villageUI.getMouseInput(this.inputclick)) {
+                world.Music.playSound("click", undefined, true)
+                GameUigetInput = true
+                if (world.villageUI)
+                    world.villageUI.needRedraw = true;
+            } 
+        }
+        this.inputclick = undefined
+  
+    }
+}
+PLAYER_WEAPON_IMG = [
+    {
+        name : "stone_spear",
+        center : {x : 161, y : 13},
+        sound : "spear_attack"
+    },
+    {
+        name : "metal_sword",
+        center : {x : 40, y : 17},
+        sound : "attack_metal_slash"
+    },
+    {
+        name : "metal_axe",
+        center : {x : 60, y : 64},
+        sound : "attack_bigaxe"
+    },
+    {
+        name : "wood_stick",
+        center : {x : 22, y : 17},
+        sound : "smash"
+    },
+    {
+        name : "stone_axe",
+        center : {x : 50, y : 55},
+        sound : "smash"
+    },
+    {
+        name : "small_woodBow",
+        center : {x : 57, y : 37},
+        sound : "bow attack"
+    },
+    {
+        name : "stone_pickaxe",
+        center : {x : 65, y : 70},
+        sound : "mine"
+    },
+]
+
+WEAPON_TYPE = [  
+    {   name : "Wood Stick",
+        Img : "wood_stick",
+        weaponAnim : "sword",
+        bonus : [],
+        actionCost : 25,
+        blockTargetingFunction :  {
+            callback : "getBlockAdjacent",
+            input : {}
+        },
+        zoneTarget : [
+            {
+                callback : "ReturnBlockTargeted",
+                damageBase : [  
+                    {
+                        stats : "Strength",
+                        type : "crushing",
+                        value : 1
+                    },
+                ],
+            },
+        ]
+    },
+    {   name : "Stone Spear",
+        Img : "stone_spear",
+        weaponAnim : "spear",
+        bonus : [],
+        actionCost : 40,
+        blockTargetingFunction :  {
+            callback : "getBlocksAtRangeFromPlayer",
+            input : {
+                rangeMin : 1,
+                rangeMax : 2
+            }
+        },
+        zoneTarget : [
+            {
+                callback : "ReturnBlockTargeted",
+                damageBase : [  
+                    {
+                        stats : "Strength",
+                        type : "piercing",
+                        value : 1.5
+                    },
+                ],
+            },
+            {
+                callback : "getBlockBehindTarget",
+                damageBase : [  
+                    {
+                        stats : "Strength",
+                        type : "piercing",
+                        value : 0.5
+                    },
+                ],
+            },
+        ]
+    },
+    {   name : "Stone Axe",
+        Img : "stone_axe",
+        weaponAnim : "sword",
+        bonus : [BONUS_AXE_FOREST_WOOD],
+        actionCost : 33,
+        blockTargetingFunction :  {
+            callback : "getBlocksAtRangeFromPlayer",
+            input : {
+                rangeMin : 1,
+                rangeMax : 1
+            }
+        },
+        zoneTarget : [
+            {
+                callback : "ReturnBlockTargeted",
+                damageBase : [  
+                    {
+                        stats : "Strength",
+                        type : "crushing",
+                        value : 1
+                    },
+                    {
+                        stats : "Strength",
+                        type : "slashing",
+                        value : 1
+                    }
+                ],
+            },
+        ]
+    },
+    {   name : "Metal Sword",
+        Img : "metal_sword",
+        weaponAnim : "sword",
+        actionCost : 40,
+        bonus : [],
+        blockTargetingFunction :  {
+            callback : "getBlocksAtRangeFromPlayer",
+            input : {
+                rangeMin : 1,
+                rangeMax : 1
+            }
+        },
+        zoneTarget : [
+            {
+                callback : "ReturnBlockTargeted",
+                damageBase : [  
+                    {
+                        stats : "Strength",
+                        type : "piercing",
+                        value : 1.5
+                    },
+                    {
+                        stats : "Strength",
+                        type : "slashing",
+                        value : 1.5
+                    }
+                ],
+            },
+        ]
+    },
+    {   name : "Metal Axe",
+        Img : "metal_axe",
+        weaponAnim : "sword_2h",
+        actionCost : 50,
+        bonus : [],
+        blockTargetingFunction :  {
+            callback : "getBlocksAtRangeFromPlayer",
+            input : {
+                rangeMin : 2,
+                rangeMax : 2
+            }
+        },
+        zoneTarget : [
+            {
+                callback : "ReturnBlockTargeted",
+                damageBase : [  
+                    {
+                        stats : "Strength",
+                        type : "crushing",
+                        value : 2
+                    },
+                    {
+                        stats : "Strength",
+                        type : "slashing",
+                        value : 2
+                    }
+                ],
+            },
+            {
+                callback : "getBlocksAtRange",
+                callback_data : {
+                    rangeMin : 1,
+                    rangeMax : 1
+                },
+                damageBase : [  
+                    {
+                        stats : "Strength",
+                        type : "crushing",
+                        value : 0.2
+                    },
+                    {
+                        stats : "Strength",
+                        type : "slashing",
+                        value : 0.2
+                    }
+                ],
+            },
+        ]
+    },
+    {   name : "Small Woodbow",
+        Img : "small_woodBow",
+        weaponAnim : "bow",
+        bonus : [],
+        projectil : {
+            ammo : "wood_arrow",
+            projectilSpeed : 100,     //time in ms for move a block distance, its actually 1/speed
+            sound : "arrow_projectil"
+        },
+        actionCost : 50,
+        blockTargetingFunction :  {
+            callback : "getBlocksAtDistRangeFromPlayer",
+            input : {
+                rangeMin : 2,
+                rangeMax : 4
+            }
+        },
+        zoneTarget : [
+            {
+                callback : "ReturnBlockTargeted",
+                damageBase : [  
+                    {
+                        stats : "Dexterity",
+                        type : "piercing",
+                        value : 1
+                    },
+                ],
+            },
+        ]
+    },
+    {   name : "Stone Pickaxe",
+        Img : "stone_pickaxe",
+        weaponAnim : "sword",
+        actionCost : 40,
+        bonus : [BONUS_PICKAXE_MINE],
+        blockTargetingFunction :  {
+            callback : "getBlockAdjacent",
+            input : {}
+        },
+        zoneTarget : [
+            {
+                callback : "ReturnBlockTargeted",
+                damageBase : [  
+                    {
+                        stats : "Strength",
+                        type : "piercing",
+                        value : 2
+                    },
+                ],
+            },
+        ]
+    },
+]
+
+Weapon = function () {
+    this.itemType = "weapon"
+    this.name
+    this.weaponAnim
+    this.zoneTarget
+    this.img
+    this.anim
+    this.zoneTarget
+    this.actionCost
+    this.blockTargetingFunction
+    this.bonus
+
+    this.createNewWeapon = (input) => {
+        if (!input || !input.name)
+            return console.log("can't create this weapon")
+        var wp = WEAPON_TYPE.find(a => a.name == input.name)
+        if (!wp)
+            return console.log("can't create this weapon")
+        var img = PLAYER_WEAPON_IMG.find(a => a.name == wp.Img)
+        if (!img)
+            return console.log("can't create this weapon")
+        this.img = img.name
+        this.name = input.name
+        this.anim = wp.weaponAnim
+        this.zoneTarget = wp.zoneTarget
+        this.actionCost = wp.actionCost
+        this.blockTargetingFunction = wp.blockTargetingFunction
+        this.projectil = wp.projectil
+        this.bonus = wp.bonus
+        console.log("WEAPON BONUS / " + this.bonus.length)
+        return this
+    }
+
+    this.createRandomWeapon = () => {
+        var type = WEAPON_TYPE[Math.floor(Math.random() * WEAPON_TYPE.length)]
+        return this.createNewWeapon({name : type.name})
+    }
+
+    this.getWeaponAttackDescription = () => {
+        var txt = "Attack with " + this.name + " for " + this.actionCost + " action points"
+        switch (this.blockTargetingFunction.callback) {
+            case "getBlockAdjacent" :
+                txt += "\nTarget adjacents blocks"
+                break
+            case "getBlocksAtRangeFromPlayer" :
+                txt += "\nTarget between [" + this.blockTargetingFunction.input.rangeMin + "," + this.blockTargetingFunction.input.rangeMax + "]"
+                break
+        }
+        for (var z in this.zoneTarget) {
+            var t = this.zoneTarget[z]
+            switch (t.callback) {
+                case "ReturnBlockTargeted":
+                    txt += "\n-hit the selected block"
+                    break
+                case "getBlockBehindTarget":
+                    var min = t.callback_data ? t.callback_data.rangeMin : 1
+                    var max = t.callback_data ? t.callback_data.rangeMax : 1
+                    txt += "\n-hit between [" + [min, max] + "] blocks behind the target"
+                    break
+                case "getBlocksAtRange":
+                    var min = t.callback_data ? t.callback_data.rangeMin : 1
+                    var max = t.callback_data ? t.callback_data.rangeMax : 1
+                    txt += "\n-hit [" + [min, max] + "] distance around the target"
+                    break
+            }
+            for (var i in t.damageBase) {
+                var dmg = t.damageBase[i]
+                txt += "\n-- x" + dmg.value + " " + dmg.stats + " " + dmg.type + " damage"
+            }
+        }
+        for (var z in this.bonus) 
+            if (BONUS_DESCRIPTION[this.bonus])
+                txt += "\n" + BONUS_DESCRIPTION[this.bonus]
+        return txt
+    }
+
+}
+
+function CalculeDamageWeaponFromPlayerStats (input) {
+    if (!input || !input.player || !input.damage)
+        return undefined
+    var d = input.damage
+    var p = input.player
+    var dmgList = []
+    for (var z in d) 
+        dmgList.push({type : d[z].type, value : p.stats[d[z].stats] * d[z].value})
+
+
+    return dmgList
+}
+// dmg : "crushing", "slashing", "piercing"
+//type (if factor) -> -%value 
+//      else : brute data -value 
+
+
+PLAYER_ARMOR = [{
+    name : "Wood Armor",
+    img : "wood_armor",
+    dmgArmor : [
+        {
+            damage : "crushing",
+            type : "factor",
+            value : 20
+        },
+        {
+            damage : "piercing",
+            value : 2
+        }
+    ]
+}]
+
+PLAYER_ARMOR = [{
+    name : "Miner helmet",
+    img : "miner_helmet",
+    dmgArmor : [
+        {
+            damage : "crushing",
+            type : "factor",
+            value : 25
+        },
+        {
+            damage : "crushing",
+            value : 5
+        }
+    ]
+}]
+
+
+Armor = function () {
+    this.itemType = "armor"
+    this.name
+    this.img
+    this.dmgArmor
+
+    this.createNewArmor = (input) => {
+        if (!input || !input.name)
+            return undefined
+        this.name = input.name
+        var ar = PLAYER_ARMOR.find(a => a.name == input.name)
+        if (!ar)
+            return undefined
+        this.img = ar.img ? ar.img : this.name
+        this.dmgArmor = ar.dmgArmor
+
+        return this
+    }
+
+    this.createRandomArmor = () => {
+        return this.createNewArmor({name : PLAYER_ARMOR[Math.floor(Math.random() * PLAYER_ARMOR.length)].name})
+    }
+    
+    this.calculatDamageFromAttack = (input) => {
+        if (!input || !input.damages || input.damages.length < 1)
+            return 0
+        var val = 0
+        for (var z in input.damages) {
+            
+            var dmg = input.damages[z]
+            var nb = dmg.value
+            console.log("check dmg : " + dmg + " " + nb)
+            for (var i in this.dmgArmor) {
+                var arm = this.dmgArmor[i]
+                console.log("check protect " + [arm.damage, arm.type, dmg.type])
+                if (arm.damage == dmg.type) { //"piercing" == "piercing"
+                    console.log("reducing " + dmg.type + " by " + arm.value + " if %" + arm.type)
+                    if (arm.type)
+                        nb = nb * (1 - arm.value / 100)
+                    else
+                        nb = nb - arm.value
+                }
+            }
+            if (nb > 0)
+                val += nb
+        }
+        console.log("damage after armor reduction : " + val + " (" + Math.floor(val) + ")")
+        if (val > 0)
+            return Math.floor(val)
+        return 0
+    }
+
+    this.getArmorDescription = () => {
+        var txt = "'" + this.name + "'"
+        for (var z in this.dmgArmor) {
+            txt += "\n-reduce "
+            if (this.dmgArmor[z].type)
+                txt += this.dmgArmor[z].value + " % of "
+            else
+                txt += this.dmgArmor[z].value + " "
+            txt += this.dmgArmor[z].damage + " incoming damage"
+        }
+        return txt
+    }
+
+}
+HUMAN_NAME_LIST = ["Lilianna Doyle","Kashton McCarty","Halo Knapp","Boden Archer","Kadence Castaneda","Collin Snow","Alexia Anderson","Jacob Knapp","Linda Castillo","Kai Benjamin","Jianna Wood","Carson Hunter","Khloe Horn","Wilson Gill","Jordan Barker","Kade House","Sariah Cabrera","Cade Patton","Lorelei Alexander","Kingston Howell","Mckenna Leblanc","Braden Lucero","Ila Ellis","Cole Clayton","Saige McBride","Denver Leal","Murphy Nava","Stefan Christian","Anahi Strickland","Keegan Doyle","Annalise Carson","Ares Long","Jade Butler","Ryder Sandoval","Elsie Reynolds","Vincent Dougherty","Alisson Roberson","Shepherd Park","Lia Diaz","Nathan Beltran","Kaydence Xiong","Azrael Ali","Zelda Stevens","Zachary Holloway","Mae Gentry","Magnus Yoder","Emerie Hickman","Jakobe Hardin","Vada Conley","Marvin Herrera","Ximena Zimmerman","Sergio Welch","Amira Escobar","Zachariah Berg","Emmalyn Spence","Cillian Ray","Ruth Stout","Callahan Schmitt","Queen Watson","Greyson Walker","Hazel Crawford","Kevin Wiggins","Capri Glenn","Zaid Terry","Wren Costa","Kenji McLaughlin","Stephanie Bradley","Richard Lee","Scarlett Mays","Jadiel McDonald","Daisy Robinson","Matthew Beil","Itzel Allison","Dennis Parrish","Tiana Daniel","Grady O’Neal","Treasure Quintana","Kelvin Fischer","Maci Alvarado","Andres Sampson","Meilani Olson","Malachi Garza","River Hunter","Archer Baxter","Lara Barnett","Stephen Bartlett","Aubrielle Farmer","Jamison Pace","Giana Hudson","Peter Tate","Skye Ramirez","David Grant","Alaina Bradford","Ander Wise","Mira Acevedo","Dakari Poole","Bonnie Bishop","Paxton Pollard","Marisol Humphrey","Krew Pruitt"]
+
+MessageSystem = function () {
+    world.MessageSystem = this
+    this.msg = [];
+
+    COLOR_SYSTEM_DEFAULT = "#000000"
+    MAX_MESSAGE = 200
+
+    this.addMessage = (input) => {
+        if (!input || !input.txt)
+            return
+        this.msg.unshift({
+            type : input.type,
+            txt : input.txt
+        })
+        while (this.msg.length > MAX_MESSAGE)
+            this.msg.pop()
+    }
+    
+    this.addMessage({txt : "start message system"})
+
+    this.getMessageSystem = (input) => {
+        if (!input || !this.msg || this.msg.length < 1)
+            return []
+        var page = input.page && input.page < this.msg.length ? input.page : 0  //the id of the message you start
+        var lineMax = input.lineMax ? input.lineMax : 10        //number of message displayed
+        while (page + lineMax > this.msg.length && lineMax > 0)
+            lineMax--
+        var res = []
+        var i = 0
+        while (i < lineMax && this.msg[page + i]) {
+            res.push(this.msg[page + i])
+            i++
+        }
+        return res
+    }
+}
+
+PlayerVillage = function (input) {
+    this.name = input.name ? input.name : HUMAN_NAME_LIST[Math.floor(Math.random() * HUMAN_NAME_LIST.length)]
+    this.color = input.color ? input.color : {
+        r : Math.floor(Math.random() * 256),
+        g : Math.floor(Math.random() * 256),
+        b : Math.floor(Math.random() * 256),
+    }
+    this.bodyPartImg = undefined
+    this.bodyPartImgReady = false;
+    this.face_type = input.face_type ? input.face_type : PLAYER_FACE_IMG[Math.floor(Math.random() * PLAYER_FACE_IMG.length)]
+    this.body_type = input.body_type ? input.body_type : PLAYER_BODY_IMG[Math.floor(Math.random() * PLAYER_BODY_IMG.length)]
+    this.armor = input.armor ? input.armor : undefined
+    this.weapon = input.weapon ? input.weapon : undefined
+    this.speed = input.speed ? input.speed : 100
+    this.ActionPointMax = input.ActionPointMax ? input.ActionPointMax : 100
+    this.lifeMax = input.lifeMax ? input.lifeMax : 100
+    this.stats = input.stats
+    this.movePCost = input.movePCost ? input.movePCost : PLAYER_DEFAUTL_MOVECOST
+    this.size = input.size ? input.size : 1
+    this.id = PLAYER_ID++
+    this.villageActionPointMax = input.villageActionPointMax ? input.villageActionPointMax : 10
+    this.villageActionPoint = this.villageActionPointMax
+    this.age = input.age ? input.ago : 0
+    this.lvl = input.lvl ? input.lvl : 1
+    this.lvlup = input.lvlup ? input.lvlup : 0
+    this.lvlupList = []
+
+    this.getLvlUpPerkList = () => {
+        var list = []
+        var randtype = Math.floor(Math.random() * 100) //select type of buff
+        var type = "stats"
+
+        var ListP = [
+            {type : "stats", stat : "Strength", value : 1},
+            {type : "stats", stat : "Dexterity", value : 1},
+            {type : "playerstats", stat : "lifeMax", value : 5},
+            {type : "playerstats", stat : "speed", value : 2},
+            {type : "playerstats", stat : "movePCost", value : -1},
+            {type : "playerstats", stat : "ActionPointMax", value : 4},
+            {type : "playerstats", stat : "villageActionPointMax", value : 5},
+        ]
+        while (list.length < 3) {
+            for (var z in ListP) {
+                if (Math.floor(Math.random() * 100) < 50)
+                    list.push(ListP[z])
+                if (list.length > 2)
+                    break
+            }
+        }
+
+        this.lvlupList = list
+        return list
+    }
+
+    this.ApplyListPerkUp = (input) => {
+        if (!input || !input.type || !this.lvlup)
+            return
+        if (input.type == "playerstats") {
+            this[input.stat] += input.value
+        }
+        else if (input.type == "stats") {
+            this.stats[input.stat] += input.value
+        }
+        world.village.MessageSystem.addMessage({type : "player", txt : this.name + "'s " + input.stat + " " + input.value})
+        this.lvlupList = []
+        this.lvlup--
+        this.lvl++
+    }
+
+    this.tryLvLup = () => {
+        var chanceLvLup = 50 * (1 - this.lvl / 100)
+        var rand = Math.floor(Math.random() * 100)
+        if (rand < chanceLvLup) {
+            this.lvlup++
+            world.village.MessageSystem.addMessage({type : "player", txt : this.name + " can lvl up ++"})
+            world.Music.playSound("lvlup")
+            return true
+        }
+        return false
+    }
+
+    this.getVillageUItext = () => {
+        var txt = "" + this.name
+        txt += "\n" + "Life Max : " + this.lifeMax
+        txt += "\n" + "Action Point : " + this.ActionPointMax
+        txt += "\n" + "Speed : " + this.speed
+        for (var z in this.stats)
+            txt += "\n" + z + " : " + this.stats[z]
+        if (this.weapon) {
+            txt += "\n" + "Equiped with '" + this.weapon.name + "'"
+            txt += "\n" + "weapon : " + [this.weapon.blockTargetingFunction.callback]
+        }
+        return txt
+    }
+
+    this.get_valid_action_in_affected_building = () => {
+        if (!this.villageActionPoint)
+            return []
+        var b = world.village.getBatFromPlayer(this)
+        if (!b || !b.callback_actionPlayer || !b.callback_actionPlayer.length)
+            return []
+        var list = b.callback_actionPlayer.filter(a => a.cost <= this.villageActionPoint)
+        return list
+    }
+
+    this.unequipWeapon = () => {
+        if (this.weapon) {
+            world.village.addWeaponToVillageInventory({weapon : this.weapon})
+            this.weapon = undefined
+        }
+    }
+
+    this.unequipArmor = () => {
+        if (this.armor)
+            world.village.addArmorToVillageInventory({armor : this.armor})
+        this.armor = undefined
+        this.bodyPartImgReady = false
+    }
+
+    this.unequipItem = (input) => {
+        if (!input || !input.item)
+            return
+        if (input.item.itemType == "armor")
+            this.unequipArmor()
+        else if (input.item.itemType == "weapon")
+            this.unequipWeapon()
+    }
+
+    this.equipWeapon = (input) => {
+        if (!input || !input.weapon)
+            return
+        var wid = -1
+        for (var z in world.village.Items)
+            if (world.village.Items[z] == input.weapon)
+                wid = z
+        if (wid == -1)
+            return 
+        if (this.weapon)
+            this.unequipWeapon()
+        this.weapon = input.weapon
+        world.village.Items.splice(wid, 1)
+        if (world.villageUI && world.villageUI.itemSelected == input.weapon)
+            world.villageUI.itemSelected = undefined
+    }
+
+    this.equipArmor = (input) => {
+        if (!input || !input.armor)
+            return
+        var wid = -1
+        for (var z in world.village.Items)
+            if (world.village.Items[z] == input.armor)
+                wid = z
+        if (wid == -1)
+            return 
+        if (this.armor)
+            this.unequipArmor()
+        this.armor = input.armor
+        world.village.Items.splice(wid, 1)
+        if (world.villageUI && world.villageUI.itemSelected == input.armor)
+            world.villageUI.itemSelected = undefined
+            this.bodyPartImgReady = false
+    }
+
+    this.equipItem = (input) => {
+        if (!input || !input.item)
+            return
+        if (input.item.itemType == "armor")
+            this.equipArmor()
+        else if (input.item.itemType == "weapon")
+            this.equipWeapon()
+    }
+
+    this.LoadPlayerVillageImage = () => {
+        var defaultImg = world.playerDefaultImgs
+        if (!this.face_type)
+            this.face_type = PLAYER_FACE_IMG[Math.floor(Math.random() * PLAYER_FACE_IMG.length)]
+        if (!this.body_type)
+            this.body_type = PLAYER_BODY_IMG[Math.floor(Math.random() * PLAYER_BODY_IMG.length)]
+        var imgs = []
+        imgs.push({name : this.body_type, needColor : true})
+        imgs.push({name : this.face_type, needColor : false})
+        if (this.armor)
+            imgs.push({name : this.armor.name, needColor : false})
+        for (var z in imgs)
+            if (!defaultImg[imgs[z].name] || !defaultImg[imgs[z].name].ready)
+                return console.log("can't with " + imgs[z].name)
+        var canvas = document.createElement("canvas")// new OffscreenCanvas(this.img.width, this.img.height)
+        canvas.width = PLAYER_DEFAULT_SIZEX
+        canvas.height = PLAYER_DEFAULT_SIZEY
+        var ctx = canvas.getContext("2d")
+        for (var z in imgs) {
+            var name = imgs[z].name
+            if (!defaultImg[name])
+                return console.log("i dont have this image  : " + name)
+            var img = undefined
+            if (imgs[z].needColor)
+                img = defaultImg[name].GetColorImage(0, 255, 0, this.color.r, this.color.g, this.color.b)
+            else
+                img = defaultImg[name].img
+            if (!img || !img.complete)
+                return console.log("image incomplet")
+            ctx.drawImage(img, 0, 0)
+        }
+        var img = new Image()
+        img.src = canvas.toDataURL()
+
+        this.bodyPartImg = img
+        console.log("player " + this.name + " img loaded")
+        this.bodyPartImgReady = true;
+        return true
+    }
+    this.LoadPlayerVillageImage()
+}
+
+Batiment = function (input) {
+    this.name = input.name
+    this.player_size = input.player_size ? input.player_size : 0
+    this.callback_actionPlayer = input.callback_actionPlayer
+    this.players_inside = [];
+    this.description = input.description ? input.description : "no description"
+    this.blocking_end_turn = input.blocking_end_turn ? input.blocking_end_turn : false
+    this.imgIcon = input.imgIcon ? input.imgIcon : undefined
+    this.build_progression = input.build_progression ? input.build_progression : undefined
+    this.lvl = input.lvl ? input.lvl : undefined
+    this.upgrades = input.upgrades ? input.upgrades : []
+    this.upgrades_callback = input.upgrades_callback ? input.upgrades_callback : undefined
+
+    this.build = (input) => {
+        if (!input || !input.player || !input.player.villageActionPoint)
+            return false
+        var APspend = this.build_progression < input.player.villageActionPoint ? this.build_progression : input.player.villageActionPoint
+        this.build_progression -= APspend
+        input.player.villageActionPoint -= APspend
+        world.village.MessageSystem.addMessage({type : "building", txt : input.player.name + " is building '" + this.name + "' (+" + APspend + ")"})
+        if (this.build_progression < 1) {
+            this.build_progression = undefined
+            world.village.MessageSystem.addMessage({type : "building", txt : "the construction of '" + this.name + "' is finished"})
+        }
+        world.Music.playSound("hammer_nails")
+        return true
+    }
+
+    this.getNextUpgrade = () => {
+        if (!this.upgrades || !this.upgrades.length)
+            return undefined
+        return this.upgrades[0]
+    }
+
+    this.checkNextUpgrade = () => {
+        if (!this.upgrades || !this.upgrades.length)
+            return false
+        var up = this.getNextUpgrade()
+        if (up.resources) {
+            if (!world.village.checkHaveResources(up))
+                return console.log("dont have resources")
+        }
+        console.log("success check next uppgrade")
+        world.Music.playSound("hammer_nails")
+        return true
+    }
+
+    this.TryUpgrade = () => {
+        var up = this.getNextUpgrade()
+        if (this.checkNextUpgrade()) {
+            world.village.MessageSystem.addMessage({type : "building", txt : this.name + " uppgraded to LvL " + (this.lvl + 1)})
+            world.village.removeResource(up)
+            if (this.upgrades_callback)
+                this.upgrades_callback({bat : this})
+            this.upgrades.shift()
+            this.lvl++
+            
+        }
+    }
+}
+
+HUMAN_DEFAULT_COLOR = [
+    {r : 236, g : 223, b : 162},
+    {r : 198, g : 146, b : 117},
+    {r : 255, g : 198, b : 217},
+    {r : 183, g : 117, b : 81},
+    {r : 177, g : 73, b : 81},
+]
+
+CRAFT_LIST = [
+    {
+        name : "wood Stick",
+        type : "weapon",
+        bat : "workshop",
+        resources : {wood : 10},
+        APcost : 10,
+        description : "this weapon sucks, only noobs use it"
+    }, 
+    {
+        name : "Wood Armor",
+        type : "armor",
+        bat : "workshop",
+        resources : {wood : 25},
+        APcost : 10,
+        description : "better than nothing"
+    },
+    {
+        name : "Stone Axe",
+        type : "weapon",
+        bat : "workshop",
+        resources : {wood : 20, stone : 10},
+        APcost : 10,
+        description : "cut wood faster in forest"
+    },
+    {
+        name : "Stone Pickaxe",
+        type : "weapon",
+        bat : "workshop",
+        resources : {wood : 50, stone : 5},
+        APcost : 10,
+        description : "get more resources in mine"
+    },
+    {
+        name : "Stone Spear",
+        type : "weapon",
+        bat : "workshop",
+        resources : {wood : 50, stone : 5},
+        APcost : 10,
+        description : "hit the target behind"
+    },
+    {
+        name : "Miner helmet",
+        type : "armor",
+        bat : "workshop",
+        resources : {stone : 100, coal : 25},
+        APcost : 12,
+        description : "light your way in the mine, and protect against rock falling"
+    },
+    {
+        name : "Small Woodbow",
+        type : "weapon",
+        bat : "fletching station",
+        resources : {wood : 100},
+        APcost : 10,
+        description : "hit them from behind"
+    },
+]
+
+
+Village = function (input) {
+    this.populationMax = input.nb_houses ? input.nb_houses : 1
+    this.resources = input.resources ? input.resources : {
+        food : 0,
+        wood : 0,
+    }
+    this.players = input.players ? input.players : []
+
+    this.bats = input.bats ? input.bats : []
+    this.batsToBuild = []
+
+    this.week = input.week ? input.week : 0
+
+    this.MessageSystem = new MessageSystem()
+
+    var phaseId = 0
+    PHASE_NEWTURN = phaseId++
+    PHASE_PLACEPLAYER = phaseId++       //place player to buidling
+    PHASE_ACTIONPLAYER = phaseId++      //each building do action according to the player inside
+    PHASE_COMBAT = phaseId++            //if combat, generate map and fight
+    PHASE_END_TURN = phaseId++          
+    this.phase = PHASE_NEWTURN
+
+    this.Items = []
+    
+
+    //player will be genrated will a similar color
+    this.playerColor = input.playerColor ? input.playerColor : HUMAN_DEFAULT_COLOR[Math.floor(Math.random() * HUMAN_DEFAULT_COLOR.length)]
+
+    this.getDateText = () => {
+        var year = Math.floor(this.week / (12 * 4))
+        var month = Math.floor(this.week / 4) % 12
+        var week = (this.week % 4) + 1
+        var txt = "Turn " + this.week
+        txt += " : "
+        if (year)
+            txt += "year " + year
+        if (month)
+            txt += " month " + month
+        txt += " week " + week
+        return txt
+    }
+
+    this.get_valid_craft_list = () => {
+        var res = []
+        for (var z in CRAFT_LIST) {
+            var c = CRAFT_LIST[z]
+            var bat = this.bats.find(a => a.name == c.bat)
+            if (!bat || bat.build_progression)  //check if bat is build
+                continue
+            res.push(c)
+        }
+        return (res)
+    }
+
+    this.get_valid_player_for_craft = (input) => {
+        if (!input || !input.craft)
+            return []
+        var ret = []
+        var c = input.craft
+        for (var z in this.players) {
+            var p = this.players[z]
+            var b = this.getBatFromPlayer(p)
+            if (!b || b.name != c.bat)
+                continue
+            if (p.villageActionPoint < c.APcost)
+                continue
+            for (var i in c.resource) {
+                var res = i
+                var nb = c.resource[i]
+                if (!this.resources.res || this.resources.res < nb)
+                    continue
+            }
+            ret.push(p)
+        }
+        return ret
+    }
+
+    this.TryCraftItem = (input) => {
+        console.log("craft item")
+        if (!input || !input.craft || !input.player)
+            return console.log("bad input")
+        var craft = this.get_valid_craft_list()
+        var p = input.player
+        if (!craft || craft.length < 1)
+            return console.log("no crafts list")
+        craft = craft.find(a => a == input.craft)
+        if (!craft)
+            return console.log("invalid craft")
+        if (!this.get_valid_player_for_craft({craft : craft}).find(a => a == p))
+            return console.log("invalid player")
+        for (var z in craft.resources) {
+            var res = z
+            var nb = craft.resources[z]
+            if (this.resources[z] < nb) {
+                this.MessageSystem.addMessage({txt : "you don't have enought resource"})
+                return false
+            }
+        }
+        if (p.villageActionPoint < craft.APcost) {
+            this.MessageSystem.addMessage({txt : p.name + " don't have enought Action Point"})
+            return false
+        }
+        p.villageActionPoint -= craft.APcost
+        
+        switch (craft.type) {
+            case 'weapon':
+                this.addWeaponToVillageInventory({weapon : new Weapon().createNewWeapon({name : craft.name})})
+                break
+            case 'armor':
+                this.addArmorToVillageInventory({armor : new Armor().createNewArmor({name : craft.name})})
+        }
+        switch (craft.bat) {
+            case 'workshop':
+                world.Music.playSound("saw_workshop")
+                break
+            case 'Bow workshop':
+                world.Music.playSound("saw_workshop")
+                break
+        }
+        this.MessageSystem.addMessage({type : "job", txt : p.name + " crafted a " + craft.name})
+        this.removeResource(craft)
+    }
+
+    this.generateBasicPlayer = (input) => {
+        if (this.players.length >= this.populationMax)
+            return undefined
+        var color = {
+            r : this.playerColor.r - 5 + Math.floor(Math.random() * 11),
+            g : this.playerColor.g - 5 + Math.floor(Math.random() * 11),
+            b : this.playerColor.b - 5 + Math.floor(Math.random() * 11)
+        }
+        var player = new PlayerVillage({
+            color : color,
+            speed : 100 - 5 + Math.floor(Math.random() * 11),
+            stats : {
+                Strength : 10 - 5 + Math.floor(Math.random() * 11),
+                Dexterity : 10 - 5 + Math.floor(Math.random() * 11)
+            },
+            movePCost : PLAYER_DEFAUTL_MOVECOST - 2 + Math.floor(Math.random() * 5),
+            lifeMax : 100 - 20 + Math.floor(Math.random() * 41),
+            weapon : input.weapon ? new Weapon().createNewWeapon({name : input.weapon}) : undefined,
+            armor : input.armor ? new Armor().createNewArmor({name : input.armor}) : undefined,
+            size : 1,
+        })
+        this.players.push(player)
+        return player
+    }
+
+    this.getBatFromPlayer = (player) => {
+        if (!player)
+            return undefined
+        for (var z in this.bats) {
+            var test = this.bats[z].players_inside.find(p => p == player)
+            if (test)
+                return this.bats[z]
+        }
+        return undefined
+    }
+
+    this.generateBasicVillage = () => {
+        this.populationMax = 5
+        this.resources = {
+            food : 200,
+            wood : 200,
+            stone : 200
+        }
+        for (var i = 0; i < 5; i++) {
+            if (i == 0)
+                this.generateBasicPlayer({weapon : "Stone Pickaxe", armor : "Miner helmet"})
+            else
+                this.generateBasicPlayer({})
+        }
+            
+        this.addDefendVillage()
+        this.addForest()
+        this.addHouse()
+        this.createBatToBuildList()
+    }
+
+    this.removePlayerFromBat = (input) => {
+        if (!input || !input.player)
+            return false
+        var p = input.player
+        for (var z in this.bats) {
+            var b = this.bats[z]
+            for (var i in b.players_inside)
+                if (b.players_inside[i] == p)
+                    b.players_inside.splice(i, 1)
+        }
+    } 
+
+    this.affectPlayerToBat = (input) => {
+        if (!input || !input.player || !input.bat)
+            return false
+        if (input.bat.players_inside.length >= input.bat.player_size)
+            return false
+        var p = input.player
+        for (var z in this.bats) {
+            var b = this.bats[z]
+            for (var i in b.players_inside)
+                if (b.players_inside[i] == p)
+                    b.players_inside.splice(i, 1)
+        }
+        input.bat.players_inside.push(p)
+    }
+
+    this.removeResource = (input) => {
+        if (!input || !input.resources)
+            return console.log("bad input remove resource")
+        var check_get_res = false
+        var txt = "you lost :"
+        for (var z in input.resources) {
+            var res = z
+            var nb = input.resources[z]
+            if (!(nb > 0))
+                continue
+            check_get_res = true
+            var vilres = this.resources
+            if (!vilres[res] || vilres[res] < nb)
+                return console.log("not enoguht resources")
+            vilres[res] -= nb
+            txt += " x" + nb + " " + res
+        }
+        if (check_get_res)
+            this.MessageSystem.addMessage({type : "resource", txt : {...input.resources}})
+    }
+
+    this.addResource = (input) => {
+        if (!input || !input.resources)
+            return false
+        var check_get_res = false
+        for (var z in input.resources) {
+            var res = z
+            var nb = input.resources[z]
+            if (!(nb > 0))
+                continue
+            check_get_res = true
+            var vilres = this.resources
+            if (!vilres[res])
+                vilres[res] = 0
+            vilres[res] += nb
+        }
+        if (check_get_res)
+            this.MessageSystem.addMessage({type : "resource", txt : {...input.resources}})
+    }
+
+    this.addHouse = (input) => {
+        function UpgradingHouses (input) {
+            if (!input || !input.bat)
+                return
+            var b = input.bat
+            var village = world.village
+            if (b.lvl == 1) {
+                village.populationMax += 5
+                village.MessageSystem.addMessage({type : "player", txt : "Population max + 5 (" + village.populationMax + ")"})
+            }
+            if (b.lvl == 2) {
+                village.populationMax += 10
+                village.MessageSystem.addMessage({type : "player", txt : "Population max + 10 (" + village.populationMax + ")"})
+            }
+        }
+        var b = new Batiment({
+            name : "Houses",
+            player_size : 0,
+            callback_actionPlayer : [],
+            description : (b) =>{return("House lvl" + b.lvl + "\nVillage max population = " + world.village.populationMax)},
+            blocking_end_turn : true,
+            imgIcon : "Houses",
+            lvl : 1,
+            upgrades_callback : UpgradingHouses,
+            upgrades : [
+                {resources : {
+                    wood : 50,
+                    stone : 5
+                }},
+                {resources : {
+                    wood : 100,
+                    stone : 20
+                }},
+            ],
+            
+        })
+        b.bonusPopulation = 5
+        this.bats.push(b)
+    }
+
+    this.addBowWorkshop = (input) => {
+        var b = new Batiment({
+            name : input.name,
+            player_size : 2,
+            callback_actionPlayer : [{
+                callback : () => {if (world.villageUI) {world.villageUI.GoToTabName({tab : "craft"})}},
+                buto_txt : "go to craft tab",
+                description : "craft basic stuff",
+                cost : 0
+            }],
+            description : "the place for craft bow and arrow",
+            blocking_end_turn : true,
+            imgIcon : "bow_workshop_icon",
+            build_progression : input.costAP,
+        })
+        this.bats.push(b)  
+    }
+
+    this.addWorkShop = (input) => {
+        var b = new Batiment({
+            name : input.name,
+            player_size : 2,
+            callback_actionPlayer : [{
+                callback : () => {if (world.villageUI) {world.villageUI.GoToTabName({tab : "craft"})}},
+                buto_txt : "go to craft tab",
+                description : "craft basic stuff",
+                cost : 0
+            }],
+            description : "craft stuff here",
+            blocking_end_turn : true,
+            imgIcon : "workshop_icon",
+            build_progression : input.costAP,
+        })
+        this.bats.push(b)   
+    }
+
+
+    this.addMine = (input) => {
+        recolteMine = function (input) {
+            if (!input || !input.player || input.cost == undefined || input.cost > input.player.villageActionPoint)
+                return
+            var txt = input.player.name + " is mining resource for " + input.cost + " AP"
+            world.village.MessageSystem.addMessage({type : "job", txt : txt})
+            input.player.villageActionPoint -= input.cost
+            
+            var test_pickaxe = (input.player.weapon && input.player.weapon.bonus.find(a => a == BONUS_PICKAXE_MINE)) ? true : false
+            var stone = 2 + Math.floor(Math.random() * 5)
+            if (test_pickaxe)
+                stone += 20
+            var coal = Math.floor(Math.random() * 100) > 5 ? 0 : Math.floor(Math.random() * 10)
+            var res = {stone : stone}
+
+            if (coal || test_pickaxe)
+                res.coal = coal
+            world.village.addResource({resources : res})
+            world.Music.playSound('mine')
+        }
+        var b = new Batiment({
+            name : input.name,
+            player_size : 3,
+            callback_actionPlayer : [{
+                callback : recolteMine,
+                buto_txt : "mine",
+                description : "Mine the ground get resources",
+                cost : 4
+            }],
+            description : "A big hole in the ground",
+            blocking_end_turn : true,
+            imgIcon : "Mine",
+            build_progression : input.costAP,
+        })
+        this.bats.push(b)
+    }
+
+    this.addSawmill = () => {
+        function craftPlank(input) {
+            if (!input || !input.player || input.cost == undefined || input.cost > input.player.villageActionPoint)
+                return
+            if (!world.village.checkHaveResources({resources : {wood : 10}})) {
+                world.village.MessageSystem.addMessage({type : "job", txt : "you need more wood for make a plank"})
+                return
+            }
+            world.Music.playSound("sawmill_song")
+            var txt = input.player.name + " crafted a wood plank for 10 wood for" + input.cost + " AP"
+            world.village.MessageSystem.addMessage({type : "job", txt : txt})
+            input.player.villageActionPoint -= input.cost
+            world.village.removeResource({resources : {wood : 10}})
+            world.village.addResource({resources : {woodplank : 1,}})
+        }
+
+        var b = new Batiment({
+            name : "Sawmill",
+            player_size : 2,
+            callback_actionPlayer : [{
+                callback : craftPlank,
+                buto_txt : "craft woodplank",
+                description : "transform wood into woodplank",
+                cost : 5
+            }],
+            description : "A big circular saw for cut the wood",
+            blocking_end_turn : true,
+            imgIcon : "sawmill"
+        })
+        this.bats.push(b)
+    }
+
+    this.addForest = () => {
+        function recoltForestResouce(input) {
+            if (!input || !input.player || input.cost == undefined || input.cost > input.player.villageActionPoint)
+                return
+            world.Music.playSound("shaken_bush")
+            var food = 10 - 2 + Math.floor(Math.random() * 5)
+            var wood = 5 - 4 + Math.floor(Math.random() * 9)
+            if (input.player.weapon && input.player.weapon.bonus.find(a => a == BONUS_AXE_FOREST_WOOD)) {
+                wood *= 2
+                console.log("doubled wood")
+            }
+            var stone = 1 + Math.floor(Math.random() * 2)
+            var txt = input.player.name + " is recolting resource in the forest for " + input.cost + " AP"
+            world.village.MessageSystem.addMessage({type : "job", txt : txt})
+            input.player.villageActionPoint -= input.cost
+            world.village.addResource({resources : {
+                food : food,
+                wood : wood,
+                stone : stone
+            }})
+        }
+
+        var b = new Batiment({
+            name : "Forest Exploitation",
+            player_size : 2,
+            callback_actionPlayer : [{
+                callback : recoltForestResouce,
+                buto_txt : "get resources",
+                description : "recolte random amount of food, wood, and stone",
+                cost : 5
+            }],
+            description : "Exploit resource from the forest",
+            blocking_end_turn : true,
+            imgIcon : "forest_icon"
+        })
+        this.bats.push(b)
+    }
+
+    this.addDefendVillage = () => {
+        var b = new Batiment({
+            name : "Defend Village",
+            player_size : 5,
+            callback_actionPlayer : [],
+            description : "Place your player here for defend the village",
+            blocking_end_turn : false,
+            imgIcon : "defend_village_icon"
+        })
+        this.bats.push(b)
+    }
+
+    this.createBatToBuildList = () => {
+        this.batsToBuild = [
+            {
+                name : "workshop",
+                img : "workshop_icon",
+                resources : {wood : 10, stone : 1},
+                callback : this.addWorkShop,
+                input : {name: "workshop", costAP : 30}
+            },
+            {
+                name : "fletching station",
+                img : "bow_workshop_icon",
+                resources : {wood : 100, stone : 30},
+                callback : this.addBowWorkshop,
+                input : {name: "fletching station", costAP : 20}
+            },
+            {
+                name : "Mine",
+                img : "Mine",
+                resources : {wood : 20, stone : 5},
+                callback : this.addMine,
+                input : {name: "Mine", costAP : 10}
+            },
+            {
+                name : "Sawmill",
+                img : "sawmill",
+                resources : {wood : 20, stone : 5},
+                callback : this.addSawmill,
+                input : {name: "Sawmill", costAP : 10}
+            }
+        ]
+    }
+
+    this.checkHaveResources = (input) => {
+        if (!input || !input.resources)
+            return false
+        var r = input.resources
+        for (var z in input.resources) {
+            var res = z
+            var nb = r[z]
+            if (!this.resources[res] || this.resources[res] < nb)
+                return false
+        }
+        return true
+    }
+
+    this.TryBuildBat = (input) => {
+        if (!input || !input.bat)
+            return false
+        if (!this.checkHaveResources(input.bat))
+            return this.MessageSystem.addMessage({txt : "you don't have enought resource"})
+        var b = input.bat
+        this.MessageSystem.addMessage({type : "building", txt : "the construction of '" + b.name + "' have started"})
+        this.removeResource(input.bat)
+        b.callback(b.input)
+        for (var z in this.batsToBuild)
+            if (this.batsToBuild[z] == b)
+                this.batsToBuild.splice(z, 1)
+    }
+
+    this.addArmorToVillageInventory = (input) => {
+        if (!input || !input.armor)
+            return
+        this.Items.push(input.armor)
+    }
+
+    this.addWeaponToVillageInventory = (input) => {
+        if (!input || !input.weapon)
+            return
+        this.Items.push(input.weapon)
+    } 
+
+    this.End_Turn = (input) => {
+        if (!input)
+            return false
+        world.villageUI.warningEndTurnMessage = []
+        switch(this.phase) {
+            case PHASE_NEWTURN : 
+                this.phase = PHASE_PLACEPLAYER
+                this.MessageSystem.addMessage({txt : "Phase 1 started"})
+                for (var z in this.players)
+                    this.players[z].villageActionPoint = this.players[z].villageActionPointMax
+                if (this.week == 0)
+                    world.Music.playSound("the-britons", true)
+                break
+            case PHASE_PLACEPLAYER :
+                if (input.warning) {
+                    var warningsMessage = []
+                    for (var z in this.players) {
+                        p = this.players[z]
+                        if (!this.getBatFromPlayer(p))
+                            warningsMessage.push({txt : "player " + p.name + " is not affected to a building", player : p, tab : "building"})
+                    }
+                    defBat = this.bats.find(a => a.name == "Defend Village")
+                    if (defBat.players_inside.length < 1)
+                        warningsMessage.push({txt : "DANGER : No player is affected to Defend the Village", bat : defBat, tab : "building"})
+                    if (warningsMessage.length > 0) {
+                        world.villageUI.warningEndTurnMessage = warningsMessage
+                        return 
+                    }
+                }
+                this.phase = PHASE_ACTIONPLAYER
+                this.MessageSystem.addMessage({txt : "Phase 2 started"})
+                break
+            case PHASE_ACTIONPLAYER :
+                var warningsMessage = []
+                if (input.warning) {
+                    for (var z in this.bats) {
+                        var b = this.bats[z]
+                        if (!b.blocking_end_turn)
+                            continue
+                        for (var i in b.players_inside) {
+                            var p = b.players_inside[i]
+                            var test = p.get_valid_action_in_affected_building()
+                            if (test && test.length > 0)
+                                warningsMessage.push({txt : "player " + p.name + " have " + p.villageActionPoint + " Action Points left", player : p, tab : "building"})
+                        }
+                    }
+                }
+                if (warningsMessage.length > 0) {
+                    world.villageUI.warningEndTurnMessage = warningsMessage
+                    return 
+                }
+                this.phase = PHASE_COMBAT
+                if (this.week == 0 || Math.floor(Math.random() * 100) < 33) {
+                    this.battle = true
+                    this.MessageSystem.addMessage({txt : "Your village is attacked !"})
+                }
+                break
+            case PHASE_COMBAT :
+                if (this.battle) {
+                    this.test_start_battle()
+                }
+                else {
+                    this.phase = PHASE_NEWTURN 
+                    this.week++;
+                    var foodconsumed = this.players.length * 2
+                    this.MessageSystem.addMessage({txt : "New Turn started : " + this.week})
+                    this.MessageSystem.addMessage({type : "player", txt : "Your population eat food, Miam"})
+                    this.removeResource({resources : {food : foodconsumed}})
+                    this.foodconsumedLastTurn = foodconsumed
+                    for (var z in this.players) {
+                        this.players[z].tryLvLup();
+                        this.players[z].age++
+                    }
+
+                    if (this.players.length < this.populationMax) {
+                        var rand = Math.floor(Math.random() * 100)
+                        if (rand < 50) {
+                            var p = this.generateBasicPlayer()
+                            this.MessageSystem.addMessage({type : "player", txt : "New PLayer " + p.name + " joined your village"})
+                        }
+                    }
+                }
+                break
+        }
+
+
+        
+    }
+
+    this.test_start_battle = () => {
+        var playersToBattle = []
+        for (var z in this.players) {
+            var p = this.players[z]
+            bat = this.getBatFromPlayer(p)
+            if (bat.name == "Defend Village")
+                playersToBattle.push(p)
+        }
+        world.villageUI = undefined
+        console.log(playersToBattle.length + " players to the battle")
+        world.CreateBattleMapFromVillagePlayer_test(playersToBattle, this.week)
+        world.Music.stopSound("the-britons", true)
+        world.Music.playSound("where-the-brave-may-live-forever", true)
+        world.GameUI = new GameUI(world.Screen.canList["GameUI"])
+    }
+
+    this.kill_player = (p) => {
+        for (var z in this.players) {
+            if (this.players[z].id == p.id) {
+                this.players.splice(z, 1)
+                this.MessageSystem.addMessage({txt : p.name + "is dead R.I.P"})
+            }
+        }
+        for (var z in this.bats) {
+            var b = this.bats[z]
+            for (var i in b.players_inside)
+                if (b.players_inside[i].id == p.id)
+                    b.players_inside.splice(i, 1)
+        }
+    }
+
+}
+
+
+VILLAGE_UI_LETTER_SIZE = 30
+
+VILLAGE_UI_FONT = "'Footlight MT Light'"
+
+VILLAGE_UI_FONT_BUTTON = "'Cooper Black'"
+VILLAGE_UI_FONT_BUTTON_2 = "'Comic Sans MS'"
+
+VILLAGE_UI_FONT_TITLE = "'Snap ITC'"
+VILLAGE_UI_FONT_PLAYERNAME = "'Chiller'"
+VILLAGE_UI_FONT_BUILDINGNAME = "'Ravie'"
+VILLAGE_UI_FONT_PHASE = "'Algerian'"
+
+VILLAGE_UI_TABS_FONT = "'Snap ITC'"
+VILLAGE_UI_TABS_TXTCOLOR = "#ffffff"
+VILLAGE_UI_TABS_FILLCOLOR = "#556b2f88"
+
+VILLAGE_UI_MAX_TAB_ELM_DRAW = 20
+
+VILLAGE_UI_FILLSTYLE = "#ffff66"        //before wood pattern
+
+VILLAGE_UI_BAT_ELM_FILLCOLOR = "#d2691e88"
+VILLAGE_UI_PLAYER_ELM_FILLCOLOR = "#6495ed88"
+VILLAGE_UI_ITEM_ELM_FILLCOLOR = "#f8f8ff88"
+
+VILLAGE_UI_BUTTON_FILLCOLOR = "#00dd00"
+
+VillageUI = function (canvas) {
+    world.Music.playSound("the-britons", true)
+    this.canvas = canvas
+    this.needRedraw = true
+    this.marge = 5
+    this.background = VILLAGE_UI_FILLSTYLE
+    this.stroke = "#663300"
+    this.scale = 1
+
+    this.mouseWasOnMouseLightLastDraw = true
+
+    this.tabs = ['Next Turn', 'building', 'craft', 'resource', 'Items', 'Player']
+    this.activeTabId = 0
+
+    this.playerSelected = undefined
+    this.playerInfoMenu = undefined
+    this.playersPageOffset = {value : 0}
+
+    this.batSelected = undefined
+    this.batBuildMenu = undefined
+    this.batPageOffset = {value : 0}
+    this.batSortModeList = ['a->Z', 'player', 'size']
+    this.batSortModeId = {value : 0}
+
+    this.constructionSelected = undefined
+
+    this.itemSelected = undefined
+    this.itemsPageOffset = {value : 0}
+
+    this.craftSelected = undefined
+    this.craftPageOffset = {value : 0}
+
+
+    this.UI = undefined
+    this.showUI = true
+    this.UIplayers = undefined
+    this.showUIplayers = true
+    this.UIsystem = undefined
+    this.showUIsystem = true
+
+    this.eventPage = 0;
+
+    this.warningEndTurnMessage = []
+
+    const canvaspat = document.createElement("canvas")
+    const ctxpat = canvaspat.getContext("2d");
+    const imgpat = new Image();
+    imgpat.src = "./img/player_test3/village/villageUI_patern.png";
+    imgpat.onload = () => { // Only use the image after it's loaded
+      const pattern = ctxpat.createPattern(imgpat, "repeat");
+      this.background = pattern;
+      this.needRedraw = true
+    };
+
+
+    this.init_check_mouse_move = () => {        //highlight button when mouse move over it
+        window.addEventListener('mousemove', (event) => {
+            var check = false
+            if (this.UIplayers && this.UIplayers.mouse_move_check(event.clientX, event.clientY) && !this.mouseWasOnMouseLightLastDraw) {
+                this.needRedraw = true
+                this.mouseWasOnMouseLightLastDraw = true
+                check = true
+            }
+            if (this.UI && this.UI.mouse_move_check(event.clientX, event.clientY) && !this.mouseWasOnMouseLightLastDraw){
+                this.needRedraw = true
+                this.mouseWasOnMouseLightLastDraw = true
+                check = true
+            }
+            if (this.UIsystem && this.UIsystem.mouse_move_check(event.clientX, event.clientY) && !this.mouseWasOnMouseLightLastDraw){
+                this.needRedraw = true
+                this.mouseWasOnMouseLightLastDraw = true
+                check = true
+            }
+            if (!check && this.mouseWasOnMouseLightLastDraw) {
+                this.mouseWasOnMouseLightLastDraw = false
+                this.needRedraw = true
+            }
+            if (this == world.villageUI)
+                this.init_check_mouse_move()
+        }, {once : true});
+    }
+    this.init_check_mouse_move()
+
+
+    this.getKeyInput = (key) => {
+        if (this.UI && this.UI.key_buton_check(key))
+            return true
+        if (this.UIplayers && this.UIplayers.key_buton_check(key))
+            return true
+        if (this.UIsystem && this.UIsystem.key_buton_check(key))
+            return true
+        if (key == 'ControlLeft' && this.cancel_menu())
+            return true
+        return false
+    }
+
+    this.cancel_menu = () => {
+        if (this.playerInfoMenu) {
+            this.playerInfoMenu = undefined
+            return true
+        }
+
+        if (this.tabs[this.activeTabId] == 'building') {
+            if (this.batBuildMenu) {
+                this.batBuildMenu = undefined
+                return true
+            }
+            if (this.batSelected) {
+                this.batSelected = undefined
+                return true
+            }
+        }
+        return false
+    }   
+
+    this.getMouseInput = (input) => {
+        var x = input.x
+        var y = input.y
+        if (input.button == 2) { //right click
+            var test = this.cancel_menu()
+            if (test)
+                return true
+        }
+        else if (this.UI.click_buton_check(x, y))
+            return true
+        else if (this.UIplayers.click_buton_check(x, y))
+            return true
+        else if (this.UIsystem.click_buton_check(x, y))
+            return true
+        return false
+    }
+
+    this.GoToTabName = (input) => {
+        if (!input)
+            return
+        if (input.tab)
+            for (var z in this.tabs) {
+                if (this.tabs[z] == input.tab)
+                    this.activeTabId = z
+        }
+        if (input.player)
+            this.playerSelected = input.player
+        if (input.bat)
+            this.batSelected = input.bat
+    }
+
+    this.CheckInfoWindow = (redraw) => {
+        if (this.UI && this.UI.CheckInfoWindow(redraw))
+            this.needRedraw = true
+        if (this.UIplayers && this.UIplayers.CheckInfoWindow(redraw))
+            this.needRedraw = true
+        if (this.UIsystem && this.UIsystem.CheckInfoWindow(redraw))
+            this.needRedraw = true
+    }
+        //MENU DRAWING FUNCTIONS//
+
+    this.GetPageSelector = (input) => {
+        if (!input.selector)
+            return
+        var buildingPageSelector = [{
+            type : "button",
+            callback : () => {input.selector.value = (input.selector.value > 0) ? input.selector.value - 1 : 0},
+            txt : "∧",
+            txt_color : "#ffffff",
+            mouseLight : "88",
+            max_letters : 9999,
+            letter_size : 30,
+            txt_font : VILLAGE_UI_FONT_BUILDINGNAME,
+            fillColor : "#5500ff",
+            strokeColor : "#000000",
+            windowInfo : [{
+                callback : () => {return ("page up")},
+            }]
+        },{
+            type : "button",
+            callback : () => {input.selector.value++},
+            txt : "∨",
+            txt_color : "#ffffff",
+            mouseLight : "88",
+            max_letters : 9999,
+            letter_size : 30,
+            txt_font : VILLAGE_UI_FONT_BUILDINGNAME,
+            fillColor : "#5500ff",
+            strokeColor : "#000000",
+            windowInfo : [{
+                callback : () => {return ("page down")},
+            }]
+        },{
+            type : "txt",
+            txt : "[" + input.selector.value + ":" + (input.selector.value + VILLAGE_UI_MAX_TAB_ELM_DRAW) + "]",
+            txt_color : '#000000',
+            max_letters : 9999,
+            letter_size : 15,
+            txt_font : VILLAGE_UI_FONT
+        }]
+        if (input.sortButo)
+            buildingPageSelector.push({
+                type : "button",
+                callback : (sortButo) => {sortButo.id.value = (sortButo.id.value + 1) % sortButo.list.length; console.log("changed " + [sortButo.id.value, sortButo.list.length])},
+                callback_data : input.sortButo,
+                txt : this.batSortModeList[this.batSortModeId.value],
+                txt_color : "#000000",
+                mouseLight : "88",
+                max_letters : 9999,
+                letter_size : 15,
+                txt_font : VILLAGE_UI_FONT_BUILDINGNAME,
+                fillColor : "#55ff00",
+                strokeColor : "#000000",
+                windowInfo : [{
+                    callback : () => {return ("sort buildings by " + this.batSortModeList[this.batSortModeId.value])},
+                }]
+            })
+        return (buildingPageSelector)
+    }
+
+    this.draw_building_tab = () => {
+        var village = world.village
+        this.UI.addHorizontalElem(this.GetPageSelector({sortButo : {list : this.batSortModeList, id : this.batSortModeId}, selector : this.batPageOffset}))
+        switch (this.batSortModeList[this.batSortModeId.value]) {
+            case 'a->Z' :
+                village.bats.sort((a, b) => {if (a.name > b.name) return 1; return -1})
+                break
+            case 'player' :
+                village.bats.sort((a, b) => {if (a.players_inside.length <= b.players_inside.length) return 1; return -1})
+                break
+            case 'size' :
+                village.bats.sort((a, b) => {if (a.player_size <= b.player_size) return 1; return -1})
+                break
+        }
+        if (village.phase == PHASE_PLACEPLAYER) {
+            this.UI.addHorizontalElem(this.GetBatBuildMenuSelector())
+            var pageVertiElm = 0
+            if (this.batBuildMenu) {        //construction menu
+                for (var z in village.batsToBuild) {
+                    var b = village.batsToBuild[z]
+                    var buildingUI = []
+                    buildingUI.push({
+                        type : "button",
+                        callback : (b) => {if (this.constructionSelected == b) this.constructionSelected = undefined; else this.constructionSelected = b},
+                        callback_data : b,
+                        txt : b.name,
+                        mouseLight : "88",
+                        txt_color : "#000000",
+                        max_letters : 9999,
+                        letter_size : 30,
+                        txt_font : VILLAGE_UI_FONT_BUILDINGNAME,
+                        fillColor : "#00000000",
+                        strokeColor : this.constructionSelected == b ? "#000000" : "#00000000",
+                        windowInfo : [{
+                            callback : () => {return ("Build new batiments here")},
+                        }]
+                    })
+                    buildingUI.push({
+                        type : "img",
+                        img : world.Imgs[b.img].img,
+                        len_x : 30,
+                        len_y : 30
+                    })
+                    if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                        this.UI.addHorizontalElem(buildingUI)
+                    pageVertiElm++
+
+                    if (this.constructionSelected == b) {   
+                        var buildingUI = []
+                        buildingUI.push({
+                            type : "button",
+                            mouseLight : "88",
+                            callback : world.village.TryBuildBat,
+                            callback_data : {bat : b},
+                            txt : "start construction",
+                            txt_color : "#000000",
+                            max_letters : 9999,
+                            letter_size : 15,
+                            txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                            fillColor : VILLAGE_UI_BUTTON_FILLCOLOR,
+                            strokeColor : "#00000000",
+                            windowInfo : [{
+                                callback : () => {return ("Build new batiments here")},
+                            }]
+                        })
+                        if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UI.addHorizontalElem(buildingUI)
+                        pageVertiElm++
+
+                        if (b.input && b.input.costAP) {
+                            if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                                this.UI.addHorizontalElem([{
+                                    type : "txt",
+                                    txt : " -Action Point " + b.input.costAP,
+                                    txt_color : '#000000',
+                                    max_letters : 9999,
+                                    letter_size : 20,
+                                    txt_font : VILLAGE_UI_FONT
+                                },
+                                {
+                                    type : "img",
+                                    img : world.Imgs["villageAP_icon"].img,
+                                    len_x : 20,
+                                    len_y : 20,
+                                }])
+                            pageVertiElm++
+                        }
+                        for (var i in b.resources) {
+                            var resourceCostUi = []
+                            resourceCostUi.push({
+                                type : "txt",
+                                txt : " -" + i + " " + b.resources[i],
+                                txt_color : '#000000',
+                                max_letters : 9999,
+                                letter_size : 20,
+                                txt_font : VILLAGE_UI_FONT
+                            })
+                            resourceCostUi.push({
+                                type : "img",
+                                img : world.Imgs[i + "_icon"].img,
+                                len_x : 20,
+                                len_y : 20
+                            })
+                        }
+                        if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UI.addHorizontalElem(this.getResourcesTextAndImg(b.resources, 20))
+                        pageVertiElm++
+                    }
+
+                }
+            }
+            else if (!this.batBuildMenu) {      //list building menu
+                for (var z in village.bats) {
+                    var b = village.bats[z]
+                    //name of the building
+
+
+                    var bd = this.GetDrawBuildingElement(b, 40)
+                    if (b.build_progression)
+                        bd.push({
+                            type : "img",
+                            img : world.Imgs["under_construction_icon"].img,
+                            len_x : 40,
+                            len_y : 40
+                        })
+                    if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                        this.UI.addHorizontalElem(bd)
+                    pageVertiElm++
+
+                    if (b.build_progression) {
+                        if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UI.addTextZone("" + b.build_progression + " PA left for finish construction", 20, 9999, '#000000', VILLAGE_UI_FONT)
+                        pageVertiElm++
+                    }
+
+                    var buildingUI = []
+
+                    var up = b.getNextUpgrade()
+
+                    if (this.batSelected == b && b.lvl) {
+                        if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UI.addTextZone("lvl " + b.lvl, 15, 9999, "#000000", VILLAGE_UI_FONT)
+                        pageVertiElm++
+                    }
+                    if (this.batSelected == b && up) {
+                        var upelm =  this.getResourcesTextAndImg(up.resources, 20)
+                        upelm.unshift({
+                            type : "button",
+                            mouseLight : "88",
+                            callback : b.TryUpgrade,
+                            callback_data : {},
+                            txt : "uppgrade",
+                            txt_color : "#000000",
+                            max_letters : 9999,
+                            letter_size : 20,
+                            txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                            fillColor : VILLAGE_UI_BUTTON_FILLCOLOR
+                        })
+                        if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UI.addHorizontalElem(upelm)
+                        pageVertiElm++
+                    }
+                    if (b == this.batSelected && b.player_size) {
+                        if (b.player_size && pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UI.addTextZone("" + b.players_inside.length + " / " + b.player_size + " place", 20, 9999, '#000000', VILLAGE_UI_FONT)
+                        pageVertiElm++
+                    }
+                    if (this.playerSelected && b == this.batSelected && !b.players_inside.find(a => a == this.playerSelected) && b.players_inside.length < b.player_size)
+                        buildingUI.push({
+                            type : "button",
+                            mouseLight : "88",
+                            callback : world.village.affectPlayerToBat,
+                            callback_data : {
+                                player : this.playerSelected,
+                                bat : b
+                            },
+                            txt : "add player",
+                            txt_color : "#000000",
+                            max_letters : 9999,
+                            letter_size : 20,
+                            txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                            fillColor : VILLAGE_UI_BUTTON_FILLCOLOR
+                        })
+                    if (buildingUI.length) {
+                        if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UI.addHorizontalElem(buildingUI)
+                        pageVertiElm++
+                    }
+                    if (this.batSelected == b) {
+                        for (var i in b.players_inside) {
+                            var p = b.players_inside[i]
+                            var playerUI = this.getPlayerIcone(p)                         
+                            playerUI.push({
+                                type : "button",
+                                mouseLight : "88",
+                                callback : world.village.removePlayerFromBat,
+                                callback_data : {player : p},
+                                txt : " x ",
+                                txt_color : "#000000",
+                                max_letters : 9999,
+                                letter_size : 20,
+                                txt_font : VILLAGE_UI_FONT_PLAYERNAME,
+                                fillColor : "#ff0000",
+                            })
+                            if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                                this.UI.addHorizontalElem(playerUI)
+                            pageVertiElm++
+                        }
+                    }
+                }
+            }
+        }
+        else if (village.phase == PHASE_ACTIONPLAYER) {
+            var pageVertiElm = 0
+            for (var z in village.bats) {
+                var b = village.bats[z]
+                //name of the building
+                var bd = this.GetDrawBuildingElement(b, 40)
+                if (b.build_progression)
+                    bd.push({
+                        type : "img",
+                        img : world.Imgs["under_construction_icon"].img,
+                        len_x : 40,
+                        len_y : 40
+                    })
+                if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                    this.UI.addHorizontalElem(bd)
+                pageVertiElm++
+
+                if (b.build_progression) {
+                    if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                        this.UI.addTextZone("" + b.build_progression + " PA left for finish construction", 20, 9999, '#000000', VILLAGE_UI_FONT)
+                    pageVertiElm++
+                }
+                
+                var buildingUI = []
+                if (buildingUI.length) {
+                    if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                        this.UI.addHorizontalElem(buildingUI)
+                    pageVertiElm++
+                }
+                for (var i in b.players_inside) {
+                    var p = b.players_inside[i]
+                    var test = p.get_valid_action_in_affected_building()
+                    if (this.batSelected == b || (test.length && b.name != "Defend Village")) {
+                        var playerUI = this.getPlayerIcone(p)
+                        if (b.callback_actionPlayer.length)
+                            playerUI.push(
+                                {
+                                    type : "img",
+                                    img : world.Imgs["villageAP_icon"].img,
+                                    len_x : 20,
+                                    len_y : 20
+                                },
+                                {
+                                type : "txt",
+                                txt : "" + p.villageActionPoint + " Action Point left",
+                                txt_color : p.villageActionPoint ? '#000000' : "#000000aa",
+                                max_letters : 9999,
+                                letter_size : 20,
+                                txt_font : VILLAGE_UI_FONT
+                            })
+                        if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UI.addHorizontalElem(playerUI)
+                        pageVertiElm++
+                        if (b.build_progression) {
+                            var buto = []
+                            if (p.villageActionPoint > 0) {
+                                buto.push({
+                                    type : "button",
+                                    mouseLight : "88",
+                                    callback : b.build,
+                                    callback_data : {player : p},
+                                    txt : "build",
+                                    txt_color : "#000000",
+                                    max_letters : 9999,
+                                    letter_size : 20,
+                                    txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                                    fillColor : VILLAGE_UI_BUTTON_FILLCOLOR,
+                                    windowInfo : [{
+                                        callback : (a) => {return a},
+                                        input : "use your action point for construct the building"
+                                    }]
+                                })
+                                buto.push({
+                                    type : "txt",
+                                    txt : "under construction : " + b.build_progression + " left",
+                                    txt_color : p.villageActionPoint ? '#000000' : "#000000aa",
+                                    max_letters : 9999,
+                                    letter_size : 20,
+                                    txt_font : VILLAGE_UI_FONT
+                                })
+                            }                    
+                            if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                                this.UI.addHorizontalElem(buto)
+                            pageVertiElm++
+                        }
+                        else {
+                            for (var j in b.callback_actionPlayer) {
+                                var action = b.callback_actionPlayer[j]
+                                if (action.cost && action.cost > p.villageActionPoint || p.villageActionPoint == 0)
+                                    continue
+                                var buton = {
+                                    type : "button",
+                                    mouseLight : "88",
+                                    callback : action.callback,
+                                    callback_data : {player : p, cost : action.cost},
+                                    txt : action.buto_txt,
+                                    txt_color : "#000000",
+                                    max_letters : 9999,
+                                    letter_size : 20,
+                                    txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                                    fillColor : VILLAGE_UI_BUTTON_FILLCOLOR,
+                                    windowInfo : [{
+                                        callback : (a) => {return a},
+                                        input : action.description
+                                    }]
+                                }
+                                if (pageVertiElm >= this.batPageOffset.value && pageVertiElm <  this.batPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                                    this.UI.addHorizontalElem([buton])
+                                pageVertiElm++
+                            }
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+
+    this.GetBatBuildMenuSelector = () => {
+        var buto = []
+        if (this.batBuildMenu) {
+            buto.push({
+                type : "button",
+                mouseLight : "88",
+                callback : () => {this.batBuildMenu = false; this.batPageOffset.value = 0},
+                txt : "back",
+                mouseLight : "88",
+                txt_color : "#a01454",
+                max_letters : 9999,
+                letter_size : 35,
+                txt_font : VILLAGE_UI_FONT,
+                fillColor : "#17bdbc",
+                strokeColor : "#000000",
+                windowInfo : [{
+                    callback : () => {return ("Build new batiments here")},
+                }]
+            })
+        }
+        else {
+            buto.push({
+                type : "button",
+                mouseLight : "88",
+                callback : () => {this.batBuildMenu = true; this.batPageOffset.value = 0},
+                txt : "New Building",
+                mouseLight : "88",
+                txt_color : "#17bdbc",
+                max_letters : 9999,
+                letter_size : 35,
+                txt_font : VILLAGE_UI_FONT,
+                fillColor : "#a01454",
+                strokeColor : "#000000",
+                windowInfo : [{
+                    callback : () => {return ("Where your players works")},
+                }]
+            })
+        }
+        return buto
+    }
+
+    this.getResourcesTextAndImg = (resources, size) => {
+        var elms = []
+        for (var z in resources) {
+            elms.push({
+                type : "img",
+                img : world.Imgs[z + "_icon"].img,
+                len_x : size,
+                len_y : size,
+            })
+            elms.push({
+                type : "txt",
+                txt : " x" + resources[z],
+                txt_color : "#000000",
+                max_letters : 9999,
+                letter_size : size,
+                txt_font : VILLAGE_UI_FONT
+            })
+        }
+        return elms
+    }
+
+
+    this.getItemIcone = (wp, size, Nobuton) => {
+        var cb = () => this.itemSelected = (this.itemSelected == wp) ? undefined : wp
+        if (Nobuton)
+            cb = () => {}
+        var elm = [{
+            type : "img",
+            img : world.Imgs[wp.name + "_icon"].img,
+            len_x : size,
+            len_y : size,
+        },{
+            type : "button",
+            mouseLight : "ff",
+            callback : cb,
+            txt : wp.name,
+            txt_color : "#000000",
+            max_letters : 9999,
+            letter_size : size,
+            txt_font : VILLAGE_UI_FONT,
+            fillColor : VILLAGE_UI_ITEM_ELM_FILLCOLOR,
+            strokeColor : this.itemSelected == wp ? "#0000ff88" : "#00000000",
+            windowInfo : [{
+                callback : wp.itemType == "weapon" ? wp.getWeaponAttackDescription :  wp.getArmorDescription,
+            }]
+        }]
+        return elm
+    }
+
+    this.draw_craft_menu = () => {
+        var village = world.village
+        this.UI.addHorizontalElem(this.GetPageSelector({selector : this.craftPageOffset}))
+        var pageVertiElm = 0
+        var craftList = village.get_valid_craft_list()
+        if (village.phase != PHASE_ACTIONPLAYER)
+            this.UI.addTextZone("you can only craft during Phase 2", 20, 9999, '#ff0000', VILLAGE_UI_FONT)
+        if (!craftList || craftList.length < 1)
+            this.UI.addTextZone("no craft available", 20, 9999, '#000000', VILLAGE_UI_FONT)
+        for (var z in craftList) {
+            var buto = []
+            var c = craftList[z]
+            buto.push({
+                type : "button",
+                mouseLight : "ff",
+                callback : (c) => this.craftSelected = this.craftSelected == c ? undefined : c,
+                callback_data : c,
+                txt : c.name + " (" + c.type + ")",
+                txt_color : this.craftSelected == c ? '#666666' : "#000000",
+                max_letters : 9999,
+                letter_size : 25,
+                txt_font : VILLAGE_UI_FONT,
+                fillColor : "#ffffff88",
+                strokeColor : this.craftSelected == c ? "#000000ff" : "#00000000",
+                windowInfo : [{
+                    callback : () => {return c.description},
+                    input : undefined,
+                }]
+            })
+            if (pageVertiElm >= this.craftPageOffset.value && pageVertiElm <  this.craftPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                this.UI.addHorizontalElem(buto)
+            pageVertiElm++
+            if (this.craftSelected == c) {
+                var pl = village.get_valid_player_for_craft({craft : c})
+                if (pageVertiElm >= this.craftPageOffset.value && pageVertiElm <  this.craftPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                    this.UI.addHorizontalElem(this.getResourcesTextAndImg(c.resources, 20))
+                pageVertiElm++
+                if (!pl || pl.length < 1) {
+                    if (pageVertiElm >= this.craftPageOffset.value && pageVertiElm <  this.craftPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                        this.UI.addTextZone("no one can craft it", 20, 9999, '#ff0000', VILLAGE_UI_FONT)
+                    pageVertiElm++
+                }  
+                for (var i in pl) {
+                    var p = pl[i]
+                    var buto = this.getPlayerIcone(p, 25)
+                    if (village.phase == PHASE_ACTIONPLAYER) {
+                        buto.push({
+                            type : "button",
+                            mouseLight : "88",
+                            callback : village.TryCraftItem,
+                            callback_data : {craft : c, player : p},
+                            txt : "craft",
+                            txt_color :  "#000000",
+                            max_letters : 9999,
+                            letter_size : 25,
+                            txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                            fillColor : "#00D238",
+                            strokeColor : this.craftSelected == c ? "#000000ff" : "#00000000",
+                            windowInfo : [{
+                                callback : () => {return c.description},
+                                input : undefined,
+                            }]
+                        })
+                    }
+                    if (pageVertiElm >= this.craftPageOffset.value && pageVertiElm <  this.craftPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                        this.UI.addHorizontalElem(buto)
+                    pageVertiElm++
+                }
+            }
+        }
+    }
+
+    this.GetDrawBuildingElement = (b, size_x) => {
+        var res = [{
+            type : "img",
+            img : world.Imgs[b.imgIcon].img,
+            len_x : size_x,
+            len_y : size_x,
+        },{
+            type : "button",
+            mouseLight : "ff",
+            callback : (bt) => {this.batSelected = this.batSelected == bt ? undefined : bt},
+            callback_data : b,
+            txt : b.name,
+            txt_color : this.batSelected == b ? '#dddddd' : "#000000",
+            max_letters : 9999,
+            letter_size : size_x,
+            txt_font : VILLAGE_UI_FONT_BUILDINGNAME,
+            fillColor : VILLAGE_UI_BAT_ELM_FILLCOLOR,
+            strokeColor : this.batSelected == b ? "#000000ff" : "#00000000",
+            windowInfo : [{
+                callback : (b) => {if (typeof(b.description) == "function") return b.description(b);
+                                    if (typeof(b.description) == "string") return (b.description)},
+                input : b
+            }]
+        }]
+        return res
+    }
+
+
+
+    this.GetNextTurnButton = (warning, showWarning, txt) => {
+        var buto = {
+                type : "button",
+                mouseLight : "88",
+                callback : world.village.End_Turn,
+                callback_data : {warning : warning ? true : false},
+                txt : txt,
+                txt_color : "#000000",
+                max_letters : 9999,
+                letter_size : 40,
+                txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                fillColor : showWarning ? "#FFAD1C" : "#00D238",
+                strokeColor : "#000000"
+        }
+        return buto
+    }
+
+    this.getPlayerIcone = (p, size) => {
+        if (!p)
+            return undefined
+        var size = size ? size : 40
+        var UIplayerName = [{
+            type : "button",
+            mouseLight : "ff",
+            txt : p.name,
+            callback : (p) => {this.playerSelected = this.playerSelected == p ? undefined : p},
+            callback_data : p,
+            txt_color : p.lvlup ? "#00ff00" : this.playerSelected == p ? "#ffffff" : "#000000",
+            max_letters : 9999,
+            letter_size : size,
+            txt_font : VILLAGE_UI_FONT_PLAYERNAME,
+            fillColor : VILLAGE_UI_PLAYER_ELM_FILLCOLOR,
+            strokeColor : this.playerSelected == p ? "#000000ff" : "#00000000",
+            windowInfo : [{
+                callback : p.getVillageUItext,
+            }]
+        }]
+        if (!p.bodyPartImgReady)
+            p.LoadPlayerVillageImage()
+        UIplayerName.push({
+            type : "img",
+            img : p.bodyPartImg,
+            len_x : size,
+            len_y : size,
+        })
+        if (p.weapon)
+            UIplayerName.push({
+                type : "img",
+                img : world.playerDefaultImgs[p.weapon.name + "_icon"].img,
+                len_x : size,
+                len_y : size,
+            })
+        return UIplayerName 
+    }
+
+    this.draw_villagePlayerUi = () => {
+        var village = world.village
+        this.UIplayers = new MyUI(this.canvas, 0, 0, 10, this.scale, this.background, this.stroke, this.marge)
+        //this.UIplayers.addTextZone("Players", 40, 9999, '#000000', VILLAGE_UI_FONT_PHASE)
+        this.UIplayers.addButton("Players", 40, '#000000', "#00000000", "#00000000", () => {this.showUIplayers = !(this.showUIplayers)}, undefined, VILLAGE_UI_FONT_PHASE)
+        var firstline = this.GetPageSelector({selector : this.playersPageOffset})
+        if (this.playerSelected && this.tabs[this.activeTabId] != 'Player' && (village.phase == PHASE_PLACEPLAYER || village.phase == PHASE_ACTIONPLAYER))
+            firstline.push({
+                type : "button",
+                mouseLight : "88",
+                callback : this.GoToTabName,
+                callback_data : {tab : 'Player'},
+                txt : "Show",
+                txt_color : "#000000",
+                max_letters : 9999,
+                letter_size : 30,
+                txt_font : VILLAGE_UI_FONT_PLAYERNAME,
+                fillColor : "#ffffff"
+            })
+        this.UIplayers.addHorizontalElem(firstline)
+        var pageVertiElm = 0
+        if (this.showUIplayers) {
+            if (!this.playerInfoMenu) {
+                for (var z in village.players) {
+                    var p = village.players[z]
+                    //name of the player
+                    if (pageVertiElm >= this.playersPageOffset.value && pageVertiElm <  this.playersPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                        this.UIplayers.addHorizontalElem(this.getPlayerIcone(p))
+                    pageVertiElm++
+
+                    if (p.lvlup && village.phase != PHASE_NEWTURN) {
+                        if (pageVertiElm >= this.playersPageOffset.value && pageVertiElm <  this.playersPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UIplayers.addButton("lvl up", 10, "#ffffff", "#ff080888", "#000000", this.GoToTabName, {tab : 'Player', player : p}, VILLAGE_UI_FONT_BUTTON, undefined, () => {return "go to player tab for lvl up"}, "ff") 
+                        pageVertiElm++
+                    }
+
+
+                    //the bat where the player is
+                    var batp = world.village.getBatFromPlayer(p)
+                    if (batp) {
+                        var playerBat = [{
+                            type : "txt",
+                            txt : batp.name,
+                            txt_color : this.batSelected == batp ? '#888888' : "#000000",
+                            max_letters : 9999,
+                            letter_size : 15,
+                            txt_font : VILLAGE_UI_FONT_BUILDINGNAME
+                        },{
+                            type : "img",
+                            img : world.Imgs[batp.imgIcon].img,
+                            len_x : 20,
+                            len_y : 20,
+                        }]
+                        if (village.phase == PHASE_PLACEPLAYER)
+                            playerBat.push({
+                                type : "button",
+                                mouseLight : "88",
+                                callback : world.village.removePlayerFromBat,
+                                callback_data : {player : p},
+                                txt : " leave ",
+                                txt_color : "#000000",
+                                max_letters : 9999,
+                                letter_size : 10,
+                                txt_font : VILLAGE_UI_FONT_PLAYERNAME,
+                                fillColor : "#ff0000"
+                            })
+                        if (pageVertiElm >= this.playersPageOffset.value && pageVertiElm <  this.playersPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UIplayers.addHorizontalElem(playerBat)
+                        pageVertiElm++
+                    }
+                    //buton under players name
+                    var elm = []
+
+                    if (village.phase == PHASE_PLACEPLAYER && this.batSelected && this.tabs[this.activeTabId] == "building"
+                            && this.batSelected.player_size && !this.batSelected.players_inside.find(a => a == p) && !batp && !this.batBuildMenu && this.batSelected.players_inside.length < this.batSelected.player_size)
+                        elm.push({
+                            type : "button",
+                            mouseLight : "88",
+                            callback : world.village.affectPlayerToBat,
+                            callback_data : {
+                                player : p,
+                                bat : this.batSelected
+                            },
+                            txt : "add to building",
+                            txt_color : "#000000",
+                            max_letters : 9999,
+                            letter_size : 20,
+                            txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                            fillColor : VILLAGE_UI_BUTTON_FILLCOLOR
+                        })
+                    if (elm.length) {
+                        if (pageVertiElm >= this.playersPageOffset.value && pageVertiElm <  this.playersPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                            this.UIplayers.addHorizontalElem(elm)
+                        pageVertiElm++
+                    }
+                    if (this.tabs[this.activeTabId] == "Items") {
+                        
+                        if (this.playerSelected == p) {
+                            if (village.phase == PHASE_PLACEPLAYER && p.weapon) {
+                                if (pageVertiElm >= this.playersPageOffset.value && pageVertiElm <  this.playersPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                                    this.UIplayers.addButton("unequip weapon", 20, '#000000', VILLAGE_UI_BUTTON_FILLCOLOR, '#000000', p.unequipWeapon, undefined, VILLAGE_UI_FONT_BUTTON_2, undefined, undefined, "88")
+                                pageVertiElm++
+                            }
+                            if (village.phase == PHASE_PLACEPLAYER && p.armor) {
+                                if (pageVertiElm >= this.playersPageOffset.value && pageVertiElm <  this.playersPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                                    this.UIplayers.addButton("unequip armor", 20, '#000000', VILLAGE_UI_BUTTON_FILLCOLOR, '#000000', p.unequipArmor, undefined, VILLAGE_UI_FONT_BUTTON_2, undefined, undefined, "88")
+                                pageVertiElm++
+                            }    
+                            if (village.phase == PHASE_PLACEPLAYER && this.itemSelected && this.itemSelected.itemType == "weapon") {
+                                if (pageVertiElm >= this.playersPageOffset.value && pageVertiElm <  this.playersPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                                    this.UIplayers.addButton("equip weapon", 20, '#000000', VILLAGE_UI_BUTTON_FILLCOLOR, '#000000', p.equipWeapon, {weapon : this.itemSelected}, VILLAGE_UI_FONT_BUTTON_2, undefined, undefined, "88")
+                                pageVertiElm++
+                            }
+                            if (village.phase == PHASE_PLACEPLAYER && this.itemSelected && this.itemSelected.itemType == "armor") {
+                                if (pageVertiElm >= this.playersPageOffset.value && pageVertiElm < this.playersPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                                    this.UIplayers.addButton("equip armor", 20, '#000000', VILLAGE_UI_BUTTON_FILLCOLOR, '#000000', p.equipArmor, {armor : this.itemSelected}, VILLAGE_UI_FONT_BUTTON_2, undefined, undefined, "88")
+                                pageVertiElm++
+                            }
+                        }
+                    }
+                }
+            }
+            if (this.playerInfoMenu) {
+                if (pageVertiElm >= this.playersPageOffset.value && pageVertiElm <  this.playersPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                    this.UIplayers.addTextZone(this.playerInfoMenu.getVillageUItext(), 40, 9999, '#000000', VILLAGE_UI_FONT)
+                pageVertiElm++
+            }
+        }
+        this.UIplayers.drawUI()
+    }
+
+    this.draw_newTurnPhase = () => {
+        var village = world.village
+        var txt = "New Turn ! "
+        txt += world.village.getDateText()
+        if (village.foodconsumedLastTurn)
+            txt += "\nYour village consumed " + village.foodconsumedLastTurn + " food last week"
+        for (var z in village.players) {
+            var p = village.players
+            if (p.lvlup)
+                txt += "\n" + p.name + " can lvl up"
+        }
+        this.UI.addTextZone(txt, 30, 9999, '#000000', VILLAGE_UI_FONT)
+        this.UI.addHorizontalElem([this.GetNextTurnButton(false, false, "Start Turn")])
+    }
+
+    this.draw_battlePhase = () => {
+        var village = world.village
+        if (village.battle)
+            this.UI.addTextZone("Your Village is attacked !!", 40, 9999, '#000000', VILLAGE_UI_FONT)
+        else
+            this.UI.addTextZone("Your village is safe\nYou can start next turn", 40, 9999, '#000000', VILLAGE_UI_FONT)
+        this.UI.addHorizontalElem([this.GetNextTurnButton(false, false, village.battle ? "Start Battle" : "Next Turn")])
+    }
+
+    this.draw_ItemsTab = () => {
+        var village = world.village
+
+        this.UI.addHorizontalElem(this.GetPageSelector({selector : this.itemsPageOffset}))
+        var pageVertiElm = 0
+
+        if (village.phase != PHASE_PLACEPLAYER)
+            this.UI.addTextZone("you can only equip weapon during Phase 1", 20, 9999, '#ff0000', VILLAGE_UI_FONT)
+        if (!village.Items.length)
+            this.UI.addTextZone("you don't have any weapon in your village", 20, 9999, '#000000', VILLAGE_UI_FONT)
+        for (var z in village.Items) {
+            var wp = village.Items[z]
+            if (pageVertiElm >= this.itemsPageOffset.value && pageVertiElm <  this.itemsPageOffset.value + VILLAGE_UI_MAX_TAB_ELM_DRAW)
+                this.UI.addHorizontalElem(this.getItemIcone(wp, 20))
+            pageVertiElm++
+        }
+    }
+
+
+
+    this.draw_NextTurnTab = () => {
+        var village = world.village
+        switch (village.phase) {
+            case PHASE_PLACEPLAYER :
+                this.UI.addTextZone(world.village.getDateText(), 20, 9999, '#000000', VILLAGE_UI_FONT)
+                var txt = "  During Phase 1, you can"
+                txt += "\n-equip items"
+                txt += "\n-affect players to a building"
+                txt += "\n-start the construction of new building"
+                txt += "\n\nbefore start Phase 2, you must affect at least 1 player to 'Defend Village'"
+                this.UI.addTextZone(txt, 20, 9999, '#000000', VILLAGE_UI_FONT)
+                var endTurnButon = [
+                    this.GetNextTurnButton(true, this.warningEndTurnMessage.length, "Start Phase 2")
+                ]
+                this.UI.addHorizontalElem(endTurnButon)
+                if (this.warningEndTurnMessage.length) {
+                    for (var w in this.warningEndTurnMessage) {
+                        var elms = []
+                        elms.push({
+                            type : "txt",
+                            txt : this.warningEndTurnMessage[w].txt,
+                            txt_color : "#000000",
+                            max_letters : 9999,
+                            letter_size : 20,
+                            txt_font : VILLAGE_UI_FONT
+                        })
+                        if (this.warningEndTurnMessage[w].player || this.warningEndTurnMessage[w].bat || this.warningEndTurnMessage[w].tab) {
+                            elms.push({
+                                type : "button",
+                                callback : this.GoToTabName,
+                                callback_data : this.warningEndTurnMessage[w],
+                                txt : "look",
+                                txt_color : "#000000",
+                                mouseLight : "88",
+                                max_letters : 9999,
+                                letter_size : 20,
+                                txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                                fillColor : VILLAGE_UI_BUTTON_FILLCOLOR,
+                                strokeColor : "#000000",
+                                windowInfo : [{
+                                    callback : () => {return ("page up")},
+                                }]
+                            })
+                        }
+                        this.UI.addHorizontalElem(elms)
+                    }
+                }
+                break
+            case PHASE_ACTIONPLAYER :
+                this.UI.addTextZone(world.village.getDateText(), 20, 9999, '#000000', VILLAGE_UI_FONT)
+                var txt = "  During Phase 2, players can spend Action Point for work in their affected building"
+                txt += "\n-recolt resource in the forest"
+                txt += "\n-progress on the construction of new buildings"
+                txt += "\n-craft weapons and armors"
+                txt += "\n\nDuring this Phase, you can NOT change equipment or players affected building"
+                this.UI.addTextZone(txt, 20, 9999, '#000000', VILLAGE_UI_FONT)
+
+                //end turn
+                var endTurnButon = [
+                    this.GetNextTurnButton(true, this.warningEndTurnMessage.length, "End Turn")
+                ]
+                if (this.warningEndTurnMessage.length)
+                    endTurnButon.push(this.GetNextTurnButton(false, this.warningEndTurnMessage.length, "Force End Turn"))
+                this.UI.addHorizontalElem(endTurnButon)
+                if (this.warningEndTurnMessage.length) {
+                    for (var w in this.warningEndTurnMessage) {
+                        var elms = []
+                        elms.push({
+                            type : "txt",
+                            txt : this.warningEndTurnMessage[w].txt,
+                            txt_color : "#000000",
+                            max_letters : 9999,
+                            letter_size : 20,
+                            txt_font : VILLAGE_UI_FONT
+                        })
+                        if (this.warningEndTurnMessage[w].player || this.warningEndTurnMessage[w].bat || this.warningEndTurnMessage[w].tab) {
+                            elms.push({
+                                type : "button",
+                                callback : this.GoToTabName,
+                                callback_data : this.warningEndTurnMessage[w],
+                                txt : "look",
+                                txt_color : "#000000",
+                                mouseLight : "88",
+                                max_letters : 9999,
+                                letter_size : 20,
+                                txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                                fillColor : VILLAGE_UI_BUTTON_FILLCOLOR,
+                                strokeColor : "#000000",
+                                windowInfo : [{
+                                    callback : () => {return ("page up")},
+                                }]
+                            })
+                        }
+                        this.UI.addHorizontalElem(elms)
+                    }
+                }
+                break
+        }
+    }
+
+    this.draw_playerTab = () => {
+        var village = world.village
+        if (!this.playerSelected)
+            return this.UI.addTextZone("No player selected", VILLAGE_UI_LETTER_SIZE, 9999, '#000000', VILLAGE_UI_FONT)
+        var p = this.playerSelected
+
+        var elm = this.getPlayerIcone(p, 80)
+        this.UI.addHorizontalElem(elm)
+        
+        var batp = world.village.getBatFromPlayer(p)
+        if (batp) {
+            var playerBat = [{
+                type : "txt",
+                txt : batp.name,
+                txt_color : this.batSelected == batp ? '#888888' : "#000000",
+                max_letters : 9999,
+                letter_size : 25,
+                txt_font : VILLAGE_UI_FONT_BUILDINGNAME
+            },{
+                type : "img",
+                img : world.Imgs[batp.imgIcon].img,
+                len_x : 25,
+                len_y : 25,
+            }]
+            if (village.phase == PHASE_PLACEPLAYER)
+                playerBat.push({
+                    type : "button",
+                    mouseLight : "88",
+                    callback : world.village.removePlayerFromBat,
+                    callback_data : {player : p},
+                    txt : " leave ",
+                    txt_color : "#000000",
+                    max_letters : 9999,
+                    letter_size : 10,
+                    txt_font : VILLAGE_UI_FONT_PLAYERNAME,
+                    fillColor : "#ff0000"
+                })
+            this.UI.addHorizontalElem(playerBat)
+
+        }
+
+        if (!p.weapon)
+            this.UI.addTextZone("no weapon equiped", 20, 9998, "#555555", VILLAGE_UI_FONT)
+        else {
+            var elms = this.getItemIcone(p.weapon, 30, true)
+            if (village.phase == PHASE_PLACEPLAYER)
+                elms.push({
+                    type : "button",
+                    callback : p.unequipWeapon,
+                    callback_data : undefined,
+                    txt : " x ",
+                    txt_color : "#000000",
+                    mouseLight : "88",
+                    max_letters : 9999,
+                    letter_size : 20,
+                    txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                    fillColor : "#ff0000",
+                    strokeColor : "#000000",
+                    windowInfo : [{
+                        callback : () => {return ("unequip weapon")},
+                    }]
+                })
+            this.UI.addHorizontalElem(elms)
+        }
+        if (!p.armor)
+            this.UI.addTextZone("no armor equiped", 20, 9998, "#555555", VILLAGE_UI_FONT)
+        else {
+            var elms = this.getItemIcone(p.armor, 30, true)
+            if (village.phase == PHASE_PLACEPLAYER)
+                elms.push({
+                    type : "button",
+                    callback : p.unequipArmor,
+                    callback_data : undefined,
+                    txt : " x ",
+                    txt_color : "#000000",
+                    mouseLight : "88",
+                    max_letters : 9999,
+                    letter_size : 20,
+                    txt_font : VILLAGE_UI_FONT_BUTTON_2,
+                    fillColor : "#ff0000",
+                    strokeColor : "#000000",
+                    windowInfo : [{
+                        callback : () => {return ("unequip armor")},
+                    }]
+                })
+            this.UI.addHorizontalElem(elms)
+        }
+
+        if (p.lvlup && p.lvlupList && p.lvlupList.length > 0) {
+            for (var z in p.lvlupList) {
+                var elm = p.lvlupList[z]
+                this.UI.addButton(elm.stat + " " + elm.value, 40, '#000000', "#00ff00", "#000000", p.ApplyListPerkUp, elm, VILLAGE_UI_FONT_BUTTON, undefined, undefined, "ff")
+            }
+        }
+        else if (p.lvlup) {
+            this.UI.addButton("Lvl up +1", 60, '#000000', "#ffff00", "#000000", p.getLvlUpPerkList, undefined, VILLAGE_UI_FONT_BUTTON, undefined, undefined, "ff")
+        }
+
+        elm = []
+        var txt = " Action Point Max (Battle) " + p.ActionPointMax
+        txt += "\nLife Max : " + p.lifeMax ,
+        txt += "\nSpeed : " + p.speed
+        txt += "\nMove AP cost " + p.movePCost
+        for (var z in p.stats)
+            txt += "\n" + z + " " + p.stats[z]
+        elm.push({
+            type : "txt",
+            txt : txt,
+            txt_color : "#000000",
+            max_letters : 9999,
+            letter_size : 20,
+            txt_font : VILLAGE_UI_FONT
+        })
+        var txt2 = " Action Point (Village) " + p.villageActionPoint + "/" + p.villageActionPointMax
+        txt2 += "\nLvl : " + p.lvl
+        txt2 += "\nSurvived " + p.age + " weeks"
+        elm.push({
+            type : "txt",
+            txt : txt2,
+            txt_color : "#000000",
+            max_letters : 9999,
+            letter_size : 20,
+            txt_font : VILLAGE_UI_FONT
+        })
+        this.UI.addHorizontalElem(elm)
+
+    }
+
+    this.draw_resource_tab = () => {
+        var village = world.village
+        for (var z in village.resources) {
+            var res = []
+            var r = village.resources[z]
+            if (r == undefined)
+                continue
+            res.push({
+                type : "txt",
+                txt : z,
+                txt_color : "#000000",
+                max_letters : 9999,
+                letter_size : 20,
+                txt_font : VILLAGE_UI_FONT
+            })
+            res.push({
+                type : "img",
+                img : world.Imgs[z + "_icon"].img,
+                len_x : 20,
+                len_y : 20,
+            })
+            res.push({
+                type : "txt",
+                txt : " " + r,
+                txt_color : "#000000",
+                max_letters : 9999,
+                letter_size : 20,
+                txt_font : VILLAGE_UI_FONT
+            })
+            this.UI.addHorizontalElem(res)
+        }
+    }
+
+    this.draw_tab_selector = () => {
+        var tabsUI = []
+        tabsUI.push({
+            type : "button",
+            mouseLight : "88",
+            callback : () => {this.activeTabId = this.activeTabId - 1 >= 0 ? this.activeTabId - 1 : this.tabs.length - 1},
+            txt : "<",
+            txt_color : VILLAGE_UI_TABS_TXTCOLOR,
+            max_letters : 9999,
+            letter_size : 40,
+            txt_font : VILLAGE_UI_TABS_FONT,
+            fillColor : VILLAGE_UI_TABS_FILLCOLOR
+        })
+        tabsUI.push({
+            type : "button",
+            mouseLight : "88",
+            callback : () => {this.activeTabId = this.activeTabId + 1 < this.tabs.length ? this.activeTabId + 1 : 0},
+            txt : ">",
+            txt_color : VILLAGE_UI_TABS_TXTCOLOR,
+            max_letters : 9999,
+            letter_size : 40,
+            txt_font : VILLAGE_UI_TABS_FONT,
+            fillColor : VILLAGE_UI_TABS_FILLCOLOR
+        })
+        tabsUI.push({
+            type : "button",
+            mouseLight : "ff",
+            callback : () => {this.activeTabId = undefined},
+            callback_data : undefined,
+            txt : this.tabs[this.activeTabId],
+            txt_color : VILLAGE_UI_TABS_TXTCOLOR,
+            max_letters : 9999,
+            letter_size : 40,
+            txt_font : VILLAGE_UI_TABS_FONT,
+            fillColor : VILLAGE_UI_TABS_FILLCOLOR,
+        })
+        this.UI.addHorizontalElem(tabsUI)
+    }
+
+    this.draw_UI_EventMessage = () => {
+        var village = world.village
+        this.UIsystem = new MyUI(this.canvas, this.UIplayers.lenx + this.UI.lenx, 0, 10, this.scale, this.background, this.stroke, this.marge)
+
+        this.UIsystem.addTextZone("Events", 40, 9999, '#000000', VILLAGE_UI_FONT_PHASE)
+        this.UIsystem.addHorizontalElem([
+            {
+                type : "button",
+                mouseLight : "88",
+                callback : () => {this.eventPage = this.eventPage > 0 ? this.eventPage - 1 : this.eventPage},
+                txt : "∧",
+                txt_color : "#ff0000",
+                max_letters : 9999,
+                letter_size : 20,
+                txt_font : VILLAGE_UI_FONT_BUTTON,
+                fillColor : '#55aaaa'
+            },{
+                type : "button",
+                mouseLight : "88",
+                callback : () => {this.eventPage = this.eventPage < village.MessageSystem.msg.length - 1 ? this.eventPage + 1 : this.eventPage},
+                txt : "∨", 
+                txt_color : "#ff0000",
+                max_letters : 9999,
+                letter_size : 20,
+                txt_font : VILLAGE_UI_FONT_BUTTON,
+                fillColor : '#55aaaa'
+        }])
+
+        var msgs = village.MessageSystem.getMessageSystem({page : this.eventPage})
+        for (var y in msgs) {
+            var z = msgs.length - y - 1
+            var color = "#000000"
+            switch (msgs[z].type) {  
+                case "job" : 
+                    color = "#006400"
+                    break 
+                case "building" :
+                    color = "#a52a2a"
+                    break
+                case "player" : 
+                    color = "#0000ff"
+                    break                    
+                default : 
+                    color = '#000000'
+                    break
+            }
+            if (msgs[z].type == "resource")
+                this.UIsystem.addHorizontalElem(this.getResourcesTextAndImg(msgs[z].txt, 20))
+            else
+                this.UIsystem.addTextZone(msgs[z].txt, 20, 9999, color, VILLAGE_UI_FONT)
+        }
+        this.UIsystem.drawUI()
+    }
+
+    this.drawVillageUI = () => {
+        if (!world.village)
+            return
+        var village = world.village
+        this.needRedraw = false
+        this.canvas.GetCanvasPos()
+        this.canvas.cleanCanvas()
+        
+        this.draw_villagePlayerUi()
+
+        this.UI = new MyUI(this.canvas, this.UIplayers.lenx, 0, 10, this.scale, this.background, this.stroke, this.marge)
+        if (!this.showUI)
+            this.UI.addButton("Menu", 40, '#000000', "#00000000", "#00000000", () => {this.showUI = !(this.showUI)}, undefined, VILLAGE_UI_FONT_PHASE)
+        else if (this.showUI) {
+            switch (village.phase) {
+                case PHASE_PLACEPLAYER :
+                    this.UI.addButton("Phase 1 : Place Players", 40, '#000000', "#00000000", "#00000000", () => {this.showUI = !(this.showUI)}, undefined, VILLAGE_UI_FONT_PHASE)
+                    break
+                case PHASE_ACTIONPLAYER :
+                    this.UI.addButton("Phase 2 : Action Players", 40, '#000000', "#00000000", "#00000000", () => {this.showUI = !(this.showUI)}, undefined, VILLAGE_UI_FONT_PHASE)
+                    break
+            }
+            if (this.activeTabId === undefined) {
+                for (var z in this.tabs) {
+                    var tabsUI = []
+                    tabsUI.push({
+                        type : "button",
+                        mouseLight : "ff",
+                        callback : (z) => {this.activeTabId = parseInt(z)},
+                        callback_data : z,
+                        txt : this.tabs[z],
+                        txt_color : VILLAGE_UI_TABS_TXTCOLOR,
+                        max_letters : 9999,
+                        letter_size : 40,
+                        txt_font : VILLAGE_UI_TABS_FONT,
+                        fillColor : VILLAGE_UI_TABS_FILLCOLOR,
+                    })
+                    this.UI.addHorizontalElem(tabsUI)
+                }
+            }
+            else if (village.phase == PHASE_NEWTURN)
+                this.draw_newTurnPhase()
+            else if (village.phase == PHASE_COMBAT)
+                this.draw_battlePhase()
+            else {
+                this.draw_tab_selector()
+                switch (this.tabs[this.activeTabId]) {
+                    case 'Next Turn' :
+                        this.draw_NextTurnTab()
+                        break
+                    case 'building':
+                        this.draw_building_tab()
+                        break
+                    case 'craft':
+                        this.draw_craft_menu()
+                        break
+                    case 'resource':
+                        this.draw_resource_tab()
+                        break
+                    case 'Items':
+                        this.draw_ItemsTab()
+                        break
+                    case 'Player':
+                        this.draw_playerTab()
+                        break
+                }
+            }
+        }
+        
+        this.UI.drawUI()
+
+        this.draw_UI_EventMessage()
+
+        this.CheckInfoWindow(false)
+    }
+
+
+
+}
+var IMG_TO_LOAD = [
+    ["player_test3/village/resource", "food_icon"],
+    ["player_test3/village/resource", "wood_icon"],
+    ["player_test3/village/resource", "stone_icon"],
+    ["player_test3/village/resource", "coal_icon"],
+    ["player_test3/village/resource", "woodplank_icon"],
+
+    ["player_test3/village/building", "forest_icon"],
+    ["player_test3/village/building", "defend_village_icon"],
+    ["player_test3/village/building", "workshop_icon"],
+    ["player_test3/village/building", "Houses"],
+    ["player_test3/village/building", "Mine"],
+    ["player_test3/village/building", "bow_workshop_icon"],
+    ["player_test3/village/building", "sawmill"],
+
+    ["player_test3/village/resource", "villageAP_icon"],
+    ["player_test3/village/resource", "under_construction_icon"],
+]
+
+var id = 0;
+
+
+
+World = function (Screen) {
+    this.Screen = Screen
+    this.Music = new SoundManager()
+    this.Imgs = []
+    
+    this.initVillage = () => {
+        this.village = new Village({})
+        this.village.generateBasicVillage()
+        this.villageUI = new VillageUI(this.Screen.canList["GameUI"])
+    }
+
+    this.loadImg = () => {
+        for (var z in IMG_TO_LOAD) {
+            var name = IMG_TO_LOAD[z][1]
+            var src = IMG_TO_LOAD[z][0]
+            this.Imgs[name] = new myImage(name, "./img/" + src + "/" + name + ".png")
+        }
+    }
+
+    this.init = () => {
+        this.Controler = new ControlManager()
+
+        new PlayersManager().loadPlayerDefaultImgs()    // -> world.playerDefaultImgs = players.playerDefaultImgs
+        this.Imgs = {...world.playerDefaultImgs}
+        this.loadImg()
+        //this.GameUI = new GameUI(this.Screen.canList["GameUI"])
+        this.initVillage()
+    }
+
+
+    /*
+    this.CreateBattleMap = (input) => {
+        var x = input.x ? input.x : 10
+        this.map = new BattleMap(x, 20)
+        this.map.initImgs()
+        this.map.generateMap()
+
+        this.players = new PlayersManager()
+        this.players.loadPlayerDefaultImgs()
+        this.players.canvasPUI = this.Screen.canList["mapUI"]
+        this.players.canvasPlayer = this.Screen.canList["players"]
+
+        TEAM_HUMAN_COLOR = {
+            r : Math.floor(Math.random() * 256),
+            g : Math.floor(Math.random() * 256),
+            b : Math.floor(Math.random() * 256),
+        }
+        TEAM_AI_COLOR = {
+            r : 255 - TEAM_HUMAN_COLOR.r,
+            g : 255 - TEAM_HUMAN_COLOR.g,
+            b : 255 - TEAM_HUMAN_COLOR.b,
+        }
+
+        for (var y = 6; y < 15; y += 2) {
+            this.players.createPlayer({x : 4, y : y, size : 1, team : TEAM_HUMAN, color : TEAM_HUMAN_COLOR})
+        }
+        for (var y = 6; y < 15; y += 2) {
+            this.players.createPlayer({x : this.map.width - 5, y : y, size : 1, team : TEAM_AI, color : TEAM_AI_COLOR})
+        }
+        this.map.generateRandomElement()
+
+    }
+    */
+    this.create_random_enemy_on_map = (t_factor) => {
+        if (!this.map)
+            return undefined
+        var check = 100
+        while (check-- > 1) {
+            var x = 1 + Math.floor(this.map.width * (0.5 + 0.5 * Math.random()))
+            var y = 1 + Math.floor(this.map.height * Math.random())
+            var enemy = this.players.createPlayer({
+                x : x,
+                y : y,
+                size : 1,
+                team : TEAM_AI,
+                color : TEAM_AI_COLOR
+            })
+            if (enemy) {
+                console.log("creating an enemy in " + [x, y])
+                check = 0
+            }
+        }
+        if (!enemy)
+            return undefined
+        enemy.lifeMax = 20 + t_factor * 4
+        enemy.life = enemy.lifeMax
+        enemy.stats.Strength = 5 + t_factor
+        enemy.stats.Dexterity = 5 + t_factor
+        enemy.speed = 80 + t_factor * 1 + Math.floor(Math.random() * 80)
+        enemy.ActionPointMax = 50 + Math.floor(Math.random() * 100) + t_factor
+        enemy.ActionPoint = enemy.ActionPointMax
+        enemy.movePCost = 20 - 15 + Math.floor(Math.random() * 31) - t_factor
+        if (enemy.movePCost < 5)
+            enemy.movePCost = 5
+
+
+        //Weapon
+        var getWP = undefined
+        var rand = Math.floor(Math.random() * 100)
+        if (t_factor < 5)
+            getWP = undefined
+        else if (rand + t_factor * 2 > 80)
+            getWP = new Weapon().createRandomWeapon()
+        enemy.weapon = getWP
+
+        //Armor
+        var getArm = undefined
+        var rand = Math.floor(Math.random() * 100)
+        if (t_factor < 5)
+            getArm = undefined
+        else if (rand + t_factor * 2 > 80)
+            getArm = new Armor().createRandomArmor()
+        enemy.armor = getArm
+
+        enemy.generateCapacity()
+        console.log("enemy created succesfully")
+        return enemy
+    }
+
+    this.CreateBattleMapFromVillagePlayer_test = (players, turn, boss) => {
+        
+        this.map = new BattleMap(25, 6 + 2 * players.length)
+        this.map.initImgs()
+        this.map.generateMap()
+
+        this.players = new PlayersManager()
+        this.players.loadPlayerDefaultImgs()
+        this.players = this.players
+        this.players.canvasPUI = this.Screen.canList["mapUI"]
+        this.players.canvasPlayer = this.Screen.canList["players"]
+
+        TEAM_AI_COLOR = {
+            r : 120,
+            g : 120,
+            b : 120,
+        }
+
+        var y = 3
+        for (var z in players) {
+            var p = players[z]
+            this.players.createPlayerFromVillage({x : 3, y : y, player : p})
+            y += 2
+        }
+        for (var i = 0; i < 100; i++) {
+            if (boss) {
+                this.create_random_enemy_on_map(turn * 3)
+                break
+            }
+            if (i == 0 || i == 1) {
+                this.create_random_enemy_on_map(turn)
+                continue
+            }
+            else if (turn > 5 && i > 90 && Math.floor(Math.random() * (100 + turn)) < turn)
+                this.create_random_enemy_on_map(turn)
+            else if (turn > 20 && i > 80 && Math.floor(Math.random() * (200 + turn)) < turn)
+                this.create_random_enemy_on_map(turn)
+            else if (turn > 50 && i > 70 && Math.floor(Math.random() * (400 + turn)) < turn)
+                this.create_random_enemy_on_map(turn)
+            else if (turn > 100 && i > 50 && Math.floor(Math.random() * (800 + turn)) < turn)
+                this.create_random_enemy_on_map(turn)
+        }
+        this.map.generateRandomElement()
+    }
+
+    this.needRedraw = () => {
+        if (this.map)
+            this.map.needRedraw = true
+        if (this.GameUI)    
+            this.GameUI.needRedraw = true
+        if (this.villageUI)
+            this.villageUI.needRedraw = true
+    }
+}
+
+PLAYER_ID = 1000        //each player have a unic id
+
+//prevent menu to open when right click pressed
+document.oncontextmenu = rightClick;  
+function rightClick(clickEvent) {
+    clickEvent.preventDefault();
+}
+
+
+
+
+window.onload = function() {
+
+    const Screen = new CanvasManager()
+    Screen.addCanvas("mapFloor", 0)
+    Screen.addCanvas("players", 1)
+    Screen.addCanvas("mapTopElem", 2)
+    Screen.addCanvas("mapUI", 3)
+    Screen.addCanvas("GameUI", 4)
+
+    world = new World(Screen)
+    world.init()
+    //world.CreateBattleMap()
+
+    var lastTime = new Date().getTime()
+
+
+
+    setInterval(() => {
+        if (!world || !world.Controler)
+            return
+        var now = new Date().getTime()
+        if (world.GameUI)
+            world.GameUI.fps = Math.floor(1000 /(now - lastTime))
+        lastTime = now
+
+        if (world.players && world.players.Playerturn && world.players.Playerturn.team == TEAM_AI && !world.players.Playerturn.AI.turnFinished) {
+            var test = world.players.playerList.find(a => a.animation.length > 0)
+            if (!test) {
+                test = world.players.Playerturn.playAIturn()
+                console.log("test turn finished : " + test)
+                if (test)
+                    world.players.Playerturn.AI.turnFinished = true
+            }
+                
+        }
+        world.Controler.CheckControlInput()
+
+        if (world.map && world.map.needRedraw) {
+            Screen.canList["mapFloor"].GetCanvasPos()
+            Screen.canList["mapFloor"].cleanCanvas()
+            Screen.canList["mapTopElem"].GetCanvasPos()
+            Screen.canList["mapTopElem"].cleanCanvas()
+            world.map.set_drawing_map(Screen.canList["mapFloor"].canvas)
+            world.map.draw_map(Screen.canList["mapFloor"], Screen.canList["mapTopElem"], Screen.canList["mapUI"])            
+        }
+        if (world.players) {
+            Screen.canList["players"].GetCanvasPos()
+            Screen.canList["players"].cleanCanvas()
+            
+            world.players.drawPlayers()
+            scale_changed = false
+        }
+        if (world.GameUI) {
+            world.GameUI.CheckInfoWindow(false)
+            if (world.GameUI.needRedraw) {
+                world.GameUI.drawGameUI()
+            }
+        }
+        if (world.villageUI) {
+            world.villageUI.CheckInfoWindow(false)
+            if (world.villageUI.needRedraw) {
+                world.villageUI.drawVillageUI()
+                console.log("redraw village UI")
+            }
+        }
+    }, 20);
+    
+}
