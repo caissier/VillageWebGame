@@ -1,0 +1,23 @@
+13/02
+
+-in build tab
+--added a sort button
+--during action phase, hide player name if not enought PA left for actions && building not selected
+--show places of building only if building selected
+
+-Next turn tab
+--warning message don't show if a player have PA left, but not enought for do an action
+
+-New weapon : Stone Pickaxe
+
+-Weapon have now Bonus
+--stone axe : Forest -> gather more wood
+--Stone Pickaxe : Mine -> gather coal
+
+-added "lvlup" buton in player left tab, opening the main player tab
+--LvLup always give 3 perk in list
+
+
+
+
+
