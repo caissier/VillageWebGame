@@ -19,24 +19,5 @@
 
 
 
-14.02
-
-Resources :
--added rawCopper
--added metalCopper
-
-Building :
--added Smelter : smelt raw_copper into copper (consume coal)
--Mine : if equiped with picaxe, can recolt copper
--added Forge
-
-Players can now upprade some weapon in the forge
-
-Houses lvl 3 requiert wood plank, craftable in sawmill
-
-new weapons :
--Copper Cleaver, a Dexterity Slashing weapon
--Copper Hammer, a Strenght Smashing weapon, more chance to uppgrade in forge when equiped
-
 
 
